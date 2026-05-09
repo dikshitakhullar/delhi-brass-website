@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { Forum, Tenor_Sans } from "next/font/google";
 import "./globals.css";
+import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
 
 const forum = Forum({
   weight: "400",
@@ -30,7 +32,9 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${forum.variable} ${tenorSans.variable}`}>
       <body className="font-body bg-db-black text-db-ivory antialiased">
+        <Navbar />
         {children}
+        <Footer />
       </body>
     </html>
   );
