@@ -131,7 +131,7 @@ export default function Footer() {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-block px-6 py-2.5 text-white text-[10px] tracking-[2px] rounded-[4px] transition-opacity duration-300 hover:opacity-85"
-                style={{ background: "#25D366" }}
+                style={{ background: "#1c1916" }}
               >
                 WHATSAPP
               </a>

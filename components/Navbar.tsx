@@ -210,7 +210,7 @@ export default function Navbar() {
                 style={{
                   display: "inline-block",
                   padding: "12px 24px",
-                  background: "#25D366",
+                  background: "#dcc99b",
                   color: "#fff",
                   fontSize: 10,
                   letterSpacing: 2,

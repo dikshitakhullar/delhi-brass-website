@@ -112,7 +112,7 @@ function GateCard({ gate, onClick }: { gate: Gate; onClick: () => void }) {
             href={`https://wa.me/${WA}?text=${encodeURIComponent(`Hi, I'd like to enquire about the ${gate.name} gate.`)}`}
             target="_blank" rel="noopener noreferrer"
             onClick={(e) => e.stopPropagation()}
-            style={{ fontSize: 9, letterSpacing: 2, color: "#fff", background: "#25D366", padding: "6px 12px", borderRadius: 2, textDecoration: "none" }}
+            style={{ fontSize: 9, letterSpacing: 2, color: "#1c1916", background: "#dcc99b", padding: "6px 12px", borderRadius: 2, textDecoration: "none" }}
           >
             WHATSAPP
           </a>
@@ -170,7 +170,7 @@ function GateModal({ gate, onClose }: { gate: Gate; onClose: () => void }) {
             <a
               href={`https://wa.me/${WA}?text=${encodeURIComponent(`Hi, I'd like to enquire about the ${gate.name} gate design.`)}`}
               target="_blank" rel="noopener noreferrer"
-              style={{ padding: "14px 28px", background: "#25D366", color: "#fff", fontSize: 10, letterSpacing: 3, borderRadius: 2, textDecoration: "none" }}
+              style={{ padding: "14px 28px", background: "#1c1916", color: "#f5f0e8", fontSize: 10, letterSpacing: 3, borderRadius: 2, textDecoration: "none" }}
             >
               ENQUIRE ON WHATSAPP
             </a>

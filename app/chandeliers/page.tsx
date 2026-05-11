@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useRef } from "react";
+import { useState, useRef, useEffect, useCallback } from "react";
 import { motion, AnimatePresence, useInView } from "framer-motion";
 import Image from "next/image";
 import chandeliersData from "@/data/chandeliers.json";
@@ -29,12 +29,22 @@ const WA = "919810088181";
 
 export default function ChandeliersPage() {
   const [active, setActive] = useState("all");
-  const [selected, setSelected] = useState<Product | null>(null);
+  const [selectedIdx, setSelectedIdx] = useState<number | null>(null);
 
   const filtered =
     active === "all"
       ? chandeliersData
       : chandeliersData.filter((p) => p.collectionSlug === active);
+
+  const selectedProduct = selectedIdx !== null ? filtered[selectedIdx] : null;
+
+  const goNext = useCallback(() => {
+    if (selectedIdx !== null && selectedIdx < filtered.length - 1) setSelectedIdx(selectedIdx + 1);
+  }, [selectedIdx, filtered.length]);
+
+  const goPrev = useCallback(() => {
+    if (selectedIdx !== null && selectedIdx > 0) setSelectedIdx(selectedIdx - 1);
+  }, [selectedIdx]);
 
   return (
     <main style={{ background: "#f8f5f0", minHeight: "100vh" }}>
@@ -52,7 +62,7 @@ export default function ChandeliersPage() {
       <div style={{ position: "sticky", top: 64, zIndex: 30, background: "rgba(248,245,240,0.92)", backdropFilter: "blur(12px)", borderBottom: "1px solid rgba(180,160,130,0.12)", padding: "0 clamp(20px, 4vw, 60px)", overflowX: "auto" }} className="scrollbar-hide">
         <div style={{ display: "flex", gap: 4, padding: "12px 0", minWidth: "max-content" }}>
           {collections.map((col) => (
-            <button key={col.slug} onClick={() => setActive(col.slug)} style={{ padding: "8px 16px", fontSize: 10, letterSpacing: 2, whiteSpace: "nowrap", background: "none", border: "none", cursor: "pointer", fontFamily: "var(--font-tenor-sans), sans-serif", color: active === col.slug ? "#1a1a1a" : "#999", position: "relative", transition: "color 0.2s" }}>
+            <button key={col.slug} onClick={() => { setActive(col.slug); setSelectedIdx(null); }} style={{ padding: "8px 16px", fontSize: 10, letterSpacing: 2, whiteSpace: "nowrap", background: "none", border: "none", cursor: "pointer", fontFamily: "var(--font-tenor-sans), sans-serif", color: active === col.slug ? "#1a1a1a" : "#999", position: "relative", transition: "color 0.2s" }}>
               {col.name.toUpperCase()}
               {active === col.slug && (
                 <motion.div layoutId="tab" style={{ position: "absolute", bottom: 0, left: 8, right: 8, height: 1.5, background: "#1a1a1a", borderRadius: 1 }} transition={{ type: "spring", stiffness: 300, damping: 30 }} />
@@ -70,21 +80,30 @@ export default function ChandeliersPage() {
       {/* Grid */}
       <div style={{ padding: "0 clamp(20px, 4vw, 60px) clamp(60px, 8vw, 100px)", display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(280px, 1fr))", gap: "clamp(16px, 2vw, 28px)" }}>
         <AnimatePresence mode="popLayout">
-          {filtered.map((p) => (
-            <ProductCard key={p.id} product={p} onClick={() => setSelected(p)} />
+          {filtered.map((p, i) => (
+            <ProductCard key={p.id} product={p} onClick={() => setSelectedIdx(i)} />
           ))}
         </AnimatePresence>
       </div>
 
       {/* Modal */}
       <AnimatePresence>
-        {selected && <ProductModal product={selected} onClose={() => setSelected(null)} />}
+        {selectedProduct && selectedIdx !== null && (
+          <ProductModal
+            product={selectedProduct}
+            onClose={() => setSelectedIdx(null)}
+            onNext={selectedIdx < filtered.length - 1 ? goNext : undefined}
+            onPrev={selectedIdx > 0 ? goPrev : undefined}
+            current={selectedIdx + 1}
+            total={filtered.length}
+          />
+        )}
       </AnimatePresence>
     </main>
   );
 }
 
-/* ===== PRODUCT CARD — image swap on hover ===== */
+/* ===== PRODUCT CARD ===== */
 function ProductCard({ product, onClick }: { product: Product; onClick: () => void }) {
   const ref = useRef<HTMLDivElement>(null);
   const inView = useInView(ref, { once: true, margin: "-40px" });
@@ -104,24 +123,10 @@ function ProductCard({ product, onClick }: { product: Product; onClick: () => vo
       onClick={onClick}
     >
       <div style={{ position: "relative", aspectRatio: "3/4", borderRadius: 6, overflow: "hidden", background: "#ece6da" }}>
-        {/* Studio image (default) */}
-        <Image
-          src={product.images.studio}
-          alt={product.name}
-          fill
-          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-          style={{ objectFit: "contain", padding: 16, transition: "opacity 0.5s ease" , opacity: hovered ? 0 : 1 }}
-        />
-        {/* Lifestyle image (on hover) */}
-        <Image
-          src={product.images.lifestyle}
-          alt={`${product.name} in room`}
-          fill
-          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-          style={{ objectFit: "cover", transition: "opacity 0.5s ease", opacity: hovered ? 1 : 0 }}
-        />
+        <Image src={product.images.studio} alt={product.name} fill sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" style={{ objectFit: "contain", padding: 16, transition: "opacity 0.5s ease", opacity: hovered ? 0 : 1 }} />
+        <Image src={product.images.lifestyle} alt={`${product.name} in room`} fill sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw" style={{ objectFit: "cover", transition: "opacity 0.5s ease", opacity: hovered ? 1 : 0 }} />
 
-        {/* Bottom bar on hover */}
+        {/* Bottom bar */}
         <div style={{
           position: "absolute", bottom: 0, left: 0, right: 0,
           background: "rgba(28,25,22,0.85)", backdropFilter: "blur(4px)",
@@ -133,12 +138,11 @@ function ProductCard({ product, onClick }: { product: Product; onClick: () => vo
           <span style={{ fontSize: 10, letterSpacing: 2, color: "#f5f0e8" }}>QUICK VIEW</span>
           <a
             href={`https://wa.me/${WA}?text=${encodeURIComponent(`Hi, I'd like to enquire about the ${product.name} (${product.collection}).`)}`}
-            target="_blank"
-            rel="noopener noreferrer"
+            target="_blank" rel="noopener noreferrer"
             onClick={(e) => e.stopPropagation()}
-            style={{ fontSize: 9, letterSpacing: 2, color: "#fff", background: "#25D366", padding: "6px 12px", borderRadius: 2, textDecoration: "none" }}
+            style={{ fontSize: 9, letterSpacing: 2, color: "#1c1916", background: "#dcc99b", padding: "6px 12px", borderRadius: 2, textDecoration: "none" }}
           >
-            WHATSAPP
+            ENQUIRE
           </a>
         </div>
       </div>
@@ -152,8 +156,12 @@ function ProductCard({ product, onClick }: { product: Product; onClick: () => vo
   );
 }
 
-/* ===== PRODUCT MODAL — thumbnail carousel ===== */
-function ProductModal({ product, onClose }: { product: Product; onClose: () => void }) {
+/* ===== PRODUCT MODAL ===== */
+function ProductModal({ product, onClose, onNext, onPrev, current, total }: {
+  product: Product; onClose: () => void;
+  onNext?: () => void; onPrev?: () => void;
+  current: number; total: number;
+}) {
   const imageEntries = [
     { key: "studio", label: "Studio", src: product.images.studio, fit: "contain" as const },
     { key: "lifestyle", label: "Lifestyle", src: product.images.lifestyle, fit: "cover" as const },
@@ -162,92 +170,143 @@ function ProductModal({ product, onClose }: { product: Product; onClose: () => v
     { key: "detail", label: "Detail", src: product.images.detail, fit: "cover" as const },
   ];
 
-  const [activeIdx, setActiveIdx] = useState(0);
-  const active = imageEntries[activeIdx];
+  const [imgIdx, setImgIdx] = useState(0);
+  const img = imageEntries[imgIdx];
+
+  // Reset image index when product changes
+  useEffect(() => { setImgIdx(0); }, [product.id]);
+
+  // Keyboard navigation
+  useEffect(() => {
+    const handler = (e: KeyboardEvent) => {
+      if (e.key === "Escape") onClose();
+      if (e.key === "ArrowRight") {
+        if (imgIdx < imageEntries.length - 1) setImgIdx(imgIdx + 1);
+        else if (onNext) onNext();
+      }
+      if (e.key === "ArrowLeft") {
+        if (imgIdx > 0) setImgIdx(imgIdx - 1);
+        else if (onPrev) onPrev();
+      }
+    };
+    window.addEventListener("keydown", handler);
+    return () => window.removeEventListener("keydown", handler);
+  }, [imgIdx, imageEntries.length, onClose, onNext, onPrev]);
+
+  // Lock body scroll
+  useEffect(() => {
+    document.body.style.overflow = "hidden";
+    return () => { document.body.style.overflow = ""; };
+  }, []);
+
+  const arrowStyle: React.CSSProperties = {
+    position: "absolute", top: "50%", transform: "translateY(-50%)",
+    width: 40, height: 40, borderRadius: "50%",
+    background: "rgba(248,245,240,0.9)", border: "1px solid rgba(180,160,130,0.2)",
+    display: "flex", alignItems: "center", justifyContent: "center",
+    cursor: "pointer", fontSize: 18, color: "#2a2218", zIndex: 20,
+    backdropFilter: "blur(4px)",
+  };
 
   return (
-    <motion.div style={{ position: "fixed", inset: 0, zIndex: 50, display: "flex", alignItems: "center", justifyContent: "center", padding: "clamp(16px, 3vw, 32px)" }} initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
-      <div style={{ position: "absolute", inset: 0, background: "rgba(0,0,0,0.4)", backdropFilter: "blur(4px)" }} onClick={onClose} />
+    <motion.div
+      style={{ position: "fixed", inset: 0, zIndex: 60, display: "flex", alignItems: "center", justifyContent: "center" }}
+      initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}
+    >
+      {/* Backdrop — strong dim */}
+      <div style={{ position: "absolute", inset: 0, background: "rgba(10,8,6,0.7)", backdropFilter: "blur(8px)" }} onClick={onClose} />
 
+      {/* Prev/Next product arrows — outside the modal */}
+      {onPrev && (
+        <button onClick={onPrev} style={{ ...arrowStyle, left: "clamp(8px, 2vw, 24px)" }} aria-label="Previous product">
+          &#8249;
+        </button>
+      )}
+      {onNext && (
+        <button onClick={onNext} style={{ ...arrowStyle, right: "clamp(8px, 2vw, 24px)" }} aria-label="Next product">
+          &#8250;
+        </button>
+      )}
+
+      {/* Modal */}
       <motion.div
-        style={{ position: "relative", zIndex: 10, background: "#f8f5f0", borderRadius: 12, maxWidth: 960, width: "100%", maxHeight: "90vh", overflowY: "auto", display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(300px, 1fr))" }}
-        initial={{ scale: 0.95, y: 20 }}
-        animate={{ scale: 1, y: 0 }}
-        exit={{ scale: 0.95, y: 20 }}
-        transition={{ duration: 0.3 }}
+        style={{
+          position: "relative", zIndex: 10, background: "#f8f5f0", borderRadius: 12,
+          maxWidth: 880, width: "calc(100% - clamp(80px, 10vw, 120px))",
+          maxHeight: "85vh", overflowY: "auto",
+          display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))",
+          boxShadow: "0 24px 80px rgba(0,0,0,0.3)",
+        }}
+        initial={{ scale: 0.95, y: 20 }} animate={{ scale: 1, y: 0 }} exit={{ scale: 0.95, y: 20 }}
+        transition={{ duration: 0.25 }}
       >
-        {/* Close */}
-        <button onClick={onClose} aria-label="Close" style={{ position: "absolute", top: 16, right: 16, zIndex: 20, background: "none", border: "none", fontSize: 20, color: "#888", cursor: "pointer" }}>&#x2715;</button>
+        {/* Close + counter */}
+        <div style={{ position: "absolute", top: 16, right: 16, zIndex: 20, display: "flex", alignItems: "center", gap: 12 }}>
+          <span style={{ fontSize: 10, letterSpacing: 1, color: "#aaa" }}>{current} / {total}</span>
+          <button onClick={onClose} aria-label="Close" style={{ background: "rgba(248,245,240,0.9)", border: "1px solid rgba(180,160,130,0.2)", borderRadius: "50%", width: 32, height: 32, display: "flex", alignItems: "center", justifyContent: "center", fontSize: 14, color: "#2a2218", cursor: "pointer" }}>
+            &#x2715;
+          </button>
+        </div>
 
         {/* Left: Image + thumbnails */}
-        <div style={{ padding: "clamp(16px, 2vw, 24px)" }}>
-          {/* Main image */}
-          <div style={{ position: "relative", aspectRatio: "3/4", borderRadius: 8, overflow: "hidden", background: active.fit === "contain" ? "#ece6da" : "#1c1916" }}>
+        <div style={{ padding: "clamp(16px, 2vw, 24px)", position: "relative" }}>
+          {/* Main image with image arrows */}
+          <div style={{ position: "relative", aspectRatio: "3/4", borderRadius: 8, overflow: "hidden", background: img.fit === "contain" ? "#ece6da" : "#1c1916" }}>
             <AnimatePresence mode="wait">
-              <motion.div
-                key={active.key}
-                style={{ position: "absolute", inset: 0 }}
-                initial={{ opacity: 0 }}
-                animate={{ opacity: 1 }}
-                exit={{ opacity: 0 }}
-                transition={{ duration: 0.25 }}
-              >
-                <Image
-                  src={active.src}
-                  alt={`${product.name} — ${active.label}`}
-                  fill
-                  style={{ objectFit: active.fit, padding: active.fit === "contain" ? 20 : 0 }}
-                />
+              <motion.div key={`${product.id}-${img.key}`} style={{ position: "absolute", inset: 0 }} initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} transition={{ duration: 0.2 }}>
+                <Image src={img.src} alt={`${product.name} — ${img.label}`} fill style={{ objectFit: img.fit, padding: img.fit === "contain" ? 20 : 0 }} />
               </motion.div>
             </AnimatePresence>
+
+            {/* Image arrows */}
+            {imgIdx > 0 && (
+              <button onClick={() => setImgIdx(imgIdx - 1)} style={{ ...arrowStyle, left: 8, width: 32, height: 32, fontSize: 14 }} aria-label="Previous image">&#8249;</button>
+            )}
+            {imgIdx < imageEntries.length - 1 && (
+              <button onClick={() => setImgIdx(imgIdx + 1)} style={{ ...arrowStyle, right: 8, width: 32, height: 32, fontSize: 14 }} aria-label="Next image">&#8250;</button>
+            )}
+
+            {/* Image label */}
+            <div style={{ position: "absolute", bottom: 8, left: "50%", transform: "translateX(-50%)", background: "rgba(248,245,240,0.85)", borderRadius: 4, padding: "3px 10px", fontSize: 8, letterSpacing: 2, color: "#2a2218" }}>
+              {img.label.toUpperCase()} &middot; {imgIdx + 1}/{imageEntries.length}
+            </div>
           </div>
 
           {/* Thumbnails */}
-          <div style={{ display: "flex", gap: 8, marginTop: 12 }}>
-            {imageEntries.map((img, i) => (
-              <button
-                key={img.key}
-                onClick={() => setActiveIdx(i)}
-                style={{
-                  flex: 1, aspectRatio: "1", borderRadius: 4, overflow: "hidden",
-                  position: "relative", border: activeIdx === i ? "2px solid #2a2218" : "2px solid transparent",
-                  cursor: "pointer", background: "#ece6da", transition: "border-color 0.2s",
-                }}
-              >
-                <Image src={img.src} alt={img.label} fill style={{ objectFit: "cover" }} sizes="80px" />
-                <span style={{
-                  position: "absolute", bottom: 2, left: 0, right: 0, textAlign: "center",
-                  fontSize: 7, letterSpacing: 1, color: activeIdx === i ? "#2a2218" : "#999",
-                  background: "rgba(248,245,240,0.8)", padding: "2px 0",
-                }}>
-                  {img.label.toUpperCase()}
-                </span>
+          <div style={{ display: "flex", gap: 6, marginTop: 10 }}>
+            {imageEntries.map((entry, i) => (
+              <button key={entry.key} onClick={() => setImgIdx(i)} style={{
+                flex: 1, aspectRatio: "1", borderRadius: 4, overflow: "hidden",
+                position: "relative", border: imgIdx === i ? "2px solid #2a2218" : "2px solid transparent",
+                cursor: "pointer", background: "#ece6da", transition: "border-color 0.2s", padding: 0,
+              }}>
+                <Image src={entry.src} alt={entry.label} fill style={{ objectFit: "cover" }} sizes="60px" />
               </button>
             ))}
           </div>
         </div>
 
         {/* Right: Info */}
-        <div style={{ padding: "clamp(24px, 3vw, 48px)", display: "flex", flexDirection: "column", justifyContent: "center" }}>
+        <div style={{ padding: "clamp(24px, 3vw, 40px)", display: "flex", flexDirection: "column", justifyContent: "center" }}>
           <p style={{ fontSize: 10, letterSpacing: 3, color: "#8a7e6e", marginBottom: 8 }}>{product.collection.toUpperCase()}</p>
-          <h2 style={{ fontFamily: "var(--font-forum), serif", fontSize: "clamp(24px, 2.5vw, 36px)", fontWeight: 400, letterSpacing: 4, color: "#2a2218", marginBottom: 16 }}>{product.name}</h2>
-          <p style={{ fontSize: 14, color: "#6a6050", lineHeight: 1.7, marginBottom: 8 }}>
-            Handcrafted brass chandelier from our {product.collection} collection.
-            Each piece is made to order — custom sizes, finishes, and configurations available.
+          <h2 style={{ fontFamily: "var(--font-forum), serif", fontSize: "clamp(22px, 2.2vw, 32px)", fontWeight: 400, letterSpacing: 3, color: "#2a2218", marginBottom: 14 }}>{product.name}</h2>
+          <p style={{ fontSize: 13, color: "#6a6050", lineHeight: 1.7, marginBottom: 6 }}>
+            Handcrafted chandelier from our {product.collection} collection.
+            Made to order — custom sizes, finishes, and configurations available.
           </p>
-          <p style={{ fontSize: 13, color: "#aaa", fontStyle: "italic", marginBottom: 28 }}>Price on request</p>
+          <p style={{ fontSize: 12, color: "#aaa", fontStyle: "italic", marginBottom: 24 }}>Price on request</p>
 
-          <div style={{ display: "flex", gap: 12, flexWrap: "wrap" }}>
+          <div style={{ display: "flex", gap: 10, flexWrap: "wrap" }}>
             <a
               href={`https://wa.me/${WA}?text=${encodeURIComponent(`Hi, I'd like to enquire about the ${product.name} from the ${product.collection} collection.`)}`}
               target="_blank" rel="noopener noreferrer"
-              style={{ padding: "14px 28px", background: "#25D366", color: "#fff", fontSize: 10, letterSpacing: 3, borderRadius: 2, textDecoration: "none" }}
+              style={{ padding: "12px 24px", background: "#1c1916", color: "#f5f0e8", fontSize: 10, letterSpacing: 3, borderRadius: 2, textDecoration: "none" }}
             >
-              ENQUIRE ON WHATSAPP
+              ENQUIRE NOW
             </a>
             <a
               href={`mailto:info@delhibrass.com?subject=Enquiry: ${product.name}`}
-              style={{ padding: "14px 28px", border: "1px solid #2a2218", color: "#2a2218", fontSize: 10, letterSpacing: 3, borderRadius: 2, textDecoration: "none" }}
+              style={{ padding: "12px 24px", border: "1px solid rgba(42,34,24,0.2)", color: "#2a2218", fontSize: 10, letterSpacing: 3, borderRadius: 2, textDecoration: "none" }}
             >
               EMAIL US
             </a>
