@@ -1,32 +1,1430 @@
 [
-  { "id": "1", "name": "Curved Linen", "slug": "heritage-shade-curved-linen", "collection": "Heritage Shade", "collectionSlug": "heritage-shade", "image": "/images/chandeliers/heritage-shade-curved-linen/studio.png" },
-  { "id": "2", "name": "Acanthus Crown", "slug": "heritage-shade-acanthus-crown", "collection": "Heritage Shade", "collectionSlug": "heritage-shade", "image": "/images/chandeliers/heritage-shade-acanthus-crown/studio.png" },
-  { "id": "3", "name": "Gilt Plume", "slug": "heritage-shade-gilt-plume", "collection": "Heritage Shade", "collectionSlug": "heritage-shade", "image": "/images/chandeliers/heritage-shade-gilt-plume/studio.png" },
-  { "id": "4", "name": "Crystal Bloom", "slug": "crystal-garden-bloom", "collection": "Crystal Garden", "collectionSlug": "crystal-garden", "image": "/images/chandeliers/crystal-garden-bloom/studio.png" },
-  { "id": "5", "name": "Amber Prism", "slug": "crystal-garden-amber-prism", "collection": "Crystal Garden", "collectionSlug": "crystal-garden", "image": "/images/chandeliers/crystal-garden-amber-prism/studio.png" },
-  { "id": "6", "name": "Crown Lantern", "slug": "grand-lantern-crown", "collection": "Grand Lantern", "collectionSlug": "grand-lantern", "image": "/images/chandeliers/grand-lantern-crown/studio.png" },
-  { "id": "7", "name": "Cylinder Lantern", "slug": "grand-lantern-cylinder", "collection": "Grand Lantern", "collectionSlug": "grand-lantern", "image": "/images/chandeliers/grand-lantern-cylinder/studio.png" },
-  { "id": "8", "name": "Noir Cascade", "slug": "noir-crystal-cascade", "collection": "Noir Crystal", "collectionSlug": "noir-crystal", "image": "/images/chandeliers/noir-crystal-cascade/studio.png" },
-  { "id": "9", "name": "Noir Prism", "slug": "noir-crystal-prism", "collection": "Noir Crystal", "collectionSlug": "noir-crystal", "image": "/images/chandeliers/noir-crystal-prism/studio.png" },
-  { "id": "10", "name": "Distressed Shield", "slug": "distressed-scroll-shield", "collection": "Distressed Scroll", "collectionSlug": "distressed-scroll", "image": "/images/chandeliers/distressed-scroll-shield/studio.png" },
-  { "id": "11", "name": "Distressed Baroque", "slug": "distressed-scroll-baroque", "collection": "Distressed Scroll", "collectionSlug": "distressed-scroll", "image": "/images/chandeliers/distressed-scroll-baroque/studio.png" },
-  { "id": "12", "name": "Iron Cage", "slug": "iron-brass-cage", "collection": "Iron Brass", "collectionSlug": "iron-brass", "image": "/images/chandeliers/iron-brass-cage/studio.png" },
-  { "id": "13", "name": "Iron Ring", "slug": "iron-brass-ring", "collection": "Iron Brass", "collectionSlug": "iron-brass", "image": "/images/chandeliers/iron-brass-ring/studio.png" },
-  { "id": "14", "name": "Crystal Fringe Solo", "slug": "crystal-fringe-solo", "collection": "Crystal Fringe", "collectionSlug": "crystal-fringe", "image": "/images/chandeliers/crystal-fringe-solo/studio.png" },
-  { "id": "15", "name": "Crystal Fringe Trio", "slug": "crystal-fringe-trio", "collection": "Crystal Fringe", "collectionSlug": "crystal-fringe", "image": "/images/chandeliers/crystal-fringe-trio/studio.png" },
-  { "id": "16", "name": "Farmhouse Cascade", "slug": "farmhouse-bead-cascade", "collection": "Farmhouse Bead", "collectionSlug": "farmhouse-bead", "image": "/images/chandeliers/farmhouse-bead-cascade/studio.png" },
-  { "id": "17", "name": "Farmhouse Crown", "slug": "farmhouse-bead-crown", "collection": "Farmhouse Bead", "collectionSlug": "farmhouse-bead", "image": "/images/chandeliers/farmhouse-bead-crown/studio.png" },
-  { "id": "18", "name": "Medallion Shield", "slug": "brass-medallion-shield", "collection": "Brass Medallion", "collectionSlug": "brass-medallion", "image": "/images/chandeliers/brass-medallion-shield/studio.png" },
-  { "id": "19", "name": "Medallion Sunburst", "slug": "brass-medallion-sunburst", "collection": "Brass Medallion", "collectionSlug": "brass-medallion", "image": "/images/chandeliers/brass-medallion-sunburst/studio.png" },
-  { "id": "20", "name": "Crystal Crown", "slug": "brass-medallion-crystal-crown", "collection": "Brass Medallion", "collectionSlug": "brass-medallion", "image": "/images/chandeliers/brass-medallion-crystal-crown/studio.png" },
-  { "id": "21", "name": "Dome Pendant", "slug": "brass-dome-pendant", "collection": "Brass Pendants", "collectionSlug": "brass-pendants", "image": "/images/chandeliers/brass-dome-pendant/studio.png" },
-  { "id": "22", "name": "Geometric Cluster", "slug": "brass-geometric-cluster", "collection": "Statement Pieces", "collectionSlug": "statement", "image": "/images/chandeliers/brass-geometric-cluster/studio.png" },
-  { "id": "23", "name": "Brass Petals", "slug": "brass-petals", "collection": "Statement Pieces", "collectionSlug": "statement", "image": "/images/chandeliers/brass-petals/studio.png" },
-  { "id": "24", "name": "Crystal Blossom", "slug": "crystal-blossom", "collection": "Statement Pieces", "collectionSlug": "statement", "image": "/images/chandeliers/crystal-blossom/studio.png" },
-  { "id": "25", "name": "Brass Bough", "slug": "brass-bough", "collection": "Statement Pieces", "collectionSlug": "statement", "image": "/images/chandeliers/brass-bough/studio.png" },
-  { "id": "26", "name": "Antler Crown", "slug": "antler-crown", "collection": "Statement Pieces", "collectionSlug": "statement", "image": "/images/chandeliers/antler-crown/studio.png" },
-  { "id": "27", "name": "Tiered Lantern", "slug": "brass-lantern-tiered", "collection": "Grand Lantern", "collectionSlug": "grand-lantern", "image": "/images/chandeliers/brass-lantern-tiered/studio.png" },
-  { "id": "28", "name": "Crystal Cascade", "slug": "crystal-cascade-chandelier", "collection": "Crystal Garden", "collectionSlug": "crystal-garden", "image": "/images/chandeliers/crystal-cascade-chandelier/studio.png" },
-  { "id": "29", "name": "Bell Linear", "slug": "brass-bell-linear", "collection": "Linear", "collectionSlug": "linear", "image": "/images/chandeliers/brass-bell-linear/studio.png" },
-  { "id": "30", "name": "Linear Cluster", "slug": "brass-linear-cluster", "collection": "Linear", "collectionSlug": "linear", "image": "/images/chandeliers/brass-linear-cluster/studio.png" }
+  {
+    "id": "1",
+    "name": "Amber Cascade",
+    "slug": "amber-cascade",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/amber-cascade/studio.png",
+      "lifestyle": "/images/chandeliers/amber-cascade/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/amber-cascade/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/amber-cascade/04-hero-70pct.png",
+      "detail": "/images/chandeliers/amber-cascade/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Antler Crown",
+    "slug": "antler-crown",
+    "collection": "Statement Pieces",
+    "collectionSlug": "statement",
+    "images": {
+      "studio": "/images/chandeliers/antler-crown/studio.png",
+      "lifestyle": "/images/chandeliers/antler-crown/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/antler-crown/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/antler-crown/04-hero-70pct.png",
+      "detail": "/images/chandeliers/antler-crown/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "3",
+    "name": "Aurum Frond",
+    "slug": "aurum-frond",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/aurum-frond/studio.png",
+      "lifestyle": "/images/chandeliers/aurum-frond/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/aurum-frond/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/aurum-frond/04-hero-70pct.png",
+      "detail": "/images/chandeliers/aurum-frond/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "4",
+    "name": "Barrel Rustic",
+    "slug": "barrel-rustic",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/barrel-rustic/studio.png",
+      "lifestyle": "/images/chandeliers/barrel-rustic/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/barrel-rustic/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/barrel-rustic/04-hero-70pct.png",
+      "detail": "/images/chandeliers/barrel-rustic/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "5",
+    "name": "Bead Cascade",
+    "slug": "bead-cascade",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/bead-cascade/studio.png",
+      "lifestyle": "/images/chandeliers/bead-cascade/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/bead-cascade/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/bead-cascade/04-hero-70pct.png",
+      "detail": "/images/chandeliers/bead-cascade/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "6",
+    "name": "Brass Bell Linear",
+    "slug": "brass-bell-linear",
+    "collection": "Linear",
+    "collectionSlug": "linear",
+    "images": {
+      "studio": "/images/chandeliers/brass-bell-linear/studio.png",
+      "lifestyle": "/images/chandeliers/brass-bell-linear/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/brass-bell-linear/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/brass-bell-linear/04-hero-70pct.png",
+      "detail": "/images/chandeliers/brass-bell-linear/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "7",
+    "name": "Brass Bloom Cluster",
+    "slug": "brass-bloom-cluster",
+    "collection": "Statement Pieces",
+    "collectionSlug": "statement",
+    "images": {
+      "studio": "/images/chandeliers/brass-bloom-cluster/studio.png",
+      "lifestyle": "/images/chandeliers/brass-bloom-cluster/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/brass-bloom-cluster/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/brass-bloom-cluster/04-hero-70pct.png",
+      "detail": "/images/chandeliers/brass-bloom-cluster/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "8",
+    "name": "Brass Blossom Cluster",
+    "slug": "brass-blossom-cluster",
+    "collection": "Statement Pieces",
+    "collectionSlug": "statement",
+    "images": {
+      "studio": "/images/chandeliers/brass-blossom-cluster/studio.png",
+      "lifestyle": "/images/chandeliers/brass-blossom-cluster/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/brass-blossom-cluster/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/brass-blossom-cluster/04-hero-70pct.png",
+      "detail": "/images/chandeliers/brass-blossom-cluster/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "9",
+    "name": "Brass Bough",
+    "slug": "brass-bough",
+    "collection": "Statement Pieces",
+    "collectionSlug": "statement",
+    "images": {
+      "studio": "/images/chandeliers/brass-bough/studio.png",
+      "lifestyle": "/images/chandeliers/brass-bough/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/brass-bough/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/brass-bough/04-hero-70pct.png",
+      "detail": "/images/chandeliers/brass-bough/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "10",
+    "name": "Brass Dome Cluster",
+    "slug": "brass-dome-cluster",
+    "collection": "Brass Pendants",
+    "collectionSlug": "brass-pendants",
+    "images": {
+      "studio": "/images/chandeliers/brass-dome-cluster/studio.png",
+      "lifestyle": "/images/chandeliers/brass-dome-cluster/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/brass-dome-cluster/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/brass-dome-cluster/04-hero-70pct.png",
+      "detail": "/images/chandeliers/brass-dome-cluster/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "11",
+    "name": "Brass Dome Pendant",
+    "slug": "brass-dome-pendant",
+    "collection": "Brass Pendants",
+    "collectionSlug": "brass-pendants",
+    "images": {
+      "studio": "/images/chandeliers/brass-dome-pendant/studio.png",
+      "lifestyle": "/images/chandeliers/brass-dome-pendant/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/brass-dome-pendant/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/brass-dome-pendant/04-hero-70pct.png",
+      "detail": "/images/chandeliers/brass-dome-pendant/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "12",
+    "name": "Brass Facet Long",
+    "slug": "brass-facet-long",
+    "collection": "Statement Pieces",
+    "collectionSlug": "statement",
+    "images": {
+      "studio": "/images/chandeliers/brass-facet-long/studio.png",
+      "lifestyle": "/images/chandeliers/brass-facet-long/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/brass-facet-long/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/brass-facet-long/04-hero-70pct.png",
+      "detail": "/images/chandeliers/brass-facet-long/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "13",
+    "name": "Brass Facet Short",
+    "slug": "brass-facet-short",
+    "collection": "Statement Pieces",
+    "collectionSlug": "statement",
+    "images": {
+      "studio": "/images/chandeliers/brass-facet-short/studio.png",
+      "lifestyle": "/images/chandeliers/brass-facet-short/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/brass-facet-short/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/brass-facet-short/04-hero-70pct.png",
+      "detail": "/images/chandeliers/brass-facet-short/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "14",
+    "name": "Brass Folded Tier",
+    "slug": "brass-folded-tier",
+    "collection": "Statement Pieces",
+    "collectionSlug": "statement",
+    "images": {
+      "studio": "/images/chandeliers/brass-folded-tier/studio.png",
+      "lifestyle": "/images/chandeliers/brass-folded-tier/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/brass-folded-tier/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/brass-folded-tier/04-hero-70pct.png",
+      "detail": "/images/chandeliers/brass-folded-tier/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "15",
+    "name": "Brass Geometric Cluster",
+    "slug": "brass-geometric-cluster",
+    "collection": "Statement Pieces",
+    "collectionSlug": "statement",
+    "images": {
+      "studio": "/images/chandeliers/brass-geometric-cluster/studio.png",
+      "lifestyle": "/images/chandeliers/brass-geometric-cluster/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/brass-geometric-cluster/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/brass-geometric-cluster/04-hero-70pct.png",
+      "detail": "/images/chandeliers/brass-geometric-cluster/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "16",
+    "name": "Brass Hexagon Lantern",
+    "slug": "brass-hexagon-lantern",
+    "collection": "Statement Pieces",
+    "collectionSlug": "statement",
+    "images": {
+      "studio": "/images/chandeliers/brass-hexagon-lantern/studio.png",
+      "lifestyle": "/images/chandeliers/brass-hexagon-lantern/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/brass-hexagon-lantern/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/brass-hexagon-lantern/04-hero-70pct.png",
+      "detail": "/images/chandeliers/brass-hexagon-lantern/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "17",
+    "name": "Brass Lantern Cascade",
+    "slug": "brass-lantern-cascade",
+    "collection": "Statement Pieces",
+    "collectionSlug": "statement",
+    "images": {
+      "studio": "/images/chandeliers/brass-lantern-cascade/studio.png",
+      "lifestyle": "/images/chandeliers/brass-lantern-cascade/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/brass-lantern-cascade/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/brass-lantern-cascade/04-hero-70pct.png",
+      "detail": "/images/chandeliers/brass-lantern-cascade/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "18",
+    "name": "Brass Lantern Tiered",
+    "slug": "brass-lantern-tiered",
+    "collection": "Statement Pieces",
+    "collectionSlug": "statement",
+    "images": {
+      "studio": "/images/chandeliers/brass-lantern-tiered/studio.png",
+      "lifestyle": "/images/chandeliers/brass-lantern-tiered/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/brass-lantern-tiered/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/brass-lantern-tiered/04-hero-70pct.png",
+      "detail": "/images/chandeliers/brass-lantern-tiered/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "19",
+    "name": "Brass Lattice",
+    "slug": "brass-lattice",
+    "collection": "Statement Pieces",
+    "collectionSlug": "statement",
+    "images": {
+      "studio": "/images/chandeliers/brass-lattice/studio.png",
+      "lifestyle": "/images/chandeliers/brass-lattice/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/brass-lattice/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/brass-lattice/04-hero-70pct.png",
+      "detail": "/images/chandeliers/brass-lattice/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "20",
+    "name": "Brass Lattice Linear",
+    "slug": "brass-lattice-linear",
+    "collection": "Linear",
+    "collectionSlug": "linear",
+    "images": {
+      "studio": "/images/chandeliers/brass-lattice-linear/studio.png",
+      "lifestyle": "/images/chandeliers/brass-lattice-linear/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/brass-lattice-linear/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/brass-lattice-linear/04-hero-70pct.png",
+      "detail": "/images/chandeliers/brass-lattice-linear/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "21",
+    "name": "Brass Linear Cluster",
+    "slug": "brass-linear-cluster",
+    "collection": "Linear",
+    "collectionSlug": "linear",
+    "images": {
+      "studio": "/images/chandeliers/brass-linear-cluster/studio.png",
+      "lifestyle": "/images/chandeliers/brass-linear-cluster/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/brass-linear-cluster/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/brass-linear-cluster/04-hero-70pct.png",
+      "detail": "/images/chandeliers/brass-linear-cluster/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "22",
+    "name": "Crystal Crown",
+    "slug": "brass-medallion-crystal-crown",
+    "collection": "Brass Medallion",
+    "collectionSlug": "brass-medallion",
+    "images": {
+      "studio": "/images/chandeliers/brass-medallion-crystal-crown/studio.png",
+      "lifestyle": "/images/chandeliers/brass-medallion-crystal-crown/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/brass-medallion-crystal-crown/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/brass-medallion-crystal-crown/04-hero-70pct.png",
+      "detail": "/images/chandeliers/brass-medallion-crystal-crown/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "23",
+    "name": "Shield",
+    "slug": "brass-medallion-shield",
+    "collection": "Brass Medallion",
+    "collectionSlug": "brass-medallion",
+    "images": {
+      "studio": "/images/chandeliers/brass-medallion-shield/studio.png",
+      "lifestyle": "/images/chandeliers/brass-medallion-shield/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/brass-medallion-shield/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/brass-medallion-shield/04-hero-70pct.png",
+      "detail": "/images/chandeliers/brass-medallion-shield/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "24",
+    "name": "Sunburst",
+    "slug": "brass-medallion-sunburst",
+    "collection": "Brass Medallion",
+    "collectionSlug": "brass-medallion",
+    "images": {
+      "studio": "/images/chandeliers/brass-medallion-sunburst/studio.png",
+      "lifestyle": "/images/chandeliers/brass-medallion-sunburst/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/brass-medallion-sunburst/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/brass-medallion-sunburst/04-hero-70pct.png",
+      "detail": "/images/chandeliers/brass-medallion-sunburst/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "25",
+    "name": "Brass Petals",
+    "slug": "brass-petals",
+    "collection": "Statement Pieces",
+    "collectionSlug": "statement",
+    "images": {
+      "studio": "/images/chandeliers/brass-petals/studio.png",
+      "lifestyle": "/images/chandeliers/brass-petals/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/brass-petals/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/brass-petals/04-hero-70pct.png",
+      "detail": "/images/chandeliers/brass-petals/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "26",
+    "name": "Brass Ribbed Cylinder",
+    "slug": "brass-ribbed-cylinder",
+    "collection": "Brass Pendants",
+    "collectionSlug": "brass-pendants",
+    "images": {
+      "studio": "/images/chandeliers/brass-ribbed-cylinder/studio.png",
+      "lifestyle": "/images/chandeliers/brass-ribbed-cylinder/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/brass-ribbed-cylinder/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/brass-ribbed-cylinder/04-hero-70pct.png",
+      "detail": "/images/chandeliers/brass-ribbed-cylinder/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "27",
+    "name": "Cherub Botanical",
+    "slug": "cherub-botanical",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/cherub-botanical/studio.png",
+      "lifestyle": "/images/chandeliers/cherub-botanical/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/cherub-botanical/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/cherub-botanical/04-hero-70pct.png",
+      "detail": "/images/chandeliers/cherub-botanical/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "28",
+    "name": "Crystal Bell Pendant",
+    "slug": "crystal-bell-pendant",
+    "collection": "Crystal Collection",
+    "collectionSlug": "crystal-collection",
+    "images": {
+      "studio": "/images/chandeliers/crystal-bell-pendant/studio.png",
+      "lifestyle": "/images/chandeliers/crystal-bell-pendant/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/crystal-bell-pendant/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/crystal-bell-pendant/04-hero-70pct.png",
+      "detail": "/images/chandeliers/crystal-bell-pendant/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "29",
+    "name": "Crystal Blossom",
+    "slug": "crystal-blossom",
+    "collection": "Crystal Garden",
+    "collectionSlug": "crystal-garden",
+    "images": {
+      "studio": "/images/chandeliers/crystal-blossom/studio.png",
+      "lifestyle": "/images/chandeliers/crystal-blossom/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/crystal-blossom/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/crystal-blossom/04-hero-70pct.png",
+      "detail": "/images/chandeliers/crystal-blossom/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "30",
+    "name": "Crystal Bough",
+    "slug": "crystal-bough",
+    "collection": "Crystal Garden",
+    "collectionSlug": "crystal-garden",
+    "images": {
+      "studio": "/images/chandeliers/crystal-bough/studio.png",
+      "lifestyle": "/images/chandeliers/crystal-bough/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/crystal-bough/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/crystal-bough/04-hero-70pct.png",
+      "detail": "/images/chandeliers/crystal-bough/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "31",
+    "name": "Crystal Cascade Chandelier",
+    "slug": "crystal-cascade-chandelier",
+    "collection": "Crystal Garden",
+    "collectionSlug": "crystal-garden",
+    "images": {
+      "studio": "/images/chandeliers/crystal-cascade-chandelier/studio.png",
+      "lifestyle": "/images/chandeliers/crystal-cascade-chandelier/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/crystal-cascade-chandelier/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/crystal-cascade-chandelier/04-hero-70pct.png",
+      "detail": "/images/chandeliers/crystal-cascade-chandelier/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "32",
+    "name": "Crystal Cascade Cluster",
+    "slug": "crystal-cascade-cluster",
+    "collection": "Crystal Collection",
+    "collectionSlug": "crystal-collection",
+    "images": {
+      "studio": "/images/chandeliers/crystal-cascade-cluster/studio.png",
+      "lifestyle": "/images/chandeliers/crystal-cascade-cluster/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/crystal-cascade-cluster/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/crystal-cascade-cluster/04-hero-70pct.png",
+      "detail": "/images/chandeliers/crystal-cascade-cluster/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "33",
+    "name": "Crystal Cascade Trio",
+    "slug": "crystal-cascade-trio",
+    "collection": "Crystal Collection",
+    "collectionSlug": "crystal-collection",
+    "images": {
+      "studio": "/images/chandeliers/crystal-cascade-trio/studio.png",
+      "lifestyle": "/images/chandeliers/crystal-cascade-trio/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/crystal-cascade-trio/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/crystal-cascade-trio/04-hero-70pct.png",
+      "detail": "/images/chandeliers/crystal-cascade-trio/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "34",
+    "name": "Crystal Cylinder",
+    "slug": "crystal-cylinder",
+    "collection": "Crystal Collection",
+    "collectionSlug": "crystal-collection",
+    "images": {
+      "studio": "/images/chandeliers/crystal-cylinder/studio.png",
+      "lifestyle": "/images/chandeliers/crystal-cylinder/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/crystal-cylinder/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/crystal-cylinder/04-hero-70pct.png",
+      "detail": "/images/chandeliers/crystal-cylinder/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "35",
+    "name": "Crystal Dome",
+    "slug": "crystal-dome",
+    "collection": "Crystal Collection",
+    "collectionSlug": "crystal-collection",
+    "images": {
+      "studio": "/images/chandeliers/crystal-dome/studio.png",
+      "lifestyle": "/images/chandeliers/crystal-dome/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/crystal-dome/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/crystal-dome/04-hero-70pct.png",
+      "detail": "/images/chandeliers/crystal-dome/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "36",
+    "name": "Crystal Dome Pendant",
+    "slug": "crystal-dome-pendant",
+    "collection": "Crystal Collection",
+    "collectionSlug": "crystal-collection",
+    "images": {
+      "studio": "/images/chandeliers/crystal-dome-pendant/studio.png",
+      "lifestyle": "/images/chandeliers/crystal-dome-pendant/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/crystal-dome-pendant/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/crystal-dome-pendant/04-hero-70pct.png",
+      "detail": "/images/chandeliers/crystal-dome-pendant/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "37",
+    "name": "Solo",
+    "slug": "crystal-fringe-solo",
+    "collection": "Crystal Fringe",
+    "collectionSlug": "crystal-fringe",
+    "images": {
+      "studio": "/images/chandeliers/crystal-fringe-solo/studio.png",
+      "lifestyle": "/images/chandeliers/crystal-fringe-solo/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/crystal-fringe-solo/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/crystal-fringe-solo/04-hero-70pct.png",
+      "detail": "/images/chandeliers/crystal-fringe-solo/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "38",
+    "name": "Trio",
+    "slug": "crystal-fringe-trio",
+    "collection": "Crystal Fringe",
+    "collectionSlug": "crystal-fringe",
+    "images": {
+      "studio": "/images/chandeliers/crystal-fringe-trio/studio.png",
+      "lifestyle": "/images/chandeliers/crystal-fringe-trio/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/crystal-fringe-trio/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/crystal-fringe-trio/04-hero-70pct.png",
+      "detail": "/images/chandeliers/crystal-fringe-trio/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "39",
+    "name": "Amber Prism",
+    "slug": "crystal-garden-amber-prism",
+    "collection": "Crystal Garden",
+    "collectionSlug": "crystal-garden",
+    "images": {
+      "studio": "/images/chandeliers/crystal-garden-amber-prism/studio.png",
+      "lifestyle": "/images/chandeliers/crystal-garden-amber-prism/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/crystal-garden-amber-prism/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/crystal-garden-amber-prism/04-hero-70pct.png",
+      "detail": "/images/chandeliers/crystal-garden-amber-prism/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "40",
+    "name": "Antique Scroll",
+    "slug": "crystal-garden-antique-scroll",
+    "collection": "Crystal Garden",
+    "collectionSlug": "crystal-garden",
+    "images": {
+      "studio": "/images/chandeliers/crystal-garden-antique-scroll/studio.png",
+      "lifestyle": "/images/chandeliers/crystal-garden-antique-scroll/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/crystal-garden-antique-scroll/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/crystal-garden-antique-scroll/04-hero-70pct.png",
+      "detail": "/images/chandeliers/crystal-garden-antique-scroll/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "41",
+    "name": "Bloom",
+    "slug": "crystal-garden-bloom",
+    "collection": "Crystal Garden",
+    "collectionSlug": "crystal-garden",
+    "images": {
+      "studio": "/images/chandeliers/crystal-garden-bloom/studio.png",
+      "lifestyle": "/images/chandeliers/crystal-garden-bloom/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/crystal-garden-bloom/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/crystal-garden-bloom/04-hero-70pct.png",
+      "detail": "/images/chandeliers/crystal-garden-bloom/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "42",
+    "name": "Floral Scroll",
+    "slug": "crystal-garden-floral-scroll",
+    "collection": "Crystal Garden",
+    "collectionSlug": "crystal-garden",
+    "images": {
+      "studio": "/images/chandeliers/crystal-garden-floral-scroll/studio.png",
+      "lifestyle": "/images/chandeliers/crystal-garden-floral-scroll/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/crystal-garden-floral-scroll/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/crystal-garden-floral-scroll/04-hero-70pct.png",
+      "detail": "/images/chandeliers/crystal-garden-floral-scroll/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "43",
+    "name": "Crystal Lantern",
+    "slug": "crystal-lantern",
+    "collection": "Crystal Collection",
+    "collectionSlug": "crystal-collection",
+    "images": {
+      "studio": "/images/chandeliers/crystal-lantern/studio.png",
+      "lifestyle": "/images/chandeliers/crystal-lantern/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/crystal-lantern/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/crystal-lantern/04-hero-70pct.png",
+      "detail": "/images/chandeliers/crystal-lantern/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "44",
+    "name": "Crystal Linear",
+    "slug": "crystal-linear",
+    "collection": "Linear",
+    "collectionSlug": "linear",
+    "images": {
+      "studio": "/images/chandeliers/crystal-linear/studio.png",
+      "lifestyle": "/images/chandeliers/crystal-linear/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/crystal-linear/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/crystal-linear/04-hero-70pct.png",
+      "detail": "/images/chandeliers/crystal-linear/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "45",
+    "name": "Crystal Shell Cascade",
+    "slug": "crystal-shell-cascade",
+    "collection": "Crystal Collection",
+    "collectionSlug": "crystal-collection",
+    "images": {
+      "studio": "/images/chandeliers/crystal-shell-cascade/studio.png",
+      "lifestyle": "/images/chandeliers/crystal-shell-cascade/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/crystal-shell-cascade/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/crystal-shell-cascade/04-hero-70pct.png",
+      "detail": "/images/chandeliers/crystal-shell-cascade/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "46",
+    "name": "Crystal Teardrop",
+    "slug": "crystal-teardrop",
+    "collection": "Crystal Collection",
+    "collectionSlug": "crystal-collection",
+    "images": {
+      "studio": "/images/chandeliers/crystal-teardrop/studio.png",
+      "lifestyle": "/images/chandeliers/crystal-teardrop/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/crystal-teardrop/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/crystal-teardrop/04-hero-70pct.png",
+      "detail": "/images/chandeliers/crystal-teardrop/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "47",
+    "name": "Deco Lantern",
+    "slug": "deco-lantern",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/deco-lantern/studio.png",
+      "lifestyle": "/images/chandeliers/deco-lantern/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/deco-lantern/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/deco-lantern/04-hero-70pct.png",
+      "detail": "/images/chandeliers/deco-lantern/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "48",
+    "name": "Baroque",
+    "slug": "distressed-scroll-baroque",
+    "collection": "Distressed Scroll",
+    "collectionSlug": "distressed-scroll",
+    "images": {
+      "studio": "/images/chandeliers/distressed-scroll-baroque/studio.png",
+      "lifestyle": "/images/chandeliers/distressed-scroll-baroque/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/distressed-scroll-baroque/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/distressed-scroll-baroque/04-hero-70pct.png",
+      "detail": "/images/chandeliers/distressed-scroll-baroque/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "49",
+    "name": "Shield",
+    "slug": "distressed-scroll-shield",
+    "collection": "Distressed Scroll",
+    "collectionSlug": "distressed-scroll",
+    "images": {
+      "studio": "/images/chandeliers/distressed-scroll-shield/studio.png",
+      "lifestyle": "/images/chandeliers/distressed-scroll-shield/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/distressed-scroll-shield/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/distressed-scroll-shield/04-hero-70pct.png",
+      "detail": "/images/chandeliers/distressed-scroll-shield/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "50",
+    "name": "Dome Crystal",
+    "slug": "dome-crystal",
+    "collection": "Crystal Collection",
+    "collectionSlug": "crystal-collection",
+    "images": {
+      "studio": "/images/chandeliers/dome-crystal/studio.png",
+      "lifestyle": "/images/chandeliers/dome-crystal/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/dome-crystal/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/dome-crystal/04-hero-70pct.png",
+      "detail": "/images/chandeliers/dome-crystal/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "51",
+    "name": "Dome Scroll",
+    "slug": "dome-scroll",
+    "collection": "Crystal Collection",
+    "collectionSlug": "crystal-collection",
+    "images": {
+      "studio": "/images/chandeliers/dome-scroll/studio.png",
+      "lifestyle": "/images/chandeliers/dome-scroll/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/dome-scroll/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/dome-scroll/04-hero-70pct.png",
+      "detail": "/images/chandeliers/dome-scroll/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "52",
+    "name": "Cascade",
+    "slug": "farmhouse-bead-cascade",
+    "collection": "Farmhouse Bead",
+    "collectionSlug": "farmhouse-bead",
+    "images": {
+      "studio": "/images/chandeliers/farmhouse-bead-cascade/studio.png",
+      "lifestyle": "/images/chandeliers/farmhouse-bead-cascade/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/farmhouse-bead-cascade/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/farmhouse-bead-cascade/04-hero-70pct.png",
+      "detail": "/images/chandeliers/farmhouse-bead-cascade/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "53",
+    "name": "Crown",
+    "slug": "farmhouse-bead-crown",
+    "collection": "Farmhouse Bead",
+    "collectionSlug": "farmhouse-bead",
+    "images": {
+      "studio": "/images/chandeliers/farmhouse-bead-crown/studio.png",
+      "lifestyle": "/images/chandeliers/farmhouse-bead-crown/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/farmhouse-bead-crown/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/farmhouse-bead-crown/04-hero-70pct.png",
+      "detail": "/images/chandeliers/farmhouse-bead-crown/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "54",
+    "name": "Fern Nocturne",
+    "slug": "fern-nocturne",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/fern-nocturne/studio.png",
+      "lifestyle": "/images/chandeliers/fern-nocturne/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/fern-nocturne/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/fern-nocturne/04-hero-70pct.png",
+      "detail": "/images/chandeliers/fern-nocturne/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "55",
+    "name": "Fluted Scroll",
+    "slug": "fluted-scroll",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/fluted-scroll/studio.png",
+      "lifestyle": "/images/chandeliers/fluted-scroll/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/fluted-scroll/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/fluted-scroll/04-hero-70pct.png",
+      "detail": "/images/chandeliers/fluted-scroll/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "56",
+    "name": "Foliate Cascade",
+    "slug": "foliate-cascade",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/foliate-cascade/studio.png",
+      "lifestyle": "/images/chandeliers/foliate-cascade/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/foliate-cascade/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/foliate-cascade/04-hero-70pct.png",
+      "detail": "/images/chandeliers/foliate-cascade/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "57",
+    "name": "Foliate Crown",
+    "slug": "foliate-crown",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/foliate-crown/studio.png",
+      "lifestyle": "/images/chandeliers/foliate-crown/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/foliate-crown/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/foliate-crown/04-hero-70pct.png",
+      "detail": "/images/chandeliers/foliate-crown/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "58",
+    "name": "Glass Bell Pendant",
+    "slug": "glass-bell-pendant",
+    "collection": "Brass Pendants",
+    "collectionSlug": "brass-pendants",
+    "images": {
+      "studio": "/images/chandeliers/glass-bell-pendant/studio.png",
+      "lifestyle": "/images/chandeliers/glass-bell-pendant/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/glass-bell-pendant/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/glass-bell-pendant/04-hero-70pct.png",
+      "detail": "/images/chandeliers/glass-bell-pendant/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "59",
+    "name": "Golden Curve Chandelier",
+    "slug": "golden-curve-chandelier",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/golden-curve-chandelier/studio.png",
+      "lifestyle": "/images/chandeliers/golden-curve-chandelier/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/golden-curve-chandelier/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/golden-curve-chandelier/04-hero-70pct.png",
+      "detail": "/images/chandeliers/golden-curve-chandelier/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "60",
+    "name": "Crown",
+    "slug": "grand-lantern-crown",
+    "collection": "Grand Lantern",
+    "collectionSlug": "grand-lantern",
+    "images": {
+      "studio": "/images/chandeliers/grand-lantern-crown/studio.png",
+      "lifestyle": "/images/chandeliers/grand-lantern-crown/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/grand-lantern-crown/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/grand-lantern-crown/04-hero-70pct.png",
+      "detail": "/images/chandeliers/grand-lantern-crown/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "61",
+    "name": "Cylinder",
+    "slug": "grand-lantern-cylinder",
+    "collection": "Grand Lantern",
+    "collectionSlug": "grand-lantern",
+    "images": {
+      "studio": "/images/chandeliers/grand-lantern-cylinder/studio.png",
+      "lifestyle": "/images/chandeliers/grand-lantern-cylinder/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/grand-lantern-cylinder/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/grand-lantern-cylinder/04-hero-70pct.png",
+      "detail": "/images/chandeliers/grand-lantern-cylinder/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "62",
+    "name": "Glass",
+    "slug": "grand-lantern-glass",
+    "collection": "Grand Lantern",
+    "collectionSlug": "grand-lantern",
+    "images": {
+      "studio": "/images/chandeliers/grand-lantern-glass/studio.png",
+      "lifestyle": "/images/chandeliers/grand-lantern-glass/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/grand-lantern-glass/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/grand-lantern-glass/04-hero-70pct.png",
+      "detail": "/images/chandeliers/grand-lantern-glass/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "63",
+    "name": "Pavilion",
+    "slug": "grand-lantern-pavilion",
+    "collection": "Grand Lantern",
+    "collectionSlug": "grand-lantern",
+    "images": {
+      "studio": "/images/chandeliers/grand-lantern-pavilion/studio.png",
+      "lifestyle": "/images/chandeliers/grand-lantern-pavilion/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/grand-lantern-pavilion/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/grand-lantern-pavilion/04-hero-70pct.png",
+      "detail": "/images/chandeliers/grand-lantern-pavilion/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "64",
+    "name": "Acanthus Crown",
+    "slug": "heritage-shade-acanthus-crown",
+    "collection": "Heritage Shade",
+    "collectionSlug": "heritage-shade",
+    "images": {
+      "studio": "/images/chandeliers/heritage-shade-acanthus-crown/studio.png",
+      "lifestyle": "/images/chandeliers/heritage-shade-acanthus-crown/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/heritage-shade-acanthus-crown/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/heritage-shade-acanthus-crown/04-hero-70pct.png",
+      "detail": "/images/chandeliers/heritage-shade-acanthus-crown/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "65",
+    "name": "Baroque Foliage",
+    "slug": "heritage-shade-baroque-foliage",
+    "collection": "Heritage Shade",
+    "collectionSlug": "heritage-shade",
+    "images": {
+      "studio": "/images/chandeliers/heritage-shade-baroque-foliage/studio.png",
+      "lifestyle": "/images/chandeliers/heritage-shade-baroque-foliage/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/heritage-shade-baroque-foliage/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/heritage-shade-baroque-foliage/04-hero-70pct.png",
+      "detail": "/images/chandeliers/heritage-shade-baroque-foliage/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "66",
+    "name": "Crystal Vessel",
+    "slug": "heritage-shade-crystal-vessel",
+    "collection": "Heritage Shade",
+    "collectionSlug": "heritage-shade",
+    "images": {
+      "studio": "/images/chandeliers/heritage-shade-crystal-vessel/studio.png",
+      "lifestyle": "/images/chandeliers/heritage-shade-crystal-vessel/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/heritage-shade-crystal-vessel/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/heritage-shade-crystal-vessel/04-hero-70pct.png",
+      "detail": "/images/chandeliers/heritage-shade-crystal-vessel/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "67",
+    "name": "Curved Linen",
+    "slug": "heritage-shade-curved-linen",
+    "collection": "Heritage Shade",
+    "collectionSlug": "heritage-shade",
+    "images": {
+      "studio": "/images/chandeliers/heritage-shade-curved-linen/studio.png",
+      "lifestyle": "/images/chandeliers/heritage-shade-curved-linen/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/heritage-shade-curved-linen/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/heritage-shade-curved-linen/04-hero-70pct.png",
+      "detail": "/images/chandeliers/heritage-shade-curved-linen/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "68",
+    "name": "Drum Luminaire",
+    "slug": "heritage-shade-drum-luminaire",
+    "collection": "Heritage Shade",
+    "collectionSlug": "heritage-shade",
+    "images": {
+      "studio": "/images/chandeliers/heritage-shade-drum-luminaire/studio.png",
+      "lifestyle": "/images/chandeliers/heritage-shade-drum-luminaire/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/heritage-shade-drum-luminaire/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/heritage-shade-drum-luminaire/04-hero-70pct.png",
+      "detail": "/images/chandeliers/heritage-shade-drum-luminaire/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "69",
+    "name": "Frosted Scroll",
+    "slug": "heritage-shade-frosted-scroll",
+    "collection": "Heritage Shade",
+    "collectionSlug": "heritage-shade",
+    "images": {
+      "studio": "/images/chandeliers/heritage-shade-frosted-scroll/studio.png",
+      "lifestyle": "/images/chandeliers/heritage-shade-frosted-scroll/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/heritage-shade-frosted-scroll/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/heritage-shade-frosted-scroll/04-hero-70pct.png",
+      "detail": "/images/chandeliers/heritage-shade-frosted-scroll/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "70",
+    "name": "Gilt Ornament",
+    "slug": "heritage-shade-gilt-ornament",
+    "collection": "Heritage Shade",
+    "collectionSlug": "heritage-shade",
+    "images": {
+      "studio": "/images/chandeliers/heritage-shade-gilt-ornament/studio.png",
+      "lifestyle": "/images/chandeliers/heritage-shade-gilt-ornament/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/heritage-shade-gilt-ornament/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/heritage-shade-gilt-ornament/04-hero-70pct.png",
+      "detail": "/images/chandeliers/heritage-shade-gilt-ornament/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "71",
+    "name": "Gilt Plume",
+    "slug": "heritage-shade-gilt-plume",
+    "collection": "Heritage Shade",
+    "collectionSlug": "heritage-shade",
+    "images": {
+      "studio": "/images/chandeliers/heritage-shade-gilt-plume/studio.png",
+      "lifestyle": "/images/chandeliers/heritage-shade-gilt-plume/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/heritage-shade-gilt-plume/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/heritage-shade-gilt-plume/04-hero-70pct.png",
+      "detail": "/images/chandeliers/heritage-shade-gilt-plume/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "72",
+    "name": "Ivory Descent",
+    "slug": "heritage-shade-ivory-descent",
+    "collection": "Heritage Shade",
+    "collectionSlug": "heritage-shade",
+    "images": {
+      "studio": "/images/chandeliers/heritage-shade-ivory-descent/studio.png",
+      "lifestyle": "/images/chandeliers/heritage-shade-ivory-descent/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/heritage-shade-ivory-descent/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/heritage-shade-ivory-descent/04-hero-70pct.png",
+      "detail": "/images/chandeliers/heritage-shade-ivory-descent/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "73",
+    "name": "Prism Drift",
+    "slug": "heritage-shade-prism-drift",
+    "collection": "Heritage Shade",
+    "collectionSlug": "heritage-shade",
+    "images": {
+      "studio": "/images/chandeliers/heritage-shade-prism-drift/studio.png",
+      "lifestyle": "/images/chandeliers/heritage-shade-prism-drift/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/heritage-shade-prism-drift/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/heritage-shade-prism-drift/04-hero-70pct.png",
+      "detail": "/images/chandeliers/heritage-shade-prism-drift/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "74",
+    "name": "Scrolled Orb",
+    "slug": "heritage-shade-scrolled-orb",
+    "collection": "Heritage Shade",
+    "collectionSlug": "heritage-shade",
+    "images": {
+      "studio": "/images/chandeliers/heritage-shade-scrolled-orb/studio.png",
+      "lifestyle": "/images/chandeliers/heritage-shade-scrolled-orb/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/heritage-shade-scrolled-orb/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/heritage-shade-scrolled-orb/04-hero-70pct.png",
+      "detail": "/images/chandeliers/heritage-shade-scrolled-orb/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "75",
+    "name": "Scrolled Prism",
+    "slug": "heritage-shade-scrolled-prism",
+    "collection": "Heritage Shade",
+    "collectionSlug": "heritage-shade",
+    "images": {
+      "studio": "/images/chandeliers/heritage-shade-scrolled-prism/studio.png",
+      "lifestyle": "/images/chandeliers/heritage-shade-scrolled-prism/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/heritage-shade-scrolled-prism/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/heritage-shade-scrolled-prism/04-hero-70pct.png",
+      "detail": "/images/chandeliers/heritage-shade-scrolled-prism/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "76",
+    "name": "Scrollwork Radiance",
+    "slug": "heritage-shade-scrollwork-radiance",
+    "collection": "Heritage Shade",
+    "collectionSlug": "heritage-shade",
+    "images": {
+      "studio": "/images/chandeliers/heritage-shade-scrollwork-radiance/studio.png",
+      "lifestyle": "/images/chandeliers/heritage-shade-scrollwork-radiance/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/heritage-shade-scrollwork-radiance/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/heritage-shade-scrollwork-radiance/04-hero-70pct.png",
+      "detail": "/images/chandeliers/heritage-shade-scrollwork-radiance/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "77",
+    "name": "Hexagon Cascade Rectangular",
+    "slug": "hexagon-cascade-rectangular",
+    "collection": "Linear",
+    "collectionSlug": "linear",
+    "images": {
+      "studio": "/images/chandeliers/hexagon-cascade-rectangular/studio.png",
+      "lifestyle": "/images/chandeliers/hexagon-cascade-rectangular/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/hexagon-cascade-rectangular/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/hexagon-cascade-rectangular/04-hero-70pct.png",
+      "detail": "/images/chandeliers/hexagon-cascade-rectangular/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "78",
+    "name": "Hexagon Cascade Square",
+    "slug": "hexagon-cascade-square",
+    "collection": "Linear",
+    "collectionSlug": "linear",
+    "images": {
+      "studio": "/images/chandeliers/hexagon-cascade-square/studio.png",
+      "lifestyle": "/images/chandeliers/hexagon-cascade-square/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/hexagon-cascade-square/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/hexagon-cascade-square/04-hero-70pct.png",
+      "detail": "/images/chandeliers/hexagon-cascade-square/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "79",
+    "name": "Hexagon Lantern",
+    "slug": "hexagon-lantern",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/hexagon-lantern/studio.png",
+      "lifestyle": "/images/chandeliers/hexagon-lantern/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/hexagon-lantern/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/hexagon-lantern/04-hero-70pct.png",
+      "detail": "/images/chandeliers/hexagon-lantern/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "80",
+    "name": "Cage",
+    "slug": "iron-brass-cage",
+    "collection": "Iron Brass",
+    "collectionSlug": "iron-brass",
+    "images": {
+      "studio": "/images/chandeliers/iron-brass-cage/studio.png",
+      "lifestyle": "/images/chandeliers/iron-brass-cage/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/iron-brass-cage/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/iron-brass-cage/04-hero-70pct.png",
+      "detail": "/images/chandeliers/iron-brass-cage/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "81",
+    "name": "Ring",
+    "slug": "iron-brass-ring",
+    "collection": "Iron Brass",
+    "collectionSlug": "iron-brass",
+    "images": {
+      "studio": "/images/chandeliers/iron-brass-ring/studio.png",
+      "lifestyle": "/images/chandeliers/iron-brass-ring/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/iron-brass-ring/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/iron-brass-ring/04-hero-70pct.png",
+      "detail": "/images/chandeliers/iron-brass-ring/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "82",
+    "name": "Iron Scroll",
+    "slug": "iron-scroll",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/iron-scroll/studio.png",
+      "lifestyle": "/images/chandeliers/iron-scroll/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/iron-scroll/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/iron-scroll/04-hero-70pct.png",
+      "detail": "/images/chandeliers/iron-scroll/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "83",
+    "name": "Jewel Cascade",
+    "slug": "jewel-cascade",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/jewel-cascade/studio.png",
+      "lifestyle": "/images/chandeliers/jewel-cascade/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/jewel-cascade/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/jewel-cascade/04-hero-70pct.png",
+      "detail": "/images/chandeliers/jewel-cascade/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "84",
+    "name": "Jeweled Curve",
+    "slug": "jeweled-curve",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/jeweled-curve/studio.png",
+      "lifestyle": "/images/chandeliers/jeweled-curve/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/jeweled-curve/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/jeweled-curve/04-hero-70pct.png",
+      "detail": "/images/chandeliers/jeweled-curve/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "85",
+    "name": "Lantern Cluster",
+    "slug": "lantern-cluster",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/lantern-cluster/studio.png",
+      "lifestyle": "/images/chandeliers/lantern-cluster/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/lantern-cluster/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/lantern-cluster/04-hero-70pct.png",
+      "detail": "/images/chandeliers/lantern-cluster/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "86",
+    "name": "Leaf Cascade",
+    "slug": "leaf-cascade",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/leaf-cascade/studio.png",
+      "lifestyle": "/images/chandeliers/leaf-cascade/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/leaf-cascade/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/leaf-cascade/04-hero-70pct.png",
+      "detail": "/images/chandeliers/leaf-cascade/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "87",
+    "name": "Meridian Brass",
+    "slug": "meridian-brass",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/meridian-brass/studio.png",
+      "lifestyle": "/images/chandeliers/meridian-brass/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/meridian-brass/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/meridian-brass/04-hero-70pct.png",
+      "detail": "/images/chandeliers/meridian-brass/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "88",
+    "name": "Midnight Cylinder",
+    "slug": "midnight-cylinder",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/midnight-cylinder/studio.png",
+      "lifestyle": "/images/chandeliers/midnight-cylinder/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/midnight-cylinder/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/midnight-cylinder/04-hero-70pct.png",
+      "detail": "/images/chandeliers/midnight-cylinder/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "89",
+    "name": "Nautilus Lantern",
+    "slug": "nautilus-lantern",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/nautilus-lantern/studio.png",
+      "lifestyle": "/images/chandeliers/nautilus-lantern/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/nautilus-lantern/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/nautilus-lantern/04-hero-70pct.png",
+      "detail": "/images/chandeliers/nautilus-lantern/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "90",
+    "name": "Cascade",
+    "slug": "noir-crystal-cascade",
+    "collection": "Noir Crystal",
+    "collectionSlug": "noir-crystal",
+    "images": {
+      "studio": "/images/chandeliers/noir-crystal-cascade/studio.png",
+      "lifestyle": "/images/chandeliers/noir-crystal-cascade/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/noir-crystal-cascade/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/noir-crystal-cascade/04-hero-70pct.png",
+      "detail": "/images/chandeliers/noir-crystal-cascade/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "91",
+    "name": "Prism",
+    "slug": "noir-crystal-prism",
+    "collection": "Noir Crystal",
+    "collectionSlug": "noir-crystal",
+    "images": {
+      "studio": "/images/chandeliers/noir-crystal-prism/studio.png",
+      "lifestyle": "/images/chandeliers/noir-crystal-prism/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/noir-crystal-prism/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/noir-crystal-prism/04-hero-70pct.png",
+      "detail": "/images/chandeliers/noir-crystal-prism/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "92",
+    "name": "Noir Lantern",
+    "slug": "noir-lantern",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/noir-lantern/studio.png",
+      "lifestyle": "/images/chandeliers/noir-lantern/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/noir-lantern/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/noir-lantern/04-hero-70pct.png",
+      "detail": "/images/chandeliers/noir-lantern/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "93",
+    "name": "Peacock Dome",
+    "slug": "peacock-dome",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/peacock-dome/studio.png",
+      "lifestyle": "/images/chandeliers/peacock-dome/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/peacock-dome/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/peacock-dome/04-hero-70pct.png",
+      "detail": "/images/chandeliers/peacock-dome/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "94",
+    "name": "Pleated Pendant",
+    "slug": "pleated-pendant",
+    "collection": "Brass Pendants",
+    "collectionSlug": "brass-pendants",
+    "images": {
+      "studio": "/images/chandeliers/pleated-pendant/studio.png",
+      "lifestyle": "/images/chandeliers/pleated-pendant/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/pleated-pendant/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/pleated-pendant/04-hero-70pct.png",
+      "detail": "/images/chandeliers/pleated-pendant/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "95",
+    "name": "Prism Filigree",
+    "slug": "prism-filigree",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/prism-filigree/studio.png",
+      "lifestyle": "/images/chandeliers/prism-filigree/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/prism-filigree/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/prism-filigree/04-hero-70pct.png",
+      "detail": "/images/chandeliers/prism-filigree/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "96",
+    "name": "Prism Tier",
+    "slug": "prism-tier",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/prism-tier/studio.png",
+      "lifestyle": "/images/chandeliers/prism-tier/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/prism-tier/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/prism-tier/04-hero-70pct.png",
+      "detail": "/images/chandeliers/prism-tier/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "97",
+    "name": "Radiant Geometry",
+    "slug": "radiant-geometry",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/radiant-geometry/studio.png",
+      "lifestyle": "/images/chandeliers/radiant-geometry/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/radiant-geometry/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/radiant-geometry/04-hero-70pct.png",
+      "detail": "/images/chandeliers/radiant-geometry/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "98",
+    "name": "Royal Crown Pendant",
+    "slug": "royal-crown-pendant",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/royal-crown-pendant/studio.png",
+      "lifestyle": "/images/chandeliers/royal-crown-pendant/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/royal-crown-pendant/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/royal-crown-pendant/04-hero-70pct.png",
+      "detail": "/images/chandeliers/royal-crown-pendant/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "99",
+    "name": "Scrolled Drops",
+    "slug": "scrolled-drops",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/scrolled-drops/studio.png",
+      "lifestyle": "/images/chandeliers/scrolled-drops/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/scrolled-drops/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/scrolled-drops/04-hero-70pct.png",
+      "detail": "/images/chandeliers/scrolled-drops/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "100",
+    "name": "Suspended Foliage",
+    "slug": "suspended-foliage",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/suspended-foliage/studio.png",
+      "lifestyle": "/images/chandeliers/suspended-foliage/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/suspended-foliage/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/suspended-foliage/04-hero-70pct.png",
+      "detail": "/images/chandeliers/suspended-foliage/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "101",
+    "name": "Swag Constellation",
+    "slug": "swag-constellation",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/swag-constellation/studio.png",
+      "lifestyle": "/images/chandeliers/swag-constellation/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/swag-constellation/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/swag-constellation/04-hero-70pct.png",
+      "detail": "/images/chandeliers/swag-constellation/05-detail-zoomed.png"
+    }
+  },
+  {
+    "id": "102",
+    "name": "Twisted Linen",
+    "slug": "twisted-linen",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "images": {
+      "studio": "/images/chandeliers/twisted-linen/studio.png",
+      "lifestyle": "/images/chandeliers/twisted-linen/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/twisted-linen/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/twisted-linen/04-hero-70pct.png",
+      "detail": "/images/chandeliers/twisted-linen/05-detail-zoomed.png"
+    }
+  }
 ]
