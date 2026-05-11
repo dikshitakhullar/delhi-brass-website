@@ -3,6 +3,7 @@
 import { useRef } from "react";
 import { motion, useInView } from "framer-motion";
 import Image from "next/image";
+import Link from "next/link";
 
 const categories = [
   {
@@ -85,93 +86,106 @@ export default function CategoryGrid() {
           }}
         >
           {/* Lighting — tall left, spans 2 rows on md+ */}
-          <motion.div
-            custom={0}
-            variants={cardVariants}
-            initial="hidden"
-            animate={inView ? "visible" : "hidden"}
-            className="relative rounded-[4px] overflow-hidden cursor-pointer
-              min-h-[clamp(300px,50vw,620px)]
-              md:row-span-2"
-          >
-            <Image
-              src="/images/mockup/brass-petals.png"
-              alt="Brass Petal pendants"
-              fill
-              sizes="(max-width: 768px) 100vw, 50vw"
-              style={{ objectFit: "cover", objectPosition: "center 30%" }}
-            />
-            <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/45 pointer-events-none" />
-            <div className="absolute bottom-7 left-7 z-10">
-              <span className="font-heading text-[clamp(16px,1.5vw,20px)] tracking-[4px] text-white">LIGHTING</span>
-              <p className="text-[11px] text-white/70 mt-1.5">Chandeliers, pendants &amp; wall lights</p>
-            </div>
-          </motion.div>
+          <Link href="/chandeliers" style={{ textDecoration: "none" }}>
+            <motion.div
+              custom={0}
+              variants={cardVariants}
+              initial="hidden"
+              animate={inView ? "visible" : "hidden"}
+              className="relative rounded-[4px] overflow-hidden cursor-pointer
+                min-h-[clamp(300px,50vw,620px)]
+                md:row-span-2"
+            >
+              <Image
+                src="/images/mockup/brass-petals.png"
+                alt="Brass Petal pendants"
+                fill
+                sizes="(max-width: 768px) 100vw, 50vw"
+                style={{ objectFit: "cover", objectPosition: "center 30%" }}
+              />
+              <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/45 pointer-events-none" />
+              <div className="absolute bottom-7 left-7 z-10">
+                <span className="font-heading text-[clamp(16px,1.5vw,20px)] tracking-[4px] text-white">LIGHTING</span>
+                <p className="text-[11px] text-white/70 mt-1.5">Chandeliers, pendants &amp; wall lights</p>
+              </div>
+            </motion.div>
+          </Link>
 
           {/* Gates */}
-          <motion.div
-            custom={1}
-            variants={cardVariants}
-            initial="hidden"
-            animate={inView ? "visible" : "hidden"}
-            className="relative rounded-[4px] overflow-hidden cursor-pointer min-h-[clamp(200px,25vw,300px)]"
-          >
-            <Image
-              src="/images/mockup/gate-modern.png"
-              alt="Modern wood and steel gate"
-              fill
-              sizes="(max-width: 768px) 100vw, 50vw"
-              style={{ objectFit: "cover", objectPosition: "center" }}
-            />
-            <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/45 pointer-events-none" />
-            <div className="absolute bottom-6 left-6 z-10">
-              <span className="font-heading text-[16px] tracking-[4px] text-white">GATES</span>
-            </div>
-          </motion.div>
+          <Link href="/gates" style={{ textDecoration: "none" }}>
+            <motion.div
+              custom={1}
+              variants={cardVariants}
+              initial="hidden"
+              animate={inView ? "visible" : "hidden"}
+              className="relative rounded-[4px] overflow-hidden cursor-pointer min-h-[clamp(200px,25vw,300px)]"
+            >
+              <Image
+                src="/images/mockup/gate-modern.png"
+                alt="Modern wood and steel gate"
+                fill
+                sizes="(max-width: 768px) 100vw, 50vw"
+                style={{ objectFit: "cover", objectPosition: "center" }}
+              />
+              <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/45 pointer-events-none" />
+              <div className="absolute bottom-6 left-6 z-10">
+                <span className="font-heading text-[16px] tracking-[4px] text-white">GATES</span>
+              </div>
+            </motion.div>
+          </Link>
 
           {/* Railings */}
-          <motion.div
-            custom={2}
-            variants={cardVariants}
-            initial="hidden"
-            animate={inView ? "visible" : "hidden"}
-            className="relative rounded-[4px] overflow-hidden cursor-pointer min-h-[clamp(200px,25vw,300px)]"
-          >
-            <Image
-              src="/images/mockup/railing-brass.jpg"
-              alt="Ornate wrought iron staircase railing"
-              fill
-              sizes="(max-width: 768px) 100vw, 50vw"
-              style={{ objectFit: "cover", objectPosition: "center" }}
-            />
-            <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/45 pointer-events-none" />
-            <div className="absolute bottom-6 left-6 z-10">
-              <span className="font-heading text-[16px] tracking-[4px] text-white">RAILINGS</span>
-            </div>
-          </motion.div>
+          <Link href="/railings" style={{ textDecoration: "none" }}>
+            <motion.div
+              custom={2}
+              variants={cardVariants}
+              initial="hidden"
+              animate={inView ? "visible" : "hidden"}
+              className="relative rounded-[4px] overflow-hidden cursor-pointer min-h-[clamp(200px,25vw,300px)]"
+            >
+              <Image
+                src="/images/mockup/railing-brass.jpg"
+                alt="Ornate wrought iron staircase railing"
+                fill
+                sizes="(max-width: 768px) 100vw, 50vw"
+                style={{ objectFit: "cover", objectPosition: "center" }}
+              />
+              <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/45 pointer-events-none" />
+              <div className="absolute bottom-6 left-6 z-10">
+                <span className="font-heading text-[16px] tracking-[4px] text-white">RAILINGS</span>
+              </div>
+            </motion.div>
+          </Link>
 
           {/* Bespoke — spans 2 cols on md+ */}
-          <motion.div
-            custom={3}
-            variants={cardVariants}
-            initial="hidden"
-            animate={inView ? "visible" : "hidden"}
-            className="relative rounded-[4px] overflow-hidden cursor-pointer min-h-[clamp(200px,25vw,300px)]
-              md:col-span-2"
+          <a
+            href="https://wa.me/919810088181?text=Hi, I'd like to discuss a bespoke metalwork project."
+            target="_blank"
+            rel="noopener noreferrer"
+            style={{ textDecoration: "none" }}
+            className="md:col-span-2"
           >
-            <Image
-              src="/images/mockup/brass-bough.png"
-              alt="Bespoke metalwork"
-              fill
-              sizes="100vw"
-              style={{ objectFit: "cover", objectPosition: "center 40%" }}
-            />
-            <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/45 pointer-events-none" />
-            <div className="absolute bottom-6 left-6 z-10">
-              <span className="font-heading text-[16px] tracking-[4px] text-white">BESPOKE</span>
-              <p className="text-[11px] text-white/70 mt-1">Custom designs, any material, any scale</p>
-            </div>
-          </motion.div>
+            <motion.div
+              custom={3}
+              variants={cardVariants}
+              initial="hidden"
+              animate={inView ? "visible" : "hidden"}
+              className="relative rounded-[4px] overflow-hidden cursor-pointer min-h-[clamp(200px,25vw,300px)]"
+            >
+              <Image
+                src="/images/mockup/brass-bough.png"
+                alt="Bespoke metalwork"
+                fill
+                sizes="100vw"
+                style={{ objectFit: "cover", objectPosition: "center 40%" }}
+              />
+              <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/45 pointer-events-none" />
+              <div className="absolute bottom-6 left-6 z-10">
+                <span className="font-heading text-[16px] tracking-[4px] text-white">BESPOKE</span>
+                <p className="text-[11px] text-white/70 mt-1">Custom designs, any material, any scale</p>
+              </div>
+            </motion.div>
+          </a>
         </div>
       </div>
     </section>

@@ -5,7 +5,7 @@ import { useRef } from "react";
 import { motion, useInView } from "framer-motion";
 
 const footerNav = [
-  { label: "Lighting", href: "/lighting" },
+  { label: "Chandeliers", href: "/chandeliers" },
   { label: "Gates", href: "/gates" },
   { label: "Railings", href: "/railings" },
   { label: "Projects", href: "/projects" },

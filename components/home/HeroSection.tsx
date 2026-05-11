@@ -93,7 +93,7 @@ export default function HeroSection() {
           transition={{ duration: 0.4, delay: 0.2 }}
         >
           <a
-            href="/lighting"
+            href="/chandeliers"
             style={{
               padding: "14px 32px",
               background: "#1c1916",

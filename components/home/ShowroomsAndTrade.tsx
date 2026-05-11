@@ -91,7 +91,9 @@ export default function ShowroomsAndTrade() {
             Trade pricing, specification drawings, factory visits, and a private lookbook.
           </p>
           <a
-            href="/trade"
+            href="https://wa.me/919810088181?text=Hi, I'm an architect/designer interested in the trade programme."
+            target="_blank"
+            rel="noopener noreferrer"
             className="inline-block px-9 py-3.5 bg-[#dcc99b] text-[#1c1916] text-[11px] tracking-[3px] rounded-[2px] cursor-pointer hover:bg-[#c8b580] transition-colors duration-300"
           >
             OPEN THE TRADE PROGRAMME &rarr;
