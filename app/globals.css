@@ -10,6 +10,15 @@
   --color-db-muted: #555555;
   --color-db-border: #1A1A1A;
 
+  /* Cream palette for new design (db- prefix = Tailwind v4 utility classes) */
+  --color-db-cream: #f8f5f0;
+  --color-db-cream-light: #fcfaf6;
+  --color-db-cream-warm: #f5f0e6;
+  --color-db-charcoal: #1c1916;
+  --color-db-linen: #ece6da;
+  --color-db-stone: #8a7e6e;
+  --color-db-sand: #2a2218;
+
   --font-heading: var(--font-forum), serif;
   --font-body: var(--font-tenor-sans), sans-serif;
 
