@@ -36,39 +36,47 @@ function FadeIn({ children, delay = 0 }: { children: React.ReactNode; delay?: nu
 export default function AboutPage() {
   return (
     <main>
-      {/* ===== HERO ===== */}
-      <section style={{ background: "#f8f5f0", paddingTop: "clamp(100px, 12vw, 140px)", paddingBottom: 0, paddingLeft: "clamp(20px, 4vw, 60px)", paddingRight: "clamp(20px, 4vw, 60px)" }}>
-        <div style={{ maxWidth: 1200, margin: "0 auto" }}>
-          <motion.p style={{ fontSize: 10, letterSpacing: 5, color: "#aaa", marginBottom: 16 }} initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.5 }}>
-            OUR LEGACY
-          </motion.p>
-          <motion.h1 style={{ fontFamily: "var(--font-forum), serif", fontSize: "clamp(32px, 4.5vw, 56px)", fontWeight: 400, color: "#1a1a1a", letterSpacing: "clamp(2px, 0.4vw, 5px)", lineHeight: 1.15, margin: 0, maxWidth: 800 }} initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6, delay: 0.1 }}>
-            We have been lighting and building the quintessence of a new India, since 1948.
-          </motion.h1>
-          <motion.p style={{ fontSize: "clamp(14px, 1.2vw, 16px)", color: "#6a6050", lineHeight: 1.8, maxWidth: 580, marginTop: 24 }} initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.5, delay: 0.3 }}>
-            Ever since our establishment over seven decades ago, we have executed challenging
-            projects on a turnkey basis — from design to installation — using materials such as
-            wrought iron, stainless steel, brass, glass, and wood. Careful craftsmanship, good
-            communication, and promptness has enabled us to work on prestigious jobs for hotels
-            like Hyatt Regency, Park Royal, The Imperial, and several clients who demand the best there is.
-          </motion.p>
+      {/* ===== HERO — text left, image right ===== */}
+      <section style={{ background: "#f8f5f0", paddingTop: "clamp(100px, 12vw, 140px)", paddingBottom: "clamp(48px, 6vw, 72px)", paddingLeft: "clamp(20px, 4vw, 60px)", paddingRight: "clamp(20px, 4vw, 60px)" }}>
+        <div className="about-hero" style={{ maxWidth: 1200, margin: "0 auto", display: "grid", gap: "clamp(32px, 5vw, 64px)", alignItems: "center" }}>
+          {/* Left: text */}
+          <div>
+            <motion.p style={{ fontSize: 10, letterSpacing: 5, color: "#aaa", marginBottom: 16 }} initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.5 }}>
+              OUR LEGACY
+            </motion.p>
+            <motion.h1 style={{ fontFamily: "var(--font-forum), serif", fontSize: "clamp(28px, 3.5vw, 48px)", fontWeight: 400, color: "#1a1a1a", letterSpacing: "clamp(2px, 0.4vw, 5px)", lineHeight: 1.15, margin: 0 }} initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6, delay: 0.1 }}>
+              We have been lighting and building the quintessence of a new India, since 1948.
+            </motion.h1>
+            <motion.p style={{ fontSize: "clamp(13px, 1.1vw, 15px)", color: "#6a6050", lineHeight: 1.8, marginTop: 24 }} initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.5, delay: 0.3 }}>
+              Ever since our establishment over seven decades ago, we have executed challenging
+              projects on a turnkey basis — from design to installation — using materials such as
+              wrought iron, stainless steel, brass, glass, and wood. Careful craftsmanship, good
+              communication, and promptness has enabled us to work on prestigious jobs for hotels
+              like Hyatt Regency, Park Royal, The Imperial, and several clients who demand the best there is.
+            </motion.p>
+          </div>
+
+          {/* Right: image */}
+          <motion.div
+            style={{ borderRadius: 8, overflow: "hidden", position: "relative", aspectRatio: "3/4", minHeight: 300 }}
+            initial={{ opacity: 0, y: 20 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.6, delay: 0.3 }}
+          >
+            <Image
+              src="/images/about/hk-showroom-1960s.jpg"
+              alt="K.L. Khullar, founder, touring the first Delhi Brass showroom in the 1960s"
+              fill
+              style={{ objectFit: "cover" }}
+              priority
+            />
+          </motion.div>
         </div>
 
-        {/* Hero image */}
-        <motion.div
-          style={{ maxWidth: 1200, margin: "40px auto 0", borderRadius: 8, overflow: "hidden", position: "relative", aspectRatio: "21/9" }}
-          initial={{ opacity: 0, y: 20 }}
-          animate={{ opacity: 1, y: 0 }}
-          transition={{ duration: 0.6, delay: 0.4 }}
-        >
-          <Image
-            src="/images/mockup/hero-landscape-v2.png"
-            alt="Delhi Brass — Grand lobby with chandelier, railing, and wall sconces"
-            fill
-            style={{ objectFit: "cover" }}
-            priority
-          />
-        </motion.div>
+        <style>{`
+          .about-hero { grid-template-columns: 1fr; }
+          @media (min-width: 768px) { .about-hero { grid-template-columns: 1.2fr 1fr; } }
+        `}</style>
       </section>
 
       {/* ===== STATS BAR ===== */}
