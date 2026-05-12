@@ -65,8 +65,8 @@ export default function PoliciesPage() {
                 >
                   WHATSAPP US
                 </a>
-                <a href="tel:+919810088181" style={{ padding: "12px 24px", border: "1px solid rgba(42,34,24,0.2)", color: "#2a2218", fontSize: 10, letterSpacing: 3, borderRadius: 2, textDecoration: "none" }}>
-                  CALL: +91 98100 88181
+                <a href="/contact" style={{ padding: "12px 24px", border: "1px solid rgba(42,34,24,0.2)", color: "#2a2218", fontSize: 10, letterSpacing: 3, borderRadius: 2, textDecoration: "none" }}>
+                  CONTACT US
                 </a>
               </div>
             </div>
