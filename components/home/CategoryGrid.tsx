@@ -65,8 +65,8 @@ export default function CategoryGrid() {
             </motion.div>
           </Link>
 
-          {/* RAILINGS */}
-          <Link href="/railings" style={{ textDecoration: "none", gridArea: "railings" }}>
+          {/* RAILINGS — coming soon */}
+          <div style={{ gridArea: "railings" }}>
             <motion.div custom={2} variants={cardVariants} initial="hidden" animate={inView ? "visible" : "hidden"}
               style={{ borderRadius: 4, overflow: "hidden", cursor: "pointer", position: "relative", height: "100%", minHeight: 200 }}
             >
@@ -76,7 +76,7 @@ export default function CategoryGrid() {
                 <span style={{ fontFamily: "var(--font-forum), serif", fontSize: 16, letterSpacing: 4, color: "#fff" }}>RAILINGS</span>
               </div>
             </motion.div>
-          </Link>
+          </div>
 
           {/* BESPOKE */}
           <a href="https://wa.me/919810088181?text=Hi, I'd like to discuss a bespoke metalwork project." target="_blank" rel="noopener noreferrer" style={{ textDecoration: "none", gridArea: "bespoke" }}>
