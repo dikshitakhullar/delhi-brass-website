@@ -38,10 +38,8 @@ export default function TradePage() {
     e.preventDefault();
     setSubmitting(true);
     try {
-      await fetch("https://script.google.com/macros/s/AKfycbx31EMYrnMSqTAjq-oN8Y27y8vAvw8IyPENqF1CiZpzptLovIcYXKwsTEt8KzZCgIoq/exec", {
+      await fetch("https://script.google.com/macros/s/AKfycbzABMX5__V795QhuQG0WKvGmRU_sZJQjxekIg-mcbnX86rmjZzABAvX4fiyLfKxPJgG/exec", {
         method: "POST",
-        mode: "no-cors",
-        headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ formType: "trade", ...form }),
       });
     } catch (err) {
