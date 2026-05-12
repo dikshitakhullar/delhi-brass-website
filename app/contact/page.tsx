@@ -59,7 +59,7 @@ export default function ContactPage() {
         <div style={{ maxWidth: 1000, margin: "0 auto", display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))", gap: 20 }}>
           {locations.map((loc, i) => (
             <FadeIn key={loc.name} delay={i * 0.08}>
-              <div style={{ background: "#ece6da", borderRadius: 12, padding: "clamp(28px, 3vw, 40px)", border: "1px solid rgba(180,160,130,0.15)" }}>
+              <div style={{ background: "#ece6da", borderRadius: 12, padding: "clamp(28px, 3vw, 40px)", border: "1px solid rgba(180,160,130,0.15)", height: "100%" }}>
                 <h3 style={{ fontFamily: "var(--font-forum), serif", fontSize: 20, letterSpacing: 4, fontWeight: 400, color: "#2a2218", marginBottom: 16 }}>{loc.name}</h3>
                 {loc.lines.map((l) => (
                   <p key={l} style={{ fontSize: 13, color: "#6a6050", lineHeight: 1.6 }}>{l}</p>
@@ -94,7 +94,8 @@ export default function ContactPage() {
                 {" · "}
                 <a href="tel:+919871088181" style={{ color: "inherit" }}>+91 98710 88181</a>
               </p>
-              <p style={{ fontSize: 13 }}>
+              <p style={{ fontSize: 13, display: "flex", alignItems: "center", gap: 6 }}>
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#2a2218" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="2" y="2" width="20" height="20" rx="5" ry="5"/><path d="M16 11.37A4 4 0 1 1 12.63 8 4 4 0 0 1 16 11.37z"/><line x1="17.5" y1="6.5" x2="17.51" y2="6.5"/></svg>
                 <a href="https://instagram.com/delhibrass" target="_blank" rel="noopener noreferrer" style={{ color: "#2a2218", textDecoration: "none" }}>
                   @delhibrass
                 </a>
