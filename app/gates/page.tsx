@@ -109,7 +109,7 @@ function GateCard({ gate, onClick }: { gate: Gate; onClick: () => void }) {
         }} className="group-hover:!translate-y-0">
           <span style={{ fontSize: 10, letterSpacing: 2, color: "#f5f0e8" }}>VIEW DETAILS</span>
           <a
-            href={`https://wa.me/${WA}?text=${encodeURIComponent(`Hi, I'd like to enquire about the ${gate.name} gate.`)}`}
+            href={`https://wa.me/${WA}?text=${encodeURIComponent(`Hi! I'm interested in the ${gate.name} gate design. Could you share more details?`)}`}
             target="_blank" rel="noopener noreferrer"
             onClick={(e) => e.stopPropagation()}
             style={{ fontSize: 9, letterSpacing: 2, color: "#1c1916", background: "#dcc99b", padding: "6px 12px", borderRadius: 2, textDecoration: "none" }}
@@ -168,7 +168,7 @@ function GateModal({ gate, onClose }: { gate: Gate; onClose: () => void }) {
 
           <div style={{ display: "flex", gap: 12, flexWrap: "wrap" }}>
             <a
-              href={`https://wa.me/${WA}?text=${encodeURIComponent(`Hi, I'd like to enquire about the ${gate.name} gate design.`)}`}
+              href={`https://wa.me/${WA}?text=${encodeURIComponent(`Hi! I'm interested in the ${gate.name} gate. Could you tell me about pricing, materials, and custom sizing?`)}`}
               target="_blank" rel="noopener noreferrer"
               style={{ padding: "14px 28px", background: "#1c1916", color: "#f5f0e8", fontSize: 10, letterSpacing: 3, borderRadius: 2, textDecoration: "none" }}
             >

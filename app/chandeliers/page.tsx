@@ -137,7 +137,7 @@ function ProductCard({ product, onClick }: { product: Product; onClick: () => vo
         }}>
           <span style={{ fontSize: 10, letterSpacing: 2, color: "#f5f0e8" }}>QUICK VIEW</span>
           <a
-            href={`https://wa.me/${WA}?text=${encodeURIComponent(`Hi, I'd like to enquire about the ${product.name} (${product.collection}).`)}`}
+            href={`https://wa.me/${WA}?text=${encodeURIComponent(`Hi! I'm interested in the ${product.name} from your ${product.collection} collection. Could you share more details?`)}`}
             target="_blank" rel="noopener noreferrer"
             onClick={(e) => e.stopPropagation()}
             style={{ fontSize: 9, letterSpacing: 2, color: "#1c1916", background: "#dcc99b", padding: "6px 12px", borderRadius: 2, textDecoration: "none" }}
@@ -290,7 +290,7 @@ function ProductModal({ product, onClose, onNext, onPrev, current, total }: {
 
           <div style={{ display: "flex", gap: 10, flexWrap: "wrap" }}>
             <a
-              href={`https://wa.me/${WA}?text=${encodeURIComponent(`Hi, I'd like to enquire about the ${product.name} from the ${product.collection} collection.`)}`}
+              href={`https://wa.me/${WA}?text=${encodeURIComponent(`Hi! I'm interested in the ${product.name} (${product.collection}). Could you tell me about pricing, sizes, and customisation options?`)}`}
               target="_blank" rel="noopener noreferrer"
               style={{ padding: "12px 24px", background: "#1c1916", color: "#f5f0e8", fontSize: 10, letterSpacing: 3, borderRadius: 2, textDecoration: "none" }}
             >
