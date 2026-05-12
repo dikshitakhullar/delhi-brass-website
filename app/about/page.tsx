@@ -37,7 +37,7 @@ export default function AboutPage() {
   return (
     <main>
       {/* ===== HERO ===== */}
-      <section style={{ background: "#f8f5f0", paddingTop: "clamp(100px, 12vw, 140px)", paddingBottom: "clamp(40px, 5vw, 60px)", paddingLeft: "clamp(20px, 4vw, 60px)", paddingRight: "clamp(20px, 4vw, 60px)" }}>
+      <section style={{ background: "#f8f5f0", paddingTop: "clamp(100px, 12vw, 140px)", paddingBottom: 0, paddingLeft: "clamp(20px, 4vw, 60px)", paddingRight: "clamp(20px, 4vw, 60px)" }}>
         <div style={{ maxWidth: 1200, margin: "0 auto" }}>
           <motion.p style={{ fontSize: 10, letterSpacing: 5, color: "#aaa", marginBottom: 16 }} initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.5 }}>
             OUR LEGACY
@@ -53,6 +53,22 @@ export default function AboutPage() {
             like Hyatt Regency, Park Royal, The Imperial, and several clients who demand the best there is.
           </motion.p>
         </div>
+
+        {/* Hero image */}
+        <motion.div
+          style={{ maxWidth: 1200, margin: "40px auto 0", borderRadius: 8, overflow: "hidden", position: "relative", aspectRatio: "21/9" }}
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.6, delay: 0.4 }}
+        >
+          <Image
+            src="/images/mockup/hero-landscape-v2.png"
+            alt="Delhi Brass — Grand lobby with chandelier, railing, and wall sconces"
+            fill
+            style={{ objectFit: "cover" }}
+            priority
+          />
+        </motion.div>
       </section>
 
       {/* ===== STATS BAR ===== */}
@@ -101,7 +117,7 @@ export default function AboutPage() {
                 year: "c. 1970s",
                 title: "The Second Generation",
                 text: "Satish Khullar, Jagdish Khullar, and Ranjana Khullar took the reins. A visit from Savita Behen (renowned social worker and former MP of Rajya Sabha) after a tour of the factory marked the company's growing prominence. Major hospitality contracts followed — Hyatt Regency, Park Royal, The Imperial.",
-                image: "/images/about/hk-factory-visit-1970s.jpg",
+                image: "/images/about/hk-savita-behen-1970s.jpg",
               },
               {
                 year: "c. 1980s",
