@@ -4,13 +4,6 @@ import { useState } from "react";
 
 const titles = ["Mr.", "Ms.", "Mrs.", "Dr.", "Ar."];
 
-const pocOptions = [
-  "Dikshit Khullar",
-  "Satish Khullar",
-  "Jagdish Khullar",
-  "Showroom Staff",
-  "Other",
-];
 
 export default function ContactForm() {
   const [form, setForm] = useState({
@@ -162,7 +155,7 @@ export default function ContactForm() {
       <div
         style={{
           background: "#1c1916",
-          padding: "48px 24px 40px",
+          padding: "100px 24px 40px",
           textAlign: "center",
         }}
       >
@@ -261,22 +254,14 @@ export default function ContactForm() {
 
         {/* POC at Delhi Brass */}
         <div style={{ marginBottom: 28 }}>
-          <label style={labelStyle}>POC AT DELHI BRASS *</label>
-          <select
+          <label style={labelStyle}>POC AT DELHI BRASS</label>
+          <input
+            type="text"
+            placeholder="e.g. Dikshit, Satish"
             value={form.poc}
             onChange={(e) => update("poc", e.target.value)}
-            required
             style={inputStyle}
-          >
-            <option value="" disabled>
-              Select point of contact
-            </option>
-            {pocOptions.map((p) => (
-              <option key={p} value={p}>
-                {p}
-              </option>
-            ))}
-          </select>
+          />
         </div>
 
         {/* City */}
@@ -345,20 +330,22 @@ export default function ContactForm() {
         {/* Submit */}
         <button
           type="submit"
+          disabled={submitting}
           style={{
             width: "100%",
             padding: "16px",
-            background: "#1c1916",
+            background: submitting ? "#8a7e6e" : "#1c1916",
             color: "#f5f0e8",
             border: "none",
             borderRadius: 8,
             fontSize: 12,
             letterSpacing: 3,
-            cursor: "pointer",
+            cursor: submitting ? "wait" : "pointer",
             fontFamily: "'Tenor Sans', sans-serif",
+            transition: "background 0.2s",
           }}
         >
-          SAVE CONTACT
+          {submitting ? "SAVING..." : "SAVE CONTACT"}
         </button>
 
         <p

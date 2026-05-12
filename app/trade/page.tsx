@@ -147,8 +147,8 @@ export default function TradePage() {
                   <label style={{ display: "block", fontSize: 11, letterSpacing: 2, color: "#8a7e6e", marginBottom: 6 }}>ABOUT YOUR CURRENT PROJECT</label>
                   <textarea value={form.project} onChange={(e) => update("project", e.target.value)} rows={4} placeholder="Brief description — scope, timeline, materials of interest..." style={{ ...inputStyle, resize: "vertical" }} />
                 </div>
-                <button type="submit" style={{ padding: "16px", background: "#1c1916", color: "#f5f0e8", border: "none", borderRadius: 4, fontSize: 11, letterSpacing: 3, cursor: "pointer", fontFamily: "var(--font-tenor-sans), sans-serif" }}>
-                  SUBMIT APPLICATION
+                <button type="submit" disabled={submitting} style={{ padding: "16px", background: submitting ? "#8a7e6e" : "#1c1916", color: "#f5f0e8", border: "none", borderRadius: 4, fontSize: 11, letterSpacing: 3, cursor: submitting ? "wait" : "pointer", fontFamily: "var(--font-tenor-sans), sans-serif", transition: "background 0.2s" }}>
+                  {submitting ? "SUBMITTING..." : "SUBMIT APPLICATION"}
                 </button>
                 <p style={{ textAlign: "center", fontSize: 12, color: "#aaa" }}>
                   Or <a href={`https://wa.me/${WA}?text=${encodeURIComponent("Hi! I'm an architect/designer interested in your trade programme.")}`} target="_blank" rel="noopener noreferrer" style={{ color: "#2a2218", textDecoration: "underline" }}>WhatsApp us directly</a>
