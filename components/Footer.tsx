@@ -7,7 +7,10 @@ import { motion, useInView } from "framer-motion";
 const footerNav = [
   { label: "Chandeliers", href: "/chandeliers" },
   { label: "Gates", href: "/gates" },
-  { label: "About", href: "/about" },
+  { label: "About Us", href: "/about" },
+  { label: "Contact Us", href: "/contact" },
+  { label: "Trade Programme", href: "/trade" },
+  { label: "Policies", href: "/policies" },
 ];
 
 const colVariants = {
