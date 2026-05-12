@@ -142,7 +142,7 @@ export default function AboutPage() {
               {
                 year: "Today",
                 title: "Third Generation",
-                text: "The grandsons now run the factory in Gurgaon and showrooms across Delhi — including our newest space in Khan Market. Recent projects include M3M Trump Tower, DLF Camellias, Central Park Resorts, and Paras Quartier. The hands haven't changed. The tools have.",
+                text: "The grandsons now run the factory in Gurgaon and showrooms across Delhi — including our flagship store in Khan Market. Recent projects include M3M Trump Tower, DLF Camellias, Central Park Resorts, and Paras Quartier. The hands haven't changed. The tools have.",
                 image: null,
               },
             ].map((item, i) => (

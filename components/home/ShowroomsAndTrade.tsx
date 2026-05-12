@@ -10,7 +10,7 @@ const showrooms = [
   },
   {
     name: "KHAN MARKET",
-    desc: "Our newest space in the heart of New Delhi.",
+    desc: "Our flagship store in the heart of New Delhi.",
   },
 ];
 
