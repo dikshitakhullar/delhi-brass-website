@@ -32,9 +32,22 @@ export default function TradePage() {
   const [submitted, setSubmitted] = useState(false);
   const update = (k: string, v: string) => setForm((p) => ({ ...p, [k]: v }));
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const [submitting, setSubmitting] = useState(false);
+
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    console.log("Trade application:", form);
+    setSubmitting(true);
+    try {
+      await fetch("https://script.google.com/macros/s/AKfycbx31EMYrnMSqTAjq-oN8Y27y8vAvw8IyPENqF1CiZpzptLovIcYXKwsTEt8KzZCgIoq/exec", {
+        method: "POST",
+        mode: "no-cors",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ formType: "trade", ...form }),
+      });
+    } catch (err) {
+      console.error("Submit error:", err);
+    }
+    setSubmitting(false);
     setSubmitted(true);
   };
 

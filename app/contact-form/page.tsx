@@ -32,10 +32,22 @@ export default function ContactForm() {
   const update = (field: string, value: string) =>
     setForm((prev) => ({ ...prev, [field]: value }));
 
-  const handleSubmit = (e: React.FormEvent) => {
+  const [submitting, setSubmitting] = useState(false);
+
+  const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
-    // TODO: Connect to backend / Google Sheets / Supabase
-    console.log("Form submitted:", form);
+    setSubmitting(true);
+    try {
+      await fetch("https://script.google.com/macros/s/AKfycbx31EMYrnMSqTAjq-oN8Y27y8vAvw8IyPENqF1CiZpzptLovIcYXKwsTEt8KzZCgIoq/exec", {
+        method: "POST",
+        mode: "no-cors",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ formType: "designer", ...form }),
+      });
+    } catch (err) {
+      console.error("Submit error:", err);
+    }
+    setSubmitting(false);
     setSubmitted(true);
   };
 
@@ -359,7 +371,7 @@ export default function ContactForm() {
             marginTop: 16,
           }}
         >
-          Data is saved locally for now. Backend integration coming soon.
+          Contact saved to our records.
         </p>
       </form>
     </div>
