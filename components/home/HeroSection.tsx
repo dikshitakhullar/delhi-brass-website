@@ -28,8 +28,6 @@ export default function HeroSection() {
     return () => timers.forEach(clearTimeout);
   }, []);
 
-  const skip = phase === 2 && !!sessionStorage.getItem("db-intro-seen");
-
   return (
     <section
       style={{

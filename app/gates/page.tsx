@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useRef } from "react";
+import { useState, useRef, useEffect } from "react";
 import { motion, AnimatePresence, useInView } from "framer-motion";
 import Image from "next/image";
 import gatesData from "@/data/gates.json";
@@ -139,6 +139,13 @@ function GateCard({ gate, onClick }: { gate: Gate; onClick: () => void }) {
 
 /* ===== Gate Modal ===== */
 function GateModal({ gate, onClose }: { gate: Gate; onClose: () => void }) {
+  useEffect(() => {
+    document.body.style.overflow = "hidden";
+    const handler = (e: KeyboardEvent) => { if (e.key === "Escape") onClose(); };
+    window.addEventListener("keydown", handler);
+    return () => { document.body.style.overflow = ""; window.removeEventListener("keydown", handler); };
+  }, [onClose]);
+
   return (
     <motion.div style={{ position: "fixed", inset: 0, zIndex: 50, display: "flex", alignItems: "center", justifyContent: "center", padding: "clamp(16px, 3vw, 32px)" }} initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}>
       <div style={{ position: "absolute", inset: 0, background: "rgba(0,0,0,0.4)", backdropFilter: "blur(4px)" }} onClick={onClose} />

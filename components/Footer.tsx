@@ -123,7 +123,7 @@ export default function Footer() {
         style={{ borderColor: "rgba(220,201,155,0.06)" }}
       >
         <p className="text-[11px] tracking-[3px] text-[#555040]">
-          &copy; 2025 DELHI BRASS &middot; EST. 1948
+          &copy; {new Date().getFullYear()} DELHI BRASS &middot; EST. 1948
         </p>
       </div>
     </footer>
