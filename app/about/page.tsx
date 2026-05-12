@@ -88,40 +88,51 @@ export default function AboutPage() {
               {
                 year: "1948",
                 title: "The Beginning",
-                text: "K.L. Khullar founded Delhi Brass with just Rs 10 and a conviction that Indian hands could produce world-class metalwork. Little did he know that Delhi Brass would stand the test of time, and reserve a major stake of the market in the decades to come."
+                text: "K.L. Khullar founded Delhi Brass with just Rs 10 and a conviction that Indian hands could produce world-class metalwork. Little did he know that Delhi Brass would stand the test of time, and reserve a major stake of the market in the decades to come.",
+                image: null,
               },
               {
                 year: "c. 1960s",
                 title: "The First Showroom",
-                text: "K.L. Khullar, founder of Delhi Brass, giving a tour of the first showroom that adorned a ceiling braided with lamps manufactured at the factory. The MG Road showroom became the go-to destination for luxury lighting in the capital."
+                text: "K.L. Khullar giving a tour of the first showroom — a ceiling braided with lamps manufactured at the factory. The MG Road showroom became the go-to destination for luxury lighting in the capital.",
+                image: "/images/about/hk-showroom-1960s.jpg",
               },
               {
                 year: "c. 1970s",
                 title: "The Second Generation",
-                text: "Satish Khullar, Jagdish Khullar, and Ranjana Khullar took the reins. A visit from Savita Behen (renowned social worker and former MP of Rajya Sabha) after a tour of the factory marked the company's growing prominence. Major hospitality contracts followed — Hyatt Regency, Park Royal, The Imperial."
+                text: "Satish Khullar, Jagdish Khullar, and Ranjana Khullar took the reins. A visit from Savita Behen (renowned social worker and former MP of Rajya Sabha) after a tour of the factory marked the company's growing prominence. Major hospitality contracts followed — Hyatt Regency, Park Royal, The Imperial.",
+                image: "/images/about/hk-factory-visit-1970s.jpg",
               },
               {
                 year: "c. 1980s",
                 title: "The Machine Age",
-                text: "The factory acquired the highest tonnage of double-action power press in the country — a machine that gave Delhi Brass an edge above every other manufacturer in India. Workers and machinery at work in full swing. The factory went from hand-only to a hybrid of craft and precision engineering."
+                text: "The factory acquired the highest tonnage of double-action power press in the country — a machine that gave Delhi Brass an edge above every other manufacturer in India. Workers and machinery at work in full swing.",
+                image: "/images/about/hk-machinery-1980s.jpg",
               },
               {
                 year: "2000s",
                 title: "CNC & Laser",
-                text: "State-of-the-art CNC machines, laser cutters, and water jet cutters arrived. Using these machines, we can undertake projects that involve complex and challenging designs. We can literally cut any material — brass, steel, glass, stone, wood. The range expanded to gates, railings, screens, and furniture."
+                text: "State-of-the-art CNC machines, laser cutters, and water jet cutters arrived. We can literally cut any material — brass, steel, glass, stone, wood. The range expanded to gates, railings, screens, and furniture.",
+                image: null,
               },
               {
                 year: "Today",
                 title: "Third Generation",
-                text: "The grandsons now run the factory in Gurgaon and showrooms across Delhi — including our newest space in Khan Market. Recent projects include M3M Trump Tower, DLF Camellias, Central Park Resorts, and Paras Quartier. The hands haven't changed. The tools have."
+                text: "The grandsons now run the factory in Gurgaon and showrooms across Delhi — including our newest space in Khan Market. Recent projects include M3M Trump Tower, DLF Camellias, Central Park Resorts, and Paras Quartier. The hands haven't changed. The tools have.",
+                image: null,
               },
             ].map((item, i) => (
               <FadeIn key={item.year} delay={i * 0.06}>
-                <div style={{ marginBottom: "clamp(32px, 4vw, 48px)", position: "relative" }}>
+                <div style={{ marginBottom: "clamp(40px, 5vw, 56px)", position: "relative" }}>
                   <div style={{ position: "absolute", left: "clamp(-40px, -5vw, -60px)", top: 6, width: 8, height: 8, borderRadius: "50%", background: "#c4a872", marginLeft: 8 }} />
                   <p style={{ fontSize: 12, letterSpacing: 3, color: "#c4a872", marginBottom: 4 }}>{item.year}</p>
                   <h3 style={{ fontFamily: "var(--font-forum), serif", fontSize: "clamp(20px, 2vw, 26px)", fontWeight: 400, letterSpacing: 3, color: "#2a2218", marginBottom: 8 }}>{item.title}</h3>
                   <p style={{ fontSize: 14, color: "#6a6050", lineHeight: 1.8, maxWidth: 600 }}>{item.text}</p>
+                  {item.image && (
+                    <div style={{ marginTop: 20, borderRadius: 8, overflow: "hidden", position: "relative", maxWidth: 400 }}>
+                      <Image src={item.image} alt={`Delhi Brass ${item.year}`} width={400} height={300} style={{ width: "100%", height: "auto", display: "block" }} />
+                    </div>
+                  )}
                 </div>
               </FadeIn>
             ))}
