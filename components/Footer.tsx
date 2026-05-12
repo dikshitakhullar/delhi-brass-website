@@ -7,10 +7,7 @@ import { motion, useInView } from "framer-motion";
 const footerNav = [
   { label: "Chandeliers", href: "/chandeliers" },
   { label: "Gates", href: "/gates" },
-  { label: "Railings", href: "/railings" },
-  { label: "Projects", href: "/projects" },
   { label: "About", href: "/about" },
-  { label: "Trade Programme", href: "/trade" },
 ];
 
 const colVariants = {
@@ -37,103 +34,66 @@ export default function Footer() {
     >
       <div
         ref={ref}
-        className="max-w-[1200px] mx-auto grid grid-cols-1 sm:grid-cols-3 gap-8"
+        className="max-w-[1200px] mx-auto grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"
       >
         {/* Navigate */}
-        <motion.div
-          custom={0}
-          variants={colVariants}
-          initial="hidden"
-          animate={inView ? "visible" : "hidden"}
-        >
-          <h4
-            className="font-heading font-normal text-[#dcc99b] mb-6"
-            style={{ fontSize: 13, letterSpacing: 4 }}
-          >
-            NAVIGATE
-          </h4>
+        <motion.div custom={0} variants={colVariants} initial="hidden" animate={inView ? "visible" : "hidden"}>
+          <h4 className="font-heading font-normal text-[#dcc99b] mb-6" style={{ fontSize: 13, letterSpacing: 4 }}>NAVIGATE</h4>
           <ul className="space-y-3">
             {footerNav.map((link) => (
               <li key={link.href}>
-                <Link
-                  href={link.href}
-                  className="text-[13px] text-[#8a8070] hover:text-[#dcc99b] transition-colors duration-300"
-                >
-                  {link.label}
-                </Link>
+                <Link href={link.href} className="text-[13px] text-[#8a8070] hover:text-[#dcc99b] transition-colors duration-300">{link.label}</Link>
               </li>
             ))}
           </ul>
         </motion.div>
 
-        {/* Visit Us */}
-        <motion.div
-          custom={1}
-          variants={colVariants}
-          initial="hidden"
-          animate={inView ? "visible" : "hidden"}
-        >
-          <h4
-            className="font-heading font-normal text-[#dcc99b] mb-6"
-            style={{ fontSize: 13, letterSpacing: 4 }}
-          >
-            VISIT US
-          </h4>
-          <div className="space-y-4 text-[13px]">
-            <div>
-              <p className="text-[#f0e8dc] mb-1">MG Road, New Delhi</p>
-              <p className="text-[#8a8070]">Two showrooms, two doors apart</p>
-            </div>
-            <div>
-              <p className="text-[#f0e8dc] mb-1">Khan Market, New Delhi</p>
-              <p className="text-[#8a8070]">Walk in anytime</p>
-            </div>
-            <div>
-              <p className="text-[#f0e8dc] mb-1">Factory</p>
-              <p className="text-[#8a8070]">Gurgaon, Haryana</p>
-            </div>
+        {/* Khan Market */}
+        <motion.div custom={1} variants={colVariants} initial="hidden" animate={inView ? "visible" : "hidden"}>
+          <h4 className="font-heading font-normal text-[#dcc99b] mb-6" style={{ fontSize: 13, letterSpacing: 4 }}>SHOWROOM</h4>
+          <div className="space-y-1 text-[13px]">
+            <p className="text-[#f0e8dc]">Shop No. 46, Loknayak Bhawan</p>
+            <p className="text-[#8a8070]">Khan Market, New Delhi — 110003</p>
+            <p className="text-[#8a8070] mt-2">
+              <a href="tel:+911143504242" className="hover:text-[#dcc99b] transition-colors">+91-11-4350 4242</a>
+            </p>
+          </div>
+        </motion.div>
+
+        {/* Factory */}
+        <motion.div custom={2} variants={colVariants} initial="hidden" animate={inView ? "visible" : "hidden"}>
+          <h4 className="font-heading font-normal text-[#dcc99b] mb-6" style={{ fontSize: 13, letterSpacing: 4 }}>FACTORY</h4>
+          <div className="space-y-1 text-[13px]">
+            <p className="text-[#f0e8dc]">4651/279, Daulatabad Road</p>
+            <p className="text-[#8a8070]">Gurgaon (Near Railway Station), Haryana</p>
+            <p className="text-[#8a8070] mt-2">
+              <a href="tel:+911242469788" className="hover:text-[#dcc99b] transition-colors">+91-124-246 9788</a>
+            </p>
           </div>
         </motion.div>
 
         {/* Get in Touch */}
-        <motion.div
-          custom={2}
-          variants={colVariants}
-          initial="hidden"
-          animate={inView ? "visible" : "hidden"}
-        >
-          <h4
-            className="font-heading font-normal text-[#dcc99b] mb-6"
-            style={{ fontSize: 13, letterSpacing: 4 }}
-          >
-            GET IN TOUCH
-          </h4>
+        <motion.div custom={3} variants={colVariants} initial="hidden" animate={inView ? "visible" : "hidden"}>
+          <h4 className="font-heading font-normal text-[#dcc99b] mb-6" style={{ fontSize: 13, letterSpacing: 4 }}>GET IN TOUCH</h4>
           <div className="space-y-3 text-[13px]">
             <p>
-              <a
-                href="mailto:info@delhibrass.com"
-                className="text-[#8a8070] hover:text-[#dcc99b] transition-colors duration-300"
-              >
-                info@delhibrass.com
-              </a>
+              <a href="tel:+919810088181" className="text-[#f0e8dc] hover:text-[#dcc99b] transition-colors">+91 98100 88181</a>
             </p>
             <p>
-              <a
-                href="tel:+911234567890"
-                className="text-[#8a8070] hover:text-[#dcc99b] transition-colors duration-300"
-              >
-                +91 123 456 7890
-              </a>
+              <a href="tel:+919810005225" className="text-[#8a8070] hover:text-[#dcc99b] transition-colors">+91 98100 05225</a>
             </p>
-            <div className="pt-1">
+            <p>
+              <a href="tel:+919871088181" className="text-[#8a8070] hover:text-[#dcc99b] transition-colors">+91 98710 88181</a>
+            </p>
+            <div className="pt-2">
               <a
                 href="https://wa.me/919810088181"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-block px-6 py-2.5 text-white text-[10px] tracking-[2px] rounded-[4px] transition-opacity duration-300 hover:opacity-85"
-                style={{ background: "#1c1916" }}
+                className="inline-block px-5 py-2 text-[#1c1916] text-[10px] tracking-[2px] rounded-[2px] transition-opacity duration-300 hover:opacity-85"
+                style={{ background: "#dcc99b" }}
               >
-                WHATSAPP
+                WHATSAPP US
               </a>
             </div>
           </div>
