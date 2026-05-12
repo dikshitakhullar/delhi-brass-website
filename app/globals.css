@@ -42,3 +42,12 @@ body {
 html {
   scroll-behavior: smooth;
 }
+
+/* Hide scrollbar for collection tabs */
+.scrollbar-hide::-webkit-scrollbar { display: none; }
+.scrollbar-hide { -ms-overflow-style: none; scrollbar-width: none; }
+
+/* Hide product arrows on mobile */
+@media (max-width: 768px) {
+  .hidden-mobile { display: none !important; }
+}

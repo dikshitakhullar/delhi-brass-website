@@ -175,10 +175,10 @@ function GateModal({ gate, onClose }: { gate: Gate; onClose: () => void }) {
               ENQUIRE ON WHATSAPP
             </a>
             <a
-              href={`mailto:info@delhibrass.com?subject=Gate Enquiry: ${gate.name}`}
+              href="/about#showrooms"
               style={{ padding: "14px 28px", border: "1px solid #2a2218", color: "#2a2218", fontSize: 10, letterSpacing: 3, borderRadius: 2, textDecoration: "none" }}
             >
-              EMAIL US
+              VISIT US
             </a>
           </div>
         </div>

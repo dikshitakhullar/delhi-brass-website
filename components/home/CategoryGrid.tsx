@@ -5,49 +5,6 @@ import { motion, useInView } from "framer-motion";
 import Image from "next/image";
 import Link from "next/link";
 
-const categories = [
-  {
-    key: "lighting",
-    label: "LIGHTING",
-    sub: "Chandeliers, pendants & wall lights",
-    src: "/images/mockup/brass-petals.png",
-    alt: "Brass Petal pendants",
-    tall: true,
-    wide: false,
-    objectPosition: "center 30%",
-  },
-  {
-    key: "gates",
-    label: "GATES",
-    sub: "",
-    src: "/images/mockup/gate-modern.png",
-    alt: "Modern wood and steel gate",
-    tall: false,
-    wide: false,
-    objectPosition: "center",
-  },
-  {
-    key: "railings",
-    label: "RAILINGS",
-    sub: "",
-    src: "/images/mockup/railing-brass.jpg",
-    alt: "Ornate wrought iron staircase railing",
-    tall: false,
-    wide: false,
-    objectPosition: "center",
-  },
-  {
-    key: "bespoke",
-    label: "BESPOKE",
-    sub: "Custom designs, any material, any scale",
-    src: "/images/mockup/brass-bough.png",
-    alt: "Bespoke metalwork",
-    tall: false,
-    wide: true,
-    objectPosition: "center 40%",
-  },
-];
-
 const cardVariants = {
   hidden: { opacity: 0, y: 32 },
   visible: (i: number) => ({
@@ -62,132 +19,101 @@ export default function CategoryGrid() {
   const inView = useInView(ref, { once: true, margin: "-80px" });
 
   return (
-    <section
-      className="bg-[#fcfaf6] py-[clamp(60px,10vw,140px)] px-[clamp(20px,4vw,60px)]"
-    >
-      <div className="max-w-[1200px] mx-auto">
+    <section style={{ background: "#fcfaf6", padding: "clamp(60px,10vw,140px) clamp(20px,4vw,60px)" }}>
+      <div style={{ maxWidth: 1200, margin: "0 auto" }}>
         {/* Header */}
-        <div className="text-center mb-[clamp(40px,6vw,80px)]">
-          <p className="text-[10px] tracking-[5px] text-[#aaa] mb-3">WHAT WE MAKE</p>
-          <h2 className="font-heading text-[clamp(24px,2.5vw,32px)] tracking-[clamp(3px,0.5vw,6px)] font-normal text-[#1a1a1a]">
+        <div style={{ textAlign: "center", marginBottom: "clamp(40px,6vw,80px)" }}>
+          <p style={{ fontSize: 10, letterSpacing: 5, color: "#aaa", marginBottom: 12 }}>WHAT WE MAKE</p>
+          <h2 style={{ fontFamily: "var(--font-forum), serif", fontSize: "clamp(24px,2.5vw,32px)", letterSpacing: "clamp(3px,0.5vw,6px)", fontWeight: 400, color: "#1a1a1a" }}>
             Four disciplines, one craft.
           </h2>
-          <p className="text-[13px] text-[#888] max-w-[440px] mx-auto mt-3">
+          <p style={{ fontSize: 13, color: "#888", maxWidth: 440, margin: "12px auto 0" }}>
             Every piece made to order in our Gurgaon factory. Brass, steel, glass, wood — we work with all of them.
           </p>
         </div>
 
-        {/* Grid */}
+        {/* Asymmetric grid — 2fr 1fr 1fr on desktop, stacked on mobile */}
         <div
           ref={ref}
-          className="grid grid-cols-1 md:grid-cols-[1fr_1fr] gap-5"
-          style={{
-            gridTemplateRows: "auto",
-          }}
+          className="category-grid-layout"
+          style={{ display: "grid", gap: 16 }}
         >
-          {/* Lighting — tall left, spans 2 rows on md+ */}
-          <Link href="/chandeliers" style={{ textDecoration: "none" }}>
-            <motion.div
-              custom={0}
-              variants={cardVariants}
-              initial="hidden"
-              animate={inView ? "visible" : "hidden"}
-              className="relative rounded-[4px] overflow-hidden cursor-pointer
-                min-h-[clamp(300px,50vw,620px)]
-                md:row-span-2"
+          {/* LIGHTING — tall left */}
+          <Link href="/chandeliers" style={{ textDecoration: "none", gridArea: "lighting" }}>
+            <motion.div custom={0} variants={cardVariants} initial="hidden" animate={inView ? "visible" : "hidden"}
+              style={{ borderRadius: 4, overflow: "hidden", cursor: "pointer", position: "relative", height: "100%", minHeight: 300 }}
             >
-              <Image
-                src="/images/mockup/brass-petals.png"
-                alt="Brass Petal pendants"
-                fill
-                sizes="(max-width: 768px) 100vw, 50vw"
-                style={{ objectFit: "cover", objectPosition: "center 30%" }}
-              />
-              <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/45 pointer-events-none" />
-              <div className="absolute bottom-7 left-7 z-10">
-                <span className="font-heading text-[clamp(16px,1.5vw,20px)] tracking-[4px] text-white">LIGHTING</span>
-                <p className="text-[11px] text-white/70 mt-1.5">Chandeliers, pendants &amp; wall lights</p>
+              <Image src="/images/mockup/brass-petals.png" alt="Brass Petal pendants" fill sizes="(max-width: 768px) 100vw, 50vw" style={{ objectFit: "cover", objectPosition: "center 30%" }} />
+              <div style={{ position: "absolute", inset: 0, background: "linear-gradient(180deg, transparent 50%, rgba(0,0,0,0.45) 100%)" }} />
+              <div style={{ position: "absolute", bottom: 28, left: 28, zIndex: 2 }}>
+                <span style={{ fontFamily: "var(--font-forum), serif", fontSize: "clamp(16px,1.5vw,20px)", letterSpacing: 4, color: "#fff" }}>LIGHTING</span>
+                <p style={{ fontSize: 11, color: "rgba(255,255,255,0.7)", marginTop: 6 }}>Chandeliers, pendants &amp; wall lights</p>
               </div>
             </motion.div>
           </Link>
 
-          {/* Gates */}
-          <Link href="/gates" style={{ textDecoration: "none" }}>
-            <motion.div
-              custom={1}
-              variants={cardVariants}
-              initial="hidden"
-              animate={inView ? "visible" : "hidden"}
-              className="relative rounded-[4px] overflow-hidden cursor-pointer min-h-[clamp(200px,25vw,300px)]"
+          {/* GATES */}
+          <Link href="/gates" style={{ textDecoration: "none", gridArea: "gates" }}>
+            <motion.div custom={1} variants={cardVariants} initial="hidden" animate={inView ? "visible" : "hidden"}
+              style={{ borderRadius: 4, overflow: "hidden", cursor: "pointer", position: "relative", height: "100%", minHeight: 200 }}
             >
-              <Image
-                src="/images/mockup/gate-modern.png"
-                alt="Modern wood and steel gate"
-                fill
-                sizes="(max-width: 768px) 100vw, 50vw"
-                style={{ objectFit: "cover", objectPosition: "center" }}
-              />
-              <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/45 pointer-events-none" />
-              <div className="absolute bottom-6 left-6 z-10">
-                <span className="font-heading text-[16px] tracking-[4px] text-white">GATES</span>
+              <Image src="/images/mockup/gate-modern.png" alt="Modern gate" fill sizes="(max-width: 768px) 100vw, 25vw" style={{ objectFit: "cover" }} />
+              <div style={{ position: "absolute", inset: 0, background: "linear-gradient(180deg, transparent 40%, rgba(0,0,0,0.45) 100%)" }} />
+              <div style={{ position: "absolute", bottom: 24, left: 24, zIndex: 2 }}>
+                <span style={{ fontFamily: "var(--font-forum), serif", fontSize: 16, letterSpacing: 4, color: "#fff" }}>GATES</span>
               </div>
             </motion.div>
           </Link>
 
-          {/* Railings */}
-          <Link href="/railings" style={{ textDecoration: "none" }}>
-            <motion.div
-              custom={2}
-              variants={cardVariants}
-              initial="hidden"
-              animate={inView ? "visible" : "hidden"}
-              className="relative rounded-[4px] overflow-hidden cursor-pointer min-h-[clamp(200px,25vw,300px)]"
+          {/* RAILINGS */}
+          <Link href="/railings" style={{ textDecoration: "none", gridArea: "railings" }}>
+            <motion.div custom={2} variants={cardVariants} initial="hidden" animate={inView ? "visible" : "hidden"}
+              style={{ borderRadius: 4, overflow: "hidden", cursor: "pointer", position: "relative", height: "100%", minHeight: 200 }}
             >
-              <Image
-                src="/images/mockup/railing-brass.jpg"
-                alt="Ornate wrought iron staircase railing"
-                fill
-                sizes="(max-width: 768px) 100vw, 50vw"
-                style={{ objectFit: "cover", objectPosition: "center" }}
-              />
-              <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/45 pointer-events-none" />
-              <div className="absolute bottom-6 left-6 z-10">
-                <span className="font-heading text-[16px] tracking-[4px] text-white">RAILINGS</span>
+              <Image src="/images/mockup/railing-brass.jpg" alt="Wrought iron railing" fill sizes="(max-width: 768px) 100vw, 25vw" style={{ objectFit: "cover" }} />
+              <div style={{ position: "absolute", inset: 0, background: "linear-gradient(180deg, transparent 40%, rgba(0,0,0,0.45) 100%)" }} />
+              <div style={{ position: "absolute", bottom: 24, left: 24, zIndex: 2 }}>
+                <span style={{ fontFamily: "var(--font-forum), serif", fontSize: 16, letterSpacing: 4, color: "#fff" }}>RAILINGS</span>
               </div>
             </motion.div>
           </Link>
 
-          {/* Bespoke — spans 2 cols on md+ */}
-          <a
-            href="https://wa.me/919810088181?text=Hi, I'd like to discuss a bespoke metalwork project."
-            target="_blank"
-            rel="noopener noreferrer"
-            style={{ textDecoration: "none" }}
-            className="md:col-span-2"
-          >
-            <motion.div
-              custom={3}
-              variants={cardVariants}
-              initial="hidden"
-              animate={inView ? "visible" : "hidden"}
-              className="relative rounded-[4px] overflow-hidden cursor-pointer min-h-[clamp(200px,25vw,300px)]"
+          {/* BESPOKE */}
+          <a href="https://wa.me/919810088181?text=Hi, I'd like to discuss a bespoke metalwork project." target="_blank" rel="noopener noreferrer" style={{ textDecoration: "none", gridArea: "bespoke" }}>
+            <motion.div custom={3} variants={cardVariants} initial="hidden" animate={inView ? "visible" : "hidden"}
+              style={{ borderRadius: 4, overflow: "hidden", cursor: "pointer", position: "relative", height: "100%", minHeight: 200 }}
             >
-              <Image
-                src="/images/mockup/brass-bough.png"
-                alt="Bespoke metalwork"
-                fill
-                sizes="100vw"
-                style={{ objectFit: "cover", objectPosition: "center 40%" }}
-              />
-              <div className="absolute inset-0 bg-gradient-to-b from-transparent via-transparent to-black/45 pointer-events-none" />
-              <div className="absolute bottom-6 left-6 z-10">
-                <span className="font-heading text-[16px] tracking-[4px] text-white">BESPOKE</span>
-                <p className="text-[11px] text-white/70 mt-1">Custom designs, any material, any scale</p>
+              <Image src="/images/mockup/brass-bough.png" alt="Bespoke metalwork" fill sizes="(max-width: 768px) 100vw, 50vw" style={{ objectFit: "cover", objectPosition: "center 40%" }} />
+              <div style={{ position: "absolute", inset: 0, background: "linear-gradient(180deg, transparent 40%, rgba(0,0,0,0.45) 100%)" }} />
+              <div style={{ position: "absolute", bottom: 24, left: 24, zIndex: 2 }}>
+                <span style={{ fontFamily: "var(--font-forum), serif", fontSize: 16, letterSpacing: 4, color: "#fff" }}>BESPOKE</span>
+                <p style={{ fontSize: 11, color: "rgba(255,255,255,0.7)", marginTop: 4 }}>Custom designs, any material, any scale</p>
               </div>
             </motion.div>
           </a>
         </div>
       </div>
+
+      {/* Grid layout CSS */}
+      <style>{`
+        .category-grid-layout {
+          grid-template-columns: 1fr;
+          grid-template-areas:
+            "lighting"
+            "gates"
+            "railings"
+            "bespoke";
+        }
+        @media (min-width: 768px) {
+          .category-grid-layout {
+            grid-template-columns: 2fr 1fr 1fr;
+            grid-template-rows: 300px 300px;
+            grid-template-areas:
+              "lighting gates railings"
+              "lighting bespoke bespoke";
+          }
+        }
+      `}</style>
     </section>
   );
 }

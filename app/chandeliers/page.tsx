@@ -199,54 +199,46 @@ function ProductModal({ product, onClose, onNext, onPrev, current, total }: {
     return () => { document.body.style.overflow = ""; };
   }, []);
 
-  const arrowStyle: React.CSSProperties = {
-    position: "absolute", top: "50%", transform: "translateY(-50%)",
-    width: 40, height: 40, borderRadius: "50%",
-    background: "rgba(248,245,240,0.9)", border: "1px solid rgba(180,160,130,0.2)",
+  const arrowBtn: React.CSSProperties = {
+    width: 36, height: 36, borderRadius: "50%",
+    background: "#f8f5f0", border: "1px solid rgba(180,160,130,0.2)",
     display: "flex", alignItems: "center", justifyContent: "center",
-    cursor: "pointer", fontSize: 18, color: "#2a2218", zIndex: 20,
-    backdropFilter: "blur(4px)",
+    cursor: "pointer", fontSize: 16, color: "#2a2218", zIndex: 20,
   };
 
   return (
     <motion.div
-      style={{ position: "fixed", inset: 0, zIndex: 60, display: "flex", alignItems: "center", justifyContent: "center" }}
+      style={{ position: "fixed", inset: 0, zIndex: 60, display: "flex", alignItems: "flex-start", justifyContent: "center", paddingTop: 80 }}
       initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }}
+      transition={{ duration: 0.15 }}
     >
-      {/* Backdrop — strong dim */}
-      <div style={{ position: "absolute", inset: 0, background: "rgba(10,8,6,0.7)", backdropFilter: "blur(8px)" }} onClick={onClose} />
+      {/* Backdrop — clean dim, no blur */}
+      <div style={{ position: "absolute", inset: 0, background: "rgba(10,8,6,0.65)" }} onClick={onClose} />
 
-      {/* Prev/Next product arrows — outside the modal */}
-      {onPrev && (
-        <button onClick={onPrev} style={{ ...arrowStyle, left: "clamp(8px, 2vw, 24px)" }} aria-label="Previous product">
-          &#8249;
-        </button>
-      )}
-      {onNext && (
-        <button onClick={onNext} style={{ ...arrowStyle, right: "clamp(8px, 2vw, 24px)" }} aria-label="Next product">
-          &#8250;
-        </button>
-      )}
+      {/* Modal wrapper — includes arrows */}
+      <div style={{ position: "relative", zIndex: 10, display: "flex", alignItems: "center", gap: 12, maxWidth: 920, width: "100%", padding: "0 clamp(12px, 2vw, 20px)" }}>
 
-      {/* Modal */}
-      <motion.div
-        style={{
-          position: "relative", zIndex: 10, background: "#f8f5f0", borderRadius: 12,
-          maxWidth: 880, width: "calc(100% - clamp(80px, 10vw, 120px))",
-          maxHeight: "85vh", overflowY: "auto",
-          display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))",
-          boxShadow: "0 24px 80px rgba(0,0,0,0.3)",
-        }}
-        initial={{ scale: 0.95, y: 20 }} animate={{ scale: 1, y: 0 }} exit={{ scale: 0.95, y: 20 }}
-        transition={{ duration: 0.25 }}
-      >
-        {/* Close + counter */}
-        <div style={{ position: "absolute", top: 16, right: 16, zIndex: 20, display: "flex", alignItems: "center", gap: 12 }}>
-          <span style={{ fontSize: 10, letterSpacing: 1, color: "#aaa" }}>{current} / {total}</span>
-          <button onClick={onClose} aria-label="Close" style={{ background: "rgba(248,245,240,0.9)", border: "1px solid rgba(180,160,130,0.2)", borderRadius: "50%", width: 32, height: 32, display: "flex", alignItems: "center", justifyContent: "center", fontSize: 14, color: "#2a2218", cursor: "pointer" }}>
-            &#x2715;
-          </button>
-        </div>
+        {/* Prev product arrow — desktop only */}
+        {onPrev && (
+          <button onClick={onPrev} className="hidden-mobile" style={{ ...arrowBtn, flexShrink: 0 }} aria-label="Previous product">&#8249;</button>
+        )}
+
+        {/* Modal card */}
+        <motion.div
+          style={{
+            flex: 1, background: "#f8f5f0", borderRadius: 8,
+            maxHeight: "calc(100vh - 100px)", overflowY: "auto",
+            display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(280px, 1fr))",
+            boxShadow: "0 16px 60px rgba(0,0,0,0.25)",
+          }}
+          initial={{ y: 24 }} animate={{ y: 0 }} exit={{ y: 24 }}
+          transition={{ duration: 0.2 }}
+        >
+          {/* Close + counter */}
+          <div style={{ position: "absolute", top: 12, right: 12, zIndex: 20, display: "flex", alignItems: "center", gap: 8 }}>
+            <span style={{ fontSize: 9, letterSpacing: 1, color: "#999" }}>{current}/{total}</span>
+            <button onClick={onClose} aria-label="Close" style={{ ...arrowBtn, width: 28, height: 28, fontSize: 12 }}>&#x2715;</button>
+          </div>
 
         {/* Left: Image + thumbnails */}
         <div style={{ padding: "clamp(16px, 2vw, 24px)", position: "relative" }}>
@@ -260,10 +252,10 @@ function ProductModal({ product, onClose, onNext, onPrev, current, total }: {
 
             {/* Image arrows */}
             {imgIdx > 0 && (
-              <button onClick={() => setImgIdx(imgIdx - 1)} style={{ ...arrowStyle, left: 8, width: 32, height: 32, fontSize: 14 }} aria-label="Previous image">&#8249;</button>
+              <button onClick={() => setImgIdx(imgIdx - 1)} style={{ ...arrowBtn, position: "absolute" as const, top: "50%", transform: "translateY(-50%)", left: 8, width: 32, height: 32, fontSize: 14 }} aria-label="Previous image">&#8249;</button>
             )}
             {imgIdx < imageEntries.length - 1 && (
-              <button onClick={() => setImgIdx(imgIdx + 1)} style={{ ...arrowStyle, right: 8, width: 32, height: 32, fontSize: 14 }} aria-label="Next image">&#8250;</button>
+              <button onClick={() => setImgIdx(imgIdx + 1)} style={{ ...arrowBtn, position: "absolute" as const, top: "50%", transform: "translateY(-50%)", right: 8, width: 32, height: 32, fontSize: 14 }} aria-label="Next image">&#8250;</button>
             )}
 
             {/* Image label */}
@@ -305,14 +297,20 @@ function ProductModal({ product, onClose, onNext, onPrev, current, total }: {
               ENQUIRE NOW
             </a>
             <a
-              href={`mailto:info@delhibrass.com?subject=Enquiry: ${product.name}`}
+              href="/about#showrooms"
               style={{ padding: "12px 24px", border: "1px solid rgba(42,34,24,0.2)", color: "#2a2218", fontSize: 10, letterSpacing: 3, borderRadius: 2, textDecoration: "none" }}
             >
-              EMAIL US
+              VISIT US
             </a>
           </div>
         </div>
-      </motion.div>
+        </motion.div>
+
+        {/* Next product arrow — desktop only */}
+        {onNext && (
+          <button onClick={onNext} className="hidden-mobile" style={{ ...arrowBtn, flexShrink: 0 }} aria-label="Next product">&#8250;</button>
+        )}
+      </div>
     </motion.div>
   );
 }
