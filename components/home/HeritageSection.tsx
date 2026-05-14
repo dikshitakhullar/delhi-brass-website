@@ -62,7 +62,7 @@ export default function HeritageSection() {
         </h3>
 
         <p className="text-[14px] text-[#6a6050] leading-[1.8] max-w-[540px] mx-auto mt-6">
-          K.L. Khullar founded Delhi Brass with Rs&nbsp;10 and a conviction that Indian hands could
+          KL Khullar founded Delhi Brass with Rs&nbsp;10 and a conviction that Indian hands could
           produce world-class metalwork. Seventy-seven years later, his grandsons run the same factory
           in Gurgaon - now equipped with CNC lasers, water jets, and specialized machinery.
         </p>
