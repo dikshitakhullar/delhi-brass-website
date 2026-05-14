@@ -303,7 +303,7 @@ export default function AboutPage() {
                 <h3 style={{ fontFamily: "var(--font-forum), serif", fontSize: 20, letterSpacing: 4, fontWeight: 400, color: "#2a2218", marginBottom: 12 }}>MG ROAD</h3>
                 <p style={{ fontSize: 13, color: "#6a6050", lineHeight: 1.6, marginBottom: 4 }}>Plot No. 47 & 49, MG Road</p>
                 <p style={{ fontSize: 13, color: "#8a7e6e", lineHeight: 1.6, marginBottom: 12 }}>New Delhi — 110030</p>
-                <p style={{ fontSize: 13, color: "#6a6050" }}><a href="tel:+919810088181" style={{ color: "inherit" }}>+91 98100 88181</a></p>
+                <p style={{ fontSize: 13, color: "#6a6050" }}><a href="tel:+911144775161" style={{ color: "inherit" }}>+91-11-4477 5161</a></p>
               </div>
 
               <div style={{ background: "#ece6da", borderRadius: 12, padding: "clamp(28px, 3vw, 40px)", border: "1px solid rgba(180,160,130,0.15)" }}>
