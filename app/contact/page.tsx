@@ -26,8 +26,8 @@ const locations = [
   {
     name: "MG ROAD",
     lines: ["Plot No. 47 & 49", "MG Road, New Delhi — 110030"],
-    phone: "+91 98100 88181",
-    phoneTel: "+919810088181",
+    phone: "+91-11-4477 5161",
+    phoneTel: "+911144775161",
     note: "Two showrooms, side by side",
   },
   {
