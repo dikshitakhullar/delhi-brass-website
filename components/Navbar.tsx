@@ -176,7 +176,7 @@ export default function Navbar() {
             exit={{ x: "100%" }}
             transition={{ duration: 0.3, ease: [0.25, 0.46, 0.45, 0.94] }}
           >
-            {[...navLinks, { label: "TRADE PROGRAMME", href: "/trade" }].map(
+            {[...navLinks, { label: "TRADE PROGRAM", href: "/trade" }].map(
               (link, i) => (
                 <motion.div
                   key={link.href + link.label}

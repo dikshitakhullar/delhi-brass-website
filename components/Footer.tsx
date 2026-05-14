@@ -9,7 +9,7 @@ const footerNav = [
   { label: "Gates", href: "/gates" },
   { label: "About Us", href: "/about" },
   { label: "Contact Us", href: "/contact" },
-  { label: "Trade Programme", href: "/trade" },
+  { label: "Trade Program", href: "/trade" },
   { label: "Policies", href: "/policies" },
 ];
 

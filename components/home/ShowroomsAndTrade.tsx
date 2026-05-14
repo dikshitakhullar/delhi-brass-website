@@ -108,7 +108,7 @@ export default function ShowroomsAndTrade() {
             href="/trade"
             className="inline-block px-9 py-3.5 bg-[#dcc99b] text-[#1c1916] text-[11px] tracking-[3px] rounded-[2px] cursor-pointer hover:bg-[#c8b580] transition-colors duration-300 no-underline"
           >
-            OPEN THE TRADE PROGRAMME &rarr;
+            OPEN THE TRADE PROGRAM &rarr;
           </a>
         </motion.div>
       </div>

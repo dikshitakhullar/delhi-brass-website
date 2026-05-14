@@ -60,7 +60,7 @@ export default function TradePage() {
       <section style={{ background: "#f8f5f0", paddingTop: "clamp(100px, 12vw, 140px)", paddingBottom: "clamp(48px, 6vw, 72px)", paddingLeft: "clamp(20px, 4vw, 60px)", paddingRight: "clamp(20px, 4vw, 60px)" }}>
         <div style={{ maxWidth: 800, margin: "0 auto" }}>
           <motion.p style={{ fontSize: 10, letterSpacing: 5, color: "#aaa", marginBottom: 16 }} initial={{ opacity: 0 }} animate={{ opacity: 1 }}>
-            TRADE PROGRAMME
+            TRADE PROGRAM
           </motion.p>
           <motion.h1 style={{ fontFamily: "var(--font-forum), serif", fontSize: "clamp(32px, 4vw, 52px)", fontWeight: 400, color: "#1a1a1a", letterSpacing: "clamp(2px, 0.4vw, 5px)", lineHeight: 1.15, margin: 0 }} initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.1 }}>
             Partner with India&apos;s oldest metalwork atelier.
