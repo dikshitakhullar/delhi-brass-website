@@ -3,6 +3,7 @@
 import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Link from "next/link";
+import { usePathname } from "next/navigation";
 
 const navLinks = [
   { label: "HOME", href: "/" },
@@ -16,6 +17,9 @@ const navLinks = [
 export default function Navbar() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [visible, setVisible] = useState(false);
+  const pathname = usePathname();
+  const isHome = pathname === "/";
+  const filteredLinks = isHome ? navLinks.filter((l) => l.href !== "/") : navLinks;
 
   useEffect(() => {
     const seen = sessionStorage.getItem("db-intro-seen");
@@ -72,7 +76,7 @@ export default function Navbar() {
             alignItems: "center",
           }}
         >
-          {navLinks.map((link) => (
+          {filteredLinks.map((link) => (
             <Link
               key={link.href}
               href={link.href}
@@ -177,7 +181,7 @@ export default function Navbar() {
             exit={{ x: "100%" }}
             transition={{ duration: 0.3, ease: [0.25, 0.46, 0.45, 0.94] }}
           >
-            {[...navLinks, { label: "TRADE PROGRAM", href: "/trade" }].map(
+            {[...filteredLinks, { label: "TRADE PROGRAM", href: "/trade" }].map(
               (link, i) => (
                 <motion.div
                   key={link.href + link.label}
