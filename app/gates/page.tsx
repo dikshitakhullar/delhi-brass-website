@@ -118,15 +118,6 @@ function GateCard({ gate, onClick }: { gate: Gate; onClick: () => void }) {
           </a>
         </div>
 
-        {/* Style badge */}
-        <div style={{
-          position: "absolute", top: 12, left: 12,
-          background: "rgba(248,245,240,0.9)", backdropFilter: "blur(4px)",
-          padding: "4px 10px", borderRadius: 3,
-          fontSize: 9, letterSpacing: 2, color: "#2a2218",
-        }}>
-          {gate.style.toUpperCase()}
-        </div>
       </div>
 
       <div style={{ marginTop: 12 }}>

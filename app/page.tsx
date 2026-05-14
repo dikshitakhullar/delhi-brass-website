@@ -14,7 +14,6 @@ export default function Home() {
       <FeaturedPiece />
       <HeritageSection />
       <ProjectsGrid />
-      <ClienteleBar />
       <ShowroomsAndTrade />
     </main>
   );

@@ -2,22 +2,22 @@
 
 import { useRef } from "react";
 import { motion, useInView } from "framer-motion";
+import Image from "next/image";
 
-const projects = [
-  { name: "M3M Trump Tower", type: "Foyer Chandelier", loc: "Gurgaon, 2024" },
-  { name: "DLF Camellias", type: "Lobby Railing", loc: "Gurgaon, 2023" },
-  { name: "Central Park Resorts", type: "Clubhouse Pendants", loc: "Gurgaon, 2023" },
-  { name: "Paras Quartier", type: "Balcony Railings", loc: "Gurgaon, 2024" },
+const clients = [
+  { name: "DLF", src: "/images/clients/dlf.png" },
+  { name: "The Imperial", src: "/images/clients/the-imperial.jpg" },
+  { name: "The Grand", src: "/images/clients/the-grand.png" },
+  { name: "Eros Hotel", src: "/images/clients/eros-hotel.jpeg" },
+  { name: "Uppal's", src: "/images/clients/uppals.jpg" },
+  { name: "GD Goenka", src: "/images/clients/gd-goenka.jpg" },
+  { name: "Salcon", src: "/images/clients/salcon.png" },
+  { name: "Elan", src: "/images/clients/elan.webp" },
+  { name: "M3M", src: "/images/clients/m3m.png" },
+  { name: "Hyatt Regency", src: "/images/clients/hyatt-regency.png" },
 ];
 
-const cardVariants = {
-  hidden: { opacity: 0, y: 28 },
-  visible: (i: number) => ({
-    opacity: 1,
-    y: 0,
-    transition: { duration: 0.6, delay: i * 0.12, ease: [0.25, 0.46, 0.45, 0.94] as const },
-  }),
-};
+const doubled = [...clients, ...clients];
 
 export default function ProjectsGrid() {
   const ref = useRef<HTMLDivElement>(null);
@@ -37,42 +37,69 @@ export default function ProjectsGrid() {
           From lobby chandeliers to staircase railings — our work lives in India&apos;s most prestigious addresses.
         </p>
 
-        <div
-          ref={ref}
-          className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5"
-        >
-          {projects.map((p, i) => (
-            <motion.div
-              key={p.name}
-              custom={i}
-              variants={cardVariants}
-              initial="hidden"
-              animate={inView ? "visible" : "hidden"}
-            >
-              {/* Placeholder image */}
-              <div
-                className="rounded-[8px] border flex items-center justify-center text-[10px]"
-                style={{
-                  aspectRatio: "4/3",
-                  background: "#141210",
-                  borderColor: "rgba(220,201,155,0.06)",
-                  color: "rgba(220,201,155,0.12)",
-                }}
-              >
-                [ PROJECT PHOTO ]
+        {/* Client logos marquee */}
+        <div ref={ref} style={{ overflow: "hidden" }}>
+          <motion.div
+            initial={{ opacity: 0 }}
+            animate={inView ? { opacity: 1 } : {}}
+            transition={{ duration: 0.6 }}
+          >
+            <div className="marquee-track-dark">
+              <div className="marquee-inner-dark">
+                {doubled.map((client, i) => (
+                  <div
+                    key={`${client.name}-${i}`}
+                    style={{
+                      position: "relative",
+                      height: 40,
+                      width: 120,
+                      flexShrink: 0,
+                      opacity: 0.4,
+                      filter: "grayscale(100%) invert(1) brightness(2)",
+                      transition: "all 0.3s",
+                    }}
+                    onMouseEnter={(e) => {
+                      e.currentTarget.style.opacity = "0.9";
+                    }}
+                    onMouseLeave={(e) => {
+                      e.currentTarget.style.opacity = "0.4";
+                    }}
+                  >
+                    <Image
+                      src={client.src}
+                      alt={client.name}
+                      fill
+                      style={{ objectFit: "contain" }}
+                      sizes="120px"
+                    />
+                  </div>
+                ))}
               </div>
-              <h3
-                className="font-heading mt-3"
-                style={{ fontSize: 15, letterSpacing: 2 }}
-              >
-                {p.name}
-              </h3>
-              <p className="text-[11px] text-[#8a8070] mt-1">{p.type}</p>
-              <p className="text-[10px] text-[#555040] mt-0.5">{p.loc}</p>
-            </motion.div>
-          ))}
+            </div>
+          </motion.div>
         </div>
       </div>
+
+      <style>{`
+        .marquee-track-dark {
+          width: 100%;
+          overflow: hidden;
+        }
+        .marquee-inner-dark {
+          display: flex;
+          align-items: center;
+          gap: 56px;
+          width: max-content;
+          animation: marquee-dark 30s linear infinite;
+        }
+        .marquee-inner-dark:hover {
+          animation-play-state: paused;
+        }
+        @keyframes marquee-dark {
+          0% { transform: translateX(0); }
+          100% { transform: translateX(-50%); }
+        }
+      `}</style>
     </section>
   );
 }

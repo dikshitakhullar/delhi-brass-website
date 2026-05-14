@@ -6,11 +6,13 @@ import { motion, useInView } from "framer-motion";
 const showrooms = [
   {
     name: "MG ROAD",
-    desc: "Two showrooms, two doors apart. Our original home since the 1960s.",
+    desc: "Two showrooms, two doors apart. Our flagship store in Delhi",
+    map: "https://maps.app.goo.gl/JLQC4beg1f5hyYY88",
   },
   {
     name: "KHAN MARKET",
-    desc: "Our flagship store in the heart of New Delhi.",
+    desc: "Find us in the heart of New Delhi",
+    map: "https://maps.app.goo.gl/NFKQc7cScd7Q7akh9?g_st=ic",
   },
 ];
 
@@ -47,27 +49,39 @@ export default function ShowroomsAndTrade() {
           className="grid grid-cols-1 sm:grid-cols-2 gap-6 mb-20"
         >
           {showrooms.map((s, i) => (
-            <motion.div
+            <a
               key={s.name}
-              custom={i}
-              variants={cardVariants}
-              initial="hidden"
-              animate={inView ? "visible" : "hidden"}
-              className="rounded-[12px] text-center"
-              style={{
-                background: "#ece6da",
-                border: "1px solid rgba(180,160,130,0.15)",
-                padding: "clamp(28px, 3vw, 40px)",
-              }}
+              href={s.map}
+              target="_blank"
+              rel="noopener noreferrer"
+              style={{ textDecoration: "none" }}
             >
-              <h3
-                className="font-heading font-normal text-[#2a2218] mb-3"
-                style={{ fontSize: "clamp(16px, 1.5vw, 20px)", letterSpacing: 4 }}
+              <motion.div
+                custom={i}
+                variants={cardVariants}
+                initial="hidden"
+                animate={inView ? "visible" : "hidden"}
+                className="rounded-[12px] text-center cursor-pointer hover:shadow-lg transition-shadow duration-300"
+                style={{
+                  background: "#ece6da",
+                  border: "1px solid rgba(180,160,130,0.15)",
+                  padding: "clamp(28px, 3vw, 40px)",
+                  height: "100%",
+                  display: "flex",
+                  flexDirection: "column",
+                  justifyContent: "center",
+                }}
               >
-                {s.name}
-              </h3>
-              <p className="text-[13px] text-[#8a7e6e] leading-[1.6]">{s.desc}</p>
-            </motion.div>
+                <h3
+                  className="font-heading font-normal text-[#2a2218] mb-3"
+                  style={{ fontSize: "clamp(16px, 1.5vw, 20px)", letterSpacing: 4 }}
+                >
+                  {s.name}
+                </h3>
+                <p className="text-[13px] text-[#8a7e6e] leading-[1.6]">{s.desc}</p>
+                <p className="text-[10px] tracking-[2px] text-[#c4a872] mt-3">VIEW ON MAP &rarr;</p>
+              </motion.div>
+            </a>
           ))}
         </div>
 

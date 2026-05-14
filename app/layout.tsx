@@ -21,15 +21,15 @@ const tenorSans = Tenor_Sans({
 
 export const metadata: Metadata = {
   title: {
-    default: "Delhi Brass — Handcrafted Chandeliers, Gates & Metalwork Since 1948",
+    default: "Delhi Brass — Handcrafted Chandeliers, Gates & Metalwork Since 1949",
     template: "%s | Delhi Brass",
   },
   description:
-    "India's premier metalwork atelier since 1948. Bespoke chandeliers, gates, railings & architectural metalwork — handcrafted in our Gurgaon factory. Visit our showrooms in Khan Market & MG Road, New Delhi.",
+    "India's premier metalwork atelier since 1949. Bespoke chandeliers, gates, railings & architectural metalwork — handcrafted in our Gurgaon factory. Visit our showrooms in Khan Market & MG Road, New Delhi.",
   keywords: ["chandeliers", "brass chandeliers", "gates", "railings", "metalwork", "Delhi Brass", "luxury lighting", "handcrafted", "bespoke", "New Delhi", "Khan Market", "interior design", "architectural metalwork"],
   openGraph: {
-    title: "Delhi Brass — Handcrafted Metalwork Since 1948",
-    description: "Bespoke chandeliers, gates, railings & architectural metalwork — handcrafted in our Gurgaon factory since 1948.",
+    title: "Delhi Brass — Handcrafted Metalwork Since 1949",
+    description: "Bespoke chandeliers, gates, railings & architectural metalwork — handcrafted in our Gurgaon factory since 1949.",
     url: "https://delhibrass.com",
     siteName: "Delhi Brass",
     locale: "en_IN",
@@ -38,8 +38,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Delhi Brass — Handcrafted Metalwork Since 1948",
-    description: "Bespoke chandeliers, gates & metalwork — handcrafted since 1948.",
+    title: "Delhi Brass — Handcrafted Metalwork Since 1949",
+    description: "Bespoke chandeliers, gates & metalwork — handcrafted since 1949.",
     images: ["/images/mockup/hero-landscape-v2.png"],
   },
   robots: { index: true, follow: true },

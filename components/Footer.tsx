@@ -57,12 +57,13 @@ export default function Footer() {
           <div className="space-y-4 text-[13px]">
             <div>
               <p className="text-[#f0e8dc]">Khan Market</p>
-              <p className="text-[#8a8070]">Shop 46, Loknayak Bhawan, New Delhi — 110003</p>
+              <p className="text-[#8a8070]"><a href="https://maps.app.goo.gl/NFKQc7cScd7Q7akh9?g_st=ic" target="_blank" rel="noopener noreferrer" className="hover:text-[#dcc99b] transition-colors">Shop 46, Loknayak Bhawan, New Delhi — 110003</a></p>
               <p className="text-[#8a8070]"><a href="tel:+911143504242" className="hover:text-[#dcc99b] transition-colors">+91-11-4350 4242</a></p>
             </div>
             <div>
               <p className="text-[#f0e8dc]">MG Road</p>
-              <p className="text-[#8a8070]">Plot 47 & 49, MG Road, New Delhi — 110030</p>
+              <p className="text-[#8a8070]"><a href="https://maps.app.goo.gl/JLQC4beg1f5hyYY88" target="_blank" rel="noopener noreferrer" className="hover:text-[#dcc99b] transition-colors">Plot 47 &amp; 49, MG Road, Sultanpur, New Delhi — 110030</a></p>
+              <p className="text-[#8a8070]"><a href="tel:+911144775161" className="hover:text-[#dcc99b] transition-colors">+91-11-4477 5161</a></p>
             </div>
           </div>
         </motion.div>
@@ -74,7 +75,7 @@ export default function Footer() {
             <p className="text-[#f0e8dc]">4651/279, Daulatabad Road</p>
             <p className="text-[#8a8070]">Gurgaon (Near Railway Station), Haryana</p>
             <p className="text-[#8a8070] mt-2">
-              <a href="tel:+911242469788" className="hover:text-[#dcc99b] transition-colors">+91-124-246 9788</a>
+              <a href="tel:+911242469788" className="hover:text-[#dcc99b] transition-colors">+91-9212787172</a>
             </p>
           </div>
         </motion.div>
@@ -123,7 +124,7 @@ export default function Footer() {
         style={{ borderColor: "rgba(220,201,155,0.06)" }}
       >
         <p className="text-[11px] tracking-[3px] text-[#555040]">
-          &copy; {new Date().getFullYear()} DELHI BRASS &middot; EST. 1948
+          &copy; {new Date().getFullYear()} DELHI BRASS &middot; EST. 1949
         </p>
       </div>
     </footer>

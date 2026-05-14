@@ -79,8 +79,8 @@ export default function HeroSection() {
               fontFamily: "var(--font-tenor-sans), sans-serif",
             }}
           >
-            Bespoke chandeliers, gates, railings &amp; wall lights — designed
-            and manufactured in-house since 1948.
+            Bespoke lighting, gates, railings, furniture &amp; metalworks - designed
+            and manufactured in-house since 1949. Every piece fully customisable.
           </p>
         </div>
 
@@ -91,7 +91,7 @@ export default function HeroSection() {
           transition={{ duration: 0.4, delay: 0.2 }}
         >
           <a
-            href="/chandeliers"
+            href="/explore"
             style={{
               padding: "14px 32px",
               background: "#1c1916",

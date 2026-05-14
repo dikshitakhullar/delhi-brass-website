@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   description: "102 handcrafted chandeliers across 15 collections. Heritage Shade, Crystal Garden, Grand Lantern, Statement Pieces & more. Made to order in our Gurgaon factory. Price on request.",
   openGraph: {
     title: "Chandeliers — Delhi Brass",
-    description: "102 handcrafted chandeliers. Made to order since 1948.",
+    description: "102 handcrafted chandeliers. Made to order since 1949.",
     images: [{ url: "/images/mockup/hero-landscape-v2.png" }],
   },
 };

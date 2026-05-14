@@ -1,0 +1,68 @@
+[
+  {
+    "id": "1",
+    "name": "Flora Globe",
+    "slug": "flora-globe",
+    "images": ["/images/table-lamps/flora-globe.jpg"]
+  },
+  {
+    "id": "2",
+    "name": "Crystal Dome",
+    "slug": "crystal-dome",
+    "images": ["/images/table-lamps/crystal-dome-1.jpg", "/images/table-lamps/crystal-dome-2.jpg"]
+  },
+  {
+    "id": "3",
+    "name": "Amethyst Urn",
+    "slug": "amethyst-urn",
+    "images": ["/images/table-lamps/amethyst-urn.jpg"]
+  },
+  {
+    "id": "4",
+    "name": "Hammered Oblate",
+    "slug": "hammered-oblate",
+    "images": ["/images/table-lamps/hammered-oblate.jpg"]
+  },
+  {
+    "id": "5",
+    "name": "Mughal Filigree",
+    "slug": "mughal-filigree",
+    "images": ["/images/table-lamps/mughal-filigree.jpg"]
+  },
+  {
+    "id": "6",
+    "name": "Brushed Cylinder",
+    "slug": "brushed-cylinder",
+    "images": ["/images/table-lamps/brushed-cylinder.jpg"]
+  },
+  {
+    "id": "7",
+    "name": "Heritage Urn",
+    "slug": "heritage-urn",
+    "images": ["/images/table-lamps/heritage-urn.jpg"]
+  },
+  {
+    "id": "8",
+    "name": "Brass Prism",
+    "slug": "brass-prism",
+    "images": ["/images/table-lamps/brass-prism.jpg"]
+  },
+  {
+    "id": "9",
+    "name": "Brass Candlestick",
+    "slug": "brass-candlestick",
+    "images": ["/images/table-lamps/brass-candlestick.jpg"]
+  },
+  {
+    "id": "10",
+    "name": "Silver Matka",
+    "slug": "silver-matka",
+    "images": ["/images/table-lamps/silver-matka.jpg"]
+  },
+  {
+    "id": "11",
+    "name": "Stone Pebble",
+    "slug": "stone-pebble",
+    "images": ["/images/table-lamps/stone-pebble-1.jpg", "/images/table-lamps/stone-pebble-2.jpg", "/images/table-lamps/stone-pebble-3.jpg"]
+  }
+]

@@ -57,7 +57,7 @@ export default function CategoryGrid() {
             <motion.div custom={1} variants={cardVariants} initial="hidden" animate={inView ? "visible" : "hidden"}
               style={{ borderRadius: 4, overflow: "hidden", cursor: "pointer", position: "relative", height: "100%", minHeight: 200 }}
             >
-              <Image src="/images/mockup/gate-modern.png" alt="Modern gate" fill sizes="(max-width: 768px) 100vw, 25vw" style={{ objectFit: "cover" }} />
+              <Image src="/images/mockup/gate-enhanced-v2.jpg" alt="Modern gate" fill sizes="(max-width: 768px) 100vw, 25vw" style={{ objectFit: "cover" }} />
               <div style={{ position: "absolute", inset: 0, background: "linear-gradient(180deg, transparent 40%, rgba(0,0,0,0.45) 100%)" }} />
               <div style={{ position: "absolute", bottom: 24, left: 24, zIndex: 2 }}>
                 <span style={{ fontFamily: "var(--font-forum), serif", fontSize: 16, letterSpacing: 4, color: "#fff" }}>GATES</span>
@@ -70,7 +70,7 @@ export default function CategoryGrid() {
             <motion.div custom={2} variants={cardVariants} initial="hidden" animate={inView ? "visible" : "hidden"}
               style={{ borderRadius: 4, overflow: "hidden", cursor: "pointer", position: "relative", height: "100%", minHeight: 200 }}
             >
-              <Image src="/images/mockup/railing-brass.jpg" alt="Wrought iron railing" fill sizes="(max-width: 768px) 100vw, 25vw" style={{ objectFit: "cover" }} />
+              <Image src="/images/mockup/railing-enhanced.jpg" alt="Wrought iron railing with bronze sculptures" fill sizes="(max-width: 768px) 100vw, 25vw" style={{ objectFit: "cover" }} />
               <div style={{ position: "absolute", inset: 0, background: "linear-gradient(180deg, transparent 40%, rgba(0,0,0,0.45) 100%)" }} />
               <div style={{ position: "absolute", bottom: 24, left: 24, zIndex: 2 }}>
                 <span style={{ fontFamily: "var(--font-forum), serif", fontSize: 16, letterSpacing: 4, color: "#fff" }}>RAILINGS</span>
@@ -83,11 +83,11 @@ export default function CategoryGrid() {
             <motion.div custom={3} variants={cardVariants} initial="hidden" animate={inView ? "visible" : "hidden"}
               style={{ borderRadius: 4, overflow: "hidden", cursor: "pointer", position: "relative", height: "100%", minHeight: 200 }}
             >
-              <Image src="/images/mockup/brass-bough.png" alt="Bespoke metalwork" fill sizes="(max-width: 768px) 100vw, 50vw" style={{ objectFit: "cover", objectPosition: "center 40%" }} />
+              <Image src="/images/mockup/sculpture-garden-wide.jpg" alt="Corten steel sculpture" fill sizes="(max-width: 768px) 100vw, 50vw" style={{ objectFit: "cover", objectPosition: "center 40%" }} />
               <div style={{ position: "absolute", inset: 0, background: "linear-gradient(180deg, transparent 40%, rgba(0,0,0,0.45) 100%)" }} />
               <div style={{ position: "absolute", bottom: 24, left: 24, zIndex: 2 }}>
-                <span style={{ fontFamily: "var(--font-forum), serif", fontSize: 16, letterSpacing: 4, color: "#fff" }}>BESPOKE</span>
-                <p style={{ fontSize: 11, color: "rgba(255,255,255,0.7)", marginTop: 4 }}>Custom designs, any material, any scale</p>
+                <span style={{ fontFamily: "var(--font-forum), serif", fontSize: 16, letterSpacing: 4, color: "#fff" }}>SCULPTURES &amp; MORE</span>
+                <p style={{ fontSize: 11, color: "rgba(255,255,255,0.7)", marginTop: 4 }}>Bespoke sculptures, wall art &amp; custom metalwork</p>
               </div>
             </motion.div>
           </a>

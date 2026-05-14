@@ -45,12 +45,12 @@ export default function AboutPage() {
               OUR LEGACY
             </motion.p>
             <motion.h1 style={{ fontFamily: "var(--font-forum), serif", fontSize: "clamp(28px, 3.5vw, 48px)", fontWeight: 400, color: "#1a1a1a", letterSpacing: "clamp(2px, 0.4vw, 5px)", lineHeight: 1.15, margin: 0 }} initial={{ opacity: 0, y: 20 }} animate={{ opacity: 1, y: 0 }} transition={{ duration: 0.6, delay: 0.1 }}>
-              We have been lighting and building the quintessence of a new India, since 1948.
+              We have been lighting and building the quintessence of a new India, since 1949.
             </motion.h1>
             <motion.p style={{ fontSize: "clamp(13px, 1.1vw, 15px)", color: "#6a6050", lineHeight: 1.8, marginTop: 24 }} initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 0.5, delay: 0.3 }}>
               Ever since our establishment over seven decades ago, we have executed challenging
               projects on a turnkey basis — from design to installation — using materials such as
-              wrought iron, stainless steel, brass, glass, and wood. Careful craftsmanship, good
+              wrought iron, stainless steel, brass, glass, aluminium and wood. Careful craftsmanship, good
               communication, and promptness has enabled us to work on prestigious jobs for hotels
               like Hyatt Regency, Park Royal, The Imperial, and several clients who demand the best there is.
             </motion.p>
@@ -110,7 +110,7 @@ export default function AboutPage() {
 
             {[
               {
-                year: "1948",
+                year: "1949",
                 title: "The Beginning",
                 text: "K.L. Khullar founded Delhi Brass with just Rs 10 and a conviction that Indian hands could produce world-class metalwork. Little did he know that Delhi Brass would stand the test of time, and reserve a major stake of the market in the decades to come.",
                 image: null,
@@ -118,7 +118,7 @@ export default function AboutPage() {
               {
                 year: "c. 1960s",
                 title: "The First Showroom",
-                text: "K.L. Khullar giving a tour of the first showroom — a ceiling braided with lamps manufactured at the factory. The MG Road showroom became the go-to destination for luxury lighting in the capital.",
+                text: "K.L. Khullar giving a tour of the first showroom at New Rohtak Road, Karol Bagh — a ceiling braided with chandeliers manufactured at the factory.",
                 image: "/images/about/hk-showroom-1960s.jpg",
               },
               {
@@ -142,7 +142,7 @@ export default function AboutPage() {
               {
                 year: "Today",
                 title: "Third Generation",
-                text: "The grandsons now run the factory in Gurgaon and showrooms across Delhi — including our flagship store in Khan Market. Recent projects include M3M Trump Tower, DLF Camellias, Central Park Resorts, and Paras Quartier. The hands haven't changed. The tools have.",
+                text: "The grandsons now run the factory in Gurgaon and showrooms across Delhi — including our flagship store on MG Road. Recent projects include M3M Trump Tower, DLF Camellias, Central Park Resorts, and Paras Quartier. The hands haven't changed. The tools have.",
                 image: null,
               },
             ].map((item, i) => (

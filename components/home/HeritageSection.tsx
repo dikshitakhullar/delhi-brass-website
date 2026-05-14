@@ -29,14 +29,14 @@ function useCountUp(target: number, duration: number, active: boolean) {
 export default function HeritageSection() {
   const ref = useRef<HTMLDivElement>(null);
   const inView = useInView(ref, { once: true, margin: "-80px" });
-  const year = useCountUp(1948, 1.8, inView);
+  const year = useCountUp(1949, 1.8, inView);
 
   return (
     <section className="bg-[#f5f0e6] py-[clamp(60px,8vw,100px)] px-[clamp(20px,4vw,48px)] text-[#2a2218]">
       <div ref={ref} className="max-w-[1200px] mx-auto text-center">
         <p className="text-[10px] tracking-[4px] text-[#8a7e6e] mb-3">OUR STUDIO</p>
 
-        {/* Big faint year — counter animates 0 → 1948 */}
+        {/* Big faint year — counter animates 0 → 1949 */}
         <h2
           className="font-heading font-normal leading-none"
           style={{
@@ -44,7 +44,7 @@ export default function HeritageSection() {
             letterSpacing: 6,
             color: "rgba(42,34,24,0.08)",
           }}
-          aria-label="Founded in 1948"
+          aria-label="Founded in 1949"
         >
           {year}
         </h2>
@@ -64,8 +64,7 @@ export default function HeritageSection() {
         <p className="text-[14px] text-[#6a6050] leading-[1.8] max-w-[540px] mx-auto mt-6">
           K.L. Khullar founded Delhi Brass with Rs&nbsp;10 and a conviction that Indian hands could
           produce world-class metalwork. Seventy-seven years later, his grandsons run the same factory
-          in Gurgaon — now equipped with CNC laser cutters, water jets, and the country&apos;s highest-tonnage
-          power press.
+          in Gurgaon - now equipped with CNC lasers, water jets, and specialized machinery.
         </p>
       </div>
     </section>
