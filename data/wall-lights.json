@@ -42,7 +42,12 @@
     "refImages": [
       "IMG_6297.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/gothic-lattice-outdoor-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/gothic-lattice-outdoor-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/gothic-lattice-outdoor-sconce/03-hero.png"
+    ]
   },
   {
     "id": "2",
@@ -87,7 +92,12 @@
     "refImages": [
       "IMG_6298.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/amber-hurricane-scroll-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/amber-hurricane-scroll-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/amber-hurricane-scroll-sconce/03-hero.png"
+    ]
   },
   {
     "id": "3",
@@ -131,7 +141,12 @@
     "refImages": [
       "IMG_6299.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/outdoor-torch-hurricane-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/outdoor-torch-hurricane-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/outdoor-torch-hurricane-sconce/03-hero.png"
+    ]
   },
   {
     "id": "4",
@@ -176,7 +191,12 @@
     "refImages": [
       "IMG_6300.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/brass-cylinder-vanity-light/01-white-bg-studio.png",
+      "/images/wall-lights/brass-cylinder-vanity-light/02-lifestyle-lights-on.png",
+      "/images/wall-lights/brass-cylinder-vanity-light/03-hero.png"
+    ]
   },
   {
     "id": "5",
@@ -222,7 +242,12 @@
     "refImages": [
       "IMG_6301.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/baroque-amber-double-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/baroque-amber-double-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/baroque-amber-double-sconce/03-hero.png"
+    ]
   },
   {
     "id": "6",
@@ -270,7 +295,12 @@
     "refImages": [
       "IMG_6303.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/baroque-crystal-shade-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/baroque-crystal-shade-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/baroque-crystal-shade-sconce/03-hero.png"
+    ]
   },
   {
     "id": "7",
@@ -315,7 +345,12 @@
     "refImages": [
       "IMG_6304.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/brushed-brass-modern-torch/01-white-bg-studio.png",
+      "/images/wall-lights/brushed-brass-modern-torch/02-lifestyle-lights-on.png",
+      "/images/wall-lights/brushed-brass-modern-torch/03-hero.png"
+    ]
   },
   {
     "id": "8",
@@ -361,7 +396,12 @@
     "refImages": [
       "IMG_6305.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/brass-ribbed-globe-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/brass-ribbed-globe-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/brass-ribbed-globe-sconce/03-hero.png"
+    ]
   },
   {
     "id": "9",
@@ -406,7 +446,12 @@
     "refImages": [
       "IMG_6305.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/pleated-bell-silver-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/pleated-bell-silver-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/pleated-bell-silver-sconce/03-hero.png"
+    ]
   },
   {
     "id": "10",
@@ -453,7 +498,12 @@
       "IMG_6306.HEIC",
       "IMG_6324.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/ornate-brass-double-shade-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/ornate-brass-double-shade-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/ornate-brass-double-shade-sconce/03-hero.png"
+    ]
   },
   {
     "id": "11",
@@ -499,7 +549,12 @@
     "refImages": [
       "IMG_6307.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/twisted-brass-drum-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/twisted-brass-drum-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/twisted-brass-drum-sconce/03-hero.png"
+    ]
   },
   {
     "id": "12",
@@ -546,7 +601,12 @@
       "IMG_6308.HEIC",
       "IMG_6314.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/dragon-phoenix-double-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/dragon-phoenix-double-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/dragon-phoenix-double-sconce/03-hero.png"
+    ]
   },
   {
     "id": "13",
@@ -592,7 +652,12 @@
     "refImages": [
       "IMG_6309.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/fluted-column-wall-light/01-white-bg-studio.png",
+      "/images/wall-lights/fluted-column-wall-light/02-lifestyle-lights-on.png",
+      "/images/wall-lights/fluted-column-wall-light/03-hero.png"
+    ]
   },
   {
     "id": "14",
@@ -638,7 +703,12 @@
     "refImages": [
       "IMG_6310.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/iron-torch-drum-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/iron-torch-drum-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/iron-torch-drum-sconce/03-hero.png"
+    ]
   },
   {
     "id": "15",
@@ -684,7 +754,12 @@
     "refImages": [
       "IMG_6312.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/scrollwork-drum-accent-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/scrollwork-drum-accent-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/scrollwork-drum-accent-sconce/03-hero.png"
+    ]
   },
   {
     "id": "16",
@@ -732,7 +807,12 @@
       "IMG_6313.HEIC",
       "IMG_6318.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/scroll-crystal-glass-double-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/scroll-crystal-glass-double-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/scroll-crystal-glass-double-sconce/03-hero.png"
+    ]
   },
   {
     "id": "17",
@@ -776,7 +856,12 @@
     "refImages": [
       "IMG_6314.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/industrial-gear-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/industrial-gear-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/industrial-gear-sconce/03-hero.png"
+    ]
   },
   {
     "id": "18",
@@ -822,7 +907,12 @@
     "refImages": [
       "IMG_6315.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/coral-reef-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/coral-reef-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/coral-reef-sconce/03-hero.png"
+    ]
   },
   {
     "id": "19",
@@ -868,7 +958,12 @@
     "refImages": [
       "IMG_6316.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/moroccan-diamond-torch-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/moroccan-diamond-torch-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/moroccan-diamond-torch-sconce/03-hero.png"
+    ]
   },
   {
     "id": "20",
@@ -913,7 +1008,12 @@
     "refImages": [
       "IMG_6317.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/crystal-grid-wall-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/crystal-grid-wall-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/crystal-grid-wall-sconce/03-hero.png"
+    ]
   },
   {
     "id": "21",
@@ -959,7 +1059,12 @@
     "refImages": [
       "IMG_6319.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/moon-globe-brass-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/moon-globe-brass-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/moon-globe-brass-sconce/03-hero.png"
+    ]
   },
   {
     "id": "22",
@@ -1005,7 +1110,12 @@
     "refImages": [
       "IMG_6320.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/lotus-leaf-double-bell-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/lotus-leaf-double-bell-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/lotus-leaf-double-bell-sconce/03-hero.png"
+    ]
   },
   {
     "id": "23",
@@ -1050,7 +1160,12 @@
     "refImages": [
       "IMG_6322.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/brass-torchiere-shade-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/brass-torchiere-shade-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/brass-torchiere-shade-sconce/03-hero.png"
+    ]
   },
   {
     "id": "24",
@@ -1095,7 +1210,12 @@
     "refImages": [
       "IMG_6323.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/geometric-circle-panel-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/geometric-circle-panel-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/geometric-circle-panel-sconce/03-hero.png"
+    ]
   },
   {
     "id": "25",
@@ -1141,7 +1261,12 @@
     "refImages": [
       "IMG_6324.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/distressed-scroll-frosted-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/distressed-scroll-frosted-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/distressed-scroll-frosted-sconce/03-hero.png"
+    ]
   },
   {
     "id": "26",
@@ -1185,7 +1310,12 @@
     "refImages": [
       "IMG_6325.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/baroque-candelabra-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/baroque-candelabra-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/baroque-candelabra-sconce/03-hero.png"
+    ]
   },
   {
     "id": "27",
@@ -1233,7 +1363,12 @@
       "IMG_6326.HEIC",
       "IMG_6327.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/rustic-scroll-hurricane-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/rustic-scroll-hurricane-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/rustic-scroll-hurricane-sconce/03-hero.png"
+    ]
   },
   {
     "id": "28",
@@ -1278,7 +1413,12 @@
     "refImages": [
       "IMG_6333.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/noir-scroll-crystal-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/noir-scroll-crystal-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/noir-scroll-crystal-sconce/03-hero.png"
+    ]
   },
   {
     "id": "29",
@@ -1323,7 +1463,12 @@
     "refImages": [
       "IMG_6332.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/crystal-prism-leaf-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/crystal-prism-leaf-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/crystal-prism-leaf-sconce/03-hero.png"
+    ]
   },
   {
     "id": "30",
@@ -1368,7 +1513,12 @@
     "refImages": [
       "IMG_6339.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/botanical-brass-hurricane-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/botanical-brass-hurricane-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/botanical-brass-hurricane-sconce/03-hero.png"
+    ]
   },
   {
     "id": "31",
@@ -1413,7 +1563,12 @@
     "refImages": [
       "IMG_6340.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/filigree-amber-double-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/filigree-amber-double-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/filigree-amber-double-sconce/03-hero.png"
+    ]
   },
   {
     "id": "32",
@@ -1457,7 +1612,12 @@
     "refImages": [
       "IMG_6345.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/hammered-brass-picture-light/01-white-bg-studio.png",
+      "/images/wall-lights/hammered-brass-picture-light/02-lifestyle-lights-on.png",
+      "/images/wall-lights/hammered-brass-picture-light/03-hero.png"
+    ]
   },
   {
     "id": "33",
@@ -1499,7 +1659,12 @@
     "refImages": [
       "IMG_6347.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/pagoda-outdoor-wall-lantern/01-white-bg-studio.png",
+      "/images/wall-lights/pagoda-outdoor-wall-lantern/02-lifestyle-lights-on.png",
+      "/images/wall-lights/pagoda-outdoor-wall-lantern/03-hero.png"
+    ]
   },
   {
     "id": "34",
@@ -1544,7 +1709,12 @@
     "refImages": [
       "wall_light_brass_medallion_collection.jpeg"
     ],
-    "sourceFolder": "loose"
+    "sourceFolder": "loose",
+    "images": [
+      "/images/wall-lights/empire-crystal-wall-lantern/01-white-bg-studio.png",
+      "/images/wall-lights/empire-crystal-wall-lantern/02-lifestyle-lights-on.png",
+      "/images/wall-lights/empire-crystal-wall-lantern/03-hero.png"
+    ]
   },
   {
     "id": "35",
@@ -1586,7 +1756,12 @@
     "refImages": [
       "wall_light_can_be_outdoors_too.jpeg"
     ],
-    "sourceFolder": "loose"
+    "sourceFolder": "loose",
+    "images": [
+      "/images/wall-lights/outdoor-iron-torch-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/outdoor-iron-torch-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/outdoor-iron-torch-sconce/03-hero.png"
+    ]
   },
   {
     "name": "Iron Vine Burlap Sconce",
