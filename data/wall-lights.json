@@ -1587,5 +1587,454 @@
       "wall_light_can_be_outdoors_too.jpeg"
     ],
     "sourceFolder": "loose"
+  },
+  {
+    "name": "Iron Vine Burlap Sconce",
+    "slug": "iron-vine-burlap-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-036",
+    "material": [
+      "iron",
+      "fabric"
+    ],
+    "finish": "matte_black",
+    "size": "medium",
+    "description": "Single-arm wall sconce with matte black iron scrollwork vine detailing on a square backplate. Burlap/linen conical shade. Plug-in cord option.",
+    "colorPalette": [
+      "matte black",
+      "burlap tan"
+    ],
+    "styleTags": [
+      "vine",
+      "scrollwork",
+      "burlap-shade",
+      "plug-in",
+      "rustic"
+    ],
+    "vibes": [
+      "Rustic Farmhouse",
+      "Warm Transitional",
+      "Colonial / Heritage"
+    ],
+    "roomTypes": [
+      "bedroom",
+      "hallway",
+      "study"
+    ],
+    "pairsWith": [
+      "artwork",
+      "bookshelf",
+      "side_table"
+    ],
+    "placementNotes": "Use in pairs flanking a bed headboard or hallway artwork. The plug-in cord makes installation easy \u2014 no hardwiring needed.",
+    "refImages": [
+      "IMG_6488.HEIC"
+    ],
+    "sourceFolder": "new_products",
+    "id": "36",
+    "images": [
+      "/images/wall-lights/iron-vine-burlap-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/iron-vine-burlap-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/iron-vine-burlap-sconce/03-hero.png"
+    ]
+  },
+  {
+    "name": "Sunburst Double Shade Sconce",
+    "slug": "sunburst-double-shade-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-037",
+    "material": [
+      "brass",
+      "fabric"
+    ],
+    "finish": "antique",
+    "size": "large",
+    "description": "Dramatic wall sconce with a full sunburst/starburst backplate in antique brass with pointed rays. Two curved arms hold pleated white drum shades.",
+    "colorPalette": [
+      "antique brass",
+      "white"
+    ],
+    "styleTags": [
+      "sunburst",
+      "starburst",
+      "double-arm",
+      "pleated-shade",
+      "dramatic"
+    ],
+    "vibes": [
+      "Art Deco",
+      "Glamorous",
+      "Modern Indian"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "artwork"
+    ],
+    "placementNotes": "A show-stopping wall piece \u2014 use as a single focal point on a feature wall. The sunburst is sculptural even when unlit. Needs a wide, clear wall.",
+    "refImages": [
+      "IMG_6491.HEIC"
+    ],
+    "sourceFolder": "new_products",
+    "id": "37",
+    "images": [
+      "/images/wall-lights/sunburst-double-shade-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/sunburst-double-shade-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/sunburst-double-shade-sconce/03-hero.png"
+    ]
+  },
+  {
+    "name": "Birdcage Botanical Wall Sconce",
+    "slug": "birdcage-botanical-wall-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-038",
+    "material": [
+      "iron"
+    ],
+    "finish": "patina",
+    "size": "large",
+    "description": "Whimsical wall sconce shaped like a birdcage/globe with wire frame, decorative leaf and bird motifs, and an exposed bulb inside. Chain-hung from a wall rosette.",
+    "colorPalette": [
+      "aged gold",
+      "patina bronze"
+    ],
+    "styleTags": [
+      "birdcage",
+      "botanical",
+      "whimsical",
+      "bird-motif",
+      "globe"
+    ],
+    "vibes": [
+      "Bohemian",
+      "French Provincial",
+      "Warm Transitional"
+    ],
+    "roomTypes": [
+      "bedroom",
+      "terrace",
+      "hallway"
+    ],
+    "pairsWith": [
+      "artwork",
+      "side_table",
+      "console_table"
+    ],
+    "placementNotes": "A charming accent for a garden room, bedroom, or covered terrace. The birdcage form is a conversation piece. Use solo or in an eclectic grouping.",
+    "refImages": [
+      "IMG_6492.HEIC"
+    ],
+    "sourceFolder": "new_products",
+    "id": "38",
+    "images": [
+      "/images/wall-lights/birdcage-botanical-wall-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/birdcage-botanical-wall-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/birdcage-botanical-wall-sconce/03-hero.png"
+    ]
+  },
+  {
+    "name": "Rope Twist Double Shade Sconce",
+    "slug": "rope-twist-double-shade-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-039",
+    "material": [
+      "brass",
+      "fabric"
+    ],
+    "finish": "patina",
+    "size": "large",
+    "description": "Tall wall sconce with vertical dark bronze rod, twisted rope-pattern arms, and two pleated white fabric shades. Finial details top and bottom.",
+    "colorPalette": [
+      "dark bronze",
+      "white"
+    ],
+    "styleTags": [
+      "rope-twist",
+      "double-arm",
+      "tall",
+      "pleated-shade",
+      "classical"
+    ],
+    "vibes": [
+      "Classical / Ornate",
+      "Colonial / Heritage",
+      "Warm Transitional"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "foyer",
+      "dining_room"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "artwork"
+    ],
+    "placementNotes": "The tall vertical form suits panelled walls. Use in pairs flanking a mirror or fireplace. Works with Heritage Shade chandeliers.",
+    "refImages": [
+      "IMG_6495.HEIC"
+    ],
+    "sourceFolder": "new_products",
+    "id": "39",
+    "images": [
+      "/images/wall-lights/rope-twist-double-shade-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/rope-twist-double-shade-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/rope-twist-double-shade-sconce/03-hero.png"
+    ]
+  },
+  {
+    "name": "Brass Leaf Glass Lantern Sconce",
+    "slug": "brass-leaf-glass-lantern-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-040",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "size": "medium",
+    "description": "Wall-mounted lantern with ornate leaf-scroll brass frame, clear glass panels, and candle-style lights inside. Traditional heritage lantern form.",
+    "colorPalette": [
+      "antique brass",
+      "clear glass"
+    ],
+    "styleTags": [
+      "lantern",
+      "leaf-scroll",
+      "glass-panels",
+      "candle-style",
+      "heritage"
+    ],
+    "vibes": [
+      "Colonial / Heritage",
+      "French Provincial",
+      "Classical / Ornate"
+    ],
+    "roomTypes": [
+      "foyer",
+      "hallway",
+      "outdoor"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "artwork"
+    ],
+    "placementNotes": "Use in pairs flanking an entry door or hallway mirror. The enclosed glass panels make it suitable for semi-outdoor covered areas too.",
+    "refImages": [
+      "IMG_6497.HEIC"
+    ],
+    "sourceFolder": "new_products",
+    "id": "40",
+    "images": [
+      "/images/wall-lights/brass-leaf-glass-lantern-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/brass-leaf-glass-lantern-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/brass-leaf-glass-lantern-sconce/03-hero.png"
+    ]
+  },
+  {
+    "name": "Acanthus Torch Hurricane Sconce",
+    "slug": "acanthus-torch-hurricane-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-041",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "size": "large",
+    "description": "Grand torch-style wall sconce with tapered brass body, ornate acanthus leaf shell backplate, and flared clear glass hurricane shade at top. Leaf finial at base.",
+    "colorPalette": [
+      "antique brass",
+      "clear glass"
+    ],
+    "styleTags": [
+      "torch",
+      "acanthus",
+      "hurricane",
+      "grand",
+      "shell-backplate"
+    ],
+    "vibes": [
+      "Classical / Ornate",
+      "Colonial / Heritage",
+      "French Provincial"
+    ],
+    "roomTypes": [
+      "foyer",
+      "formal_living",
+      "stairwell"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "artwork"
+    ],
+    "placementNotes": "A grand heritage torch. Use flanking a double-height foyer mirror or stairwell. The tapered form and acanthus detail suit classical interiors.",
+    "refImages": [
+      "IMG_6498.HEIC"
+    ],
+    "sourceFolder": "new_products",
+    "id": "41",
+    "images": [
+      "/images/wall-lights/acanthus-torch-hurricane-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/acanthus-torch-hurricane-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/acanthus-torch-hurricane-sconce/03-hero.png"
+    ]
+  },
+  {
+    "name": "Scroll Rosette Double Shade Sconce",
+    "slug": "scroll-rosette-double-shade-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-042",
+    "material": [
+      "brass",
+      "fabric"
+    ],
+    "finish": "antique",
+    "size": "medium",
+    "description": "Two-arm wall sconce with ornate rosette backplate, acanthus scroll arms, and pleated white drum shades. Classic French-style proportions.",
+    "colorPalette": [
+      "antique brass",
+      "cream white"
+    ],
+    "styleTags": [
+      "rosette",
+      "scroll-arms",
+      "pleated-shade",
+      "double-arm",
+      "French"
+    ],
+    "vibes": [
+      "French Provincial",
+      "Classical / Ornate",
+      "Warm Transitional"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "bedroom"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "dining_table"
+    ],
+    "placementNotes": "A classic pairing sconce. Use flanking a mirror, fireplace, or bed headboard. Matches Heritage Shade chandeliers.",
+    "refImages": [
+      "IMG_6499.HEIC"
+    ],
+    "sourceFolder": "new_products",
+    "id": "42",
+    "images": [
+      "/images/wall-lights/scroll-rosette-double-shade-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/scroll-rosette-double-shade-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/scroll-rosette-double-shade-sconce/03-hero.png"
+    ]
+  },
+  {
+    "name": "Gothic Diamond Drum Sconce",
+    "slug": "gothic-diamond-drum-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-043",
+    "material": [
+      "brass",
+      "fabric",
+      "crystal"
+    ],
+    "finish": "antique",
+    "size": "medium",
+    "description": "Wall sconce with a Gothic diamond-shaped cutwork brass backplate, twin-arm bracket holding a cream linen drum shade with crystal prism accent between arms.",
+    "colorPalette": [
+      "antique brass",
+      "cream linen"
+    ],
+    "styleTags": [
+      "gothic",
+      "diamond",
+      "cutwork",
+      "drum-shade",
+      "crystal-accent"
+    ],
+    "vibes": [
+      "Art Deco",
+      "Modern Indian",
+      "Colonial / Heritage"
+    ],
+    "roomTypes": [
+      "hallway",
+      "bedroom",
+      "study"
+    ],
+    "pairsWith": [
+      "artwork",
+      "bookshelf",
+      "side_table"
+    ],
+    "placementNotes": "The diamond backplate doubles as a decorative wall accent. Use in pairs flanking artwork or in a hallway. The crystal accent catches light.",
+    "refImages": [
+      "IMG_6500.HEIC"
+    ],
+    "sourceFolder": "new_products",
+    "id": "43",
+    "images": [
+      "/images/wall-lights/gothic-diamond-drum-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/gothic-diamond-drum-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/gothic-diamond-drum-sconce/03-hero.png"
+    ]
+  },
+  {
+    "name": "Brass Cylinder Picture Light",
+    "slug": "brass-cylinder-picture-light",
+    "category": "wall_light",
+    "sku": "DB-WL-044",
+    "material": [
+      "brass"
+    ],
+    "finish": "brushed",
+    "size": "small",
+    "description": "Minimalist vertical brass cylinder picture/accent light wall-mounted on a slim bracket. Brushed brass finish. Adjustable direction. Shown illuminating a Pichwai painting.",
+    "colorPalette": [
+      "brushed brass"
+    ],
+    "styleTags": [
+      "cylinder",
+      "picture-light",
+      "minimal",
+      "adjustable",
+      "modern"
+    ],
+    "vibes": [
+      "Contemporary Minimal",
+      "Art Deco",
+      "Modern Indian"
+    ],
+    "roomTypes": [
+      "hallway",
+      "study",
+      "formal_living"
+    ],
+    "pairsWith": [
+      "artwork",
+      "bookshelf",
+      "floor_mirror"
+    ],
+    "placementNotes": "Mount beside artwork, mirrors, or shelving to provide directed accent light. The slim profile doesn't compete with the art. Works in pairs.",
+    "refImages": [
+      "IMG_6502.HEIC",
+      "IMG_6503.HEIC"
+    ],
+    "sourceFolder": "new_products",
+    "id": "44",
+    "images": [
+      "/images/wall-lights/brass-cylinder-picture-light/01-white-bg-studio.png",
+      "/images/wall-lights/brass-cylinder-picture-light/02-lifestyle-lights-on.png",
+      "/images/wall-lights/brass-cylinder-picture-light/03-hero.png"
+    ]
   }
 ]

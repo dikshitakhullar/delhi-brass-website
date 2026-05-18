@@ -179,5 +179,58 @@
       "floor_lamp.jpeg"
     ],
     "sourceFolder": "loose"
+  },
+  {
+    "name": "Carved Wood Column Floor Lamp",
+    "slug": "carved-wood-column-floor-lamp",
+    "category": "floor_lamp",
+    "sku": "DB-FL-005",
+    "material": [
+      "wood",
+      "fabric",
+      "brass"
+    ],
+    "finish": "distressed",
+    "size": "large",
+    "description": "Grand floor lamp with a dark carved wood baluster column body featuring ornate acanthus scroll bracket detail. Topped with a large dark drum shade.",
+    "colorPalette": [
+      "dark walnut",
+      "charcoal",
+      "antique brass"
+    ],
+    "styleTags": [
+      "carved-wood",
+      "baluster",
+      "column",
+      "heritage",
+      "grand"
+    ],
+    "vibes": [
+      "Colonial / Heritage",
+      "Classical / Ornate",
+      "Modern Indian"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "study",
+      "foyer"
+    ],
+    "pairsWith": [
+      "floor_mirror",
+      "side_table",
+      "bookshelf"
+    ],
+    "placementNotes": "A grand statement beside a leather sofa or reading chair. The dark wood and dark shade suit heritage or library-style rooms.",
+    "refImages": [
+      "IMG_6489.HEIC",
+      "IMG_6501.HEIC"
+    ],
+    "sourceFolder": "new_products",
+    "id": "5",
+    "images": [
+      "/images/floor-lamps/carved-wood-column-floor-lamp/01-white-bg-studio.png",
+      "/images/floor-lamps/carved-wood-column-floor-lamp/02-lifestyle-lights-on.png",
+      "/images/floor-lamps/carved-wood-column-floor-lamp/03-hero.png"
+    ]
   }
 ]
