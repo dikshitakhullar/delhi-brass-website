@@ -5941,5 +5941,112 @@
       "hero": "/images/chandeliers/twisted-linen/04-hero-70pct.png",
       "detail": "/images/chandeliers/twisted-linen/05-detail-zoomed.png"
     }
+  },
+  {
+    "name": "Filigree Crystal Drum Pendant",
+    "slug": "filigree-crystal-drum-pendant",
+    "category": "pendant",
+    "sku": "DB-PN-001",
+    "material": [
+      "brass",
+      "crystal"
+    ],
+    "finish": "antique",
+    "size": "small",
+    "description": "Compact drum-shaped pendant with ornate filigree brass body studded with crystal cabochons. Chain-hung. Casts sparkling light patterns.",
+    "colorPalette": [
+      "antique brass",
+      "clear crystal"
+    ],
+    "styleTags": [
+      "filigree",
+      "crystal-studded",
+      "drum",
+      "Moroccan",
+      "chain-hung"
+    ],
+    "vibes": [
+      "Modern Indian",
+      "Glamorous",
+      "Bohemian"
+    ],
+    "roomTypes": [
+      "powder_room",
+      "hallway",
+      "bedroom"
+    ],
+    "pairsWith": [
+      "console_table",
+      "side_table",
+      "floor_mirror"
+    ],
+    "placementNotes": "Perfect for a powder room, small hallway, or bedside pendant. The filigree and crystals cast beautiful star-like patterns on walls.",
+    "refImages": [
+      "IMG_6493.HEIC"
+    ],
+    "sourceFolder": "new_products",
+    "id": "98",
+    "images": {
+      "studio": "/images/chandeliers/filigree-crystal-drum-pendant/studio.png",
+      "lifestyle": "/images/chandeliers/filigree-crystal-drum-pendant/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/filigree-crystal-drum-pendant/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/filigree-crystal-drum-pendant/04-hero-70pct.png",
+      "detail": "/images/chandeliers/filigree-crystal-drum-pendant/05-detail-zoomed.png"
+    },
+    "collectionSlug": "pendants",
+    "collection": "Pendants"
+  },
+  {
+    "name": "Brass Lotus Pendant",
+    "slug": "brass-lotus-pendant",
+    "category": "pendant",
+    "sku": "DB-PN-002",
+    "material": [
+      "brass"
+    ],
+    "finish": "antique",
+    "size": "medium",
+    "description": "Pendant light shaped as a blooming lotus flower with layered brass petal leaves in antique finish. Each petal is veined and individually formed. Chain-hung.",
+    "colorPalette": [
+      "antique brass",
+      "dark bronze"
+    ],
+    "styleTags": [
+      "lotus",
+      "botanical",
+      "petal",
+      "Indian",
+      "sculptural"
+    ],
+    "vibes": [
+      "Modern Indian",
+      "Art Deco",
+      "Bohemian"
+    ],
+    "roomTypes": [
+      "foyer",
+      "dining_room",
+      "hallway"
+    ],
+    "pairsWith": [
+      "console_table",
+      "dining_table",
+      "artwork"
+    ],
+    "placementNotes": "A signature Indian motif. Hang solo over a round dining table, in a foyer, or in a series of three over a kitchen island.",
+    "refImages": [
+      "IMG_6494.HEIC"
+    ],
+    "sourceFolder": "new_products",
+    "id": "99",
+    "images": {
+      "studio": "/images/chandeliers/brass-lotus-pendant/studio.png",
+      "lifestyle": "/images/chandeliers/brass-lotus-pendant/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/brass-lotus-pendant/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/brass-lotus-pendant/04-hero-70pct.png",
+      "detail": "/images/chandeliers/brass-lotus-pendant/05-detail-zoomed.png"
+    },
+    "collectionSlug": "pendants",
+    "collection": "Pendants"
   }
 ]
