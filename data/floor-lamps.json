@@ -1,0 +1,183 @@
+[
+  {
+    "id": "1",
+    "name": "Crystal Candelabra Floor Lamp",
+    "slug": "crystal-candelabra-floor-lamp",
+    "category": "floor_lamp",
+    "sku": "DB-FL-001",
+    "material": [
+      "brass",
+      "crystal"
+    ],
+    "finish": "antique",
+    "size": "large",
+    "description": "Grand floor lamp with ornate antique brass candelabra base featuring multiple scrolled arms, crystal bead swags, and crystal drops. Fluted brass pole.",
+    "colorPalette": [
+      "antique brass",
+      "clear crystal",
+      "warm gold"
+    ],
+    "styleTags": [
+      "candelabra",
+      "crystal",
+      "grand",
+      "ornate",
+      "floor-standing"
+    ],
+    "vibes": [
+      "Classical / Ornate",
+      "Glamorous",
+      "French Provincial"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "foyer",
+      "master_suite"
+    ],
+    "pairsWith": [
+      "floor_mirror",
+      "console_table",
+      "side_table"
+    ],
+    "placementNotes": "A statement floor lamp for a grand living room corner or beside a chaise. Matches crystal chandelier collections. Needs open space around it.",
+    "refImages": [
+      "IMG_6337.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "2",
+    "name": "Iron Scroll Floor Lamp",
+    "slug": "iron-scroll-floor-lamp",
+    "category": "floor_lamp",
+    "sku": "DB-FL-002",
+    "material": [
+      "iron",
+      "fabric"
+    ],
+    "finish": "matte_black",
+    "size": "large",
+    "description": "Floor lamp with a matte black wrought iron tripod base featuring scrollwork and fleur-de-lis detailing. Topped with a large cream bell-shaped fabric shade.",
+    "colorPalette": [
+      "matte black",
+      "cream"
+    ],
+    "styleTags": [
+      "wrought-iron",
+      "tripod",
+      "scrollwork",
+      "fleur-de-lis",
+      "rustic"
+    ],
+    "vibes": [
+      "Rustic Farmhouse",
+      "Colonial / Heritage",
+      "Warm Transitional"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "bedroom",
+      "study"
+    ],
+    "pairsWith": [
+      "side_table",
+      "floor_mirror",
+      "bookshelf"
+    ],
+    "placementNotes": "Place beside a sofa, armchair, or bed. The wrought iron scrollwork pairs with rustic or traditional interiors. The tripod base needs open floor space.",
+    "refImages": [
+      "IMG_6344.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "3",
+    "name": "Twin Rod Floor Lamp",
+    "slug": "twin-rod-floor-lamp",
+    "category": "floor_lamp",
+    "sku": "DB-FL-003",
+    "material": [
+      "iron",
+      "fabric"
+    ],
+    "finish": "patina",
+    "size": "large",
+    "description": "Minimalist floor lamp with two parallel dark patina iron rods rising from a simple base, topped with a large cream rectangular drum shade.",
+    "colorPalette": [
+      "dark bronze",
+      "cream"
+    ],
+    "styleTags": [
+      "twin-rod",
+      "minimal",
+      "rectangular-shade",
+      "modern",
+      "slim"
+    ],
+    "vibes": [
+      "Contemporary Minimal",
+      "Warm Transitional",
+      "Industrial Chic"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "bedroom",
+      "study"
+    ],
+    "pairsWith": [
+      "side_table",
+      "floor_mirror",
+      "bookshelf"
+    ],
+    "placementNotes": "Clean, modern floor lamp for beside a sofa or reading chair. The twin-rod design is slim enough for tight corners.",
+    "refImages": [
+      "IMG_6346.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "4",
+    "name": "Tripod Drum Floor Lamp",
+    "slug": "tripod-drum-floor-lamp",
+    "category": "floor_lamp",
+    "sku": "DB-FL-004",
+    "material": [
+      "iron",
+      "fabric"
+    ],
+    "finish": "matte_black",
+    "size": "large",
+    "description": "Floor lamp with a matte black four-legged tripod iron base and a large ribbed cream/linen drum shade. Mid-century modern aesthetic.",
+    "colorPalette": [
+      "matte black",
+      "cream linen"
+    ],
+    "styleTags": [
+      "tripod",
+      "drum-shade",
+      "mid-century",
+      "ribbed",
+      "modern"
+    ],
+    "vibes": [
+      "Contemporary Minimal",
+      "Warm Transitional",
+      "Art Deco"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "bedroom",
+      "study"
+    ],
+    "pairsWith": [
+      "side_table",
+      "floor_mirror",
+      "bookshelf"
+    ],
+    "placementNotes": "A versatile modern floor lamp. Place beside a sofa or armchair. The ribbed drum shade casts soft, even light.",
+    "refImages": [
+      "floor_lamp.jpeg"
+    ],
+    "sourceFolder": "loose"
+  }
+]

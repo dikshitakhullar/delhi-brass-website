@@ -1,0 +1,76 @@
+[
+  {
+    "id": "1",
+    "name": "Corten Steel Geometric Sculpture",
+    "slug": "corten-steel-geometric-sculpture",
+    "category": "sculpture",
+    "sku": "DB-SC-001",
+    "material": [
+      "steel"
+    ],
+    "finish": "patina",
+    "size": "large",
+    "description": "Large-scale outdoor sculpture composed of interlocking geometric polyhedron forms in corten (weathering) steel with natural rust patina. Abstract, contemporary art piece.",
+    "colorPalette": [
+      "rust orange",
+      "corten brown"
+    ],
+    "styleTags": [
+      "geometric",
+      "corten",
+      "polyhedron",
+      "abstract",
+      "outdoor"
+    ],
+    "vibes": [
+      "Contemporary Minimal",
+      "Industrial Chic"
+    ],
+    "roomTypes": [
+      "outdoor"
+    ],
+    "pairsWith": [],
+    "placementNotes": "Garden or driveway focal sculpture. The corten steel weathers naturally and develops deeper patina over time. Needs a stone or gravel plinth base.",
+    "refImages": [
+      "sculpture.jpeg"
+    ],
+    "sourceFolder": "loose"
+  },
+  {
+    "id": "2",
+    "name": "Corten Steel Angular Sculpture",
+    "slug": "corten-steel-angular-sculpture",
+    "category": "sculpture",
+    "sku": "DB-SC-002",
+    "material": [
+      "steel"
+    ],
+    "finish": "patina",
+    "size": "large",
+    "description": "Large outdoor abstract sculpture with angular interlocking planes and cantilevers in corten steel. Bold architectural statement piece.",
+    "colorPalette": [
+      "rust orange",
+      "corten brown"
+    ],
+    "styleTags": [
+      "angular",
+      "corten",
+      "abstract",
+      "architectural",
+      "outdoor"
+    ],
+    "vibes": [
+      "Contemporary Minimal",
+      "Industrial Chic"
+    ],
+    "roomTypes": [
+      "outdoor"
+    ],
+    "pairsWith": [],
+    "placementNotes": "Statement outdoor sculpture for a garden, corporate campus, or hotel entrance. Place on a circular gravel bed for maximum visual impact.",
+    "refImages": [
+      "sculpture_2.jpeg"
+    ],
+    "sourceFolder": "loose"
+  }
+]
