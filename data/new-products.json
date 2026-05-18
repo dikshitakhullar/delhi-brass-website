@@ -1,0 +1,2925 @@
+[
+  {
+    "id": "1",
+    "name": "Gothic Lattice Outdoor Sconce",
+    "slug": "gothic-lattice-outdoor-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-001",
+    "material": [
+      "iron",
+      "glass"
+    ],
+    "finish": "matte_black",
+    "size": "large",
+    "description": "Tall tapered wall sconce with matte black iron frame featuring interlocking oval lattice pattern and frosted glass panels. Crown-top finial. Suitable for indoor and outdoor use.",
+    "colorPalette": [
+      "matte black",
+      "frosted white"
+    ],
+    "styleTags": [
+      "gothic",
+      "lattice",
+      "outdoor",
+      "tapered",
+      "frosted-glass"
+    ],
+    "vibes": [
+      "Colonial / Heritage",
+      "Art Deco",
+      "Contemporary Minimal"
+    ],
+    "roomTypes": [
+      "outdoor",
+      "foyer",
+      "hallway"
+    ],
+    "pairsWith": [
+      "console_table",
+      "artwork",
+      "floor_mirror"
+    ],
+    "placementNotes": "Pair two flanking a front door or entry gate for a grand exterior statement. Also works in tall stairwells or double-height foyers indoors.",
+    "refImages": [
+      "IMG_6297.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "2",
+    "name": "Amber Hurricane Scroll Sconce",
+    "slug": "amber-hurricane-scroll-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-002",
+    "material": [
+      "iron",
+      "glass"
+    ],
+    "finish": "patina",
+    "size": "small",
+    "description": "Single-arm wall sconce with S-curve scrollwork in dark patina iron, holding a hammered amber glass hurricane shade. Ring mount at top.",
+    "colorPalette": [
+      "dark bronze",
+      "amber glass"
+    ],
+    "styleTags": [
+      "hurricane",
+      "scroll",
+      "amber-glass",
+      "single-arm",
+      "patina"
+    ],
+    "vibes": [
+      "Colonial / Heritage",
+      "Warm Transitional",
+      "Rustic Farmhouse"
+    ],
+    "roomTypes": [
+      "hallway",
+      "bedroom",
+      "powder_room"
+    ],
+    "pairsWith": [
+      "artwork",
+      "console_table",
+      "floor_mirror"
+    ],
+    "placementNotes": "Use in pairs flanking a mirror or artwork. The amber glass casts a warm glow \u2014 ideal for hallways, bedrooms, or powder rooms. Small enough for narrow walls.",
+    "refImages": [
+      "IMG_6298.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "3",
+    "name": "Outdoor Torch Hurricane Sconce",
+    "slug": "outdoor-torch-hurricane-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-003",
+    "material": [
+      "iron",
+      "glass"
+    ],
+    "finish": "patina",
+    "size": "medium",
+    "description": "Torch-style outdoor wall sconce with elongated S-scroll arm and clear glass hurricane shade. Mounted on an exposed brick wall in a showroom setting.",
+    "colorPalette": [
+      "dark bronze",
+      "clear glass"
+    ],
+    "styleTags": [
+      "torch",
+      "hurricane",
+      "outdoor",
+      "scroll-arm",
+      "elongated"
+    ],
+    "vibes": [
+      "Colonial / Heritage",
+      "Rustic Farmhouse",
+      "Warm Transitional"
+    ],
+    "roomTypes": [
+      "outdoor",
+      "terrace",
+      "foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "artwork"
+    ],
+    "placementNotes": "Designed for outdoor use \u2014 terraces, porticos, garden walls. Use in pairs flanking a door. The elongated arm projects well from the wall to light pathways.",
+    "refImages": [
+      "IMG_6299.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "4",
+    "name": "Brass Cylinder Vanity Light",
+    "slug": "brass-cylinder-vanity-light",
+    "category": "wall_light",
+    "sku": "DB-WL-004",
+    "material": [
+      "brass"
+    ],
+    "finish": "polished",
+    "size": "large",
+    "description": "Long horizontal wall light with three segments \u2014 matte black cylinders alternating with a central polished brass filigree band. Modern yet ornate.",
+    "colorPalette": [
+      "matte black",
+      "polished brass",
+      "gold filigree"
+    ],
+    "styleTags": [
+      "cylinder",
+      "vanity",
+      "horizontal",
+      "filigree-band",
+      "modern"
+    ],
+    "vibes": [
+      "Art Deco",
+      "Modern Indian",
+      "Glamorous"
+    ],
+    "roomTypes": [
+      "powder_room",
+      "master_suite",
+      "bar_area"
+    ],
+    "pairsWith": [
+      "floor_mirror",
+      "artwork",
+      "console_table"
+    ],
+    "placementNotes": "Perfect above a bathroom vanity mirror or over a bar console. The horizontal orientation suits wide walls. Mount at eye level for best effect.",
+    "refImages": [
+      "IMG_6300.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "5",
+    "name": "Baroque Amber Double Sconce",
+    "slug": "baroque-amber-double-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-005",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "size": "medium",
+    "description": "Two-arm wall sconce with ornate acanthus leaf baroque backplate in antique brass, holding two upward-facing hammered amber glass hurricane shades.",
+    "colorPalette": [
+      "antique brass",
+      "amber glass",
+      "warm gold"
+    ],
+    "styleTags": [
+      "baroque",
+      "double-arm",
+      "amber-glass",
+      "acanthus",
+      "ornate"
+    ],
+    "vibes": [
+      "Classical / Ornate",
+      "Colonial / Heritage",
+      "French Provincial"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "dining_table"
+    ],
+    "placementNotes": "Use in pairs flanking a fireplace, large mirror, or painting. The double arms provide generous light spread. Matches well with brass chandelier collections.",
+    "refImages": [
+      "IMG_6301.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "6",
+    "name": "Baroque Crystal Shade Sconce",
+    "slug": "baroque-crystal-shade-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-006",
+    "material": [
+      "iron",
+      "fabric",
+      "crystal"
+    ],
+    "finish": "distressed",
+    "size": "medium",
+    "description": "Two-arm wall sconce with heavily distressed bronze-gold scrollwork frame, crystal drop accents, and cream empire-style fabric shades with braided trim.",
+    "colorPalette": [
+      "distressed bronze",
+      "gold",
+      "cream",
+      "clear crystal"
+    ],
+    "styleTags": [
+      "baroque",
+      "crystal-drops",
+      "fabric-shade",
+      "scrollwork",
+      "distressed"
+    ],
+    "vibes": [
+      "Classical / Ornate",
+      "French Provincial",
+      "Glamorous"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "master_suite"
+    ],
+    "pairsWith": [
+      "console_table",
+      "wall_sconce",
+      "floor_mirror"
+    ],
+    "placementNotes": "Pair two flanking a large mirror or artwork above a console. The fabric shades soften the ornate frame. Works well with Heritage Shade chandeliers.",
+    "refImages": [
+      "IMG_6303.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "7",
+    "name": "Brushed Brass Modern Torch",
+    "slug": "brushed-brass-modern-torch",
+    "category": "wall_light",
+    "sku": "DB-WL-007",
+    "material": [
+      "brass"
+    ],
+    "finish": "brushed",
+    "size": "small",
+    "description": "Minimalist single-arm wall sconce with rectangular brushed brass backplate and cylindrical torch-style light holder with knurled base detail. Clean, modern lines.",
+    "colorPalette": [
+      "brushed brass",
+      "satin gold"
+    ],
+    "styleTags": [
+      "minimal",
+      "torch",
+      "rectangular-backplate",
+      "knurled",
+      "modern"
+    ],
+    "vibes": [
+      "Contemporary Minimal",
+      "Art Deco",
+      "Warm Transitional"
+    ],
+    "roomTypes": [
+      "hallway",
+      "bedroom",
+      "powder_room",
+      "study"
+    ],
+    "pairsWith": [
+      "artwork",
+      "floor_mirror",
+      "bookshelf"
+    ],
+    "placementNotes": "Use in pairs flanking a bed headboard, bathroom mirror, or hallway artwork. The small footprint suits narrow walls. Clean lines pair with modern interiors.",
+    "refImages": [
+      "IMG_6304.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "8",
+    "name": "Brass Ribbed Globe Sconce",
+    "slug": "brass-ribbed-globe-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-008",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "polished",
+    "size": "medium",
+    "description": "Elegant wall sconce with polished brass arm extending from a gear-detailed round rosette, holding a ribbed clear glass globe shade. Tapered brass finial below.",
+    "colorPalette": [
+      "polished brass",
+      "clear glass",
+      "warm gold"
+    ],
+    "styleTags": [
+      "ribbed-glass",
+      "globe",
+      "finial",
+      "polished-brass",
+      "elegant"
+    ],
+    "vibes": [
+      "Art Deco",
+      "Classical / Ornate",
+      "Warm Transitional"
+    ],
+    "roomTypes": [
+      "foyer",
+      "hallway",
+      "formal_living"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "artwork"
+    ],
+    "placementNotes": "Pair two flanking a mirror or entryway. The ribbed glass creates beautiful light patterns on walls. The tapered finial adds a regal touch.",
+    "refImages": [
+      "IMG_6305.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "9",
+    "name": "Pleated Bell Silver Sconce",
+    "slug": "pleated-bell-silver-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-009",
+    "material": [
+      "iron",
+      "fabric"
+    ],
+    "finish": "distressed",
+    "size": "small",
+    "description": "Slim single-arm wall sconce with a distressed silver iron stem and pleated white bell-shaped fabric shade. Compact and understated.",
+    "colorPalette": [
+      "distressed silver",
+      "white"
+    ],
+    "styleTags": [
+      "pleated",
+      "bell-shade",
+      "slim",
+      "understated",
+      "silver"
+    ],
+    "vibes": [
+      "French Provincial",
+      "Warm Transitional",
+      "Colonial / Heritage"
+    ],
+    "roomTypes": [
+      "bedroom",
+      "hallway",
+      "powder_room"
+    ],
+    "pairsWith": [
+      "artwork",
+      "floor_mirror",
+      "side_table"
+    ],
+    "placementNotes": "Ideal for bedrooms flanking a headboard or in a narrow hallway. The small footprint and soft fabric shade keep things understated.",
+    "refImages": [
+      "IMG_6305.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "10",
+    "name": "Ornate Brass Double Shade Sconce",
+    "slug": "ornate-brass-double-shade-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-010",
+    "material": [
+      "brass",
+      "fabric"
+    ],
+    "finish": "antique",
+    "size": "large",
+    "description": "Grand two-arm wall sconce with heavily ornate fluted brass body, acanthus leaf detailing, scrolled arms, and scalloped cream fabric shades with braided trim.",
+    "colorPalette": [
+      "antique brass",
+      "cream",
+      "warm gold"
+    ],
+    "styleTags": [
+      "ornate",
+      "double-arm",
+      "fluted",
+      "acanthus",
+      "scalloped-shade"
+    ],
+    "vibes": [
+      "Classical / Ornate",
+      "French Provincial",
+      "Colonial / Heritage"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "dining_table"
+    ],
+    "placementNotes": "Use in pairs flanking a large mirror, fireplace, or painting on a large wall. The grand scale matches Heritage Shade chandeliers perfectly.",
+    "refImages": [
+      "IMG_6306.HEIC",
+      "IMG_6324.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "11",
+    "name": "Twisted Brass Drum Sconce",
+    "slug": "twisted-brass-drum-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-011",
+    "material": [
+      "brass",
+      "fabric"
+    ],
+    "finish": "polished",
+    "size": "large",
+    "description": "Tall wall sconce with a twisted ribbon brass body extending from an ornate rosette, topped with a cream drum shade. Very elongated vertical form.",
+    "colorPalette": [
+      "polished brass",
+      "warm gold",
+      "cream"
+    ],
+    "styleTags": [
+      "twisted",
+      "elongated",
+      "drum-shade",
+      "ribbon",
+      "tall"
+    ],
+    "vibes": [
+      "Art Deco",
+      "Glamorous",
+      "Modern Indian"
+    ],
+    "roomTypes": [
+      "foyer",
+      "formal_living",
+      "stairwell"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "artwork"
+    ],
+    "placementNotes": "The tall vertical form suits high walls \u2014 pair two flanking a double-height foyer mirror or stairwell artwork. The twisted brass ribbon is a sculptural feature.",
+    "refImages": [
+      "IMG_6307.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "12",
+    "name": "Dragon Phoenix Double Sconce",
+    "slug": "dragon-phoenix-double-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-012",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "size": "large",
+    "description": "Highly ornate two-arm wall sconce with mythical dragon/phoenix figures holding amber glass hurricane shades. Elaborate shell and acanthus backplate.",
+    "colorPalette": [
+      "antique brass",
+      "amber glass",
+      "warm gold"
+    ],
+    "styleTags": [
+      "dragon",
+      "phoenix",
+      "mythical",
+      "ornate",
+      "amber-glass"
+    ],
+    "vibes": [
+      "Classical / Ornate",
+      "Modern Indian",
+      "Colonial / Heritage"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "foyer",
+      "dining_room"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "artwork"
+    ],
+    "placementNotes": "A showstopper \u2014 use in pairs flanking a grand mirror or fireplace. The dragon motifs suit homes with Indian or Asian-inspired decor. Statement piece.",
+    "refImages": [
+      "IMG_6308.HEIC",
+      "IMG_6314.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "13",
+    "name": "Fluted Column Wall Light",
+    "slug": "fluted-column-wall-light",
+    "category": "wall_light",
+    "sku": "DB-WL-013",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "polished",
+    "size": "large",
+    "description": "Tall vertical wall light with frosted ribbed/fluted glass cylinder capped with polished brass endcaps. Glows evenly when lit. Art Deco inspired.",
+    "colorPalette": [
+      "polished brass",
+      "frosted white"
+    ],
+    "styleTags": [
+      "fluted",
+      "column",
+      "art-deco",
+      "ribbed-glass",
+      "vertical"
+    ],
+    "vibes": [
+      "Art Deco",
+      "Contemporary Minimal",
+      "Glamorous"
+    ],
+    "roomTypes": [
+      "hallway",
+      "powder_room",
+      "bar_area",
+      "master_suite"
+    ],
+    "pairsWith": [
+      "floor_mirror",
+      "artwork",
+      "console_table"
+    ],
+    "placementNotes": "Pair two flanking a bathroom vanity mirror, bar area, or hallway. The vertical column casts soft, even light. Stunning on dark walls.",
+    "refImages": [
+      "IMG_6309.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "14",
+    "name": "Iron Torch Drum Sconce",
+    "slug": "iron-torch-drum-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-014",
+    "material": [
+      "iron",
+      "fabric"
+    ],
+    "finish": "patina",
+    "size": "medium",
+    "description": "Tall torch-style wall sconce with hammered iron body in dark patina, topped with a cream drum shade. Long tapered stem with bulbed finial end.",
+    "colorPalette": [
+      "dark patina",
+      "iron",
+      "cream"
+    ],
+    "styleTags": [
+      "torch",
+      "hammered",
+      "drum-shade",
+      "tapered",
+      "rustic"
+    ],
+    "vibes": [
+      "Colonial / Heritage",
+      "Rustic Farmhouse",
+      "Warm Transitional"
+    ],
+    "roomTypes": [
+      "hallway",
+      "foyer",
+      "dining_room"
+    ],
+    "pairsWith": [
+      "console_table",
+      "artwork",
+      "floor_mirror"
+    ],
+    "placementNotes": "Use in pairs flanking a large painting or mirror. The hammered texture pairs well with textured walls. Tall form suits high-ceiling spaces.",
+    "refImages": [
+      "IMG_6310.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "15",
+    "name": "Scrollwork Drum Accent Sconce",
+    "slug": "scrollwork-drum-accent-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-015",
+    "material": [
+      "brass",
+      "fabric"
+    ],
+    "finish": "polished",
+    "size": "large",
+    "description": "Wide horizontal wall sconce with laser-cut brass scrollwork extending symmetrically on both sides of a central cream drum shade. A dramatic horizontal accent.",
+    "colorPalette": [
+      "polished brass",
+      "cream",
+      "warm gold"
+    ],
+    "styleTags": [
+      "scrollwork",
+      "horizontal",
+      "laser-cut",
+      "drum-shade",
+      "accent"
+    ],
+    "vibes": [
+      "Modern Indian",
+      "Art Deco",
+      "Glamorous"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "master_suite"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "artwork",
+      "floor_mirror"
+    ],
+    "placementNotes": "Best as a centrepiece on a feature wall \u2014 above a headboard, sofa, or dining console. The wide horizontal spread needs a generous wall. Use a single unit.",
+    "refImages": [
+      "IMG_6312.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "16",
+    "name": "Scroll Crystal Glass Double Sconce",
+    "slug": "scroll-crystal-glass-double-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-016",
+    "material": [
+      "brass",
+      "glass",
+      "crystal"
+    ],
+    "finish": "antique",
+    "size": "medium",
+    "description": "Two-arm wall sconce with S-scroll brass arms, floral rosette centre, clear glass hurricane shades, and dangling crystal drop accents.",
+    "colorPalette": [
+      "antique brass",
+      "clear glass",
+      "crystal"
+    ],
+    "styleTags": [
+      "scroll",
+      "crystal-drops",
+      "hurricane",
+      "double-arm",
+      "floral-rosette"
+    ],
+    "vibes": [
+      "Classical / Ornate",
+      "French Provincial",
+      "Glamorous"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "wall_sconce"
+    ],
+    "placementNotes": "Pair with Crystal Garden or Crystal Fringe chandeliers. Use two flanking a mirror or fireplace. The crystal drops add sparkle in evening light.",
+    "refImages": [
+      "IMG_6313.HEIC",
+      "IMG_6318.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "17",
+    "name": "Industrial Gear Sconce",
+    "slug": "industrial-gear-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-017",
+    "material": [
+      "iron"
+    ],
+    "finish": "matte_black",
+    "size": "medium",
+    "description": "Industrial-style wall sconce with a cluster of interlocking cog/gear wheels as the backplate, extending a single arm with a white bell shade and exposed filament bulb. Delhi Brass branded.",
+    "colorPalette": [
+      "matte black",
+      "cream white"
+    ],
+    "styleTags": [
+      "industrial",
+      "gear",
+      "cog",
+      "exposed-bulb",
+      "steampunk"
+    ],
+    "vibes": [
+      "Industrial Chic",
+      "Contemporary Minimal",
+      "Art Deco"
+    ],
+    "roomTypes": [
+      "bar_area",
+      "study",
+      "hallway"
+    ],
+    "pairsWith": [
+      "bookshelf",
+      "bar_cart",
+      "artwork"
+    ],
+    "placementNotes": "A conversation piece \u2014 perfect for a bar area, study, or industrial-themed space. Use a single unit or pair above a bar counter. The gears are sculptural even when unlit.",
+    "refImages": [
+      "IMG_6314.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "18",
+    "name": "Coral Reef Sconce",
+    "slug": "coral-reef-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-018",
+    "material": [
+      "iron",
+      "fabric"
+    ],
+    "finish": "distressed",
+    "size": "medium",
+    "description": "Coastal-inspired wall sconce with a coral/branch motif backplate in verdigris-distressed finish, extending a curved arm with a pleated cream shade.",
+    "colorPalette": [
+      "verdigris green",
+      "cream",
+      "patina"
+    ],
+    "styleTags": [
+      "coral",
+      "coastal",
+      "verdigris",
+      "branch",
+      "organic"
+    ],
+    "vibes": [
+      "Coastal / Mediterranean",
+      "Bohemian",
+      "Warm Transitional"
+    ],
+    "roomTypes": [
+      "bedroom",
+      "powder_room",
+      "terrace"
+    ],
+    "pairsWith": [
+      "artwork",
+      "side_table",
+      "floor_mirror"
+    ],
+    "placementNotes": "Perfect for coastal or nature-inspired rooms. Use in pairs flanking a bedroom mirror or in a powder room. The verdigris finish adds character.",
+    "refImages": [
+      "IMG_6315.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "19",
+    "name": "Moroccan Diamond Torch Sconce",
+    "slug": "moroccan-diamond-torch-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-019",
+    "material": [
+      "iron",
+      "glass"
+    ],
+    "finish": "distressed",
+    "size": "small",
+    "description": "Wall sconce with diamond-shaped filigree backplate in verdigris/distressed finish, holding an amber glass hurricane shade on a straight arm.",
+    "colorPalette": [
+      "verdigris",
+      "amber glass",
+      "distressed green"
+    ],
+    "styleTags": [
+      "diamond",
+      "filigree",
+      "moroccan",
+      "hurricane",
+      "verdigris"
+    ],
+    "vibes": [
+      "Bohemian",
+      "Coastal / Mediterranean",
+      "Modern Indian"
+    ],
+    "roomTypes": [
+      "terrace",
+      "hallway",
+      "powder_room"
+    ],
+    "pairsWith": [
+      "artwork",
+      "console_table",
+      "side_table"
+    ],
+    "placementNotes": "Works indoors or outdoors. Pair two flanking a doorway or use in a Moroccan-themed room. The verdigris patina adds an aged, earthy feel.",
+    "refImages": [
+      "IMG_6316.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "20",
+    "name": "Crystal Grid Wall Sconce",
+    "slug": "crystal-grid-wall-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-020",
+    "material": [
+      "brass",
+      "crystal"
+    ],
+    "finish": "gilt",
+    "size": "medium",
+    "description": "Rounded rectangular wall sconce with a grid of rectangular and square crystal prisms set in a gilt brass frame. Creates dramatic refracted light patterns.",
+    "colorPalette": [
+      "gilt brass",
+      "clear crystal"
+    ],
+    "styleTags": [
+      "crystal-grid",
+      "prisms",
+      "rectangular",
+      "glamorous",
+      "refracted-light"
+    ],
+    "vibes": [
+      "Glamorous",
+      "Art Deco",
+      "Modern Indian"
+    ],
+    "roomTypes": [
+      "foyer",
+      "powder_room",
+      "master_suite"
+    ],
+    "pairsWith": [
+      "floor_mirror",
+      "console_table",
+      "artwork"
+    ],
+    "placementNotes": "A jewel-like accent. Use in pairs flanking a powder room mirror or a foyer console. The crystal grid casts prismatic patterns when lit.",
+    "refImages": [
+      "IMG_6317.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "21",
+    "name": "Moon Globe Brass Sconce",
+    "slug": "moon-globe-brass-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-021",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "size": "small",
+    "description": "Minimalist wall sconce with a curved antique brass gooseneck arm holding a frosted white moon-effect glass globe. Soft, diffused lunar glow. Delhi Brass branded.",
+    "colorPalette": [
+      "antique brass",
+      "frosted white"
+    ],
+    "styleTags": [
+      "moon",
+      "globe",
+      "minimal",
+      "gooseneck",
+      "soft-glow"
+    ],
+    "vibes": [
+      "Contemporary Minimal",
+      "Bohemian",
+      "Warm Transitional"
+    ],
+    "roomTypes": [
+      "bedroom",
+      "hallway",
+      "powder_room",
+      "study"
+    ],
+    "pairsWith": [
+      "side_table",
+      "bookshelf",
+      "artwork"
+    ],
+    "placementNotes": "Beautiful as a bedside reading light or in a hallway. The frosted moon globe creates a gentle ambient glow. Works solo or in pairs.",
+    "refImages": [
+      "IMG_6319.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "22",
+    "name": "Lotus Leaf Double Bell Sconce",
+    "slug": "lotus-leaf-double-bell-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-022",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "size": "medium",
+    "description": "Two-arm wall sconce with a rectangular lotus-engraved brass backplate, ring-loop arms, and upward-facing amber tulip glass shades.",
+    "colorPalette": [
+      "antique brass",
+      "amber glass",
+      "warm gold"
+    ],
+    "styleTags": [
+      "lotus",
+      "double-arm",
+      "engraved",
+      "tulip-glass",
+      "Indian"
+    ],
+    "vibes": [
+      "Modern Indian",
+      "Classical / Ornate",
+      "Warm Transitional"
+    ],
+    "roomTypes": [
+      "foyer",
+      "formal_living",
+      "dining_room"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "dining_table"
+    ],
+    "placementNotes": "Pair two flanking a puja area, console table, or large mirror. The lotus motif adds an Indian heritage touch while remaining versatile.",
+    "refImages": [
+      "IMG_6320.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "23",
+    "name": "Brass Torchiere Shade Sconce",
+    "slug": "brass-torchiere-shade-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-023",
+    "material": [
+      "brass",
+      "fabric"
+    ],
+    "finish": "polished",
+    "size": "medium",
+    "description": "Tall single-arm wall sconce with polished brass turned stem and round rosette mount, topped with a small scalloped cream fabric shade.",
+    "colorPalette": [
+      "polished brass",
+      "cream"
+    ],
+    "styleTags": [
+      "torchiere",
+      "turned",
+      "single-arm",
+      "fabric-shade",
+      "classical"
+    ],
+    "vibes": [
+      "Classical / Ornate",
+      "Colonial / Heritage",
+      "Warm Transitional"
+    ],
+    "roomTypes": [
+      "hallway",
+      "foyer",
+      "dining_room"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "artwork"
+    ],
+    "placementNotes": "A timeless classical sconce. Use in pairs flanking a mirror or in a series down a long hallway. Works with Heritage Shade chandeliers.",
+    "refImages": [
+      "IMG_6322.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "24",
+    "name": "Geometric Circle Panel Sconce",
+    "slug": "geometric-circle-panel-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-024",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "brushed",
+    "size": "medium",
+    "description": "Rectangular wall sconce with frosted glass panel overlaid with a brushed brass interlocking circles geometric pattern. Modern Art Deco aesthetic.",
+    "colorPalette": [
+      "brushed brass",
+      "frosted white"
+    ],
+    "styleTags": [
+      "geometric",
+      "circles",
+      "panel",
+      "art-deco",
+      "frosted"
+    ],
+    "vibes": [
+      "Art Deco",
+      "Contemporary Minimal",
+      "Modern Indian"
+    ],
+    "roomTypes": [
+      "hallway",
+      "powder_room",
+      "bar_area"
+    ],
+    "pairsWith": [
+      "artwork",
+      "floor_mirror",
+      "bar_cart"
+    ],
+    "placementNotes": "Clean and modern \u2014 perfect for contemporary corridors, powder rooms, or as a pair flanking a vanity mirror. The geometric pattern reads beautifully when backlit.",
+    "refImages": [
+      "IMG_6323.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "25",
+    "name": "Distressed Scroll Frosted Sconce",
+    "slug": "distressed-scroll-frosted-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-025",
+    "material": [
+      "iron",
+      "glass"
+    ],
+    "finish": "distressed",
+    "size": "medium",
+    "description": "Two-arm wall sconce with elaborate distressed white-silver scrollwork and upward-facing frosted alabaster glass shades with lattice holders.",
+    "colorPalette": [
+      "distressed white",
+      "silver",
+      "frosted glass"
+    ],
+    "styleTags": [
+      "scrollwork",
+      "distressed",
+      "frosted-glass",
+      "double-arm",
+      "french"
+    ],
+    "vibes": [
+      "French Provincial",
+      "Classical / Ornate",
+      "Bohemian"
+    ],
+    "roomTypes": [
+      "bedroom",
+      "formal_living",
+      "dining_room"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "side_table"
+    ],
+    "placementNotes": "Matches the Distressed Scroll chandelier collection. Use in pairs to complement the Baroque or Shield chandeliers. Suits white or cream interiors.",
+    "refImages": [
+      "IMG_6324.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "26",
+    "name": "Baroque Candelabra Sconce",
+    "slug": "baroque-candelabra-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-026",
+    "material": [
+      "brass"
+    ],
+    "finish": "antique",
+    "size": "medium",
+    "description": "Two-arm candelabra wall sconce with elaborate baroque scrollwork and floral repousse backplate. Exposed candle bulbs. Heavy cast brass.",
+    "colorPalette": [
+      "antique brass",
+      "dark gold"
+    ],
+    "styleTags": [
+      "baroque",
+      "candelabra",
+      "repousse",
+      "floral",
+      "cast-brass"
+    ],
+    "vibes": [
+      "Classical / Ornate",
+      "Colonial / Heritage",
+      "French Provincial"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "foyer",
+      "dining_room"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "artwork"
+    ],
+    "placementNotes": "A heritage statement. Use in pairs flanking a grand mirror or fireplace. No shade needed \u2014 the ornate brass is the feature. Matches ornate brass chandeliers.",
+    "refImages": [
+      "IMG_6325.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "27",
+    "name": "Rustic Scroll Hurricane Sconce",
+    "slug": "rustic-scroll-hurricane-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-027",
+    "material": [
+      "iron",
+      "glass"
+    ],
+    "finish": "patina",
+    "size": "medium",
+    "description": "Wall sconce with hammered iron scrollwork backplate in dark rustic patina and a clear glass cylinder hurricane shade. Exposed filament bulb creates warm glow.",
+    "colorPalette": [
+      "dark rust",
+      "hammered iron",
+      "clear glass"
+    ],
+    "styleTags": [
+      "rustic",
+      "scrollwork",
+      "hurricane",
+      "hammered",
+      "industrial"
+    ],
+    "vibes": [
+      "Rustic Farmhouse",
+      "Industrial Chic",
+      "Colonial / Heritage"
+    ],
+    "roomTypes": [
+      "outdoor",
+      "terrace",
+      "hallway",
+      "bar_area"
+    ],
+    "pairsWith": [
+      "bar_cart",
+      "console_table",
+      "artwork"
+    ],
+    "placementNotes": "Suited for rustic, industrial, or outdoor spaces. Pair two on a brick or stone wall flanking a doorway. The hammered texture adds character.",
+    "refImages": [
+      "IMG_6326.HEIC",
+      "IMG_6327.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "28",
+    "name": "Noir Scroll Crystal Sconce",
+    "slug": "noir-scroll-crystal-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-028",
+    "material": [
+      "iron",
+      "crystal"
+    ],
+    "finish": "matte_black",
+    "size": "medium",
+    "description": "Two-arm wall sconce with elaborate matte black iron scrollwork, leaf accents, exposed candle bulbs, and dangling crystal drops. Dark romantic aesthetic.",
+    "colorPalette": [
+      "matte black",
+      "clear crystal"
+    ],
+    "styleTags": [
+      "noir",
+      "scroll",
+      "crystal-drops",
+      "candelabra",
+      "dark-romantic"
+    ],
+    "vibes": [
+      "Glamorous",
+      "Classical / Ornate",
+      "Art Deco"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "master_suite"
+    ],
+    "pairsWith": [
+      "floor_mirror",
+      "artwork",
+      "console_table"
+    ],
+    "placementNotes": "Pairs with the Noir Crystal chandelier collection. Use flanking a dark feature wall or mirror. The black iron and crystal contrast creates moody drama.",
+    "refImages": [
+      "IMG_6333.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "29",
+    "name": "Crystal Prism Leaf Sconce",
+    "slug": "crystal-prism-leaf-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-029",
+    "material": [
+      "brass",
+      "crystal"
+    ],
+    "finish": "antique",
+    "size": "medium",
+    "description": "Wall sconce with acanthus leaf brass arms curving upward, supporting tiers of hanging crystal prism spears. Rectangular brass backplate.",
+    "colorPalette": [
+      "antique brass",
+      "clear crystal prisms"
+    ],
+    "styleTags": [
+      "crystal-prism",
+      "acanthus",
+      "leaf",
+      "spears",
+      "glamorous"
+    ],
+    "vibes": [
+      "Glamorous",
+      "Classical / Ornate",
+      "French Provincial"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "foyer",
+      "dining_room"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "dining_table"
+    ],
+    "placementNotes": "Matches Prism Tier and crystal chandelier collections. The crystal spears catch light beautifully \u2014 use flanking a mirror for maximum sparkle.",
+    "refImages": [
+      "IMG_6332.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "30",
+    "name": "Botanical Brass Hurricane Sconce",
+    "slug": "botanical-brass-hurricane-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-030",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "size": "medium",
+    "description": "Single-arm wall sconce with botanical leaf-scroll brass arm extending from a round rosette, holding a clear glass hurricane shade. Warm brass patina.",
+    "colorPalette": [
+      "antique brass",
+      "clear glass"
+    ],
+    "styleTags": [
+      "botanical",
+      "leaf",
+      "hurricane",
+      "single-arm",
+      "organic"
+    ],
+    "vibes": [
+      "Colonial / Heritage",
+      "Warm Transitional",
+      "Modern Indian"
+    ],
+    "roomTypes": [
+      "foyer",
+      "hallway",
+      "formal_living"
+    ],
+    "pairsWith": [
+      "console_table",
+      "artwork",
+      "floor_mirror"
+    ],
+    "placementNotes": "Use in pairs flanking artwork or a mirror. The botanical brass detailing and clear glass create a warm, classic look suitable for most interiors.",
+    "refImages": [
+      "IMG_6339.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "31",
+    "name": "Filigree Amber Double Sconce",
+    "slug": "filigree-amber-double-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-031",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "size": "medium",
+    "description": "Two-arm wall sconce with intricate filigree scrollwork backplate in antique brass, holding two upward-facing amber hammered glass shades.",
+    "colorPalette": [
+      "antique brass",
+      "amber glass"
+    ],
+    "styleTags": [
+      "filigree",
+      "double-arm",
+      "amber-glass",
+      "ornate",
+      "traditional"
+    ],
+    "vibes": [
+      "Classical / Ornate",
+      "Colonial / Heritage",
+      "Modern Indian"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "dining_table"
+    ],
+    "placementNotes": "Pairs with Baroque Amber Double Sconce in style. Use flanking a mirror or painting. The filigree backplate is ornate enough to be a feature even unlit.",
+    "refImages": [
+      "IMG_6340.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "32",
+    "name": "Crystal Candelabra Floor Lamp",
+    "slug": "crystal-candelabra-floor-lamp",
+    "category": "floor_lamp",
+    "sku": "DB-FL-001",
+    "material": [
+      "brass",
+      "crystal"
+    ],
+    "finish": "antique",
+    "size": "large",
+    "description": "Grand floor lamp with ornate antique brass candelabra base featuring multiple scrolled arms, crystal bead swags, and crystal drops. Fluted brass pole.",
+    "colorPalette": [
+      "antique brass",
+      "clear crystal",
+      "warm gold"
+    ],
+    "styleTags": [
+      "candelabra",
+      "crystal",
+      "grand",
+      "ornate",
+      "floor-standing"
+    ],
+    "vibes": [
+      "Classical / Ornate",
+      "Glamorous",
+      "French Provincial"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "foyer",
+      "master_suite"
+    ],
+    "pairsWith": [
+      "floor_mirror",
+      "console_table",
+      "side_table"
+    ],
+    "placementNotes": "A statement floor lamp for a grand living room corner or beside a chaise. Matches crystal chandelier collections. Needs open space around it.",
+    "refImages": [
+      "IMG_6337.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "33",
+    "name": "Iron Scroll Floor Lamp",
+    "slug": "iron-scroll-floor-lamp",
+    "category": "floor_lamp",
+    "sku": "DB-FL-002",
+    "material": [
+      "iron",
+      "fabric"
+    ],
+    "finish": "matte_black",
+    "size": "large",
+    "description": "Floor lamp with a matte black wrought iron tripod base featuring scrollwork and fleur-de-lis detailing. Topped with a large cream bell-shaped fabric shade.",
+    "colorPalette": [
+      "matte black",
+      "cream"
+    ],
+    "styleTags": [
+      "wrought-iron",
+      "tripod",
+      "scrollwork",
+      "fleur-de-lis",
+      "rustic"
+    ],
+    "vibes": [
+      "Rustic Farmhouse",
+      "Colonial / Heritage",
+      "Warm Transitional"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "bedroom",
+      "study"
+    ],
+    "pairsWith": [
+      "side_table",
+      "floor_mirror",
+      "bookshelf"
+    ],
+    "placementNotes": "Place beside a sofa, armchair, or bed. The wrought iron scrollwork pairs with rustic or traditional interiors. The tripod base needs open floor space.",
+    "refImages": [
+      "IMG_6344.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "34",
+    "name": "Hammered Brass Picture Light",
+    "slug": "hammered-brass-picture-light",
+    "category": "wall_light",
+    "sku": "DB-WL-032",
+    "material": [
+      "brass"
+    ],
+    "finish": "antique",
+    "size": "medium",
+    "description": "Long tubular wall light in hammered antique brass, designed as a picture light or vanity light. Horizontal tube with brass end mounts.",
+    "colorPalette": [
+      "hammered brass",
+      "antique gold"
+    ],
+    "styleTags": [
+      "hammered",
+      "picture-light",
+      "tube",
+      "horizontal",
+      "vanity"
+    ],
+    "vibes": [
+      "Art Deco",
+      "Warm Transitional",
+      "Colonial / Heritage"
+    ],
+    "roomTypes": [
+      "study",
+      "hallway",
+      "powder_room"
+    ],
+    "pairsWith": [
+      "artwork",
+      "floor_mirror",
+      "bookshelf"
+    ],
+    "placementNotes": "Mount above a painting, mirror, or bookshelf for directed downlight. The hammered texture adds warmth. Also works as a vanity light.",
+    "refImages": [
+      "IMG_6345.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "35",
+    "name": "Twin Rod Floor Lamp",
+    "slug": "twin-rod-floor-lamp",
+    "category": "floor_lamp",
+    "sku": "DB-FL-003",
+    "material": [
+      "iron",
+      "fabric"
+    ],
+    "finish": "patina",
+    "size": "large",
+    "description": "Minimalist floor lamp with two parallel dark patina iron rods rising from a simple base, topped with a large cream rectangular drum shade.",
+    "colorPalette": [
+      "dark bronze",
+      "cream"
+    ],
+    "styleTags": [
+      "twin-rod",
+      "minimal",
+      "rectangular-shade",
+      "modern",
+      "slim"
+    ],
+    "vibes": [
+      "Contemporary Minimal",
+      "Warm Transitional",
+      "Industrial Chic"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "bedroom",
+      "study"
+    ],
+    "pairsWith": [
+      "side_table",
+      "floor_mirror",
+      "bookshelf"
+    ],
+    "placementNotes": "Clean, modern floor lamp for beside a sofa or reading chair. The twin-rod design is slim enough for tight corners.",
+    "refImages": [
+      "IMG_6346.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "36",
+    "name": "Pagoda Outdoor Wall Lantern",
+    "slug": "pagoda-outdoor-wall-lantern",
+    "category": "wall_light",
+    "sku": "DB-WL-033",
+    "material": [
+      "iron",
+      "glass"
+    ],
+    "finish": "patina",
+    "size": "small",
+    "description": "Small pagoda-topped outdoor wall lantern with hammered dark iron body and frosted glass panels. Rustic, weathered character. Suitable for exterior walls.",
+    "colorPalette": [
+      "hammered dark iron",
+      "frosted glass"
+    ],
+    "styleTags": [
+      "pagoda",
+      "outdoor",
+      "lantern",
+      "hammered",
+      "rustic"
+    ],
+    "vibes": [
+      "Colonial / Heritage",
+      "Rustic Farmhouse",
+      "Coastal / Mediterranean"
+    ],
+    "roomTypes": [
+      "outdoor",
+      "terrace"
+    ],
+    "pairsWith": [
+      "console_table"
+    ],
+    "placementNotes": "Mount on exterior walls flanking a garden door or gate. The pagoda top and hammered finish suit farmhouse or colonial exteriors.",
+    "refImages": [
+      "IMG_6347.HEIC"
+    ],
+    "sourceFolder": "new_products"
+  },
+  {
+    "id": "37",
+    "name": "Tripod Drum Floor Lamp",
+    "slug": "tripod-drum-floor-lamp",
+    "category": "floor_lamp",
+    "sku": "DB-FL-004",
+    "material": [
+      "iron",
+      "fabric"
+    ],
+    "finish": "matte_black",
+    "size": "large",
+    "description": "Floor lamp with a matte black four-legged tripod iron base and a large ribbed cream/linen drum shade. Mid-century modern aesthetic.",
+    "colorPalette": [
+      "matte black",
+      "cream linen"
+    ],
+    "styleTags": [
+      "tripod",
+      "drum-shade",
+      "mid-century",
+      "ribbed",
+      "modern"
+    ],
+    "vibes": [
+      "Contemporary Minimal",
+      "Warm Transitional",
+      "Art Deco"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "bedroom",
+      "study"
+    ],
+    "pairsWith": [
+      "side_table",
+      "floor_mirror",
+      "bookshelf"
+    ],
+    "placementNotes": "A versatile modern floor lamp. Place beside a sofa or armchair. The ribbed drum shade casts soft, even light.",
+    "refImages": [
+      "floor_lamp.jpeg"
+    ],
+    "sourceFolder": "loose"
+  },
+  {
+    "id": "38",
+    "name": "Empire Crystal Wall Lantern",
+    "slug": "empire-crystal-wall-lantern",
+    "category": "wall_light",
+    "sku": "DB-WL-034",
+    "material": [
+      "brass",
+      "crystal"
+    ],
+    "finish": "patina",
+    "size": "large",
+    "description": "Grand wall-mounted lantern with urn-shaped cut crystal body, ornate brass crown with eagle finial, ribbon bow swags, and a pointed base finial. French Empire style.",
+    "colorPalette": [
+      "dark patina brass",
+      "cut crystal"
+    ],
+    "styleTags": [
+      "empire",
+      "cut-crystal",
+      "urn",
+      "eagle-crown",
+      "swag"
+    ],
+    "vibes": [
+      "Classical / Ornate",
+      "French Provincial",
+      "Glamorous"
+    ],
+    "roomTypes": [
+      "foyer",
+      "formal_living",
+      "stairwell"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "artwork"
+    ],
+    "placementNotes": "A showpiece wall lantern for grand interiors. Use flanking a double-height foyer mirror or stairwell. The cut crystal body glows beautifully when lit.",
+    "refImages": [
+      "wall_light_brass_medallion_collection.jpeg"
+    ],
+    "sourceFolder": "loose"
+  },
+  {
+    "id": "39",
+    "name": "Outdoor Iron Torch Sconce",
+    "slug": "outdoor-iron-torch-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-035",
+    "material": [
+      "iron",
+      "glass"
+    ],
+    "finish": "matte_black",
+    "size": "medium",
+    "description": "Outdoor wall sconce with diamond-pattern filigree iron backplate and spike lance bottom, holding an amber glass hurricane cup at top. Installed on an exterior textured wall.",
+    "colorPalette": [
+      "matte black",
+      "amber glass"
+    ],
+    "styleTags": [
+      "torch",
+      "outdoor",
+      "filigree",
+      "diamond",
+      "hurricane"
+    ],
+    "vibes": [
+      "Colonial / Heritage",
+      "Rustic Farmhouse",
+      "Modern Indian"
+    ],
+    "roomTypes": [
+      "outdoor",
+      "terrace"
+    ],
+    "pairsWith": [
+      "console_table"
+    ],
+    "placementNotes": "Designed for exterior use. Mount flanking a main entrance or garden wall. The diamond backplate and torch form create a traditional Indian outdoor lighting look.",
+    "refImages": [
+      "wall_light_can_be_outdoors_too.jpeg"
+    ],
+    "sourceFolder": "loose"
+  },
+  {
+    "id": "40",
+    "name": "Corten Steel Geometric Sculpture",
+    "slug": "corten-steel-geometric-sculpture",
+    "category": "sculpture",
+    "sku": "DB-SC-001",
+    "material": [
+      "steel"
+    ],
+    "finish": "patina",
+    "size": "large",
+    "description": "Large-scale outdoor sculpture composed of interlocking geometric polyhedron forms in corten (weathering) steel with natural rust patina. Abstract, contemporary art piece.",
+    "colorPalette": [
+      "rust orange",
+      "corten brown"
+    ],
+    "styleTags": [
+      "geometric",
+      "corten",
+      "polyhedron",
+      "abstract",
+      "outdoor"
+    ],
+    "vibes": [
+      "Contemporary Minimal",
+      "Industrial Chic"
+    ],
+    "roomTypes": [
+      "outdoor"
+    ],
+    "pairsWith": [],
+    "placementNotes": "Garden or driveway focal sculpture. The corten steel weathers naturally and develops deeper patina over time. Needs a stone or gravel plinth base.",
+    "refImages": [
+      "sculpture.jpeg"
+    ],
+    "sourceFolder": "loose"
+  },
+  {
+    "id": "41",
+    "name": "Corten Steel Angular Sculpture",
+    "slug": "corten-steel-angular-sculpture",
+    "category": "sculpture",
+    "sku": "DB-SC-002",
+    "material": [
+      "steel"
+    ],
+    "finish": "patina",
+    "size": "large",
+    "description": "Large outdoor abstract sculpture with angular interlocking planes and cantilevers in corten steel. Bold architectural statement piece.",
+    "colorPalette": [
+      "rust orange",
+      "corten brown"
+    ],
+    "styleTags": [
+      "angular",
+      "corten",
+      "abstract",
+      "architectural",
+      "outdoor"
+    ],
+    "vibes": [
+      "Contemporary Minimal",
+      "Industrial Chic"
+    ],
+    "roomTypes": [
+      "outdoor"
+    ],
+    "pairsWith": [],
+    "placementNotes": "Statement outdoor sculpture for a garden, corporate campus, or hotel entrance. Place on a circular gravel bed for maximum visual impact.",
+    "refImages": [
+      "sculpture_2.jpeg"
+    ],
+    "sourceFolder": "loose"
+  },
+  {
+    "name": "Cut Crystal Chandelier Table Lamp",
+    "slug": "cut-crystal-chandelier-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-001",
+    "material": [
+      "crystal",
+      "brass",
+      "iron"
+    ],
+    "finish": "antique",
+    "size": "medium",
+    "description": "A spectacular table lamp featuring a fully faceted cut-crystal domed shade, a slender crystal column stem, and a wide crystal base. An ornate matte-black cast iron band with scrollwork separates the dome from a tiered fringe of long cut-crystal spear pendants. The lamp radiates warm prismatic light, making it an instant focal piece.",
+    "colorPalette": [
+      "clear crystal",
+      "antique black",
+      "antique brass"
+    ],
+    "styleTags": [
+      "crystal-fringe",
+      "dome-shade",
+      "ornate-ironwork",
+      "cut-crystal-pendants",
+      "Victorian"
+    ],
+    "vibes": [
+      "Classical / Ornate",
+      "Glamorous"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "master_suite",
+      "foyer"
+    ],
+    "placementNotes": "Best on a side table or console in a formal living room or grand foyer. Pairs beautifully with a large mirror behind it.",
+    "refImages": [
+      "DSC00166 copy.jpg",
+      "DSC00175 copy.jpg",
+      "WhatsApp Image 2026-05-14 at 15.09.47.jpeg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "42"
+  },
+  {
+    "name": "Ceramic Sphere Floral Drum Lamp",
+    "slug": "ceramic-sphere-floral-drum-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-002",
+    "material": [
+      "ceramic",
+      "fabric",
+      "brass"
+    ],
+    "finish": "matte",
+    "size": "medium",
+    "description": "A sculptural white matte ceramic sphere base paired with a cheerful botanical drum shade printed with colourful garden flowers \u2014 daisies, sunflowers, and wildflowers on an ivory ground. The brass connector ring and warm ambient glow give it an eclectic, artistic personality. The bold floral print shade makes this lamp a standalone art object.",
+    "colorPalette": [
+      "chalk white",
+      "warm ivory",
+      "multicolour botanicals"
+    ],
+    "styleTags": [
+      "drum-shade",
+      "botanical-print",
+      "sphere-base",
+      "ceramic"
+    ],
+    "vibes": [
+      "Bohemian",
+      "Warm Transitional",
+      "Modern Indian"
+    ],
+    "roomTypes": [
+      "bedroom",
+      "study",
+      "formal_living"
+    ],
+    "placementNotes": "Works beautifully on a side table, bedside table, or eclectic reading nook. The bold floral shade calls for neutral surrounding decor.",
+    "refImages": [
+      "DSC00095 copy.jpg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "43"
+  },
+  {
+    "name": "Purple Glass Urn Table Lamp",
+    "slug": "purple-glass-urn-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-003",
+    "material": [
+      "glass",
+      "fabric",
+      "brass"
+    ],
+    "finish": "polished",
+    "size": "large",
+    "description": "A large, jewel-toned amethyst purple glass urn base sits on a brushed gold brass disc, topped with a wide empire linen shade with a subtle gold trim edge. The deep purple glass body glows richly in daylight, creating a statement bedside or console lamp with regal presence. The neutral linen shade keeps the overall composition balanced.",
+    "colorPalette": [
+      "amethyst purple",
+      "warm gold",
+      "oatmeal linen"
+    ],
+    "styleTags": [
+      "empire-shade",
+      "urn-base",
+      "glass-body",
+      "jewel-tone"
+    ],
+    "vibes": [
+      "Glamorous",
+      "Classical / Ornate",
+      "Warm Transitional"
+    ],
+    "roomTypes": [
+      "master_suite",
+      "bedroom",
+      "formal_living"
+    ],
+    "placementNotes": "Perfect on a bedside table or console table in a master suite. The deep purple base pairs best with cream or neutral bedding.",
+    "refImages": [
+      "DSC01080 copy.jpg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "44"
+  },
+  {
+    "name": "Smoked Glass Disc Table Lamp",
+    "slug": "smoked-glass-disc-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-004",
+    "material": [
+      "glass",
+      "fabric",
+      "brass"
+    ],
+    "finish": "antique",
+    "size": "medium",
+    "description": "A low, disc-shaped smoked glass base with an all-over diamond facet texture sits on a polished brass ring mount. The wide white empire shade gives the lamp a soft, diffused light. The flattened mushroom silhouette of the base is modern and sculptural, providing a sophisticated bedside or living room accent.",
+    "colorPalette": [
+      "smoked bronze glass",
+      "antique brass",
+      "warm white"
+    ],
+    "styleTags": [
+      "empire-shade",
+      "disc-base",
+      "smoked-glass",
+      "faceted"
+    ],
+    "vibes": [
+      "Warm Transitional",
+      "Glamorous",
+      "Contemporary Minimal"
+    ],
+    "roomTypes": [
+      "bedroom",
+      "formal_living",
+      "study"
+    ],
+    "placementNotes": "Excellent on a side table next to a sofa or as a bedside lamp. The squat base proportions work well under low headboards.",
+    "refImages": [
+      "DSC01110 copy.jpg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "45"
+  },
+  {
+    "name": "Moroccan Filigree Brass Table Lamp",
+    "slug": "moroccan-filigree-brass-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-005",
+    "material": [
+      "brass",
+      "metal"
+    ],
+    "finish": "antique",
+    "size": "medium",
+    "description": "An intricate Moroccan-style table lamp with an engraved and pierced filigree brass shade that casts mesmerising geometric light patterns. The bulbous base and slender column are covered in the same fine hand-worked metalwork, finished in an antique silver-brass tone. Crystal bead fringing edges the conical shade, adding delicate sparkle.",
+    "colorPalette": [
+      "antique silver",
+      "warm brass",
+      "crystal"
+    ],
+    "styleTags": [
+      "filigree",
+      "pierced-metal-shade",
+      "Moroccan",
+      "crystal-fringe",
+      "engraved"
+    ],
+    "vibes": [
+      "Bohemian",
+      "Modern Indian",
+      "Colonial / Heritage"
+    ],
+    "roomTypes": [
+      "bedroom",
+      "master_suite",
+      "bar_area"
+    ],
+    "placementNotes": "Best displayed on a bedside table or console where its projected light patterns can be appreciated on walls and ceilings. Particularly beautiful in rooms with neutral tones.",
+    "refImages": [
+      "DSC01125 copy.jpg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "46"
+  },
+  {
+    "name": "Hammered Brass Cylinder Table Lamp",
+    "slug": "hammered-brass-cylinder-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-006",
+    "material": [
+      "brass",
+      "fabric"
+    ],
+    "finish": "brushed",
+    "size": "medium",
+    "description": "A solid, straight-sided cylinder base in hand-hammered brushed brass with a warm satin gold finish. The cylindrical form is chunky and grounded, topped with a gently flared empire fabric shade in warm ivory. A slim brass rod connects base to shade, giving it a clean, understated architectural silhouette.",
+    "colorPalette": [
+      "warm brushed gold",
+      "ivory"
+    ],
+    "styleTags": [
+      "empire-shade",
+      "cylinder-base",
+      "hammered-brass",
+      "minimalist"
+    ],
+    "vibes": [
+      "Warm Transitional",
+      "Contemporary Minimal",
+      "Modern Indian"
+    ],
+    "roomTypes": [
+      "bedroom",
+      "study",
+      "formal_living"
+    ],
+    "placementNotes": "Versatile for a bedside table, study desk, or console table. Works in both traditional and contemporary interiors.",
+    "refImages": [
+      "DSC01146 copy.jpg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "47"
+  },
+  {
+    "name": "Carved Wood Urn Table Lamp",
+    "slug": "carved-wood-urn-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-007",
+    "material": [
+      "wood",
+      "fabric"
+    ],
+    "finish": "distressed",
+    "size": "large",
+    "description": "A stately table lamp with a classically proportioned urn base hand-carved from natural bleached wood, featuring fluted shoulders and a stepped square pedestal foot. The warm natural grain is left exposed and lightly whitewashed. A generously proportioned white linen drum shade completes the look, balancing rustic character with clean modern lines.",
+    "colorPalette": [
+      "natural bleached wood",
+      "warm white linen"
+    ],
+    "styleTags": [
+      "drum-shade",
+      "urn-base",
+      "carved-wood",
+      "bleached",
+      "classical-form"
+    ],
+    "vibes": [
+      "Rustic Farmhouse",
+      "Warm Transitional",
+      "French Provincial"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "foyer",
+      "bedroom"
+    ],
+    "placementNotes": "A strong statement lamp for a console table in a foyer or living room. The natural wood base suits both contemporary and heritage interiors.",
+    "refImages": [
+      "DSC01209 copy.jpg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "48"
+  },
+  {
+    "name": "Hammered Brass Oval Table Lamp",
+    "slug": "hammered-brass-oval-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-008",
+    "material": [
+      "brass",
+      "fabric"
+    ],
+    "finish": "brushed",
+    "size": "medium",
+    "description": "A sleek, tall oval-shaped base in hand-hammered brushed gold brass with bold faceted planes that catch the light beautifully. The geometric faceting gives it an Art Deco edge while the warm gold finish keeps it classic. A white linen drum shade sits proportionally atop a slim brass rod, completing an elegant, versatile table lamp.",
+    "colorPalette": [
+      "warm gold",
+      "ivory linen"
+    ],
+    "styleTags": [
+      "drum-shade",
+      "oval-base",
+      "hammered-brass",
+      "faceted",
+      "Art Deco"
+    ],
+    "vibes": [
+      "Art Deco",
+      "Warm Transitional",
+      "Glamorous"
+    ],
+    "roomTypes": [
+      "bedroom",
+      "study",
+      "formal_living"
+    ],
+    "placementNotes": "Ideal on a bedside table, console, or side table. The angular facets make it particularly striking on a console with a mirror behind.",
+    "refImages": [
+      "DSC01214 copy.jpg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "49"
+  },
+  {
+    "name": "Brass Candelabra Bouillotte Table Lamp",
+    "slug": "brass-candelabra-bouillotte-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-009",
+    "material": [
+      "brass",
+      "fabric"
+    ],
+    "finish": "antique",
+    "size": "large",
+    "description": "A grand French-style bouillotte table lamp with a tall reeded brass column, three scrolled candelabra arms, and an ornate brass finial crown. The column rises from a heavily cast urn-form base and reeded foot. Available with two conical shade options: a dark chocolate fabric shade for a dramatic library look, and a warm grey-brown fabric shade for a more classical tone. The pierced brass gallery ring around the shade rim adds refined detail.",
+    "colorPalette": [
+      "antique brass",
+      "chocolate brown",
+      "warm grey"
+    ],
+    "styleTags": [
+      "candelabra",
+      "bouillotte",
+      "conical-shade",
+      "reeded-column",
+      "French",
+      "multi-arm"
+    ],
+    "vibes": [
+      "Classical / Ornate",
+      "French Provincial",
+      "Colonial / Heritage"
+    ],
+    "roomTypes": [
+      "study",
+      "formal_living",
+      "bar_area"
+    ],
+    "placementNotes": "Perfect on a writing desk, library table, or as a pair flanking a sofa. The tall profile demands a generous table surface.",
+    "refImages": [
+      "DSC01218 copy.jpg",
+      "WhatsApp Image 2026-05-14 at 15.09.49.jpeg",
+      "table_lamp_black_shade_img_1_lifestyle_lights_on.jpg",
+      "table_lamp_black_shade_img_2_hero.jpg",
+      "table_lamp_black_shade_img_3_detailed.jpg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "50"
+  },
+  {
+    "name": "Repouss\u00e9 Silver Surahi Table Lamp",
+    "slug": "repousse-silver-surahi-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-010",
+    "material": [
+      "brass",
+      "fabric"
+    ],
+    "finish": "antique",
+    "size": "small",
+    "description": "A compact Indian-craft table lamp with a round, globular surahi-form base entirely covered in fine hand-worked repouss\u00e9 silver-tone brass with dense floral scrollwork. A broad white linen drum shade in a proportional width gives the lamp balance. The intricate metalwork makes it a collector-quality artisan piece.",
+    "colorPalette": [
+      "antique silver",
+      "ivory white"
+    ],
+    "styleTags": [
+      "drum-shade",
+      "repouss\u00e9",
+      "surahi-base",
+      "Indian-craft",
+      "floral-engraved"
+    ],
+    "vibes": [
+      "Modern Indian",
+      "Classical / Ornate",
+      "Colonial / Heritage"
+    ],
+    "roomTypes": [
+      "bedroom",
+      "study",
+      "formal_living"
+    ],
+    "placementNotes": "Works beautifully as a bedside lamp or on a console alongside Indian art objects. Small enough for a powder room shelf too.",
+    "refImages": [
+      "DSC01223 copy.jpg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "51"
+  },
+  {
+    "name": "Carved Elephant Temple Table Lamp",
+    "slug": "carved-elephant-temple-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-011",
+    "material": [
+      "wood",
+      "fabric"
+    ],
+    "finish": "distressed",
+    "size": "large",
+    "description": "A dramatic artisan table lamp built around an architectural temple bracket fragment carved in natural mango wood, featuring two intricately detailed processional elephants in bas-relief beneath decorative foliage. The antique wood carving is mounted on a dark iron spine and square base. A large rectangular white fabric shade sits above, creating a striking contrast between raw craftsmanship and clean contemporary form.",
+    "colorPalette": [
+      "natural mango wood",
+      "dark iron",
+      "ivory white"
+    ],
+    "styleTags": [
+      "rectangular-shade",
+      "temple-carving",
+      "elephant-motif",
+      "artisan",
+      "heritage"
+    ],
+    "vibes": [
+      "Modern Indian",
+      "Colonial / Heritage",
+      "Bohemian"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "foyer",
+      "study"
+    ],
+    "placementNotes": "Best on a wide console or dining sideboard where the carved base can be appreciated at eye level. An ideal conversation piece in an Indian-heritage styled room.",
+    "refImages": [
+      "WhatsApp Image 2026-05-14 at 15.09.48 (2).jpeg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "52"
+  },
+  {
+    "name": "Crystal Column Corinthian Table Lamp",
+    "slug": "crystal-column-corinthian-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-012",
+    "material": [
+      "crystal",
+      "brass",
+      "fabric"
+    ],
+    "finish": "antique",
+    "size": "large",
+    "description": "A tall, elegant table lamp with a clear cut-crystal column stem topped by a gilded Corinthian capital in antique brass. The square black lacquered base with claw feet grounds the piece with drama. A wide pleated empire shade in cream fabric sits high on the column, creating a graceful silhouette reminiscent of Classical European table lamps.",
+    "colorPalette": [
+      "clear crystal",
+      "antique gold",
+      "matte black",
+      "cream"
+    ],
+    "styleTags": [
+      "empire-shade",
+      "Corinthian-column",
+      "crystal-stem",
+      "pleated",
+      "classical"
+    ],
+    "vibes": [
+      "Classical / Ornate",
+      "French Provincial",
+      "Colonial / Heritage"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "study",
+      "foyer"
+    ],
+    "placementNotes": "Suited to a study desk, side table in a formal sitting room, or as a pair flanking a console. The height and classical detailing make it ideal for rooms with high ceilings.",
+    "refImages": [
+      "WhatsApp Image 2026-05-14 at 15.09.48.jpeg",
+      "WhatsApp Image 2026-05-14 at 15.09.50 (2).jpeg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "53"
+  },
+  {
+    "name": "Clear Globe Glass Table Lamp",
+    "slug": "clear-globe-glass-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-013",
+    "material": [
+      "glass",
+      "brass",
+      "fabric"
+    ],
+    "finish": "polished",
+    "size": "large",
+    "description": "A large, perfectly spherical clear glass globe base on a polished brass disc foot, with a slender brass rod running through the centre. The oversize transparent orb creates a light, airy foundation that lets the interior and floor show through. A wide dark navy drum shade provides a bold graphic contrast, making this a contemporary design statement lamp.",
+    "colorPalette": [
+      "clear glass",
+      "polished brass",
+      "deep navy"
+    ],
+    "styleTags": [
+      "drum-shade",
+      "globe-base",
+      "clear-glass",
+      "brass-foot",
+      "contemporary"
+    ],
+    "vibes": [
+      "Contemporary Minimal",
+      "Glamorous",
+      "Modern Indian"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "bedroom",
+      "study"
+    ],
+    "placementNotes": "Best on a side table or console where its transparent base can be seen from multiple angles. Ideal in a contemporary room with dark or navy accent walls.",
+    "refImages": [
+      "WhatsApp Image 2026-05-14 at 15.09.49 (1).jpeg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "54"
+  },
+  {
+    "name": "Hammered Brass Sphere Table Lamp",
+    "slug": "hammered-brass-sphere-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-014",
+    "material": [
+      "brass",
+      "fabric"
+    ],
+    "finish": "antique",
+    "size": "large",
+    "description": "A bold spherical base in hand-hammered antique brass with a rich all-over pebble texture, mounted on a wide brass disc plinth. The lamp is offered with two shade options \u2014 a dark grey pleated drum shade for a moody, dramatic look, and a cream pleated empire shade for a warmer, classic feel. The substantial weight and hand-worked surface give it an heirloom quality.",
+    "colorPalette": [
+      "hammered antique brass",
+      "dark grey",
+      "cream"
+    ],
+    "styleTags": [
+      "pleated-drum-shade",
+      "sphere-base",
+      "hammered-brass",
+      "pebble-texture"
+    ],
+    "vibes": [
+      "Glamorous",
+      "Warm Transitional",
+      "Classical / Ornate"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "master_suite",
+      "bar_area"
+    ],
+    "placementNotes": "Makes a bold statement on a side table or console. The weighty globe base anchors a room; pair with low upholstered seating for best proportions.",
+    "refImages": [
+      "WhatsApp Image 2026-05-14 at 15.09.49 (2).jpeg",
+      "WhatsApp Image 2026-05-14 at 15.09.50 (3).jpeg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "55"
+  },
+  {
+    "name": "Hammered Brass Grand Urn Table Lamp",
+    "slug": "hammered-brass-grand-urn-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-015",
+    "material": [
+      "brass",
+      "fabric"
+    ],
+    "finish": "antique",
+    "size": "large",
+    "description": "An impressively large table lamp with a bulbous hammered brass urn base in a warm antiqued copper-gold tone. The all-over hand-hammered surface creates a rich tactile depth. A large white linen drum shade in generous proportions balances the massive base. This lamp commands attention and is designed for spaces that can accommodate its scale.",
+    "colorPalette": [
+      "antique copper-gold",
+      "warm white linen"
+    ],
+    "styleTags": [
+      "drum-shade",
+      "grand-urn",
+      "hammered-brass",
+      "oversized"
+    ],
+    "vibes": [
+      "Warm Transitional",
+      "Colonial / Heritage",
+      "Modern Indian"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "foyer",
+      "dining_room"
+    ],
+    "placementNotes": "Designed for large console tables, sideboards, or floor placement in a grand foyer. Needs a wide, stable surface given its substantial base.",
+    "refImages": [
+      "WhatsApp Image 2026-05-14 at 15.09.50.jpeg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "56"
+  },
+  {
+    "name": "Cement Texture Urn Table Lamp",
+    "slug": "cement-texture-urn-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-016",
+    "material": [
+      "ceramic",
+      "fabric",
+      "brass"
+    ],
+    "finish": "matte",
+    "size": "large",
+    "description": "A tall, slender urn-form lamp base finished in a convincing grey concrete or plaster texture with subtle surface variation. The matte grey body sits on a brushed steel base ring. A large white pleated empire shade softens the industrial edge and brings warmth. A modern, understated piece that suits minimal and transitional interiors equally.",
+    "colorPalette": [
+      "concrete grey",
+      "warm white",
+      "brushed steel"
+    ],
+    "styleTags": [
+      "empire-shade",
+      "urn-base",
+      "concrete-finish",
+      "minimalist",
+      "pleated"
+    ],
+    "vibes": [
+      "Contemporary Minimal",
+      "Industrial Chic",
+      "Warm Transitional"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "study",
+      "bedroom"
+    ],
+    "placementNotes": "Well-suited to a study bookshelf, minimalist console, or as a floor-standing lamp in an open-plan living space. Pairs with raw linen, concrete, and oak furniture.",
+    "refImages": [
+      "WhatsApp Image 2026-05-14 at 15.09.51 (1).jpeg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "57"
+  },
+  {
+    "name": "Ribbed Sand Ceramic Urn Table Lamp",
+    "slug": "ribbed-sand-ceramic-urn-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-017",
+    "material": [
+      "ceramic",
+      "fabric",
+      "brass"
+    ],
+    "finish": "matte",
+    "size": "large",
+    "description": "A generously proportioned ceramic urn base in warm sandy beige with a finely ribbed vertical surface texture, sitting on a polished brass ring foot. The classic urn silhouette is both timeless and approachable. A wide white pleated empire shade in ivory fabric crowns the base, producing a warm, diffused glow perfect for ambient bedroom or living room lighting.",
+    "colorPalette": [
+      "sandy beige",
+      "polished brass",
+      "ivory"
+    ],
+    "styleTags": [
+      "empire-shade",
+      "ribbed",
+      "urn-base",
+      "ceramic",
+      "pleated"
+    ],
+    "vibes": [
+      "Warm Transitional",
+      "French Provincial",
+      "Contemporary Minimal"
+    ],
+    "roomTypes": [
+      "bedroom",
+      "formal_living",
+      "master_suite"
+    ],
+    "placementNotes": "An excellent bedside table lamp or console accent. The warm neutral tones suit almost any colour palette, from all-white rooms to earthy, layered interiors.",
+    "refImages": [
+      "WhatsApp Image 2026-05-14 at 15.09.51 (2).jpeg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "58"
+  },
+  {
+    "name": "Chalk White Plaster Urn Table Lamp",
+    "slug": "chalk-white-plaster-urn-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-018",
+    "material": [
+      "ceramic",
+      "fabric",
+      "brass"
+    ],
+    "finish": "matte",
+    "size": "large",
+    "description": "A beautiful artisan-finish lamp base shaped as a rounded urn in chalky white plaster with a deliberately imperfect, hand-applied surface showing subtle organic texture and variation. A slim brass neck ring connects to a tall slender stem. The pleated ivory empire shade adds a gentle softness. This lamp has a quiet, meditative beauty ideal for spa-like and calm interiors.",
+    "colorPalette": [
+      "chalk white",
+      "warm ivory",
+      "antique brass"
+    ],
+    "styleTags": [
+      "empire-shade",
+      "plaster-finish",
+      "urn-base",
+      "organic-texture",
+      "pleated"
+    ],
+    "vibes": [
+      "Contemporary Minimal",
+      "Warm Transitional",
+      "Bohemian"
+    ],
+    "roomTypes": [
+      "bedroom",
+      "master_suite",
+      "study"
+    ],
+    "placementNotes": "A serene choice for a bedside table or bathroom vanity console. Works best in white, beige, or terracotta-toned rooms.",
+    "refImages": [
+      "WhatsApp Image 2026-05-14 at 15.09.51.jpeg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "59"
+  },
+  {
+    "name": "Turned Wood Sphere Table Lamp",
+    "slug": "turned-wood-sphere-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-019",
+    "material": [
+      "wood",
+      "fabric"
+    ],
+    "finish": "distressed",
+    "size": "medium",
+    "description": "A rustic, tactile table lamp with a substantial round sphere base turned from solid reclaimed wood, showing natural grain variation and a lightly oiled natural finish. The dark drum shade in charcoal fabric adds a moody, grounded quality. An earthy, organic piece for interiors that celebrate natural materials.",
+    "colorPalette": [
+      "natural walnut wood",
+      "charcoal black"
+    ],
+    "styleTags": [
+      "drum-shade",
+      "sphere-base",
+      "turned-wood",
+      "rustic",
+      "natural-grain"
+    ],
+    "vibes": [
+      "Rustic Farmhouse",
+      "Bohemian",
+      "Contemporary Minimal"
+    ],
+    "roomTypes": [
+      "study",
+      "bedroom",
+      "bar_area"
+    ],
+    "placementNotes": "Works on a side table, reading nook shelf, or desk. Pairs well with leather seating, linen soft furnishings, and raw wood furniture.",
+    "refImages": [
+      "WhatsApp Image 2026-05-14 at 15.09.52.jpeg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "60"
+  },
+  {
+    "name": "Ribbed Amber Glass Urn Table Lamp",
+    "slug": "ribbed-amber-glass-urn-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-020",
+    "material": [
+      "glass",
+      "fabric",
+      "brass"
+    ],
+    "finish": "antique",
+    "size": "large",
+    "description": "A large, elegant urn-form base in ribbed dark amber glass with a gradient that deepens towards the base. The vertical ribbing creates a strong graphic pattern that catches warm light beautifully. A polished brass disc mount and ring foot frame the glass. A wide white linen drum shade in drum form provides a clean, understated crown.",
+    "colorPalette": [
+      "dark amber",
+      "warm gold brass",
+      "ivory white"
+    ],
+    "styleTags": [
+      "drum-shade",
+      "ribbed-glass",
+      "urn-base",
+      "amber",
+      "gradient"
+    ],
+    "vibes": [
+      "Glamorous",
+      "Warm Transitional",
+      "Art Deco"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "master_suite",
+      "bar_area"
+    ],
+    "placementNotes": "Best on a console, side table, or bar cabinet. The dark amber glass glows magnificently at dusk and pairs well with warm metallic and jewel-toned interiors.",
+    "refImages": [
+      "WhatsApp Image 2026-05-14 at 15.09.53 (1).jpeg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "61"
+  },
+  {
+    "name": "Brushed Silver Cylinder Table Lamp",
+    "slug": "brushed-silver-cylinder-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-021",
+    "material": [
+      "metal",
+      "fabric"
+    ],
+    "finish": "brushed",
+    "size": "large",
+    "description": "A tall, architectural cylinder lamp base in brushed silver-grey metal with a fine linear brushed texture. The clean geometric cylinder form is topped with a polished silver disc and a slim rod. Available with a dark charcoal drum shade for a dramatic look or a white drum shade for a lighter, contemporary feel. The simple geometry suits modern and transitional interiors equally.",
+    "colorPalette": [
+      "brushed silver",
+      "charcoal",
+      "white"
+    ],
+    "styleTags": [
+      "drum-shade",
+      "cylinder-base",
+      "brushed-metal",
+      "minimalist",
+      "architectural"
+    ],
+    "vibes": [
+      "Contemporary Minimal",
+      "Industrial Chic",
+      "Warm Transitional"
+    ],
+    "roomTypes": [
+      "study",
+      "formal_living",
+      "bedroom"
+    ],
+    "placementNotes": "Ideal on a console table, desk, or as a floor lamp in an open living space. The tall, slim profile suits narrow surfaces and modern shelf displays.",
+    "refImages": [
+      "WhatsApp Image 2026-05-14 at 15.09.53 (2).jpeg",
+      "WhatsApp Image 2026-05-14 at 15.09.55 (1).jpeg",
+      "WhatsApp Image 2026-05-14 at 15.09.55.jpeg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "62"
+  },
+  {
+    "name": "Teal Pebble-Texture Cylinder Table Lamp",
+    "slug": "teal-pebble-texture-cylinder-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-022",
+    "material": [
+      "ceramic",
+      "fabric",
+      "brass"
+    ],
+    "finish": "matte",
+    "size": "large",
+    "description": "A tall, eye-catching cylinder base in deep teal with an all-over hammered pebble surface texture that creates depth and visual interest. The jewel-green body sits on a brass ring foot. The large drum shade features a hand block-printed cotton fabric with a classic blue and gold Indian floral motif on an ivory ground, making this a truly crafted, India-story lamp.",
+    "colorPalette": [
+      "deep teal",
+      "brass gold",
+      "ivory",
+      "indigo blue"
+    ],
+    "styleTags": [
+      "drum-shade",
+      "cylinder-base",
+      "block-print-shade",
+      "pebble-texture",
+      "Indian-craft"
+    ],
+    "vibes": [
+      "Modern Indian",
+      "Bohemian",
+      "Colonial / Heritage"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "bedroom",
+      "study"
+    ],
+    "placementNotes": "A statement piece for an Indian-heritage or eclectic interior. Best on a console or side table where the bold shade pattern can be appreciated up close.",
+    "refImages": [
+      "WhatsApp Image 2026-05-14 at 15.09.53.jpeg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "63"
+  },
+  {
+    "name": "Fossil-Texture Urn Table Lamp",
+    "slug": "fossil-texture-urn-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-023",
+    "material": [
+      "ceramic",
+      "fabric"
+    ],
+    "finish": "distressed",
+    "size": "large",
+    "description": "A tall, slender urn-form lamp base with a hand-applied terracotta-earth finish featuring layered burnt-sienna, ochre and charcoal tones that mimic weathered stone or fossil rock. The raw, artisanal surface has strong visual presence. A wide textured burlap-weave drum shade with a metallic thread adds warmth and pairs the lamp naturally with earthy, organic interiors.",
+    "colorPalette": [
+      "terracotta",
+      "burnt ochre",
+      "charcoal",
+      "natural burlap"
+    ],
+    "styleTags": [
+      "drum-shade",
+      "urn-base",
+      "fossil-finish",
+      "earth-tones",
+      "artisan"
+    ],
+    "vibes": [
+      "Rustic Farmhouse",
+      "Bohemian",
+      "Warm Transitional"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "study",
+      "bedroom"
+    ],
+    "placementNotes": "Works on a console in a rustic or eclectic living room or in a warm study. The earthy base suits interiors with natural stone, jute, and terracotta accents.",
+    "refImages": [
+      "WhatsApp Image 2026-05-14 at 15.09.54 (1).jpeg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "64"
+  },
+  {
+    "name": "Bronze Dancing Figures Table Lamp",
+    "slug": "bronze-dancing-figures-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-024",
+    "material": [
+      "metal",
+      "fabric"
+    ],
+    "finish": "matte_black",
+    "size": "small",
+    "description": "An artistic sculptural table lamp with a base formed from three intertwined dancing human figures cast in dark matte bronze, evoking classical Indian or Art Nouveau sculpture. The figures reach upward to support the lamp fitting. A simple cream conical fabric shade keeps focus on the sculptural base. A unique collector's piece for those who value art as much as light.",
+    "colorPalette": [
+      "matte dark bronze",
+      "cream"
+    ],
+    "styleTags": [
+      "conical-shade",
+      "figurine-base",
+      "sculptural",
+      "bronze-cast",
+      "Art-Nouveau"
+    ],
+    "vibes": [
+      "Classical / Ornate",
+      "Bohemian",
+      "Modern Indian"
+    ],
+    "roomTypes": [
+      "study",
+      "formal_living",
+      "bar_area"
+    ],
+    "placementNotes": "Best displayed as a feature piece on a writing desk, bookshelf, or bar cabinet where the sculptural base can be appreciated close-up. Not for high-traffic surfaces.",
+    "refImages": [
+      "WhatsApp Image 2026-05-14 at 15.09.54 (2).jpeg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "65"
+  },
+  {
+    "name": "Brushed Gold Cylinder Table Lamp",
+    "slug": "brushed-gold-cylinder-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-025",
+    "material": [
+      "metal",
+      "fabric"
+    ],
+    "finish": "brushed",
+    "size": "medium",
+    "description": "A compact, straight-sided cylinder lamp base in warm brushed gold metal with a fine linear texture, sitting on a polished brass ring disc. The geometry is clean and modern. A dark charcoal or black conical fabric shade with a gold trim edge creates a sophisticated, high-contrast pairing that suits both contemporary and glamorous interiors.",
+    "colorPalette": [
+      "warm brushed gold",
+      "charcoal black",
+      "polished brass"
+    ],
+    "styleTags": [
+      "conical-shade",
+      "cylinder-base",
+      "brushed-gold",
+      "contemporary",
+      "high-contrast"
+    ],
+    "vibes": [
+      "Glamorous",
+      "Art Deco",
+      "Contemporary Minimal"
+    ],
+    "roomTypes": [
+      "bedroom",
+      "study",
+      "bar_area"
+    ],
+    "placementNotes": "A versatile bedside or study desk lamp. The compact proportions suit smaller tables and nightstands. Works as a pair for symmetrical bedside arrangements.",
+    "refImages": [
+      "WhatsApp Image 2026-05-14 at 15.09.54 (3).jpeg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "66"
+  },
+  {
+    "name": "Honeycomb Ceramic Urn Table Lamp",
+    "slug": "honeycomb-ceramic-urn-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-026",
+    "material": [
+      "ceramic",
+      "fabric",
+      "brass"
+    ],
+    "finish": "matte",
+    "size": "large",
+    "description": "A substantial barrel-urn ceramic lamp base entirely covered in a raised honeycomb or cobblestone relief pattern in warm beige-taupe tones. The three-dimensional surface texture is deeply tactile and catches directional light beautifully. A wide ivory empire shade with gentle pleating provides a warm, diffused light and a calm, natural aesthetic.",
+    "colorPalette": [
+      "warm taupe",
+      "beige",
+      "ivory",
+      "antique brass"
+    ],
+    "styleTags": [
+      "empire-shade",
+      "urn-base",
+      "honeycomb-texture",
+      "ceramic",
+      "relief-pattern"
+    ],
+    "vibes": [
+      "Warm Transitional",
+      "Rustic Farmhouse",
+      "Contemporary Minimal"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "bedroom",
+      "master_suite"
+    ],
+    "placementNotes": "An excellent console or side-table lamp. The tactile surface is a natural conversation starter; place it where guests can appreciate the detail up close.",
+    "refImages": [
+      "WhatsApp Image 2026-05-14 at 15.09.54.jpeg"
+    ],
+    "sourceFolder": "table-lamps",
+    "id": "67"
+  }
+]
