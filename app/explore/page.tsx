@@ -124,7 +124,7 @@ export default function ExplorePage() {
             Explore Our World
           </h1>
           <p style={{ fontSize: "clamp(12px, 1vw, 15px)", color: "#6a6050", marginTop: 16, maxWidth: 440, margin: "16px auto 0", lineHeight: 1.7 }}>
-            Three generations of craft. Scroll to discover.
+            Four generations of craft. Scroll to discover.
           </p>
         </motion.div>
 

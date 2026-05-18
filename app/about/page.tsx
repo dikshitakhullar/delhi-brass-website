@@ -84,7 +84,7 @@ export default function AboutPage() {
         <div style={{ maxWidth: 1200, margin: "0 auto", display: "grid", gridTemplateColumns: "repeat(auto-fit, minmax(140px, 1fr))", gap: 32, textAlign: "center" }}>
           {[
             { value: 77, suffix: "+", label: "YEARS" },
-            { value: 3, suffix: "", label: "GENERATIONS" },
+            { value: 4, suffix: "", label: "GENERATIONS" },
             { value: 3, suffix: "", label: "SHOWROOMS" },
             { value: 1, suffix: "", label: "FACTORY" },
           ].map((s) => (
@@ -140,9 +140,15 @@ export default function AboutPage() {
                 image: null,
               },
               {
-                year: "Today",
+                year: "2000s",
                 title: "Third Generation",
-                text: "The grandsons now run the factory in Gurgaon and showrooms across Delhi — including our flagship store on MG Road. Recent projects include M3M Trump Tower, DLF Camellias, Central Park Resorts, and Paras Quartier. The hands haven't changed. The tools have.",
+                text: "The grandsons took over the factory in Gurgaon and expanded across Delhi — opening the flagship store on MG Road. Major projects followed: M3M Trump Tower, DLF Camellias, Central Park Resorts, and Paras Quartier.",
+                image: null,
+              },
+              {
+                year: "Today",
+                title: "Fourth Generation",
+                text: "The great-grandchildren have joined the business, bringing fresh energy while honouring the same craft. Four generations in, the hands haven't changed. The tools have.",
                 image: null,
               },
             ].map((item, i) => (

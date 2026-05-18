@@ -58,13 +58,13 @@ export default function HeritageSection() {
             marginTop: -20,
           }}
         >
-          Three Generations. One Standard.
+          Four Generations. One Standard.
         </h3>
 
         <p className="text-[14px] text-[#6a6050] leading-[1.8] max-w-[540px] mx-auto mt-6">
           KL Khullar founded Delhi Brass with Rs&nbsp;10 and a conviction that Indian hands could
-          produce world-class metalwork. Seventy-seven years later, his grandsons run the same factory
-          in Gurgaon - now equipped with CNC lasers, water jets, and specialized machinery.
+          produce world-class metalwork. Seventy-seven years later, four generations of the family
+          run the same factory in Gurgaon — now equipped with CNC lasers, water jets, and specialized machinery.
         </p>
       </div>
     </section>
