@@ -1,1360 +1,5072 @@
 [
   {
-    "id": "1",
-    "name": "Amber Cascade",
     "slug": "amber-cascade",
+    "name": "Amber Cascade",
     "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/amber-cascade/studio.png",
-      "lifestyle": "/images/chandeliers/amber-cascade/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/amber-cascade/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/amber-cascade/04-hero-70pct.png",
-      "detail": "/images/chandeliers/amber-cascade/05-detail-zoomed.png"
-    }
+    "type": "chandelier",
+    "size": "medium",
+    "shape": "cascade",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Glamorous",
+      "Warm Transitional",
+      "Modern Indian"
+    ],
+    "styleTags": [
+      "amber-glass",
+      "leaf-drops",
+      "cascading",
+      "sculptural",
+      "warm-glow"
+    ],
+    "colorPalette": [
+      "amber",
+      "warm gold",
+      "honey"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "wall_sconce"
+    ],
+    "lightCount": 1,
+    "heightProfile": "cascading",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Works best centered in a formal living room or foyer. The cascading amber glass drops catch and scatter warm light beautifully; pair with gold-toned accents and cream or ivory furnishings.",
+    "scaleReference": "Approximately 50\u201360cm diameter, medium room scale",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
   },
   {
-    "id": "2",
-    "name": "Antler Crown",
     "slug": "antler-crown",
+    "name": "Antler Crown",
     "collection": "Statement Pieces",
-    "collectionSlug": "statement",
-    "images": {
-      "studio": "/images/chandeliers/antler-crown/studio.png",
-      "lifestyle": "/images/chandeliers/antler-crown/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/antler-crown/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/antler-crown/04-hero-70pct.png",
-      "detail": "/images/chandeliers/antler-crown/05-detail-zoomed.png"
-    }
+    "type": "chandelier",
+    "size": "grand",
+    "shape": "cascade",
+    "material": [
+      "resin"
+    ],
+    "finish": "matte_black",
+    "vibes": [
+      "Rustic Farmhouse",
+      "Bohemian",
+      "Colonial / Heritage"
+    ],
+    "styleTags": [
+      "antler",
+      "sculptural",
+      "statement",
+      "organic",
+      "tall"
+    ],
+    "colorPalette": [
+      "white",
+      "off-white",
+      "chalk"
+    ],
+    "roomTypes": [
+      "double_height_foyer",
+      "stairwell",
+      "formal_living"
+    ],
+    "pairsWith": [
+      "floor_mirror",
+      "console_table",
+      "artwork"
+    ],
+    "lightCount": 6,
+    "heightProfile": "elongated",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "12ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Designed for double-height foyers or grand stairwells where its dramatic vertical height can be fully appreciated. Avoid low ceilings \u2014 needs at least 12ft clearance.",
+    "scaleReference": "Very tall sculptural piece, approximately 120\u2013150cm height, grand scale",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
   },
   {
-    "id": "3",
-    "name": "Aurum Frond",
     "slug": "aurum-frond",
+    "name": "Aurum Frond",
     "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/aurum-frond/studio.png",
-      "lifestyle": "/images/chandeliers/aurum-frond/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/aurum-frond/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/aurum-frond/04-hero-70pct.png",
-      "detail": "/images/chandeliers/aurum-frond/05-detail-zoomed.png"
-    }
+    "type": "chandelier",
+    "size": "large",
+    "shape": "linear",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "polished",
+    "vibes": [
+      "Glamorous",
+      "Modern Indian",
+      "Art Deco"
+    ],
+    "styleTags": [
+      "frond",
+      "twisted-glass",
+      "gold",
+      "cascading",
+      "linear-canopy",
+      "stairwell"
+    ],
+    "colorPalette": [
+      "gold",
+      "amber",
+      "clear glass",
+      "warm brass"
+    ],
+    "roomTypes": [
+      "double_height_foyer",
+      "stairwell",
+      "formal_living"
+    ],
+    "pairsWith": [
+      "floor_mirror",
+      "console_table",
+      "artwork"
+    ],
+    "lightCount": 12,
+    "heightProfile": "cascading",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "12ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Designed for double-height foyers and open stairwells; the oval canopy with cascading twisted glass fronds creates a dramatic statement. Lit from built-in ceiling spots as well as the suspended elements.",
+    "scaleReference": "Large oval canopy approximately 100cm wide, drops cascade 80\u2013120cm below",
+    "refImages": [
+      "01.jpg",
+      "02.jpg"
+    ],
+    "hasGenerated": true
   },
   {
-    "id": "4",
-    "name": "Barrel Rustic",
     "slug": "barrel-rustic",
+    "name": "Barrel Rustic",
     "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/barrel-rustic/studio.png",
-      "lifestyle": "/images/chandeliers/barrel-rustic/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/barrel-rustic/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/barrel-rustic/04-hero-70pct.png",
-      "detail": "/images/chandeliers/barrel-rustic/05-detail-zoomed.png"
-    }
+    "type": "chandelier",
+    "size": "medium",
+    "shape": "cage",
+    "material": [
+      "wood",
+      "brass"
+    ],
+    "finish": "distressed",
+    "vibes": [
+      "Rustic Farmhouse",
+      "Bohemian",
+      "Warm Transitional"
+    ],
+    "styleTags": [
+      "barrel",
+      "wood-stave",
+      "rustic",
+      "cage",
+      "candle-style"
+    ],
+    "colorPalette": [
+      "whitewash wood",
+      "warm brass",
+      "natural wood"
+    ],
+    "roomTypes": [
+      "dining_room",
+      "terrace",
+      "bar_area"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "floor_lamp",
+      "artwork"
+    ],
+    "lightCount": 6,
+    "heightProfile": "standard",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "Perfect over a rustic or farmhouse dining table or on a covered terrace. The whitewashed barrel cage gives a relaxed, outdoor-living feel; works well in pairs for long tables.",
+    "scaleReference": "Approximately 45cm diameter, medium chandelier scale",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
   },
   {
-    "id": "5",
-    "name": "Bead Cascade",
     "slug": "bead-cascade",
+    "name": "Bead Cascade",
     "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/bead-cascade/studio.png",
-      "lifestyle": "/images/chandeliers/bead-cascade/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/bead-cascade/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/bead-cascade/04-hero-70pct.png",
-      "detail": "/images/chandeliers/bead-cascade/05-detail-zoomed.png"
-    }
+    "type": "chandelier",
+    "size": "large",
+    "shape": "cascade",
+    "material": [
+      "iron",
+      "crystal",
+      "brass"
+    ],
+    "finish": "matte_black",
+    "vibes": [
+      "Glamorous",
+      "Classical / Ornate",
+      "Art Deco"
+    ],
+    "styleTags": [
+      "crystal-fringe",
+      "scrollwork-arms",
+      "matte-black",
+      "glam",
+      "cascading"
+    ],
+    "colorPalette": [
+      "matte black",
+      "warm brass",
+      "clear crystal"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "double_height_foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "wall_sconce",
+      "floor_mirror"
+    ],
+    "lightCount": 6,
+    "heightProfile": "cascading",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Striking contrast of matte black scrollwork arms and cascading crystal fringe makes this a glamorous focal point. Ideal over a seating area or in a formal dining room with dark or jewel-toned walls.",
+    "scaleReference": "Approximately 70cm wide, large chandelier with generous crystal drop",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
   },
   {
-    "id": "7",
-    "name": "Brass Bloom Cluster",
     "slug": "brass-bloom-cluster",
+    "name": "Brass Bloom Cluster",
     "collection": "Statement Pieces",
-    "collectionSlug": "statement",
-    "images": {
-      "studio": "/images/chandeliers/brass-bloom-cluster/studio.png",
-      "lifestyle": "/images/chandeliers/brass-bloom-cluster/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/brass-bloom-cluster/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/brass-bloom-cluster/04-hero-70pct.png",
-      "detail": "/images/chandeliers/brass-bloom-cluster/05-detail-zoomed.png"
-    }
+    "type": "cluster",
+    "size": "large",
+    "shape": "globe",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Colonial / Heritage",
+      "Warm Transitional",
+      "Modern Indian"
+    ],
+    "styleTags": [
+      "globe",
+      "cluster",
+      "ornate-canopy",
+      "antique-brass",
+      "globe-pendant"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm gold",
+      "clear glass"
+    ],
+    "roomTypes": [
+      "foyer",
+      "double_height_foyer",
+      "formal_living"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "wall_sconce"
+    ],
+    "lightCount": 5,
+    "heightProfile": "cascading",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Five globe pendants suspended from an ornate brass medallion canopy \u2014 stunning in a foyer or double-height entry. The decorative ceiling plate is as much a feature as the pendants themselves.",
+    "scaleReference": "Canopy approximately 60cm wide, globes approximately 25\u201330cm diameter each",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
   },
   {
-    "id": "8",
-    "name": "Brass Blossom Cluster",
     "slug": "brass-blossom-cluster",
+    "name": "Brass Blossom Cluster",
     "collection": "Statement Pieces",
-    "collectionSlug": "statement",
-    "images": {
-      "studio": "/images/chandeliers/brass-blossom-cluster/studio.png",
-      "lifestyle": "/images/chandeliers/brass-blossom-cluster/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/brass-blossom-cluster/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/brass-blossom-cluster/04-hero-70pct.png",
-      "detail": "/images/chandeliers/brass-blossom-cluster/05-detail-zoomed.png"
-    }
+    "type": "chandelier",
+    "size": "medium",
+    "shape": "dome",
+    "material": [
+      "brass",
+      "fabric"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Warm Transitional",
+      "Colonial / Heritage",
+      "French Provincial"
+    ],
+    "styleTags": [
+      "fabric-shades",
+      "multi-arm",
+      "brass",
+      "traditional",
+      "shade-chandelier"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm gold",
+      "cream fabric"
+    ],
+    "roomTypes": [
+      "dining_room",
+      "formal_living",
+      "bedroom"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "console_table",
+      "wall_sconce"
+    ],
+    "lightCount": 6,
+    "heightProfile": "standard",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "Classic multi-arm chandelier with fabric shades \u2014 ideal over a formal dining table or in a traditional drawing room. Pairs beautifully with warm wood furniture and earthy or cream tones.",
+    "scaleReference": "Approximately 70cm spread, 6-arm medium chandelier",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
   },
   {
-    "id": "9",
-    "name": "Brass Bough",
     "slug": "brass-bough",
+    "name": "Brass Bough",
     "collection": "Statement Pieces",
-    "collectionSlug": "statement",
-    "images": {
-      "studio": "/images/chandeliers/brass-bough/studio.png",
-      "lifestyle": "/images/chandeliers/brass-bough/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/brass-bough/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/brass-bough/04-hero-70pct.png",
-      "detail": "/images/chandeliers/brass-bough/04-hero-70pct.png"
-    }
+    "type": "chandelier",
+    "size": "grand",
+    "shape": "linear",
+    "material": [
+      "iron"
+    ],
+    "finish": "matte_black",
+    "vibes": [
+      "Contemporary Minimal",
+      "Industrial Chic",
+      "Art Deco"
+    ],
+    "styleTags": [
+      "sculptural",
+      "organic-arms",
+      "oversized",
+      "contemporary",
+      "multi-light"
+    ],
+    "colorPalette": [
+      "matte black",
+      "dark iron"
+    ],
+    "roomTypes": [
+      "double_height_foyer",
+      "dining_room",
+      "formal_living"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "artwork",
+      "floor_lamp"
+    ],
+    "lightCount": 24,
+    "heightProfile": "standard",
+    "lightingEffect": "directional",
+    "ceilingHeightMin": "12ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "An oversized sculptural statement in matte black iron with intertwining curved arms and upward-facing cap lights \u2014 ideal for a grand dining room or open-plan space. Needs significant ceiling height and open volume.",
+    "scaleReference": "Very large, approximately 150\u2013180cm wide linear span, architectural scale",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
   },
   {
-    "id": "10",
-    "name": "Brass Dome Cluster",
     "slug": "brass-dome-cluster",
+    "name": "Brass Dome Cluster",
     "collection": "Linear",
-    "collectionSlug": "linear",
-    "images": {
-      "studio": "/images/chandeliers/brass-dome-cluster/studio.png",
-      "lifestyle": "/images/chandeliers/brass-dome-cluster/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/brass-dome-cluster/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/brass-dome-cluster/04-hero-70pct.png",
-      "detail": "/images/chandeliers/brass-dome-cluster/05-detail-zoomed.png"
-    }
+    "type": "cluster",
+    "size": "large",
+    "shape": "dome",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Colonial / Heritage",
+      "French Provincial",
+      "Warm Transitional"
+    ],
+    "styleTags": [
+      "dome-shades",
+      "glass-shade",
+      "multi-pendant",
+      "linear-cluster",
+      "ornate-body"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm gold",
+      "frosted glass",
+      "cream white"
+    ],
+    "roomTypes": [
+      "dining_room",
+      "bar_area",
+      "formal_living"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "console_table",
+      "wall_sconce"
+    ],
+    "lightCount": 12,
+    "heightProfile": "standard",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "Three ornate brass bodies each with four glass-domed shades, suspended in a linear row \u2014 perfect over a long dining table or kitchen island. The glass shades provide excellent diffused downward light.",
+    "scaleReference": "Each unit approximately 40cm wide; three-unit linear row spans approximately 150cm",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
   },
   {
-    "id": "11",
-    "name": "Brass Dome Pendant",
     "slug": "brass-dome-pendant",
+    "name": "Brass Dome Pendant",
     "collection": "Brass Pendants",
-    "collectionSlug": "brass-pendants",
-    "images": {
-      "studio": "/images/chandeliers/brass-dome-pendant/studio.png",
-      "lifestyle": "/images/chandeliers/brass-dome-pendant/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/brass-dome-pendant/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/brass-dome-pendant/04-hero-70pct.png",
-      "detail": "/images/chandeliers/brass-dome-pendant/05-detail-zoomed.png"
-    }
+    "type": "pendant",
+    "size": "medium",
+    "shape": "dome",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Warm Transitional",
+      "Colonial / Heritage",
+      "Art Deco"
+    ],
+    "styleTags": [
+      "dome",
+      "glass-globe",
+      "pendant",
+      "antique-brass",
+      "single-pendant"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm gold",
+      "clear glass"
+    ],
+    "roomTypes": [
+      "foyer",
+      "hallway",
+      "powder_room"
+    ],
+    "pairsWith": [
+      "console_table",
+      "wall_sconce",
+      "floor_mirror"
+    ],
+    "lightCount": 3,
+    "heightProfile": "standard",
+    "lightingEffect": "diffused",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "A refined single pendant with a flattened glass dome housing an antique brass multi-light interior \u2014 suits foyers, hallways, and powder rooms. Use in a pair for passages or flanking a console.",
+    "scaleReference": "Approximately 40\u201345cm diameter dome, medium pendant scale",
+    "refImages": [
+      "01.jpg",
+      "02.jpg"
+    ],
+    "hasGenerated": true
   },
   {
-    "id": "12",
-    "name": "Brass Facet Long",
     "slug": "brass-facet-long",
+    "name": "Brass Facet Long",
     "collection": "Statement Pieces",
-    "collectionSlug": "statement",
-    "images": {
-      "studio": "/images/chandeliers/brass-facet-long/studio.png",
-      "lifestyle": "/images/chandeliers/brass-facet-long/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/brass-facet-long/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/brass-facet-long/04-hero-70pct.png",
-      "detail": "/images/chandeliers/brass-facet-long/05-detail-zoomed.png"
-    }
+    "type": "pendant",
+    "size": "large",
+    "shape": "geometric",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Glamorous",
+      "Art Deco",
+      "Modern Indian"
+    ],
+    "styleTags": [
+      "faceted",
+      "geometric",
+      "antique-mirror-glass",
+      "elongated",
+      "statement-pendant"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "mercury glass",
+      "aged silver"
+    ],
+    "roomTypes": [
+      "foyer",
+      "stairwell",
+      "double_height_foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "wall_sconce"
+    ],
+    "lightCount": 1,
+    "heightProfile": "elongated",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "The tall faceted geometric form with antique mirror-glass panels makes a dramatic statement in a foyer or stairwell nook. Hang at a height where the full elongated silhouette is visible.",
+    "scaleReference": "Approximately 35cm wide, 60\u201370cm tall, elongated pendant",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
   },
   {
-    "id": "13",
-    "name": "Brass Facet Short",
     "slug": "brass-facet-short",
+    "name": "Brass Facet Short",
     "collection": "Statement Pieces",
-    "collectionSlug": "statement",
-    "images": {
-      "studio": "/images/chandeliers/brass-facet-short/studio.png",
-      "lifestyle": "/images/chandeliers/brass-facet-short/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/brass-facet-short/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/brass-facet-short/02-lifestyle-lights-on.png",
-      "detail": "/images/chandeliers/brass-facet-short/05-detail-zoomed.png"
-    }
+    "type": "pendant",
+    "size": "medium",
+    "shape": "globe",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Glamorous",
+      "Art Deco",
+      "Warm Transitional"
+    ],
+    "styleTags": [
+      "faceted",
+      "geometric",
+      "antique-mirror-glass",
+      "globe",
+      "statement-pendant"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "mercury glass",
+      "aged silver"
+    ],
+    "roomTypes": [
+      "foyer",
+      "hallway",
+      "powder_room"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "wall_sconce"
+    ],
+    "lightCount": 1,
+    "heightProfile": "standard",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "The shorter, rounder sibling of the Brass Facet Long \u2014 suits foyers and hallways with standard ceiling heights. The antique mirror glass panels create jewel-like reflections when lit.",
+    "scaleReference": "Approximately 40\u201345cm diameter globe, compact statement pendant",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
   },
   {
-    "id": "15",
-    "name": "Brass Geometric Cluster",
     "slug": "brass-geometric-cluster",
+    "name": "Brass Geometric Cluster",
     "collection": "Statement Pieces",
-    "collectionSlug": "statement",
-    "images": {
-      "studio": "/images/chandeliers/brass-geometric-cluster/studio.png",
-      "lifestyle": "/images/chandeliers/brass-geometric-cluster/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/brass-geometric-cluster/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/brass-geometric-cluster/04-hero-70pct.png",
-      "detail": "/images/chandeliers/brass-geometric-cluster/05-detail-zoomed.png"
-    }
+    "type": "cluster",
+    "size": "large",
+    "shape": "dome",
+    "material": [
+      "brass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Art Deco",
+      "Glamorous",
+      "Modern Indian"
+    ],
+    "styleTags": [
+      "geometric",
+      "dome-shade",
+      "fringe",
+      "stacked",
+      "sculptural",
+      "cluster"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "dark brass",
+      "warm bronze"
+    ],
+    "roomTypes": [
+      "double_height_foyer",
+      "stairwell",
+      "formal_living"
+    ],
+    "pairsWith": [
+      "floor_mirror",
+      "console_table",
+      "artwork"
+    ],
+    "lightCount": 6,
+    "heightProfile": "elongated",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "12ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Stacked sculptural cluster of geometric brass dome shades with fringe detailing at multiple heights \u2014 a bold statement for double-height foyers or grand living spaces. Needs significant vertical clearance.",
+    "scaleReference": "Cluster spans approximately 60\u201370cm wide, total drop approximately 150cm",
+    "refImages": [
+      "ref-07.jpg"
+    ],
+    "hasGenerated": true
   },
   {
-    "id": "16",
-    "name": "Brass Hexagon Lantern",
     "slug": "brass-hexagon-lantern",
+    "name": "Brass Hexagon Lantern",
     "collection": "Statement Pieces",
-    "collectionSlug": "statement",
-    "images": {
-      "studio": "/images/chandeliers/brass-hexagon-lantern/studio.png",
-      "lifestyle": "/images/chandeliers/brass-hexagon-lantern/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/brass-hexagon-lantern/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/brass-hexagon-lantern/04-hero-70pct.png",
-      "detail": "/images/chandeliers/brass-hexagon-lantern/05-detail-zoomed.png"
-    }
+    "type": "lantern",
+    "size": "medium",
+    "shape": "geometric",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Colonial / Heritage",
+      "Warm Transitional",
+      "French Provincial"
+    ],
+    "styleTags": [
+      "hexagon",
+      "lantern",
+      "glass-panels",
+      "antique-brass",
+      "candle-style"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm gold",
+      "clear glass"
+    ],
+    "roomTypes": [
+      "foyer",
+      "hallway",
+      "stairwell"
+    ],
+    "pairsWith": [
+      "console_table",
+      "wall_sconce",
+      "floor_mirror"
+    ],
+    "lightCount": 3,
+    "heightProfile": "standard",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "A classic hexagonal brass lantern with clear glass panels and candle-style lights inside \u2014 timeless in a foyer or hallway. Pair with a matching wall lantern on either side of an entryway for a grand colonial look.",
+    "scaleReference": "Approximately 30cm wide, 50cm tall lantern body, medium scale",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
   },
   {
-    "id": "17",
-    "name": "Brass Lantern Cascade",
     "slug": "brass-lantern-cascade",
+    "name": "Brass Lantern Cascade",
     "collection": "Statement Pieces",
-    "collectionSlug": "statement",
-    "images": {
-      "studio": "/images/chandeliers/brass-lantern-cascade/studio.png",
-      "lifestyle": "/images/chandeliers/brass-lantern-cascade/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/brass-lantern-cascade/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/brass-lantern-cascade/04-hero-70pct.png",
-      "detail": "/images/chandeliers/brass-lantern-cascade/04-hero-70pct.png"
-    }
+    "type": "cluster",
+    "size": "grand",
+    "shape": "cascade",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Colonial / Heritage",
+      "Classical / Ornate",
+      "Modern Indian"
+    ],
+    "styleTags": [
+      "lantern",
+      "cascade",
+      "ornate",
+      "scrollwork",
+      "glass-cylinder"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm bronze",
+      "clear glass"
+    ],
+    "roomTypes": [
+      "double_height_foyer",
+      "stairwell",
+      "foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "wall_sconce"
+    ],
+    "lightCount": 15,
+    "heightProfile": "cascading",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "14ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Best suited for double-height foyers or grand stairwells where the cascading cluster of lanterns at varying heights creates dramatic visual impact. Pair with a carved console table and floor mirror below.",
+    "scaleReference": "Cluster spans approximately 3\u20134 ft wide; individual lanterns are 14\u201318 inches tall",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
   },
   {
-    "id": "18",
-    "name": "Brass Lantern Tiered",
     "slug": "brass-lantern-tiered",
+    "name": "Brass Lantern Tiered",
     "collection": "Statement Pieces",
-    "collectionSlug": "statement",
-    "images": {
-      "studio": "/images/chandeliers/brass-lantern-tiered/studio.png",
-      "lifestyle": "/images/chandeliers/brass-lantern-tiered/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/brass-lantern-tiered/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/brass-lantern-tiered/04-hero-70pct.png",
-      "detail": "/images/chandeliers/brass-lantern-tiered/05-detail-zoomed.png"
-    }
+    "type": "linear",
+    "size": "large",
+    "shape": "linear",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Art Deco",
+      "Warm Transitional",
+      "Colonial / Heritage"
+    ],
+    "styleTags": [
+      "linear",
+      "ribbed-glass",
+      "rectangular",
+      "tiered",
+      "brass-frame"
+    ],
+    "colorPalette": [
+      "warm brass",
+      "antique gold",
+      "clear ribbed glass"
+    ],
+    "roomTypes": [
+      "dining_room",
+      "bar_area",
+      "formal_living"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "console_table",
+      "artwork"
+    ],
+    "lightCount": 4,
+    "heightProfile": "standard",
+    "lightingEffect": "diffused",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "Hang over a rectangular dining table or kitchen island; the two-tier ribbed glass construction diffuses warm light evenly across the surface below. Works beautifully in rooms with warm wood tones.",
+    "scaleReference": "Approximately 48 inches long \u00d7 14 inches wide \u00d7 12 inches tall",
+    "refImages": [
+      "01.jpg",
+      "02.jpg"
+    ],
+    "hasGenerated": false
   },
   {
-    "id": "19",
-    "name": "Brass Lattice",
     "slug": "brass-lattice",
+    "name": "Brass Lattice",
     "collection": "Statement Pieces",
-    "collectionSlug": "statement",
-    "images": {
-      "studio": "/images/chandeliers/brass-lattice/studio.png",
-      "lifestyle": "/images/chandeliers/brass-lattice/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/brass-lattice/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/brass-lattice/04-hero-70pct.png",
-      "detail": "/images/chandeliers/brass-lattice/05-detail-zoomed.png"
-    }
+    "type": "linear",
+    "size": "large",
+    "shape": "linear",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Art Deco",
+      "Warm Transitional",
+      "Contemporary Minimal"
+    ],
+    "styleTags": [
+      "linear",
+      "ribbed-glass",
+      "rectangular",
+      "brass-frame",
+      "double-tier"
+    ],
+    "colorPalette": [
+      "brushed brass",
+      "antique gold",
+      "clear ribbed glass"
+    ],
+    "roomTypes": [
+      "dining_room",
+      "formal_living",
+      "bar_area"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "artwork",
+      "side_table"
+    ],
+    "lightCount": 6,
+    "heightProfile": "standard",
+    "lightingEffect": "diffused",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "Ideal over a long dining table or in a formal living area; the double-tiered ribbed glass panels create warm, glowing diffused light. Complements rooms with panelled walls and layered brass accents.",
+    "scaleReference": "Approximately 54\u201360 inches long \u00d7 16 inches wide \u00d7 14 inches tall",
+    "refImages": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg"
+    ],
+    "hasGenerated": false
   },
   {
-    "id": "20",
-    "name": "Brass Lattice Linear",
     "slug": "brass-lattice-linear",
+    "name": "Brass Lattice Linear",
     "collection": "Linear",
-    "collectionSlug": "linear",
-    "images": {
-      "studio": "/images/chandeliers/brass-lattice-linear/studio.png",
-      "lifestyle": "/images/chandeliers/brass-lattice-linear/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/brass-lattice-linear/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/brass-lattice-linear/04-hero-70pct.png",
-      "detail": "/images/chandeliers/brass-lattice-linear/05-detail-zoomed.png"
-    }
+    "type": "linear",
+    "size": "large",
+    "shape": "linear",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Art Deco",
+      "Warm Transitional",
+      "Contemporary Minimal"
+    ],
+    "styleTags": [
+      "linear",
+      "ribbed-glass",
+      "rectangular",
+      "double-tier",
+      "brass-frame"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm gold",
+      "clear ribbed glass"
+    ],
+    "roomTypes": [
+      "dining_room",
+      "bar_area",
+      "formal_living"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "artwork",
+      "console_table"
+    ],
+    "lightCount": 6,
+    "heightProfile": "standard",
+    "lightingEffect": "diffused",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "Perfect over a long dining or conference table; the lattice-patterned brass canopy and ribbed-glass double-box body emit warm, diffused downlight. Suits transitional and Art Deco dining rooms.",
+    "scaleReference": "Approximately 48\u201354 inches long \u00d7 14 inches wide \u00d7 12 inches tall",
+    "refImages": [
+      "01.jpg",
+      "02.jpg"
+    ],
+    "hasGenerated": false
   },
   {
-    "id": "21",
-    "name": "Brass Linear Cluster",
     "slug": "brass-linear-cluster",
+    "name": "Brass Linear Cluster",
     "collection": "Linear",
-    "collectionSlug": "linear",
-    "images": {
-      "studio": "/images/chandeliers/brass-linear-cluster/studio.png",
-      "lifestyle": "/images/chandeliers/brass-linear-cluster/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/brass-linear-cluster/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/brass-linear-cluster/04-hero-70pct.png",
-      "detail": "/images/chandeliers/brass-linear-cluster/05-detail-zoomed.png"
-    }
+    "type": "cluster",
+    "size": "large",
+    "shape": "linear",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Industrial Chic",
+      "Warm Transitional",
+      "Contemporary Minimal"
+    ],
+    "styleTags": [
+      "linear",
+      "cluster",
+      "glass-cylinder",
+      "lattice-canopy",
+      "pendant-cluster"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm gold",
+      "clear glass"
+    ],
+    "roomTypes": [
+      "dining_room",
+      "bar_area",
+      "hallway"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "bar_cart",
+      "console_table"
+    ],
+    "lightCount": 6,
+    "heightProfile": "elongated",
+    "lightingEffect": "directional",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "Six glass-cylinder pendants drop from a brass lattice linear canopy \u2014 perfect over a dining table or bar counter. The exposed Edison-style bulbs add warmth and an industrial-heritage crossover aesthetic.",
+    "scaleReference": "Canopy approximately 40 inches long; pendants hang 18\u201324 inches below",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
   },
   {
-    "id": "22",
-    "name": "Crystal Crown",
     "slug": "brass-medallion-crystal-crown",
+    "name": "Crystal Crown",
     "collection": "Brass Medallion",
-    "collectionSlug": "brass-medallion",
-    "images": {
-      "studio": "/images/chandeliers/brass-medallion-crystal-crown/studio.png",
-      "lifestyle": "/images/chandeliers/brass-medallion-crystal-crown/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/brass-medallion-crystal-crown/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/brass-medallion-crystal-crown/04-hero-70pct.png",
-      "detail": "/images/chandeliers/brass-medallion-crystal-crown/05-detail-zoomed.png"
-    }
+    "type": "chandelier",
+    "size": "medium",
+    "shape": "drum",
+    "material": [
+      "brass",
+      "crystal"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Classical / Ornate",
+      "Glamorous",
+      "French Provincial"
+    ],
+    "styleTags": [
+      "crystal",
+      "drum",
+      "ornate",
+      "shell-motif",
+      "crown-top",
+      "tiered-crystal"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm gold",
+      "clear crystal"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "wall_sconce"
+    ],
+    "lightCount": 6,
+    "heightProfile": "compact",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Best placed as a centrepiece in a formal drawing room or foyer; the shell-motif crown and cascading crystal drops create brilliant sparkle. Pair with antique gold wall sconces for a cohesive classical look.",
+    "scaleReference": "Approximately 18 inches diameter \u00d7 20 inches tall",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
   },
   {
-    "id": "23",
-    "name": "Shield",
     "slug": "brass-medallion-shield",
-    "collection": "Brass Medallion",
-    "collectionSlug": "brass-medallion",
-    "images": {
-      "studio": "/images/chandeliers/brass-medallion-shield/studio.png",
-      "lifestyle": "/images/chandeliers/brass-medallion-shield/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/brass-medallion-shield/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/brass-medallion-shield/04-hero-70pct.png",
-      "detail": "/images/chandeliers/brass-medallion-shield/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "24",
-    "name": "Sunburst",
-    "slug": "brass-medallion-sunburst",
-    "collection": "Brass Medallion",
-    "collectionSlug": "brass-medallion",
-    "images": {
-      "studio": "/images/chandeliers/brass-medallion-sunburst/studio.png",
-      "lifestyle": "/images/chandeliers/brass-medallion-sunburst/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/brass-medallion-sunburst/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/brass-medallion-sunburst/04-hero-70pct.png",
-      "detail": "/images/chandeliers/brass-medallion-sunburst/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "25",
-    "name": "Brass Petals",
-    "slug": "brass-petals",
-    "collection": "Statement Pieces",
-    "collectionSlug": "statement",
-    "images": {
-      "studio": "/images/chandeliers/brass-petals/studio.png",
-      "lifestyle": "/images/chandeliers/brass-petals/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/brass-petals/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/brass-petals/04-hero-70pct.png",
-      "detail": "/images/chandeliers/brass-petals/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "26",
-    "name": "Brass Ribbed Cylinder",
-    "slug": "brass-ribbed-cylinder",
-    "collection": "Brass Pendants",
-    "collectionSlug": "brass-pendants",
-    "images": {
-      "studio": "/images/chandeliers/brass-ribbed-cylinder/studio.png",
-      "lifestyle": "/images/chandeliers/brass-ribbed-cylinder/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/brass-ribbed-cylinder/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/brass-ribbed-cylinder/04-hero-70pct.png",
-      "detail": "/images/chandeliers/brass-ribbed-cylinder/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "27",
-    "name": "Cherub Botanical",
-    "slug": "cherub-botanical",
-    "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/cherub-botanical/studio.png",
-      "lifestyle": "/images/chandeliers/cherub-botanical/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/cherub-botanical/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/cherub-botanical/04-hero-70pct.png",
-      "detail": "/images/chandeliers/cherub-botanical/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "28",
-    "name": "Crystal Bell Pendant",
-    "slug": "crystal-bell-pendant",
-    "collection": "Crystal Collection",
-    "collectionSlug": "crystal-collection",
-    "images": {
-      "studio": "/images/chandeliers/crystal-bell-pendant/studio.png",
-      "lifestyle": "/images/chandeliers/crystal-bell-pendant/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/crystal-bell-pendant/02-lifestyle-lights-on.png",
-      "hero": "/images/chandeliers/crystal-bell-pendant/04-hero-70pct.png",
-      "detail": "/images/chandeliers/crystal-bell-pendant/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "29",
-    "name": "Crystal Blossom",
-    "slug": "crystal-blossom",
-    "collection": "Crystal Garden",
-    "collectionSlug": "crystal-garden",
-    "images": {
-      "studio": "/images/chandeliers/crystal-blossom/studio.png",
-      "lifestyle": "/images/chandeliers/crystal-blossom/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/crystal-blossom/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/crystal-blossom/04-hero-70pct.png",
-      "detail": "/images/chandeliers/crystal-blossom/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "30",
-    "name": "Crystal Bough",
-    "slug": "crystal-bough",
-    "collection": "Crystal Garden",
-    "collectionSlug": "crystal-garden",
-    "images": {
-      "studio": "/images/chandeliers/crystal-bough/studio.png",
-      "lifestyle": "/images/chandeliers/crystal-bough/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/crystal-bough/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/crystal-bough/04-hero-70pct.png",
-      "detail": "/images/chandeliers/crystal-bough/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "31",
-    "name": "Crystal Cascade Chandelier",
-    "slug": "crystal-cascade-chandelier",
-    "collection": "Crystal Garden",
-    "collectionSlug": "crystal-garden",
-    "images": {
-      "studio": "/images/chandeliers/crystal-cascade-chandelier/studio.png",
-      "lifestyle": "/images/chandeliers/crystal-cascade-chandelier/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/crystal-cascade-chandelier/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/crystal-cascade-chandelier/04-hero-70pct.png",
-      "detail": "/images/chandeliers/crystal-cascade-chandelier/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "32",
-    "name": "Crystal Cascade Cluster",
-    "slug": "crystal-cascade-cluster",
-    "collection": "Crystal Collection",
-    "collectionSlug": "crystal-collection",
-    "images": {
-      "studio": "/images/chandeliers/crystal-cascade-cluster/studio.png",
-      "lifestyle": "/images/chandeliers/crystal-cascade-cluster/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/crystal-cascade-cluster/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/crystal-cascade-cluster/04-hero-70pct.png",
-      "detail": "/images/chandeliers/crystal-cascade-cluster/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "33",
-    "name": "Crystal Cascade Trio",
-    "slug": "crystal-cascade-trio",
-    "collection": "Crystal Collection",
-    "collectionSlug": "crystal-collection",
-    "images": {
-      "studio": "/images/chandeliers/crystal-cascade-trio/studio.png",
-      "lifestyle": "/images/chandeliers/crystal-cascade-trio/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/crystal-cascade-trio/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/crystal-cascade-trio/04-hero-70pct.png",
-      "detail": "/images/chandeliers/crystal-cascade-trio/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "34",
-    "name": "Crystal Cylinder",
-    "slug": "crystal-cylinder",
-    "collection": "Crystal Collection",
-    "collectionSlug": "crystal-collection",
-    "images": {
-      "studio": "/images/chandeliers/crystal-cylinder/studio.png",
-      "lifestyle": "/images/chandeliers/crystal-cylinder/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/crystal-cylinder/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/crystal-cylinder/04-hero-70pct.png",
-      "detail": "/images/chandeliers/crystal-cylinder/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "35",
-    "name": "Crystal Dome",
-    "slug": "crystal-dome",
-    "collection": "Crystal Collection",
-    "collectionSlug": "crystal-collection",
-    "images": {
-      "studio": "/images/chandeliers/crystal-dome/studio.png",
-      "lifestyle": "/images/chandeliers/crystal-dome/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/crystal-dome/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/crystal-dome/04-hero-70pct.png",
-      "detail": "/images/chandeliers/crystal-dome/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "36",
-    "name": "Crystal Dome Pendant",
-    "slug": "crystal-dome-pendant",
-    "collection": "Crystal Collection",
-    "collectionSlug": "crystal-collection",
-    "images": {
-      "studio": "/images/chandeliers/crystal-dome-pendant/studio.png",
-      "lifestyle": "/images/chandeliers/crystal-dome-pendant/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/crystal-dome-pendant/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/crystal-dome-pendant/04-hero-70pct.png",
-      "detail": "/images/chandeliers/crystal-dome-pendant/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "37",
-    "name": "Solo",
-    "slug": "crystal-fringe-solo",
-    "collection": "Crystal Fringe",
-    "collectionSlug": "crystal-fringe",
-    "images": {
-      "studio": "/images/chandeliers/crystal-fringe-solo/studio.png",
-      "lifestyle": "/images/chandeliers/crystal-fringe-solo/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/crystal-fringe-solo/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/crystal-fringe-solo/04-hero-70pct.png",
-      "detail": "/images/chandeliers/crystal-fringe-solo/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "38",
-    "name": "Trio",
-    "slug": "crystal-fringe-trio",
-    "collection": "Crystal Fringe",
-    "collectionSlug": "crystal-fringe",
-    "images": {
-      "studio": "/images/chandeliers/crystal-fringe-trio/studio.png",
-      "lifestyle": "/images/chandeliers/crystal-fringe-trio/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/crystal-fringe-trio/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/crystal-fringe-trio/04-hero-70pct.png",
-      "detail": "/images/chandeliers/crystal-fringe-trio/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "39",
-    "name": "Amber Prism",
-    "slug": "crystal-garden-amber-prism",
-    "collection": "Crystal Garden",
-    "collectionSlug": "crystal-garden",
-    "images": {
-      "studio": "/images/chandeliers/crystal-garden-amber-prism/studio.png",
-      "lifestyle": "/images/chandeliers/crystal-garden-amber-prism/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/crystal-garden-amber-prism/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/crystal-garden-amber-prism/04-hero-70pct.png",
-      "detail": "/images/chandeliers/crystal-garden-amber-prism/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "40",
-    "name": "Antique Scroll",
-    "slug": "crystal-garden-antique-scroll",
-    "collection": "Crystal Garden",
-    "collectionSlug": "crystal-garden",
-    "images": {
-      "studio": "/images/chandeliers/crystal-garden-antique-scroll/studio.png",
-      "lifestyle": "/images/chandeliers/crystal-garden-antique-scroll/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/crystal-garden-antique-scroll/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/crystal-garden-antique-scroll/04-hero-70pct.png",
-      "detail": "/images/chandeliers/crystal-garden-antique-scroll/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "41",
-    "name": "Bloom",
-    "slug": "crystal-garden-bloom",
-    "collection": "Crystal Garden",
-    "collectionSlug": "crystal-garden",
-    "images": {
-      "studio": "/images/chandeliers/crystal-garden-bloom/studio.png",
-      "lifestyle": "/images/chandeliers/crystal-garden-bloom/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/crystal-garden-bloom/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/crystal-garden-bloom/04-hero-70pct.png",
-      "detail": "/images/chandeliers/crystal-garden-bloom/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "42",
-    "name": "Floral Scroll",
-    "slug": "crystal-garden-floral-scroll",
-    "collection": "Crystal Garden",
-    "collectionSlug": "crystal-garden",
-    "images": {
-      "studio": "/images/chandeliers/crystal-garden-floral-scroll/studio.png",
-      "lifestyle": "/images/chandeliers/crystal-garden-floral-scroll/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/crystal-garden-floral-scroll/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/crystal-garden-floral-scroll/04-hero-70pct.png",
-      "detail": "/images/chandeliers/crystal-garden-floral-scroll/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "43",
-    "name": "Crystal Lantern",
-    "slug": "crystal-lantern",
-    "collection": "Crystal Collection",
-    "collectionSlug": "crystal-collection",
-    "images": {
-      "studio": "/images/chandeliers/crystal-lantern/studio.png",
-      "lifestyle": "/images/chandeliers/crystal-lantern/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/crystal-lantern/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/crystal-lantern/04-hero-70pct.png",
-      "detail": "/images/chandeliers/crystal-lantern/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "44",
-    "name": "Crystal Linear",
-    "slug": "crystal-linear",
-    "collection": "Linear",
-    "collectionSlug": "linear",
-    "images": {
-      "studio": "/images/chandeliers/crystal-linear/studio.png",
-      "lifestyle": "/images/chandeliers/crystal-linear/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/crystal-linear/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/crystal-linear/04-hero-70pct.png",
-      "detail": "/images/chandeliers/crystal-linear/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "45",
-    "name": "Crystal Shell Cascade",
-    "slug": "crystal-shell-cascade",
-    "collection": "Crystal Collection",
-    "collectionSlug": "crystal-collection",
-    "images": {
-      "studio": "/images/chandeliers/crystal-shell-cascade/studio.png",
-      "lifestyle": "/images/chandeliers/crystal-shell-cascade/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/crystal-shell-cascade/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/crystal-shell-cascade/04-hero-70pct.png",
-      "detail": "/images/chandeliers/crystal-shell-cascade/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "46",
-    "name": "Crystal Teardrop",
-    "slug": "crystal-teardrop",
-    "collection": "Crystal Collection",
-    "collectionSlug": "crystal-collection",
-    "images": {
-      "studio": "/images/chandeliers/crystal-teardrop/studio.png",
-      "lifestyle": "/images/chandeliers/crystal-teardrop/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/crystal-teardrop/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/crystal-teardrop/04-hero-70pct.png",
-      "detail": "/images/chandeliers/crystal-teardrop/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "47",
-    "name": "Deco Lantern",
-    "slug": "deco-lantern",
-    "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/deco-lantern/studio.png",
-      "lifestyle": "/images/chandeliers/deco-lantern/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/deco-lantern/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/deco-lantern/04-hero-70pct.png",
-      "detail": "/images/chandeliers/deco-lantern/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "48",
-    "name": "Baroque",
-    "slug": "distressed-scroll-baroque",
-    "collection": "Distressed Scroll",
-    "collectionSlug": "distressed-scroll",
-    "images": {
-      "studio": "/images/chandeliers/distressed-scroll-baroque/studio.png",
-      "lifestyle": "/images/chandeliers/distressed-scroll-baroque/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/distressed-scroll-baroque/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/distressed-scroll-baroque/04-hero-70pct.png",
-      "detail": "/images/chandeliers/distressed-scroll-baroque/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "49",
     "name": "Shield",
-    "slug": "distressed-scroll-shield",
+    "collection": "Brass Medallion",
+    "type": "pendant",
+    "size": "medium",
+    "shape": "urn",
+    "material": [
+      "brass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Classical / Ornate",
+      "Colonial / Heritage",
+      "Modern Indian"
+    ],
+    "styleTags": [
+      "urn",
+      "ornate",
+      "medallion",
+      "floral-cutwork",
+      "chain-hung",
+      "tassel-finial"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm bronze",
+      "aged gold"
+    ],
+    "roomTypes": [
+      "foyer",
+      "stairwell",
+      "hallway"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "artwork"
+    ],
+    "lightCount": 1,
+    "heightProfile": "elongated",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Hang in a foyer corner or at the top of a stairwell; the urn-shaped body with sunburst medallions, lattice cutwork, and tassel finial makes a strong sculptural statement without overwhelming the space.",
+    "scaleReference": "Approximately 10 inches wide \u00d7 22 inches tall (excluding chain)",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "brass-medallion-sunburst",
+    "name": "Sunburst",
+    "collection": "Brass Medallion",
+    "type": "chandelier",
+    "size": "medium",
+    "shape": "dome",
+    "material": [
+      "brass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Classical / Ornate",
+      "Colonial / Heritage",
+      "Modern Indian"
+    ],
+    "styleTags": [
+      "dome",
+      "sunburst",
+      "medallion",
+      "ornate-cutwork",
+      "bowl-shaped"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm bronze",
+      "aged gold"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "wall_sconce"
+    ],
+    "lightCount": 4,
+    "heightProfile": "compact",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "A wide dome chandelier with sunburst and floral medallion cutwork; works beautifully as a centrepiece in formal drawing rooms or over a round dining table. The open metalwork allows warm light to play across walls and ceilings.",
+    "scaleReference": "Approximately 22\u201324 inches diameter \u00d7 16 inches tall",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "brass-petals",
+    "name": "Brass Petals",
+    "collection": "Statement Pieces",
+    "type": "chandelier",
+    "size": "large",
+    "shape": "dome",
+    "material": [
+      "brass"
+    ],
+    "finish": "brushed",
+    "vibes": [
+      "Contemporary Minimal",
+      "Glamorous",
+      "Bohemian"
+    ],
+    "styleTags": [
+      "petals",
+      "sculptural",
+      "globe-light",
+      "oversized",
+      "brushed-brass",
+      "organic"
+    ],
+    "colorPalette": [
+      "brushed brass",
+      "satin gold",
+      "warm champagne"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "master_suite",
+      "dining_room"
+    ],
+    "pairsWith": [
+      "floor_lamp",
+      "side_table",
+      "artwork"
+    ],
+    "lightCount": 1,
+    "heightProfile": "compact",
+    "lightingEffect": "diffused",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "A bold sculptural centrepiece; the oversized brushed-brass petal form radiates outward from a central globe, making it ideal as the focal point of a living room or master bedroom. Keeps surrounding decor minimal.",
+    "scaleReference": "Approximately 30\u201336 inches diameter",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "brass-ribbed-cylinder",
+    "name": "Brass Ribbed Cylinder",
+    "collection": "Brass Pendants",
+    "type": "pendant",
+    "size": "medium",
+    "shape": "cylinder",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "polished",
+    "vibes": [
+      "Art Deco",
+      "Warm Transitional",
+      "Contemporary Minimal"
+    ],
+    "styleTags": [
+      "cylinder",
+      "ribbed-glass",
+      "brass-ring",
+      "pendant",
+      "polished"
+    ],
+    "colorPalette": [
+      "polished brass",
+      "warm gold",
+      "clear ribbed glass"
+    ],
+    "roomTypes": [
+      "hallway",
+      "dining_room",
+      "powder_room"
+    ],
+    "pairsWith": [
+      "console_table",
+      "wall_sconce",
+      "side_table"
+    ],
+    "lightCount": 3,
+    "heightProfile": "standard",
+    "lightingEffect": "diffused",
+    "ceilingHeightMin": "8ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "A refined cylinder pendant with vertical ribbed glass panels held within polished brass hoops; suits hallways, powder rooms, or over a small dining setting. Works well in pairs or threes for corridor installations.",
+    "scaleReference": "Approximately 12 inches diameter \u00d7 14 inches tall",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "cherub-botanical",
+    "name": "Cherub Botanical",
+    "collection": "Signature Collection",
+    "type": "chandelier",
+    "size": "large",
+    "shape": "tiered",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Classical / Ornate",
+      "French Provincial",
+      "Colonial / Heritage"
+    ],
+    "styleTags": [
+      "cherub",
+      "botanical",
+      "tiered",
+      "ornate",
+      "frosted-glass",
+      "candelabra"
+    ],
+    "colorPalette": [
+      "antique silver-brass",
+      "warm gold",
+      "frosted glass"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "stairwell"
+    ],
+    "pairsWith": [
+      "floor_mirror",
+      "console_table",
+      "wall_sconce"
+    ],
+    "lightCount": 8,
+    "heightProfile": "cascading",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "A grand antique chandelier with cherub figures, botanical scrollwork arms, and frosted floral glass shades; suited for heritage-style bungalows, formal dining rooms, or grand stairwells. Needs generous ceiling height and space.",
+    "scaleReference": "Approximately 28\u201332 inches diameter \u00d7 30 inches tall",
+    "refImages": [
+      "01.png"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "crystal-bell-pendant",
+    "name": "Crystal Bell Pendant",
+    "collection": "Crystal Collection",
+    "type": "pendant",
+    "size": "medium",
+    "shape": "bell",
+    "material": [
+      "crystal",
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Classical / Ornate",
+      "Glamorous",
+      "French Provincial"
+    ],
+    "styleTags": [
+      "bell",
+      "crystal",
+      "etched-glass",
+      "elongated",
+      "crystal-column"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "clear crystal",
+      "warm gold"
+    ],
+    "roomTypes": [
+      "hallway",
+      "stairwell",
+      "powder_room"
+    ],
+    "pairsWith": [
+      "console_table",
+      "wall_sconce",
+      "floor_mirror"
+    ],
+    "lightCount": 1,
+    "heightProfile": "elongated",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "An elegant elongated crystal pendant with a scalloped bell shade and stacked crystal column body; works beautifully in pairs flanking a foyer or cascading in a stairwell. Use solo in a powder room for maximum drama.",
+    "scaleReference": "Approximately 8 inches diameter shade \u00d7 36\u201348 inches total drop",
+    "refImages": [
+      "01.jpg",
+      "02.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "crystal-blossom",
+    "name": "Crystal Blossom",
+    "collection": "Crystal Garden",
+    "type": "chandelier",
+    "size": "large",
+    "shape": "cascade",
+    "material": [
+      "brass",
+      "crystal",
+      "glass"
+    ],
+    "finish": "gilt",
+    "vibes": [
+      "Glamorous",
+      "Bohemian",
+      "Classical / Ornate"
+    ],
+    "styleTags": [
+      "floral",
+      "crystal",
+      "colorful",
+      "branch",
+      "blossom",
+      "sculptural"
+    ],
+    "colorPalette": [
+      "pale gold",
+      "multicolor crystal",
+      "clear glass"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "artwork",
+      "floor_mirror"
+    ],
+    "lightCount": 12,
+    "heightProfile": "cascading",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "A spectacular branching chandelier with crystal blossoms in multicolor gemstone tones and cascading crystal drops beneath; ideal as a centrepiece in a vibrant formal room or over a dining table. Pair with rooms featuring bold accent colours.",
+    "scaleReference": "Approximately 36\u201342 inches wide \u00d7 20 inches tall body",
+    "refImages": [
+      "01.jpg",
+      "02.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "crystal-bough",
+    "name": "Crystal Bough",
+    "collection": "Crystal Garden",
+    "type": "chandelier",
+    "size": "large",
+    "shape": "cascade",
+    "material": [
+      "iron",
+      "crystal"
+    ],
+    "finish": "polished",
+    "vibes": [
+      "Glamorous",
+      "Contemporary Minimal",
+      "Art Deco"
+    ],
+    "styleTags": [
+      "branch",
+      "crystal",
+      "candelabra",
+      "sculptural",
+      "silver",
+      "organic"
+    ],
+    "colorPalette": [
+      "chrome silver",
+      "clear crystal",
+      "bright white"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "artwork",
+      "floor_mirror"
+    ],
+    "lightCount": 12,
+    "heightProfile": "cascading",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Sweeping chrome-silver scrolled branches adorned with crystal droplets and candle-style arms create a dramatic organic silhouette; best placed in a high-ceilinged formal room or double-height foyer where the branching form can be appreciated fully.",
+    "scaleReference": "Approximately 36\u201340 inches diameter \u00d7 28 inches tall",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "crystal-cascade-chandelier",
+    "name": "Crystal Cascade Chandelier",
+    "collection": "Crystal Garden",
+    "type": "chandelier",
+    "size": "large",
+    "shape": "tiered",
+    "material": [
+      "brass",
+      "crystal",
+      "fabric"
+    ],
+    "finish": "polished",
+    "vibes": [
+      "Classical / Ornate",
+      "Glamorous",
+      "French Provincial"
+    ],
+    "styleTags": [
+      "crystal-cascade",
+      "fabric-shades",
+      "tiered",
+      "ornate",
+      "multi-arm"
+    ],
+    "colorPalette": [
+      "warm brass",
+      "clear crystal",
+      "ivory white"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "double_height_foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "wall_sconce",
+      "floor_mirror",
+      "dining_table"
+    ],
+    "lightCount": 12,
+    "heightProfile": "cascading",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Best suited for a formal living room or dining room with high ceilings. The cascading crystal strands and fabric shades create a dramatic focal point; pair with an antique sideboard or console beneath.",
+    "scaleReference": "Approximately 80\u201390 cm diameter, 60\u201370 cm height; suits rooms 14 ft+ wide",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "crystal-cascade-cluster",
+    "name": "Crystal Cascade Cluster",
+    "collection": "Crystal Collection",
+    "type": "cluster",
+    "size": "large",
+    "shape": "cylinder",
+    "material": [
+      "brass",
+      "crystal"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Art Deco",
+      "Glamorous",
+      "Warm Transitional"
+    ],
+    "styleTags": [
+      "crystal-rods",
+      "drum-cylinder",
+      "cluster",
+      "geometric",
+      "layered"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "clear crystal",
+      "warm gold"
+    ],
+    "roomTypes": [
+      "dining_room",
+      "double_height_foyer",
+      "formal_living"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "console_table",
+      "wall_sconce",
+      "artwork"
+    ],
+    "lightCount": 6,
+    "heightProfile": "cascading",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "A cluster of three cylindrical crystal-rod pendants installed at staggered heights makes a bold statement over a large dining table or in a double-height foyer. The antique brass frames complement dark wood ceilings.",
+    "scaleReference": "Each drum approximately 50\u201360 cm diameter; cluster spans roughly 120 cm across",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "crystal-cascade-trio",
+    "name": "Crystal Cascade Trio",
+    "collection": "Crystal Collection",
+    "type": "cluster",
+    "size": "medium",
+    "shape": "cylinder",
+    "material": [
+      "brass",
+      "crystal"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Art Deco",
+      "Glamorous",
+      "Contemporary Minimal"
+    ],
+    "styleTags": [
+      "crystal-rods",
+      "drum-cylinder",
+      "trio",
+      "geometric",
+      "modern"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "clear crystal",
+      "warm gold"
+    ],
+    "roomTypes": [
+      "dining_room",
+      "foyer",
+      "formal_living"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "console_table",
+      "wall_sconce",
+      "floor_mirror"
+    ],
+    "lightCount": 3,
+    "heightProfile": "standard",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "Three matching crystal-rod drum pendants hung at the same height work beautifully over a long dining table or island. The geometric lattice connectors add an Art Deco touch.",
+    "scaleReference": "Each drum approximately 45\u201350 cm diameter; trio spans roughly 150 cm linearly",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "crystal-cylinder",
+    "name": "Crystal Cylinder",
+    "collection": "Crystal Collection",
+    "type": "pendant",
+    "size": "medium",
+    "shape": "drum",
+    "material": [
+      "fabric",
+      "crystal"
+    ],
+    "finish": "brushed",
+    "vibes": [
+      "Bohemian",
+      "Warm Transitional",
+      "Rustic Farmhouse"
+    ],
+    "styleTags": [
+      "fabric-drum",
+      "crystal-fringe",
+      "two-tier",
+      "textured",
+      "earthy"
+    ],
+    "colorPalette": [
+      "taupe",
+      "warm grey",
+      "clear crystal"
+    ],
+    "roomTypes": [
+      "bedroom",
+      "dining_room",
+      "hallway"
+    ],
+    "pairsWith": [
+      "side_table",
+      "floor_lamp",
+      "table_lamp",
+      "artwork"
+    ],
+    "lightCount": 1,
+    "heightProfile": "elongated",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "8ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "The large fabric drum shade with a crystal fringe tier beneath suits bedrooms and intimate dining areas. Works well in pairs flanking a bed or over a small round dining table.",
+    "scaleReference": "Approximately 50 cm diameter drum shade, 40\u201350 cm total drop",
+    "refImages": [
+      "01.png"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "crystal-dome",
+    "name": "Crystal Dome",
+    "collection": "Crystal Collection",
+    "type": "pendant",
+    "size": "medium",
+    "shape": "dome",
+    "material": [
+      "brass",
+      "crystal",
+      "beads"
+    ],
+    "finish": "gilt",
+    "vibes": [
+      "Classical / Ornate",
+      "Glamorous",
+      "Modern Indian"
+    ],
+    "styleTags": [
+      "crystal-beaded",
+      "dome",
+      "gilt-brass",
+      "ornate",
+      "single-pendant"
+    ],
+    "colorPalette": [
+      "gilt gold",
+      "clear crystal",
+      "warm brass"
+    ],
+    "roomTypes": [
+      "foyer",
+      "bedroom",
+      "powder_room"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "side_table",
+      "artwork"
+    ],
+    "lightCount": 3,
+    "heightProfile": "compact",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "8ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "This beaded crystal dome pendant is ideal as a jewel-like accent in a foyer, powder room, or bedroom corner. The compact dome shape and gilt brass frame suit spaces where a statement is needed without overwhelming scale.",
+    "scaleReference": "Approximately 35\u201340 cm diameter, 35 cm height",
+    "refImages": [
+      "01.jpg",
+      "02.jpg",
+      "03.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "crystal-dome-pendant",
+    "name": "Crystal Dome Pendant",
+    "collection": "Crystal Collection",
+    "type": "lantern",
+    "size": "large",
+    "shape": "urn",
+    "material": [
+      "brass",
+      "crystal",
+      "glass"
+    ],
+    "finish": "patina",
+    "vibes": [
+      "Colonial / Heritage",
+      "Classical / Ornate",
+      "French Provincial"
+    ],
+    "styleTags": [
+      "urn-shaped",
+      "cut-crystal",
+      "ornate-frame",
+      "swag-detail",
+      "heritage"
+    ],
+    "colorPalette": [
+      "dark patina brass",
+      "clear cut crystal",
+      "antique bronze"
+    ],
+    "roomTypes": [
+      "foyer",
+      "stairwell",
+      "double_height_foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "artwork",
+      "wall_sconce"
+    ],
+    "lightCount": 1,
+    "heightProfile": "elongated",
+    "lightingEffect": "diffused",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "A statement heritage lantern best placed in a grand foyer or stairwell with tall ceilings. The urn shape with ornate brass swag detailing and diamond-cut crystal body commands attention as a solo installation.",
+    "scaleReference": "Approximately 35 cm diameter, 70\u201380 cm height including fittings",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "crystal-fringe-solo",
+    "name": "Solo",
+    "collection": "Crystal Fringe",
+    "type": "pendant",
+    "size": "small",
+    "shape": "tiered",
+    "material": [
+      "brass",
+      "crystal"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Classical / Ornate",
+      "Glamorous",
+      "French Provincial"
+    ],
+    "styleTags": [
+      "crystal-fringe",
+      "tiered-drops",
+      "scrollwork-crown",
+      "single-pendant",
+      "ornate"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "clear crystal",
+      "warm gold"
+    ],
+    "roomTypes": [
+      "foyer",
+      "bedroom",
+      "hallway"
+    ],
+    "pairsWith": [
+      "console_table",
+      "side_table",
+      "floor_mirror",
+      "table_lamp"
+    ],
+    "lightCount": 4,
+    "heightProfile": "elongated",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "This elegant solo pendant with scrollwork crown and cascading crystal fringe tiers works beautifully in a foyer corner or over a console table. Can also be used singly in a bedroom or hallway nook.",
+    "scaleReference": "Approximately 35 cm diameter, 55\u201365 cm height",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "crystal-fringe-trio",
+    "name": "Trio",
+    "collection": "Crystal Fringe",
+    "type": "cluster",
+    "size": "large",
+    "shape": "tiered",
+    "material": [
+      "brass",
+      "crystal"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Classical / Ornate",
+      "Glamorous",
+      "Warm Transitional"
+    ],
+    "styleTags": [
+      "crystal-fringe",
+      "trio-cluster",
+      "scrollwork-crown",
+      "tiered-drops",
+      "ornate"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "clear crystal",
+      "warm gold"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "double_height_foyer",
+      "stairwell"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "wall_sconce",
+      "artwork"
+    ],
+    "lightCount": 12,
+    "heightProfile": "cascading",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Three fringe pendants clustered together from a shared canopy create an opulent installation for a double-height foyer or stairwell. The staggered heights add drama; pair with a large statement mirror below.",
+    "scaleReference": "Cluster spans approximately 90\u2013100 cm; individual pendants 35 cm diameter",
+    "refImages": [
+      "01.jpg",
+      "02.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "crystal-garden-amber-prism",
+    "name": "Amber Prism",
+    "collection": "Crystal Garden",
+    "type": "chandelier",
+    "size": "large",
+    "shape": "cascade",
+    "material": [
+      "iron",
+      "glass",
+      "crystal"
+    ],
+    "finish": "patina",
+    "vibes": [
+      "Bohemian",
+      "Warm Transitional",
+      "Glamorous"
+    ],
+    "styleTags": [
+      "amber-glass",
+      "scrollwork-arms",
+      "crystal-drops",
+      "warm-toned",
+      "eclectic"
+    ],
+    "colorPalette": [
+      "amber gold",
+      "silver patina",
+      "clear crystal"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "bar_area"
+    ],
+    "pairsWith": [
+      "bar_cart",
+      "artwork",
+      "wall_sconce",
+      "floor_mirror"
+    ],
+    "lightCount": 10,
+    "heightProfile": "standard",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "The amber glass shades and silver patina scrollwork arms give this chandelier a warm, eclectic glow. Best in a bar area, eclectic living room, or dining space where warm amber light enhances the atmosphere.",
+    "scaleReference": "Approximately 80\u201390 cm diameter, 60 cm height",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "crystal-garden-antique-scroll",
+    "name": "Antique Scroll",
+    "collection": "Crystal Garden",
+    "type": "chandelier",
+    "size": "large",
+    "shape": "cascade",
+    "material": [
+      "iron",
+      "crystal"
+    ],
+    "finish": "distressed",
+    "vibes": [
+      "Classical / Ornate",
+      "French Provincial",
+      "Bohemian"
+    ],
+    "styleTags": [
+      "scrollwork",
+      "distressed-white",
+      "crystal-drops",
+      "candelabra",
+      "ornate"
+    ],
+    "colorPalette": [
+      "distressed white",
+      "silver",
+      "clear crystal"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "foyer",
+      "dining_room"
+    ],
+    "pairsWith": [
+      "console_table",
+      "wall_sconce",
+      "floor_mirror",
+      "artwork"
+    ],
+    "lightCount": 12,
+    "heightProfile": "standard",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "This heavily scrolled, distressed-white chandelier with crystal drops suits a classically styled formal living room or foyer. Works especially well against neutral or muted wall tones to let the ornate silhouette stand out.",
+    "scaleReference": "Approximately 90\u2013100 cm diameter, 60\u201370 cm height",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "crystal-garden-bloom",
+    "name": "Bloom",
+    "collection": "Crystal Garden",
+    "type": "chandelier",
+    "size": "medium",
+    "shape": "cascade",
+    "material": [
+      "iron",
+      "crystal"
+    ],
+    "finish": "distressed",
+    "vibes": [
+      "French Provincial",
+      "Classical / Ornate",
+      "Bohemian"
+    ],
+    "styleTags": [
+      "floral-leaf",
+      "crystal-drops",
+      "distressed-silver",
+      "candelabra",
+      "delicate"
+    ],
+    "colorPalette": [
+      "distressed silver",
+      "clear crystal",
+      "warm white"
+    ],
+    "roomTypes": [
+      "bedroom",
+      "formal_living",
+      "foyer"
+    ],
+    "pairsWith": [
+      "side_table",
+      "table_lamp",
+      "floor_mirror",
+      "artwork"
+    ],
+    "lightCount": 6,
+    "heightProfile": "standard",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "A floral-leaf candelabra chandelier with a romantic, distressed silver finish. Ideal for a master bedroom or a feminine formal living room. The open frame keeps it light while the crystal drops add sparkle.",
+    "scaleReference": "Approximately 55\u201365 cm diameter, 55 cm height",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "crystal-garden-floral-scroll",
+    "name": "Floral Scroll",
+    "collection": "Crystal Garden",
+    "type": "chandelier",
+    "size": "large",
+    "shape": "cascade",
+    "material": [
+      "iron",
+      "crystal"
+    ],
+    "finish": "distressed",
+    "vibes": [
+      "Classical / Ornate",
+      "French Provincial",
+      "Glamorous"
+    ],
+    "styleTags": [
+      "scrollwork",
+      "distressed-white-silver",
+      "crystal-drops",
+      "candelabra",
+      "grand"
+    ],
+    "colorPalette": [
+      "distressed white",
+      "silver",
+      "clear crystal"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "foyer",
+      "double_height_foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "wall_sconce",
+      "artwork"
+    ],
+    "lightCount": 16,
+    "heightProfile": "cascading",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "A grand floral scroll chandelier in distressed white and silver with abundant crystal drops. Commands attention in a double-height foyer or large formal living room. Pair with white or cream interiors for maximum impact.",
+    "scaleReference": "Approximately 100\u2013120 cm diameter, 80\u201390 cm height",
+    "refImages": [
+      "01.jpg",
+      "02.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "crystal-lantern",
+    "name": "Crystal Lantern",
+    "collection": "Crystal Collection",
+    "type": "lantern",
+    "size": "large",
+    "shape": "cylinder",
+    "material": [
+      "brass",
+      "crystal",
+      "glass"
+    ],
+    "finish": "polished",
+    "vibes": [
+      "Modern Indian",
+      "Art Deco",
+      "Glamorous"
+    ],
+    "styleTags": [
+      "cut-crystal-cylinder",
+      "floral-crystal-crown",
+      "polished-brass",
+      "geometric",
+      "statement"
+    ],
+    "colorPalette": [
+      "polished brass",
+      "clear cut crystal",
+      "warm gold"
+    ],
+    "roomTypes": [
+      "foyer",
+      "double_height_foyer",
+      "stairwell"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "wall_sconce",
+      "artwork"
+    ],
+    "lightCount": 4,
+    "heightProfile": "elongated",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "12ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "A tall cylindrical lantern with intricate cut-crystal panels and a decorative crystal leaf crown at the top. Best used as a grand solo statement in a double-height foyer or at a stairwell. The elaborate cut patterns cast beautiful refractions.",
+    "scaleReference": "Approximately 35\u201340 cm diameter, 90\u2013100 cm height",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "crystal-linear",
+    "name": "Crystal Linear",
+    "collection": "Linear",
+    "type": "linear",
+    "size": "large",
+    "shape": "linear",
+    "material": [
+      "brass",
+      "crystal"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Art Deco",
+      "Glamorous",
+      "Warm Transitional"
+    ],
+    "styleTags": [
+      "crystal-rods",
+      "linear-bar",
+      "rectangular",
+      "modern",
+      "dining"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "clear crystal",
+      "warm gold"
+    ],
+    "roomTypes": [
+      "dining_room",
+      "bar_area",
+      "formal_living"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "bar_cart",
+      "artwork",
+      "wall_sconce"
+    ],
+    "lightCount": 6,
+    "heightProfile": "standard",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "A rectangular crystal-rod linear chandelier designed to hang directly over a long dining table. The uniform crystal rods and antique brass frame create a refined, contemporary look that suits both modern and transitional interiors.",
+    "scaleReference": "Approximately 120\u2013140 cm length, 25\u201330 cm width, 20\u201325 cm height",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "crystal-shell-cascade",
+    "name": "Crystal Shell Cascade",
+    "collection": "Crystal Collection",
+    "type": "chandelier",
+    "size": "medium",
+    "shape": "cascade",
+    "material": [
+      "brass",
+      "crystal",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Modern Indian",
+      "Glamorous",
+      "Warm Transitional"
+    ],
+    "styleTags": [
+      "shell-shaped",
+      "cascade",
+      "crystal-drops",
+      "ornate",
+      "layered"
+    ],
+    "colorPalette": [
+      "antique copper",
+      "warm brass",
+      "clear crystal"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "foyer",
+      "dining_room"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "wall_sconce"
+    ],
+    "lightCount": 9,
+    "heightProfile": "cascading",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Best suited for a foyer or formal living room ceiling. The cascading shell-shaped crystal globes create a dramatic downward focal point; pair with a statement console table below.",
+    "scaleReference": "Approximately 60\u201370cm wide, medium-hanging depth",
+    "refImages": [
+      "01.jpg",
+      "02.jpg"
+    ],
+    "hasGenerated": true
+  },
+  {
+    "slug": "crystal-teardrop",
+    "name": "Crystal Teardrop",
+    "collection": "Crystal Collection",
+    "type": "pendant",
+    "size": "large",
+    "shape": "urn",
+    "material": [
+      "crystal",
+      "iron"
+    ],
+    "finish": "matte_black",
+    "vibes": [
+      "Glamorous",
+      "Art Deco",
+      "Contemporary Minimal"
+    ],
+    "styleTags": [
+      "teardrop",
+      "full-crystal",
+      "statement",
+      "sparkling",
+      "grid-set"
+    ],
+    "colorPalette": [
+      "clear crystal",
+      "matte black",
+      "silver"
+    ],
+    "roomTypes": [
+      "foyer",
+      "double_height_foyer",
+      "stairwell"
+    ],
+    "pairsWith": [
+      "floor_mirror",
+      "console_table",
+      "artwork"
+    ],
+    "lightCount": 1,
+    "heightProfile": "elongated",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Sold as individual pendants; works best grouped in threes at varying heights in a double-height foyer or stairwell. The all-crystal teardrop body casts prismatic light across walls.",
+    "scaleReference": "Each pendant approximately 50\u201365cm tall, 35cm wide",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
+  },
+  {
+    "slug": "deco-lantern",
+    "name": "Deco Lantern",
+    "collection": "Signature Collection",
+    "type": "lantern",
+    "size": "large",
+    "shape": "geometric",
+    "material": [
+      "glass",
+      "iron"
+    ],
+    "finish": "matte_black",
+    "vibes": [
+      "Art Deco",
+      "Glamorous",
+      "Contemporary Minimal"
+    ],
+    "styleTags": [
+      "art-deco",
+      "geometric",
+      "tiered",
+      "frosted-glass",
+      "statement"
+    ],
+    "colorPalette": [
+      "cream white",
+      "matte black",
+      "ivory"
+    ],
+    "roomTypes": [
+      "foyer",
+      "double_height_foyer",
+      "hallway"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "artwork"
+    ],
+    "lightCount": 6,
+    "heightProfile": "elongated",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Ideal for a dramatic foyer or hallway with high ceilings. The tiered geometric glass panels diffuse light warmly; hang solo as a bold architectural statement.",
+    "scaleReference": "Approximately 40cm wide, 80\u201390cm tall body",
+    "refImages": [
+      "01.jpg",
+      "02.jpg"
+    ],
+    "hasGenerated": true
+  },
+  {
+    "slug": "distressed-scroll-baroque",
+    "name": "Baroque",
     "collection": "Distressed Scroll",
-    "collectionSlug": "distressed-scroll",
-    "images": {
-      "studio": "/images/chandeliers/distressed-scroll-shield/studio.png",
-      "lifestyle": "/images/chandeliers/distressed-scroll-shield/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/distressed-scroll-shield/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/distressed-scroll-shield/04-hero-70pct.png",
-      "detail": "/images/chandeliers/distressed-scroll-shield/05-detail-zoomed.png"
-    }
+    "type": "chandelier",
+    "size": "medium",
+    "shape": "shield",
+    "material": [
+      "iron",
+      "brass"
+    ],
+    "finish": "distressed",
+    "vibes": [
+      "French Provincial",
+      "Colonial / Heritage",
+      "Classical / Ornate"
+    ],
+    "styleTags": [
+      "baroque",
+      "scrollwork",
+      "distressed-white",
+      "candelabra",
+      "ornate"
+    ],
+    "colorPalette": [
+      "distressed white",
+      "aged ivory",
+      "silver grey"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "artwork",
+      "wall_sconce"
+    ],
+    "lightCount": 4,
+    "heightProfile": "standard",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "The open baroque scroll frame works beautifully in a French Provincial or Colonial dining room. Pair with a long dining table and matching wall sconces for a complete look.",
+    "scaleReference": "Approximately 65\u201370cm tall, 55cm wide",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
   },
   {
-    "id": "50",
-    "name": "Dome Crystal",
+    "slug": "distressed-scroll-shield",
+    "name": "Shield",
+    "collection": "Distressed Scroll",
+    "type": "lantern",
+    "size": "medium",
+    "shape": "shield",
+    "material": [
+      "iron",
+      "brass",
+      "wood"
+    ],
+    "finish": "distressed",
+    "vibes": [
+      "Rustic Farmhouse",
+      "French Provincial",
+      "Colonial / Heritage"
+    ],
+    "styleTags": [
+      "shield",
+      "distressed-white",
+      "scrollwork",
+      "candelabra",
+      "rustic"
+    ],
+    "colorPalette": [
+      "distressed white",
+      "aged gold",
+      "warm brass"
+    ],
+    "roomTypes": [
+      "foyer",
+      "dining_room",
+      "hallway"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "side_table",
+      "wall_sconce"
+    ],
+    "lightCount": 4,
+    "heightProfile": "standard",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "The shield-shaped open frame with scroll scrollwork suits a rustic or farmhouse foyer. Works well hung in a corner alcove or over a small entryway console.",
+    "scaleReference": "Approximately 50cm wide, 65cm tall",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
+  },
+  {
     "slug": "dome-crystal",
+    "name": "Dome Crystal",
     "collection": "Crystal Collection",
-    "collectionSlug": "crystal-collection",
-    "images": {
-      "studio": "/images/chandeliers/dome-crystal/studio.png",
-      "lifestyle": "/images/chandeliers/dome-crystal/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/dome-crystal/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/dome-crystal/04-hero-70pct.png",
-      "detail": "/images/chandeliers/dome-crystal/04-hero-70pct.png"
-    }
+    "type": "chandelier",
+    "size": "grand",
+    "shape": "tiered",
+    "material": [
+      "brass",
+      "crystal"
+    ],
+    "finish": "polished",
+    "vibes": [
+      "Classical / Ornate",
+      "Glamorous",
+      "Colonial / Heritage"
+    ],
+    "styleTags": [
+      "two-tiered",
+      "crystal-drops",
+      "candelabra",
+      "grand",
+      "ornate"
+    ],
+    "colorPalette": [
+      "polished brass",
+      "warm gold",
+      "clear crystal"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "double_height_foyer",
+      "dining_room"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "floor_mirror",
+      "wall_sconce",
+      "console_table"
+    ],
+    "lightCount": 18,
+    "heightProfile": "cascading",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "12ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "A grand two-tiered statement piece for formal dining rooms or double-height foyers. The crystal ball centrepiece and drop pendants require ample ceiling height; place centrally over a large dining table.",
+    "scaleReference": "Approximately 100\u2013120cm wide, multi-tiered drop",
+    "refImages": [
+      "01.jpg",
+      "02.jpg"
+    ],
+    "hasGenerated": true
   },
   {
-    "id": "51",
-    "name": "Dome Scroll",
     "slug": "dome-scroll",
+    "name": "Dome Scroll",
     "collection": "Crystal Collection",
-    "collectionSlug": "crystal-collection",
-    "images": {
-      "studio": "/images/chandeliers/dome-scroll/studio.png",
-      "lifestyle": "/images/chandeliers/dome-scroll/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/dome-scroll/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/dome-scroll/04-hero-70pct.png",
-      "detail": "/images/chandeliers/dome-scroll/05-detail-zoomed.png"
-    }
+    "type": "chandelier",
+    "size": "large",
+    "shape": "dome",
+    "material": [
+      "brass",
+      "iron"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Classical / Ornate",
+      "Modern Indian",
+      "Colonial / Heritage"
+    ],
+    "styleTags": [
+      "dome",
+      "scrollwork",
+      "candelabra",
+      "ornate",
+      "brass"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "dark bronze",
+      "warm gold"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "wall_sconce",
+      "console_table",
+      "floor_lamp"
+    ],
+    "lightCount": 12,
+    "heightProfile": "standard",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "The broad dome base with radiating scroll arms suits a formal dining room centred over a large table. The upward-facing candelabra arms cast warm ambient light across the ceiling.",
+    "scaleReference": "Approximately 90\u2013100cm wide, moderate drop",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
   },
   {
-    "id": "52",
-    "name": "Cascade",
     "slug": "farmhouse-bead-cascade",
-    "collection": "Farmhouse Bead",
-    "collectionSlug": "farmhouse-bead",
-    "images": {
-      "studio": "/images/chandeliers/farmhouse-bead-cascade/studio.png",
-      "lifestyle": "/images/chandeliers/farmhouse-bead-cascade/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/farmhouse-bead-cascade/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/farmhouse-bead-cascade/04-hero-70pct.png",
-      "detail": "/images/chandeliers/farmhouse-bead-cascade/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "53",
-    "name": "Crown",
-    "slug": "farmhouse-bead-crown",
-    "collection": "Farmhouse Bead",
-    "collectionSlug": "farmhouse-bead",
-    "images": {
-      "studio": "/images/chandeliers/farmhouse-bead-crown/studio.png",
-      "lifestyle": "/images/chandeliers/farmhouse-bead-crown/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/farmhouse-bead-crown/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/farmhouse-bead-crown/04-hero-70pct.png",
-      "detail": "/images/chandeliers/farmhouse-bead-crown/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "54",
-    "name": "Fern Nocturne",
-    "slug": "fern-nocturne",
-    "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/fern-nocturne/studio.png",
-      "lifestyle": "/images/chandeliers/fern-nocturne/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/fern-nocturne/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/fern-nocturne/04-hero-70pct.png",
-      "detail": "/images/chandeliers/fern-nocturne/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "55",
-    "name": "Fluted Scroll",
-    "slug": "fluted-scroll",
-    "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/fluted-scroll/studio.png",
-      "lifestyle": "/images/chandeliers/fluted-scroll/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/fluted-scroll/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/fluted-scroll/04-hero-70pct.png",
-      "detail": "/images/chandeliers/fluted-scroll/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "56",
-    "name": "Foliate Cascade",
-    "slug": "foliate-cascade",
-    "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/foliate-cascade/studio.png",
-      "lifestyle": "/images/chandeliers/foliate-cascade/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/foliate-cascade/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/foliate-cascade/04-hero-70pct.png",
-      "detail": "/images/chandeliers/foliate-cascade/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "57",
-    "name": "Foliate Crown",
-    "slug": "foliate-crown",
-    "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/foliate-crown/studio.png",
-      "lifestyle": "/images/chandeliers/foliate-crown/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/foliate-crown/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/foliate-crown/04-hero-70pct.png",
-      "detail": "/images/chandeliers/foliate-crown/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "58",
-    "name": "Glass Bell Pendant",
-    "slug": "glass-bell-pendant",
-    "collection": "Brass Pendants",
-    "collectionSlug": "brass-pendants",
-    "images": {
-      "studio": "/images/chandeliers/glass-bell-pendant/studio.png",
-      "lifestyle": "/images/chandeliers/glass-bell-pendant/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/glass-bell-pendant/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/glass-bell-pendant/04-hero-70pct.png",
-      "detail": "/images/chandeliers/glass-bell-pendant/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "59",
-    "name": "Golden Curve Chandelier",
-    "slug": "golden-curve-chandelier",
-    "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/golden-curve-chandelier/studio.png",
-      "lifestyle": "/images/chandeliers/golden-curve-chandelier/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/golden-curve-chandelier/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/golden-curve-chandelier/04-hero-70pct.png",
-      "detail": "/images/chandeliers/golden-curve-chandelier/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "60",
-    "name": "Crown",
-    "slug": "grand-lantern-crown",
-    "collection": "Grand Lantern",
-    "collectionSlug": "grand-lantern",
-    "images": {
-      "studio": "/images/chandeliers/grand-lantern-crown/studio.png",
-      "lifestyle": "/images/chandeliers/grand-lantern-crown/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/grand-lantern-crown/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/grand-lantern-crown/04-hero-70pct.png",
-      "detail": "/images/chandeliers/grand-lantern-crown/04-hero-70pct.png"
-    }
-  },
-  {
-    "id": "61",
-    "name": "Cylinder",
-    "slug": "grand-lantern-cylinder",
-    "collection": "Grand Lantern",
-    "collectionSlug": "grand-lantern",
-    "images": {
-      "studio": "/images/chandeliers/grand-lantern-cylinder/studio.png",
-      "lifestyle": "/images/chandeliers/grand-lantern-cylinder/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/grand-lantern-cylinder/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/grand-lantern-cylinder/04-hero-70pct.png",
-      "detail": "/images/chandeliers/grand-lantern-cylinder/04-hero-70pct.png"
-    }
-  },
-  {
-    "id": "62",
-    "name": "Glass",
-    "slug": "grand-lantern-glass",
-    "collection": "Grand Lantern",
-    "collectionSlug": "grand-lantern",
-    "images": {
-      "studio": "/images/chandeliers/grand-lantern-glass/studio.png",
-      "lifestyle": "/images/chandeliers/grand-lantern-glass/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/grand-lantern-glass/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/grand-lantern-glass/04-hero-70pct.png",
-      "detail": "/images/chandeliers/grand-lantern-glass/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "63",
-    "name": "Pavilion",
-    "slug": "grand-lantern-pavilion",
-    "collection": "Grand Lantern",
-    "collectionSlug": "grand-lantern",
-    "images": {
-      "studio": "/images/chandeliers/grand-lantern-pavilion/studio.png",
-      "lifestyle": "/images/chandeliers/grand-lantern-pavilion/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/grand-lantern-pavilion/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/grand-lantern-pavilion/04-hero-70pct.png",
-      "detail": "/images/chandeliers/grand-lantern-pavilion/04-hero-70pct.png"
-    }
-  },
-  {
-    "id": "64",
-    "name": "Acanthus Crown",
-    "slug": "heritage-shade-acanthus-crown",
-    "collection": "Heritage Shade",
-    "collectionSlug": "heritage-shade",
-    "images": {
-      "studio": "/images/chandeliers/heritage-shade-acanthus-crown/studio.png",
-      "lifestyle": "/images/chandeliers/heritage-shade-acanthus-crown/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/heritage-shade-acanthus-crown/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/heritage-shade-acanthus-crown/04-hero-70pct.png",
-      "detail": "/images/chandeliers/heritage-shade-acanthus-crown/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "65",
-    "name": "Baroque Foliage",
-    "slug": "heritage-shade-baroque-foliage",
-    "collection": "Heritage Shade",
-    "collectionSlug": "heritage-shade",
-    "images": {
-      "studio": "/images/chandeliers/heritage-shade-baroque-foliage/studio.png",
-      "lifestyle": "/images/chandeliers/heritage-shade-baroque-foliage/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/heritage-shade-baroque-foliage/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/heritage-shade-baroque-foliage/04-hero-70pct.png",
-      "detail": "/images/chandeliers/heritage-shade-baroque-foliage/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "67",
-    "name": "Curved Linen",
-    "slug": "heritage-shade-curved-linen",
-    "collection": "Heritage Shade",
-    "collectionSlug": "heritage-shade",
-    "images": {
-      "studio": "/images/chandeliers/heritage-shade-curved-linen/studio.png",
-      "lifestyle": "/images/chandeliers/heritage-shade-curved-linen/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/heritage-shade-curved-linen/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/heritage-shade-curved-linen/04-hero-70pct.png",
-      "detail": "/images/chandeliers/heritage-shade-curved-linen/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "68",
-    "name": "Drum Luminaire",
-    "slug": "heritage-shade-drum-luminaire",
-    "collection": "Heritage Shade",
-    "collectionSlug": "heritage-shade",
-    "images": {
-      "studio": "/images/chandeliers/heritage-shade-drum-luminaire/studio.png",
-      "lifestyle": "/images/chandeliers/heritage-shade-drum-luminaire/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/heritage-shade-drum-luminaire/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/heritage-shade-drum-luminaire/04-hero-70pct.png",
-      "detail": "/images/chandeliers/heritage-shade-drum-luminaire/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "69",
-    "name": "Frosted Scroll",
-    "slug": "heritage-shade-frosted-scroll",
-    "collection": "Heritage Shade",
-    "collectionSlug": "heritage-shade",
-    "images": {
-      "studio": "/images/chandeliers/heritage-shade-frosted-scroll/studio.png",
-      "lifestyle": "/images/chandeliers/heritage-shade-frosted-scroll/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/heritage-shade-frosted-scroll/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/heritage-shade-frosted-scroll/04-hero-70pct.png",
-      "detail": "/images/chandeliers/heritage-shade-frosted-scroll/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "70",
-    "name": "Gilt Ornament",
-    "slug": "heritage-shade-gilt-ornament",
-    "collection": "Heritage Shade",
-    "collectionSlug": "heritage-shade",
-    "images": {
-      "studio": "/images/chandeliers/heritage-shade-gilt-ornament/studio.png",
-      "lifestyle": "/images/chandeliers/heritage-shade-gilt-ornament/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/heritage-shade-gilt-ornament/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/heritage-shade-gilt-ornament/04-hero-70pct.png",
-      "detail": "/images/chandeliers/heritage-shade-gilt-ornament/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "71",
-    "name": "Gilt Plume",
-    "slug": "heritage-shade-gilt-plume",
-    "collection": "Heritage Shade",
-    "collectionSlug": "heritage-shade",
-    "images": {
-      "studio": "/images/chandeliers/heritage-shade-gilt-plume/studio.png",
-      "lifestyle": "/images/chandeliers/heritage-shade-gilt-plume/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/heritage-shade-gilt-plume/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/heritage-shade-gilt-plume/04-hero-70pct.png",
-      "detail": "/images/chandeliers/heritage-shade-gilt-plume/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "72",
-    "name": "Ivory Descent",
-    "slug": "heritage-shade-ivory-descent",
-    "collection": "Heritage Shade",
-    "collectionSlug": "heritage-shade",
-    "images": {
-      "studio": "/images/chandeliers/heritage-shade-ivory-descent/studio.png",
-      "lifestyle": "/images/chandeliers/heritage-shade-ivory-descent/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/heritage-shade-ivory-descent/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/heritage-shade-ivory-descent/04-hero-70pct.png",
-      "detail": "/images/chandeliers/heritage-shade-ivory-descent/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "73",
-    "name": "Prism Drift",
-    "slug": "heritage-shade-prism-drift",
-    "collection": "Heritage Shade",
-    "collectionSlug": "heritage-shade",
-    "images": {
-      "studio": "/images/chandeliers/heritage-shade-prism-drift/studio.png",
-      "lifestyle": "/images/chandeliers/heritage-shade-prism-drift/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/heritage-shade-prism-drift/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/heritage-shade-prism-drift/04-hero-70pct.png",
-      "detail": "/images/chandeliers/heritage-shade-prism-drift/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "74",
-    "name": "Scrolled Orb",
-    "slug": "heritage-shade-scrolled-orb",
-    "collection": "Heritage Shade",
-    "collectionSlug": "heritage-shade",
-    "images": {
-      "studio": "/images/chandeliers/heritage-shade-scrolled-orb/studio.png",
-      "lifestyle": "/images/chandeliers/heritage-shade-scrolled-orb/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/heritage-shade-scrolled-orb/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/heritage-shade-scrolled-orb/04-hero-70pct.png",
-      "detail": "/images/chandeliers/heritage-shade-scrolled-orb/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "75",
-    "name": "Scrolled Prism",
-    "slug": "heritage-shade-scrolled-prism",
-    "collection": "Heritage Shade",
-    "collectionSlug": "heritage-shade",
-    "images": {
-      "studio": "/images/chandeliers/heritage-shade-scrolled-prism/studio.png",
-      "lifestyle": "/images/chandeliers/heritage-shade-scrolled-prism/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/heritage-shade-scrolled-prism/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/heritage-shade-scrolled-prism/04-hero-70pct.png",
-      "detail": "/images/chandeliers/heritage-shade-scrolled-prism/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "76",
-    "name": "Scrollwork Radiance",
-    "slug": "heritage-shade-scrollwork-radiance",
-    "collection": "Heritage Shade",
-    "collectionSlug": "heritage-shade",
-    "images": {
-      "studio": "/images/chandeliers/heritage-shade-scrollwork-radiance/studio.png",
-      "lifestyle": "/images/chandeliers/heritage-shade-scrollwork-radiance/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/heritage-shade-scrollwork-radiance/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/heritage-shade-scrollwork-radiance/04-hero-70pct.png",
-      "detail": "/images/chandeliers/heritage-shade-scrollwork-radiance/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "77",
-    "name": "Hexagon Cascade Rectangular",
-    "slug": "hexagon-cascade-rectangular",
-    "collection": "Linear",
-    "collectionSlug": "linear",
-    "images": {
-      "studio": "/images/chandeliers/hexagon-cascade-rectangular/studio.png",
-      "lifestyle": "/images/chandeliers/hexagon-cascade-rectangular/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/hexagon-cascade-rectangular/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/hexagon-cascade-rectangular/04-hero-70pct.png",
-      "detail": "/images/chandeliers/hexagon-cascade-rectangular/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "78",
-    "name": "Hexagon Cascade Square",
-    "slug": "hexagon-cascade-square",
-    "collection": "Linear",
-    "collectionSlug": "linear",
-    "images": {
-      "studio": "/images/chandeliers/hexagon-cascade-square/studio.png",
-      "lifestyle": "/images/chandeliers/hexagon-cascade-square/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/hexagon-cascade-square/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/hexagon-cascade-square/04-hero-70pct.png",
-      "detail": "/images/chandeliers/hexagon-cascade-square/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "79",
-    "name": "Hexagon Lantern",
-    "slug": "hexagon-lantern",
-    "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/hexagon-lantern/studio.png",
-      "lifestyle": "/images/chandeliers/hexagon-lantern/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/hexagon-lantern/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/hexagon-lantern/04-hero-70pct.png",
-      "detail": "/images/chandeliers/hexagon-lantern/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "80",
-    "name": "Cage",
-    "slug": "iron-brass-cage",
-    "collection": "Iron Brass",
-    "collectionSlug": "iron-brass",
-    "images": {
-      "studio": "/images/chandeliers/iron-brass-cage/studio.png",
-      "lifestyle": "/images/chandeliers/iron-brass-cage/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/iron-brass-cage/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/iron-brass-cage/04-hero-70pct.png",
-      "detail": "/images/chandeliers/iron-brass-cage/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "81",
-    "name": "Ring",
-    "slug": "iron-brass-ring",
-    "collection": "Iron Brass",
-    "collectionSlug": "iron-brass",
-    "images": {
-      "studio": "/images/chandeliers/iron-brass-ring/studio.png",
-      "lifestyle": "/images/chandeliers/iron-brass-ring/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/iron-brass-ring/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/iron-brass-ring/04-hero-70pct.png",
-      "detail": "/images/chandeliers/iron-brass-ring/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "82",
-    "name": "Iron Scroll",
-    "slug": "iron-scroll",
-    "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/iron-scroll/studio.png",
-      "lifestyle": "/images/chandeliers/iron-scroll/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/iron-scroll/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/iron-scroll/04-hero-70pct.png",
-      "detail": "/images/chandeliers/iron-scroll/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "83",
-    "name": "Jewel Cascade",
-    "slug": "jewel-cascade",
-    "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/jewel-cascade/studio.png",
-      "lifestyle": "/images/chandeliers/jewel-cascade/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/jewel-cascade/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/jewel-cascade/04-hero-70pct.png",
-      "detail": "/images/chandeliers/jewel-cascade/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "84",
-    "name": "Jeweled Curve",
-    "slug": "jeweled-curve",
-    "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/jeweled-curve/studio.png",
-      "lifestyle": "/images/chandeliers/jeweled-curve/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/jeweled-curve/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/jeweled-curve/04-hero-70pct.png",
-      "detail": "/images/chandeliers/jeweled-curve/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "85",
-    "name": "Lantern Cluster",
-    "slug": "lantern-cluster",
-    "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/lantern-cluster/studio.png",
-      "lifestyle": "/images/chandeliers/lantern-cluster/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/lantern-cluster/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/lantern-cluster/04-hero-70pct.png",
-      "detail": "/images/chandeliers/lantern-cluster/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "86",
-    "name": "Leaf Cascade",
-    "slug": "leaf-cascade",
-    "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/leaf-cascade/studio.png",
-      "lifestyle": "/images/chandeliers/leaf-cascade/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/leaf-cascade/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/leaf-cascade/04-hero-70pct.png",
-      "detail": "/images/chandeliers/leaf-cascade/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "87",
-    "name": "Meridian Brass",
-    "slug": "meridian-brass",
-    "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/meridian-brass/studio.png",
-      "lifestyle": "/images/chandeliers/meridian-brass/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/meridian-brass/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/meridian-brass/04-hero-70pct.png",
-      "detail": "/images/chandeliers/meridian-brass/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "88",
-    "name": "Midnight Cylinder",
-    "slug": "midnight-cylinder",
-    "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/midnight-cylinder/studio.png",
-      "lifestyle": "/images/chandeliers/midnight-cylinder/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/midnight-cylinder/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/midnight-cylinder/04-hero-70pct.png",
-      "detail": "/images/chandeliers/midnight-cylinder/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "89",
-    "name": "Nautilus Lantern",
-    "slug": "nautilus-lantern",
-    "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/nautilus-lantern/studio.png",
-      "lifestyle": "/images/chandeliers/nautilus-lantern/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/nautilus-lantern/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/nautilus-lantern/04-hero-70pct.png",
-      "detail": "/images/chandeliers/nautilus-lantern/05-detail-zoomed.png"
-    }
-  },
-  {
-    "id": "90",
     "name": "Cascade",
-    "slug": "noir-crystal-cascade",
-    "collection": "Noir Crystal",
-    "collectionSlug": "noir-crystal",
-    "images": {
-      "studio": "/images/chandeliers/noir-crystal-cascade/studio.png",
-      "lifestyle": "/images/chandeliers/noir-crystal-cascade/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/noir-crystal-cascade/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/noir-crystal-cascade/04-hero-70pct.png",
-      "detail": "/images/chandeliers/noir-crystal-cascade/05-detail-zoomed.png"
-    }
+    "collection": "Farmhouse Bead",
+    "type": "chandelier",
+    "size": "large",
+    "shape": "cascade",
+    "material": [
+      "brass",
+      "wood",
+      "beads"
+    ],
+    "finish": "brushed",
+    "vibes": [
+      "Rustic Farmhouse",
+      "Warm Transitional",
+      "Bohemian"
+    ],
+    "styleTags": [
+      "wood-bead",
+      "cascade",
+      "candelabra",
+      "farmhouse",
+      "organic"
+    ],
+    "colorPalette": [
+      "warm brass",
+      "whitewashed wood",
+      "natural beige"
+    ],
+    "roomTypes": [
+      "dining_room",
+      "formal_living",
+      "foyer"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "console_table",
+      "floor_lamp",
+      "side_table"
+    ],
+    "lightCount": 10,
+    "heightProfile": "cascading",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "The swag bead garlands draped across brass arms give this chandelier a relaxed farmhouse elegance. Centre over a long dining table or hang in a high-ceiling living room as a statement focal point.",
+    "scaleReference": "Approximately 90cm wide, medium cascading drop",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
   },
   {
-    "id": "92",
-    "name": "Noir Lantern",
-    "slug": "noir-lantern",
+    "slug": "farmhouse-bead-crown",
+    "name": "Crown",
+    "collection": "Farmhouse Bead",
+    "type": "chandelier",
+    "size": "medium",
+    "shape": "cascade",
+    "material": [
+      "iron",
+      "wood",
+      "beads"
+    ],
+    "finish": "distressed",
+    "vibes": [
+      "Rustic Farmhouse",
+      "Bohemian",
+      "Warm Transitional"
+    ],
+    "styleTags": [
+      "wood-bead",
+      "candelabra",
+      "farmhouse",
+      "distressed-wood",
+      "organic"
+    ],
+    "colorPalette": [
+      "matte black",
+      "whitewashed wood",
+      "natural ivory"
+    ],
+    "roomTypes": [
+      "dining_room",
+      "bedroom",
+      "foyer"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "console_table",
+      "floor_lamp",
+      "side_table"
+    ],
+    "lightCount": 6,
+    "heightProfile": "standard",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "A more compact farmhouse bead chandelier with matte black iron arms and whitewashed wood column. Works well over a round dining table or in a bedroom with boho-rustic decor.",
+    "scaleReference": "Approximately 65\u201370cm wide, standard drop",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
+  },
+  {
+    "slug": "fern-nocturne",
+    "name": "Fern Nocturne",
     "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/noir-lantern/studio.png",
-      "lifestyle": "/images/chandeliers/noir-lantern/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/noir-lantern/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/noir-lantern/04-hero-70pct.png",
-      "detail": "/images/chandeliers/noir-lantern/05-detail-zoomed.png"
-    }
+    "type": "chandelier",
+    "size": "large",
+    "shape": "linear",
+    "material": [
+      "iron",
+      "glass",
+      "brass"
+    ],
+    "finish": "patina",
+    "vibes": [
+      "Bohemian",
+      "Modern Indian",
+      "Warm Transitional"
+    ],
+    "styleTags": [
+      "botanical",
+      "fern-leaf",
+      "globe",
+      "organic",
+      "sculptural"
+    ],
+    "colorPalette": [
+      "dark bronze",
+      "aged brass",
+      "frosted white"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "double_height_foyer"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "floor_lamp",
+      "artwork",
+      "console_table"
+    ],
+    "lightCount": 5,
+    "heightProfile": "compact",
+    "lightingEffect": "diffused",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "The sprawling botanical branch arms with frosted globe shades make this ideal over a long dining table or as a ceiling sculpture in a living room. The wide spread requires ample horizontal clearance.",
+    "scaleReference": "Approximately 120\u2013140cm wide, low-profile drop",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
   },
   {
-    "id": "93",
-    "name": "Peacock Dome",
-    "slug": "peacock-dome",
+    "slug": "fluted-scroll",
+    "name": "Fluted Scroll",
     "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/peacock-dome/studio.png",
-      "lifestyle": "/images/chandeliers/peacock-dome/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/peacock-dome/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/peacock-dome/04-hero-70pct.png",
-      "detail": "/images/chandeliers/peacock-dome/05-detail-zoomed.png"
-    }
+    "type": "chandelier",
+    "size": "medium",
+    "shape": "dome",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Classical / Ornate",
+      "Warm Transitional",
+      "Colonial / Heritage"
+    ],
+    "styleTags": [
+      "fluted-glass",
+      "scroll-arms",
+      "candelabra",
+      "antique-brass",
+      "ornate"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm gold",
+      "clear glass"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "wall_sconce",
+      "console_table",
+      "floor_mirror"
+    ],
+    "lightCount": 8,
+    "heightProfile": "standard",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "The fluted glass shades on scrolled antique brass arms create a classic, warm glow. Works well over a dining table or in a formal living room paired with matching wall sconces.",
+    "scaleReference": "Approximately 75\u201380cm wide, standard drop",
+    "refImages": [
+      "01.jpg",
+      "02.jpg"
+    ],
+    "hasGenerated": true
   },
   {
-    "id": "94",
-    "name": "Pleated Pendant",
-    "slug": "pleated-pendant",
+    "slug": "foliate-cascade",
+    "name": "Foliate Cascade",
+    "collection": "Signature Collection",
+    "type": "chandelier",
+    "size": "large",
+    "shape": "cascade",
+    "material": [
+      "brass",
+      "crystal"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Classical / Ornate",
+      "Modern Indian",
+      "Glamorous"
+    ],
+    "styleTags": [
+      "palm-frond",
+      "crystal-drops",
+      "botanical",
+      "cascading",
+      "ornate"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm gold",
+      "clear crystal"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "foyer",
+      "double_height_foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "wall_sconce",
+      "artwork"
+    ],
+    "lightCount": 3,
+    "heightProfile": "compact",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "The palm-frond brass arms with cascading crystal drop fringe create a tropical-luxe statement. Best in a foyer or formal living room; the wide spread needs open ceiling space.",
+    "scaleReference": "Approximately 80\u201390cm wide, low-to-medium drop",
+    "refImages": [
+      "01.jpg",
+      "02.jpg"
+    ],
+    "hasGenerated": true
+  },
+  {
+    "slug": "foliate-crown",
+    "name": "Foliate Crown",
+    "collection": "Signature Collection",
+    "type": "chandelier",
+    "size": "medium",
+    "shape": "dome",
+    "material": [
+      "brass",
+      "crystal",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Classical / Ornate",
+      "Modern Indian",
+      "Colonial / Heritage"
+    ],
+    "styleTags": [
+      "foliate",
+      "crystal-globe",
+      "ornate",
+      "antique-brass",
+      "candelabra"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm gold",
+      "clear crystal"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "wall_sconce",
+      "floor_mirror",
+      "console_table"
+    ],
+    "lightCount": 5,
+    "heightProfile": "standard",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "The foliate brass crown with cut-crystal globe shades suits a formal living room or traditional dining space. Pairs beautifully with antique-finish wall sconces and rich textile furnishings.",
+    "scaleReference": "Approximately 65\u201375cm wide, medium drop",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
+  },
+  {
+    "slug": "glass-bell-pendant",
+    "name": "Glass Bell Pendant",
     "collection": "Brass Pendants",
-    "collectionSlug": "brass-pendants",
-    "images": {
-      "studio": "/images/chandeliers/pleated-pendant/studio.png",
-      "lifestyle": "/images/chandeliers/pleated-pendant/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/pleated-pendant/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/pleated-pendant/04-hero-70pct.png",
-      "detail": "/images/chandeliers/pleated-pendant/05-detail-zoomed.png"
-    }
+    "type": "pendant",
+    "size": "small",
+    "shape": "bell",
+    "material": [
+      "glass",
+      "iron"
+    ],
+    "finish": "matte_black",
+    "vibes": [
+      "Contemporary Minimal",
+      "Industrial Chic",
+      "Warm Transitional"
+    ],
+    "styleTags": [
+      "bell-shaped",
+      "clear-glass",
+      "minimal",
+      "pendant",
+      "modern"
+    ],
+    "colorPalette": [
+      "clear glass",
+      "matte black",
+      "antique copper"
+    ],
+    "roomTypes": [
+      "kitchen",
+      "hallway",
+      "bar_area",
+      "powder_room"
+    ],
+    "pairsWith": [
+      "bar_cart",
+      "side_table",
+      "bookshelf",
+      "table_lamp"
+    ],
+    "lightCount": 2,
+    "heightProfile": "elongated",
+    "lightingEffect": "directional",
+    "ceilingHeightMin": "8ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Best used in clusters of two or three over a kitchen island, bar counter, or in a passageway. The clear glass bell with matte black hardware suits contemporary and transitional interiors.",
+    "scaleReference": "Approximately 30cm wide, 45\u201355cm tall",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
   },
   {
-    "id": "95",
-    "name": "Prism Filigree",
+    "slug": "golden-curve-chandelier",
+    "name": "Golden Curve Chandelier",
+    "collection": "Signature Collection",
+    "type": "chandelier",
+    "size": "medium",
+    "shape": "tiered",
+    "material": [
+      "brass"
+    ],
+    "finish": "polished",
+    "vibes": [
+      "Art Deco",
+      "Warm Transitional",
+      "Modern Indian"
+    ],
+    "styleTags": [
+      "curved arms",
+      "candelabra",
+      "polished brass",
+      "open frame",
+      "circular ring"
+    ],
+    "colorPalette": [
+      "polished gold",
+      "warm brass"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "wall_sconce"
+    ],
+    "lightCount": 8,
+    "heightProfile": "standard",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Best suited above a central seating area or foyer. The open circular ring frame and curved arms read well in rooms with clean white or off-white ceilings.",
+    "scaleReference": "Approximately 70\u201380cm diameter; mid-sized chandelier suitable for rooms 12\u201316ft wide",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
+  },
+  {
+    "slug": "grand-lantern-crown",
+    "name": "Crown",
+    "collection": "Grand Lantern",
+    "type": "lantern",
+    "size": "large",
+    "shape": "cylinder",
+    "material": [
+      "iron",
+      "glass"
+    ],
+    "finish": "patina",
+    "vibes": [
+      "Colonial / Heritage",
+      "Classical / Ornate",
+      "French Provincial"
+    ],
+    "styleTags": [
+      "ornate crown top",
+      "scrollwork",
+      "dark iron",
+      "cylindrical lantern",
+      "candelabra interior"
+    ],
+    "colorPalette": [
+      "dark bronze",
+      "black iron",
+      "warm amber"
+    ],
+    "roomTypes": [
+      "double_height_foyer",
+      "stairwell",
+      "foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "wall_sconce"
+    ],
+    "lightCount": 3,
+    "heightProfile": "elongated",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "12ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Ideal for double-height foyers, grand stairwells, or arched alcoves. The elaborate crown top and dark patina finish command presence in tall, heritage-style spaces.",
+    "scaleReference": "Approximately 45\u201355cm diameter, 70\u201390cm tall body; grand statement piece requiring high ceilings",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
+  },
+  {
+    "slug": "grand-lantern-cylinder",
+    "name": "Cylinder",
+    "collection": "Grand Lantern",
+    "type": "lantern",
+    "size": "grand",
+    "shape": "cylinder",
+    "material": [
+      "brass",
+      "iron",
+      "glass"
+    ],
+    "finish": "patina",
+    "vibes": [
+      "Colonial / Heritage",
+      "Classical / Ornate",
+      "Coastal / Mediterranean"
+    ],
+    "styleTags": [
+      "hexagonal panels",
+      "tall cylinder",
+      "ornate crown",
+      "scrollwork finials",
+      "glass panels"
+    ],
+    "colorPalette": [
+      "aged brass",
+      "warm bronze",
+      "clear glass"
+    ],
+    "roomTypes": [
+      "double_height_foyer",
+      "stairwell",
+      "foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "wall_sconce"
+    ],
+    "lightCount": 12,
+    "heightProfile": "cascading",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "14ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "A monumental piece for grand double-height foyers or hotel-lobby-scale spaces. The floor-length form and ornate brass crown demand at least 14ft ceilings; pair with arched architecture.",
+    "scaleReference": "Approximately 60\u201370cm diameter, 150\u2013200cm tall; suitable only for very large volumes",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
+  },
+  {
+    "slug": "grand-lantern-glass",
+    "name": "Glass",
+    "collection": "Grand Lantern",
+    "type": "lantern",
+    "size": "medium",
+    "shape": "cylinder",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "French Provincial",
+      "Classical / Ornate",
+      "Warm Transitional"
+    ],
+    "styleTags": [
+      "curved glass panels",
+      "brass frame",
+      "acanthus detail",
+      "cylindrical",
+      "candelabra"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm gold",
+      "clear glass"
+    ],
+    "roomTypes": [
+      "foyer",
+      "dining_room",
+      "hallway"
+    ],
+    "pairsWith": [
+      "console_table",
+      "dining_table",
+      "wall_sconce"
+    ],
+    "lightCount": 3,
+    "heightProfile": "standard",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Versatile mid-sized brass lantern that works in foyers, hallways, and intimate dining rooms. The curved glass panels diffuse light warmly and the antique brass finish ages beautifully.",
+    "scaleReference": "Approximately 35\u201340cm diameter, 55\u201365cm tall; suitable for standard ceiling heights",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
+  },
+  {
+    "slug": "grand-lantern-pavilion",
+    "name": "Pavilion",
+    "collection": "Grand Lantern",
+    "type": "lantern",
+    "size": "large",
+    "shape": "cylinder",
+    "material": [
+      "brass",
+      "iron",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Colonial / Heritage",
+      "Classical / Ornate",
+      "French Provincial"
+    ],
+    "styleTags": [
+      "ornate crown",
+      "flat-panel glass",
+      "multi-arm interior",
+      "dark antique frame",
+      "scrollwork"
+    ],
+    "colorPalette": [
+      "dark antique brass",
+      "aged bronze",
+      "warm amber"
+    ],
+    "roomTypes": [
+      "double_height_foyer",
+      "stairwell",
+      "foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "wall_sconce"
+    ],
+    "lightCount": 9,
+    "heightProfile": "elongated",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "12ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Designed for grand foyers and stairwell voids. The enclosed pavilion structure with a full interior candelabra creates a dramatic glowing box effect \u2014 powerful in double-height Heritage or Colonial interiors.",
+    "scaleReference": "Approximately 55\u201365cm diameter, 100\u2013130cm tall body; requires substantial ceiling clearance",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
+  },
+  {
+    "slug": "heritage-shade-acanthus-crown",
+    "name": "Acanthus Crown",
+    "collection": "Heritage Shade",
+    "type": "chandelier",
+    "size": "large",
+    "shape": "tiered",
+    "material": [
+      "brass",
+      "fabric"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Classical / Ornate",
+      "Colonial / Heritage",
+      "French Provincial"
+    ],
+    "styleTags": [
+      "acanthus leaf",
+      "cream shades",
+      "multi-arm",
+      "ornate body",
+      "antique brass"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm gold",
+      "cream ivory"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "dining_table",
+      "wall_sconce"
+    ],
+    "lightCount": 9,
+    "heightProfile": "standard",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "The acanthus-leaf detailing and cream fabric shades make this a refined centerpiece for formal living or dining rooms. Works best in rooms with classical moldings and warm-toned furnishings.",
+    "scaleReference": "Approximately 75\u201385cm diameter; large-format chandelier for rooms 14\u201318ft wide",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
+  },
+  {
+    "slug": "heritage-shade-baroque-foliage",
+    "name": "Baroque Foliage",
+    "collection": "Heritage Shade",
+    "type": "chandelier",
+    "size": "large",
+    "shape": "tiered",
+    "material": [
+      "brass",
+      "fabric",
+      "crystal"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Classical / Ornate",
+      "Glamorous",
+      "Colonial / Heritage"
+    ],
+    "styleTags": [
+      "baroque scrollwork",
+      "crystal drops",
+      "scalloped shades",
+      "multi-tier",
+      "ornate foliage"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "dark gold",
+      "cream",
+      "clear crystal"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "double_height_foyer"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "wall_sconce",
+      "floor_mirror",
+      "console_table"
+    ],
+    "lightCount": 12,
+    "heightProfile": "cascading",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "The layered baroque scrollwork arms and cascading crystal drops make this a show-stopping piece for formal dining rooms or grand living areas. The scalloped cream shades soften the ornate frame beautifully.",
+    "scaleReference": "Approximately 90\u2013100cm diameter; statement piece requiring ample ceiling height and room volume",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
+  },
+  {
+    "slug": "heritage-shade-curved-linen",
+    "name": "Curved Linen",
+    "collection": "Heritage Shade",
+    "type": "chandelier",
+    "size": "medium",
+    "shape": "tiered",
+    "material": [
+      "brass",
+      "fabric"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Warm Transitional",
+      "Colonial / Heritage",
+      "Classical / Ornate"
+    ],
+    "styleTags": [
+      "curved arms",
+      "linen shades",
+      "antique brass",
+      "scalloped shades",
+      "scroll detail"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm bronze",
+      "cream linen"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "wall_sconce",
+      "console_table",
+      "side_table"
+    ],
+    "lightCount": 6,
+    "heightProfile": "standard",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "A versatile transitional chandelier with curved arms and scalloped linen shades. Works well centered over a dining table or in a living room with warm wood and neutral tones.",
+    "scaleReference": "Approximately 60\u201370cm diameter; mid-sized piece for rooms 12\u201316ft wide",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
+  },
+  {
+    "slug": "heritage-shade-drum-luminaire",
+    "name": "Drum Luminaire",
+    "collection": "Heritage Shade",
+    "type": "chandelier",
+    "size": "small",
+    "shape": "drum",
+    "material": [
+      "brass",
+      "fabric"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Warm Transitional",
+      "Classical / Ornate",
+      "Modern Indian"
+    ],
+    "styleTags": [
+      "slim arms",
+      "cream shades",
+      "antique brass",
+      "minimal ornament",
+      "5-arm"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm bronze",
+      "cream"
+    ],
+    "roomTypes": [
+      "bedroom",
+      "dining_room",
+      "study"
+    ],
+    "pairsWith": [
+      "side_table",
+      "dining_table",
+      "wall_sconce",
+      "table_lamp"
+    ],
+    "lightCount": 5,
+    "heightProfile": "compact",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "8ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "A compact, understated chandelier ideal for bedrooms, smaller dining rooms, or studies. The slim antique brass arms and cream shades provide warm, diffused light without overwhelming the space.",
+    "scaleReference": "Approximately 50\u201360cm diameter; suitable for smaller rooms or lower ceilings",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
+  },
+  {
+    "slug": "heritage-shade-frosted-scroll",
+    "name": "Frosted Scroll",
+    "collection": "Heritage Shade",
+    "type": "chandelier",
+    "size": "medium",
+    "shape": "tiered",
+    "material": [
+      "brass",
+      "fabric",
+      "crystal"
+    ],
+    "finish": "gilt",
+    "vibes": [
+      "Classical / Ornate",
+      "Glamorous",
+      "French Provincial"
+    ],
+    "styleTags": [
+      "scrollwork arms",
+      "frosted glass shades",
+      "crystal drops",
+      "gilt brass",
+      "ornate"
+    ],
+    "colorPalette": [
+      "gilt gold",
+      "antique brass",
+      "white frosted",
+      "clear crystal"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "wall_sconce",
+      "console_table",
+      "floor_mirror"
+    ],
+    "lightCount": 8,
+    "heightProfile": "standard",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "The combination of scrolled brass arms, frosted fabric shades, and crystal drops creates a classically glamorous look. Ideal for formal dining rooms or living rooms with traditional decor.",
+    "scaleReference": "Approximately 70\u201380cm diameter; substantial mid-sized piece for formal spaces",
+    "refImages": [
+      "01.png"
+    ],
+    "hasGenerated": true
+  },
+  {
+    "slug": "heritage-shade-gilt-ornament",
+    "name": "Gilt Ornament",
+    "collection": "Heritage Shade",
+    "type": "chandelier",
+    "size": "grand",
+    "shape": "tiered",
+    "material": [
+      "brass",
+      "fabric",
+      "crystal"
+    ],
+    "finish": "gilt",
+    "vibes": [
+      "Classical / Ornate",
+      "Glamorous",
+      "Colonial / Heritage"
+    ],
+    "styleTags": [
+      "3-tier",
+      "scrollwork",
+      "white mini shades",
+      "crystal drops",
+      "grand scale"
+    ],
+    "colorPalette": [
+      "aged gilt",
+      "warm bronze",
+      "white ivory",
+      "clear crystal"
+    ],
+    "roomTypes": [
+      "double_height_foyer",
+      "formal_living",
+      "stairwell"
+    ],
+    "pairsWith": [
+      "floor_mirror",
+      "console_table",
+      "wall_sconce",
+      "artwork"
+    ],
+    "lightCount": 28,
+    "heightProfile": "cascading",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "14ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "A monumental three-tier chandelier for grand double-height foyers and palatial living spaces. The sheer scale and layered scrollwork arms with crystal drops and white mini shades make it the ultimate statement piece.",
+    "scaleReference": "Approximately 120\u2013140cm diameter, 100\u2013120cm tall; requires double-height ceilings of 14ft or more",
+    "refImages": [
+      "01.jpg",
+      "02.jpg"
+    ],
+    "hasGenerated": true
+  },
+  {
+    "slug": "heritage-shade-gilt-plume",
+    "name": "Gilt Plume",
+    "collection": "Heritage Shade",
+    "type": "chandelier",
+    "size": "medium",
+    "shape": "tiered",
+    "material": [
+      "brass",
+      "fabric",
+      "crystal"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Classical / Ornate",
+      "Glamorous",
+      "French Provincial"
+    ],
+    "styleTags": [
+      "golden pleated shades",
+      "crystal chains",
+      "scrollwork",
+      "antique brass",
+      "ornate body"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "dark bronze",
+      "gold amber",
+      "clear crystal"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "wall_sconce",
+      "console_table",
+      "floor_mirror"
+    ],
+    "lightCount": 9,
+    "heightProfile": "standard",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "The golden pleated fabric shades and cascading crystal chains give this chandelier a rich, opulent feel. Best placed in formal dining rooms or traditional living spaces with warm wood tones and textured walls.",
+    "scaleReference": "Approximately 75\u201385cm diameter; substantial piece suited to rooms 14\u201318ft wide",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
+  },
+  {
+    "slug": "heritage-shade-ivory-descent",
+    "name": "Ivory Descent",
+    "collection": "Heritage Shade",
+    "type": "chandelier",
+    "size": "grand",
+    "shape": "tiered",
+    "material": [
+      "brass",
+      "fabric",
+      "crystal"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Classical / Ornate",
+      "Glamorous",
+      "Colonial / Heritage"
+    ],
+    "styleTags": [
+      "2-tier",
+      "ivory scalloped shades",
+      "crystal drops",
+      "ornate scrollwork",
+      "grand brass"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm bronze",
+      "ivory cream",
+      "clear crystal"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "double_height_foyer",
+      "dining_room"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "console_table",
+      "floor_mirror",
+      "wall_sconce"
+    ],
+    "lightCount": 18,
+    "heightProfile": "cascading",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "12ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "A grand two-tier chandelier with ivory scalloped shades and generous crystal drops. Ideal for large formal living rooms or foyers with high ceilings. The ivory shades keep it from feeling too dark despite the antique brass frame.",
+    "scaleReference": "Approximately 100\u2013110cm diameter; grand-scale piece requiring 12ft+ ceilings and large rooms",
+    "refImages": [
+      "01.jpg",
+      "02.jpg"
+    ],
+    "hasGenerated": true
+  },
+  {
+    "slug": "heritage-shade-prism-drift",
+    "name": "Prism Drift",
+    "collection": "Heritage Shade",
+    "type": "chandelier",
+    "size": "medium",
+    "shape": "tiered",
+    "material": [
+      "brass",
+      "fabric",
+      "crystal"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Warm Transitional",
+      "Classical / Ornate",
+      "Colonial / Heritage"
+    ],
+    "styleTags": [
+      "cream shades",
+      "crystal drops",
+      "curved arms",
+      "antique brass body",
+      "globe finial"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm bronze",
+      "cream ivory",
+      "clear crystal"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "wall_sconce",
+      "console_table",
+      "side_table"
+    ],
+    "lightCount": 10,
+    "heightProfile": "standard",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "A refined Heritage Shade chandelier with cream fabric shades, crystal prism drops, and a distinctive globe finial at the base. Works beautifully in formal dining rooms or traditional living rooms with antique brass accents.",
+    "scaleReference": "Approximately 75\u201385cm diameter; suited to rooms 14\u201316ft wide with 9\u201311ft ceilings",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": true
+  },
+  {
+    "slug": "heritage-shade-scrolled-orb",
+    "name": "Scrolled Orb",
+    "collection": "Heritage Shade",
+    "type": "chandelier",
+    "size": "large",
+    "shape": "tiered",
+    "material": [
+      "brass",
+      "fabric",
+      "crystal",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Classical / Ornate",
+      "Colonial / Heritage",
+      "Warm Transitional"
+    ],
+    "styleTags": [
+      "fabric-shade",
+      "scrollwork",
+      "crystal-drop",
+      "ornate-arms",
+      "tiered"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm gold",
+      "cream",
+      "clear crystal"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "wall_sconce",
+      "floor_mirror"
+    ],
+    "lightCount": 12,
+    "heightProfile": "standard",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Best in a formal living room or grand foyer with high ceilings. Pair with antique brass wall sconces and a console table below for a layered look.",
+    "scaleReference": "Approximately 80\u201390cm diameter; suits rooms 14ft+ wide",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "heritage-shade-scrolled-prism",
+    "name": "Scrolled Prism",
+    "collection": "Heritage Shade",
+    "type": "chandelier",
+    "size": "medium",
+    "shape": "cascade",
+    "material": [
+      "iron",
+      "fabric",
+      "crystal"
+    ],
+    "finish": "matte_black",
+    "vibes": [
+      "Glamorous",
+      "Classical / Ornate",
+      "Art Deco"
+    ],
+    "styleTags": [
+      "fabric-shade",
+      "crystal-drops",
+      "scrollwork",
+      "dark-frame",
+      "moody"
+    ],
+    "colorPalette": [
+      "matte black",
+      "warm cream",
+      "clear crystal",
+      "amber"
+    ],
+    "roomTypes": [
+      "bedroom",
+      "formal_living",
+      "dining_room"
+    ],
+    "pairsWith": [
+      "wall_sconce",
+      "floor_mirror",
+      "side_table"
+    ],
+    "lightCount": 5,
+    "heightProfile": "cascading",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Ideal as a statement piece in a master bedroom or intimate dining room. The dark frame and glowing shades create a moody, romantic atmosphere.",
+    "scaleReference": "Approximately 60\u201370cm diameter; compact enough for bedrooms",
+    "refImages": [
+      "01.jpg",
+      "02.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "heritage-shade-scrollwork-radiance",
+    "name": "Scrollwork Radiance",
+    "collection": "Heritage Shade",
+    "type": "chandelier",
+    "size": "large",
+    "shape": "tiered",
+    "material": [
+      "brass",
+      "fabric",
+      "crystal"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Classical / Ornate",
+      "Colonial / Heritage",
+      "French Provincial"
+    ],
+    "styleTags": [
+      "fabric-shade",
+      "scrollwork",
+      "crystal-drops",
+      "ornate-arms",
+      "8-arm"
+    ],
+    "colorPalette": [
+      "antique gold",
+      "warm brass",
+      "cream",
+      "clear crystal"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "wall_sconce",
+      "floor_mirror",
+      "artwork"
+    ],
+    "lightCount": 8,
+    "heightProfile": "standard",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Suited for grand living rooms or formal dining spaces. The ornate scrollwork and dangling crystal drops make it a focal point; keep surrounding d\u00e9cor restrained.",
+    "scaleReference": "Approximately 75\u201385cm diameter; substantial presence in medium-to-large rooms",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "hexagon-cascade-rectangular",
+    "name": "Hexagon Cascade Rectangular",
+    "collection": "Linear",
+    "type": "linear",
+    "size": "grand",
+    "shape": "linear",
+    "material": [
+      "iron",
+      "fabric"
+    ],
+    "finish": "matte_black",
+    "vibes": [
+      "Art Deco",
+      "Contemporary Minimal",
+      "Modern Indian"
+    ],
+    "styleTags": [
+      "rectangular",
+      "tiered-panels",
+      "fabric-diffuser",
+      "geometric",
+      "statement"
+    ],
+    "colorPalette": [
+      "matte black",
+      "warm cream",
+      "amber glow"
+    ],
+    "roomTypes": [
+      "dining_room",
+      "formal_living",
+      "double_height_foyer"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "console_table",
+      "artwork"
+    ],
+    "lightCount": 0,
+    "heightProfile": "compact",
+    "lightingEffect": "diffused",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "Designed to float above a long dining table or in a double-height reception hall. The stepped rectangular tiers create a dramatic Art Deco silhouette when lit.",
+    "scaleReference": "Approximately 120\u2013150cm length; suits dining tables 8\u201310 seats long",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "hexagon-cascade-square",
+    "name": "Hexagon Cascade Square",
+    "collection": "Linear",
+    "type": "chandelier",
+    "size": "large",
+    "shape": "tiered",
+    "material": [
+      "iron",
+      "fabric"
+    ],
+    "finish": "matte_black",
+    "vibes": [
+      "Art Deco",
+      "Contemporary Minimal",
+      "Modern Indian"
+    ],
+    "styleTags": [
+      "square",
+      "tiered-panels",
+      "fabric-diffuser",
+      "geometric",
+      "stepped"
+    ],
+    "colorPalette": [
+      "matte black",
+      "warm cream",
+      "amber glow"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "double_height_foyer"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "console_table",
+      "floor_lamp"
+    ],
+    "lightCount": 0,
+    "heightProfile": "compact",
+    "lightingEffect": "diffused",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Best centered over a square dining table or in a grand living room. The stepped square tiers give a pagoda-like drama; keep walls and furniture minimal.",
+    "scaleReference": "Approximately 90\u2013110cm square footprint; works well in 12ft+ ceiling rooms",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "hexagon-lantern",
+    "name": "Hexagon Lantern",
+    "collection": "Signature Collection",
+    "type": "lantern",
+    "size": "medium",
+    "shape": "geometric",
+    "material": [
+      "brass",
+      "glass",
+      "iron"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Colonial / Heritage",
+      "Warm Transitional",
+      "Coastal / Mediterranean"
+    ],
+    "styleTags": [
+      "hexagonal",
+      "clear-glass",
+      "lantern",
+      "candle-style",
+      "tapered"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "dark bronze",
+      "clear glass"
+    ],
+    "roomTypes": [
+      "foyer",
+      "hallway",
+      "stairwell"
+    ],
+    "pairsWith": [
+      "console_table",
+      "wall_sconce",
+      "floor_mirror"
+    ],
+    "lightCount": 3,
+    "heightProfile": "elongated",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Perfect in an entry foyer, stairwell, or covered terrace. The hexagonal glass panels allow the candle-style bulbs to sparkle from all angles.",
+    "scaleReference": "Approximately 25cm wide \u00d7 50cm tall; slender profile fits narrow passages",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "iron-brass-cage",
+    "name": "Cage",
+    "collection": "Iron Brass",
+    "type": "chandelier",
+    "size": "large",
+    "shape": "cage",
+    "material": [
+      "iron",
+      "brass"
+    ],
+    "finish": "matte_black",
+    "vibes": [
+      "Industrial Chic",
+      "Rustic Farmhouse",
+      "Warm Transitional"
+    ],
+    "styleTags": [
+      "cage",
+      "open-frame",
+      "matte-black",
+      "brass-accents",
+      "modern-farmhouse"
+    ],
+    "colorPalette": [
+      "matte black",
+      "polished brass",
+      "warm gold"
+    ],
+    "roomTypes": [
+      "dining_room",
+      "bar_area",
+      "formal_living"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "bar_cart",
+      "floor_lamp"
+    ],
+    "lightCount": 6,
+    "heightProfile": "standard",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Works as a centrepiece above a round dining table or in a bar area. The open cage silhouette keeps the look airy; the brass fittings add warmth to the matte black frame.",
+    "scaleReference": "Approximately 70\u201380cm diameter; bold presence without bulk",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "iron-brass-ring",
+    "name": "Ring",
+    "collection": "Iron Brass",
+    "type": "chandelier",
+    "size": "large",
+    "shape": "geometric",
+    "material": [
+      "iron",
+      "brass"
+    ],
+    "finish": "matte_black",
+    "vibes": [
+      "Industrial Chic",
+      "Rustic Farmhouse",
+      "Contemporary Minimal"
+    ],
+    "styleTags": [
+      "ring",
+      "halo",
+      "matte-black",
+      "brass-cups",
+      "open-frame"
+    ],
+    "colorPalette": [
+      "matte black",
+      "polished brass"
+    ],
+    "roomTypes": [
+      "dining_room",
+      "formal_living",
+      "bar_area"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "bar_cart",
+      "wall_sconce"
+    ],
+    "lightCount": 10,
+    "heightProfile": "compact",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Ideal above a large round or oval dining table. The clean iron ring with brass candle cups creates an understated yet striking silhouette; suits loft-style or modern-rustic interiors.",
+    "scaleReference": "Approximately 90\u2013100cm diameter ring; works in rooms 14ft+ wide",
+    "refImages": [
+      "01.jpg",
+      "02.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "iron-scroll",
+    "name": "Iron Scroll",
+    "collection": "Signature Collection",
+    "type": "chandelier",
+    "size": "large",
+    "shape": "shield",
+    "material": [
+      "iron",
+      "brass"
+    ],
+    "finish": "matte_black",
+    "vibes": [
+      "Modern Indian",
+      "Art Deco",
+      "Glamorous"
+    ],
+    "styleTags": [
+      "iron-frame",
+      "brass-scrollwork",
+      "shield-silhouette",
+      "open-frame",
+      "dramatic"
+    ],
+    "colorPalette": [
+      "matte black",
+      "polished brass",
+      "warm gold"
+    ],
+    "roomTypes": [
+      "foyer",
+      "double_height_foyer",
+      "formal_living"
+    ],
+    "pairsWith": [
+      "floor_mirror",
+      "console_table",
+      "artwork"
+    ],
+    "lightCount": 5,
+    "heightProfile": "elongated",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Designed to command a grand foyer or double-height living space. The bold shield-shaped iron outline with internal brass scrollwork makes it a sculptural statement; avoid competing with busy wallpaper.",
+    "scaleReference": "Approximately 80cm wide \u00d7 100cm tall; highly vertical, suits double-height ceilings",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "jewel-cascade",
+    "name": "Jewel Cascade",
+    "collection": "Signature Collection",
+    "type": "chandelier",
+    "size": "large",
+    "shape": "cascade",
+    "material": [
+      "brass",
+      "glass",
+      "crystal"
+    ],
+    "finish": "polished",
+    "vibes": [
+      "Glamorous",
+      "Bohemian",
+      "Art Deco"
+    ],
+    "styleTags": [
+      "multicolor",
+      "glass-rods",
+      "tiered-cascade",
+      "jewel-toned",
+      "statement"
+    ],
+    "colorPalette": [
+      "multicolour",
+      "pink",
+      "amber",
+      "teal",
+      "orange",
+      "gold brass"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "foyer",
+      "bar_area"
+    ],
+    "pairsWith": [
+      "floor_mirror",
+      "artwork",
+      "side_table"
+    ],
+    "lightCount": 48,
+    "heightProfile": "cascading",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "A conversation-starter for an eclectic living room or vibrant foyer. Pair with bold, colourful accent pillows and a neutral sofa so the chandelier remains the undisputed hero.",
+    "scaleReference": "Approximately 60cm diameter \u00d7 90cm drop; colour-saturated and attention-commanding",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "jeweled-curve",
+    "name": "Jeweled Curve",
+    "collection": "Signature Collection",
+    "type": "chandelier",
+    "size": "large",
+    "shape": "tiered",
+    "material": [
+      "brass",
+      "fabric",
+      "glass"
+    ],
+    "finish": "gilt",
+    "vibes": [
+      "Glamorous",
+      "Classical / Ornate",
+      "French Provincial"
+    ],
+    "styleTags": [
+      "fabric-shade",
+      "colored-glass-drops",
+      "12-arm",
+      "curved-arms",
+      "ornate"
+    ],
+    "colorPalette": [
+      "warm gold",
+      "antique brass",
+      "cream",
+      "blush pink",
+      "smoky grey",
+      "navy"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "master_suite"
+    ],
+    "pairsWith": [
+      "wall_sconce",
+      "floor_mirror",
+      "console_table",
+      "artwork"
+    ],
+    "lightCount": 12,
+    "heightProfile": "standard",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Best suited to a grand formal living room or large dining space. The multi-arm brass frame with fabric shades and colourful hanging glass clusters adds a playful glamour; works well in cream or gold interiors.",
+    "scaleReference": "Approximately 90\u2013100cm diameter; fills large ceiling spans gracefully",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "lantern-cluster",
+    "name": "Lantern Cluster",
+    "collection": "Signature Collection",
+    "type": "cluster",
+    "size": "large",
+    "shape": "geometric",
+    "material": [
+      "iron",
+      "glass"
+    ],
+    "finish": "matte_black",
+    "vibes": [
+      "Colonial / Heritage",
+      "Industrial Chic",
+      "Warm Transitional"
+    ],
+    "styleTags": [
+      "cluster",
+      "lantern",
+      "clear-glass",
+      "tapered",
+      "grouped-pendants"
+    ],
+    "colorPalette": [
+      "matte black",
+      "clear glass",
+      "warm white light"
+    ],
+    "roomTypes": [
+      "stairwell",
+      "foyer",
+      "double_height_foyer"
+    ],
+    "pairsWith": [
+      "console_table",
+      "wall_sconce",
+      "floor_mirror",
+      "artwork"
+    ],
+    "lightCount": 12,
+    "heightProfile": "cascading",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "12ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Dramatic when hung at varied heights in a double-height foyer or stairwell void. The cluster of tapered glass lanterns creates a signature entry statement; use at staggered drop lengths for maximum impact.",
+    "scaleReference": "Cluster spans approximately 80\u2013100cm wide; individual lanterns 30\u201350cm tall",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "leaf-cascade",
+    "name": "Leaf Cascade",
+    "collection": "Signature Collection",
+    "type": "chandelier",
+    "size": "grand",
+    "shape": "cascade",
+    "material": [
+      "brass",
+      "crystal",
+      "glass"
+    ],
+    "finish": "gilt",
+    "vibes": [
+      "Glamorous",
+      "Classical / Ornate",
+      "Modern Indian"
+    ],
+    "styleTags": [
+      "crystal-cascade",
+      "multi-arm",
+      "tiered",
+      "cascading-drops",
+      "grand"
+    ],
+    "colorPalette": [
+      "warm gold",
+      "polished brass",
+      "clear crystal"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "double_height_foyer",
+      "stairwell"
+    ],
+    "pairsWith": [
+      "floor_mirror",
+      "console_table",
+      "wall_sconce",
+      "artwork"
+    ],
+    "lightCount": 8,
+    "heightProfile": "cascading",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "12ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Conceived for grand double-height spaces \u2014 a formal living room, luxury hotel-style foyer, or stairwell void. The sweeping gilded arms with cascading crystal drops are best viewed from below and from a distance.",
+    "scaleReference": "Approximately 90\u2013100cm diameter; requires significant ceiling height for drop",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "meridian-brass",
+    "name": "Meridian Brass",
+    "collection": "Signature Collection",
+    "type": "chandelier",
+    "size": "medium",
+    "shape": "urn",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Classical / Ornate",
+      "Colonial / Heritage",
+      "Warm Transitional"
+    ],
+    "styleTags": [
+      "ribbed-glass-shades",
+      "urn-body",
+      "5-arm",
+      "antique-brass",
+      "ornate-body"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm gold",
+      "clear glass"
+    ],
+    "roomTypes": [
+      "dining_room",
+      "formal_living",
+      "study"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "console_table",
+      "wall_sconce",
+      "side_table"
+    ],
+    "lightCount": 5,
+    "heightProfile": "standard",
+    "lightingEffect": "diffused",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "Versatile enough for a dining room or a well-appointed study. The antique brass urn body paired with flared ribbed glass shades gives a classic, understated grandeur; suits warm-toned wood furniture.",
+    "scaleReference": "Approximately 60\u201365cm diameter; well-proportioned for rooms 12\u201316ft wide",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "midnight-cylinder",
+    "name": "Midnight Cylinder",
+    "collection": "Signature Collection",
+    "type": "chandelier",
+    "size": "large",
+    "shape": "tiered",
+    "material": [
+      "iron",
+      "fabric"
+    ],
+    "finish": "matte_black",
+    "vibes": [
+      "Art Deco",
+      "Contemporary Minimal",
+      "Industrial Chic"
+    ],
+    "styleTags": [
+      "cylinder-shades",
+      "two-tier",
+      "matte-black",
+      "dramatic",
+      "modern"
+    ],
+    "colorPalette": [
+      "matte black",
+      "charcoal"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "bar_area"
+    ],
+    "pairsWith": [
+      "floor_mirror",
+      "artwork",
+      "console_table",
+      "wall_sconce"
+    ],
+    "lightCount": 18,
+    "heightProfile": "cascading",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "Best centred over a large dining table or in a double-height living room. The all-black palette pairs well with monochrome interiors or deep-toned walls; avoid light, airy Scandi rooms.",
+    "scaleReference": "Approximately 90\u2013100 cm diameter, suits rooms 14ft+ wide",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "nautilus-lantern",
+    "name": "Nautilus Lantern",
+    "collection": "Signature Collection",
+    "type": "lantern",
+    "size": "medium",
+    "shape": "urn",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Colonial / Heritage",
+      "Classical / Ornate",
+      "French Provincial"
+    ],
+    "styleTags": [
+      "bell-jar",
+      "antique-brass",
+      "scrollwork",
+      "ribbed-glass",
+      "lantern"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm gold",
+      "clear glass"
+    ],
+    "roomTypes": [
+      "foyer",
+      "hallway",
+      "powder_room"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "wall_sconce",
+      "artwork"
+    ],
+    "lightCount": 4,
+    "heightProfile": "standard",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Ideal for foyers and entrance halls. The bell-jar glass dome and decorative scroll arms make it a strong centrepiece at moderate heights; works well flanked by wall sconces.",
+    "scaleReference": "Approximately 40\u201345 cm diameter body, 55\u201360 cm total drop",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "noir-crystal-cascade",
+    "name": "Cascade",
+    "collection": "Noir Crystal",
+    "type": "chandelier",
+    "size": "grand",
+    "shape": "cascade",
+    "material": [
+      "iron",
+      "crystal"
+    ],
+    "finish": "matte_black",
+    "vibes": [
+      "Glamorous",
+      "Classical / Ornate",
+      "Art Deco"
+    ],
+    "styleTags": [
+      "crystal-drops",
+      "matte-black",
+      "candle-arms",
+      "two-tier",
+      "dramatic"
+    ],
+    "colorPalette": [
+      "matte black",
+      "clear crystal",
+      "warm white"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "double_height_foyer"
+    ],
+    "pairsWith": [
+      "floor_mirror",
+      "artwork",
+      "dining_table",
+      "wall_sconce"
+    ],
+    "lightCount": 24,
+    "heightProfile": "cascading",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "12ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "A showstopper for grand double-height spaces or large formal dining rooms. The black iron frame modernises the classic crystal cascade silhouette \u2014 pair with dark walls or moody interiors for maximum drama.",
+    "scaleReference": "Approximately 100\u2013120 cm diameter, requires 12ft+ ceiling clearance",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "noir-lantern",
+    "name": "Noir Lantern",
+    "collection": "Signature Collection",
+    "type": "lantern",
+    "size": "medium",
+    "shape": "geometric",
+    "material": [
+      "iron",
+      "brass",
+      "glass"
+    ],
+    "finish": "matte_black",
+    "vibes": [
+      "Colonial / Heritage",
+      "Modern Indian",
+      "Warm Transitional"
+    ],
+    "styleTags": [
+      "square-lantern",
+      "matte-black",
+      "brass-accents",
+      "tassel-finials",
+      "glass-panel"
+    ],
+    "colorPalette": [
+      "matte black",
+      "polished brass",
+      "clear glass"
+    ],
+    "roomTypes": [
+      "foyer",
+      "hallway",
+      "stairwell"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "wall_sconce",
+      "artwork"
+    ],
+    "lightCount": 4,
+    "heightProfile": "elongated",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Best hung in entrances, passages or stairwell nooks. The brass tassel finials at the base add a refined Indian-heritage touch; complements warm wood tones and marble floors.",
+    "scaleReference": "Approximately 30 cm square, 50\u201360 cm body height",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "peacock-dome",
+    "name": "Peacock Dome",
+    "collection": "Signature Collection",
+    "type": "pendant",
+    "size": "small",
+    "shape": "dome",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Modern Indian",
+      "Colonial / Heritage",
+      "Bohemian"
+    ],
+    "styleTags": [
+      "peacock-motif",
+      "figurine",
+      "amber-glass",
+      "hammered-glass",
+      "statement-pendant"
+    ],
+    "colorPalette": [
+      "antique gold",
+      "warm brass",
+      "amber"
+    ],
+    "roomTypes": [
+      "bedroom",
+      "hallway",
+      "powder_room",
+      "study"
+    ],
+    "pairsWith": [
+      "console_table",
+      "side_table",
+      "floor_mirror",
+      "artwork"
+    ],
+    "lightCount": 1,
+    "heightProfile": "elongated",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "8ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "Works beautifully as a single statement pendant in a bedroom corner, reading nook, or powder room. The brass peacock figurine is the hero \u2014 hang at eye-catching height to ensure the motif reads clearly.",
+    "scaleReference": "Shade approximately 15\u201318 cm diameter; pendant with chain approximately 80\u2013100 cm total drop",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
+    "slug": "pleated-pendant",
+    "name": "Pleated Pendant",
+    "collection": "Brass Pendants",
+    "type": "chandelier",
+    "size": "large",
+    "shape": "tiered",
+    "material": [
+      "iron",
+      "fabric"
+    ],
+    "finish": "matte_black",
+    "vibes": [
+      "Warm Transitional",
+      "Contemporary Minimal",
+      "Modern Indian"
+    ],
+    "styleTags": [
+      "pleated-shades",
+      "two-tier",
+      "geometric-frame",
+      "gold-fabric",
+      "matte-black"
+    ],
+    "colorPalette": [
+      "matte black",
+      "warm gold",
+      "ivory"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "console_table",
+      "artwork",
+      "floor_lamp"
+    ],
+    "lightCount": 10,
+    "heightProfile": "cascading",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "The geometric matte-black frame with warm pleated shades suits transitional and contemporary interiors. Excellent over a large dining table or as a centrepiece in an open-plan living area.",
+    "scaleReference": "Approximately 80\u201390 cm diameter, two tiers spanning roughly 50 cm height",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
+  },
+  {
     "slug": "prism-filigree",
+    "name": "Prism Filigree",
     "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/prism-filigree/studio.png",
-      "lifestyle": "/images/chandeliers/prism-filigree/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/prism-filigree/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/prism-filigree/04-hero-70pct.png",
-      "detail": "/images/chandeliers/prism-filigree/05-detail-zoomed.png"
-    }
+    "type": "chandelier",
+    "size": "medium",
+    "shape": "tiered",
+    "material": [
+      "brass",
+      "crystal"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Classical / Ornate",
+      "Colonial / Heritage",
+      "French Provincial"
+    ],
+    "styleTags": [
+      "crystal-prisms",
+      "filigree",
+      "antique-brass",
+      "ornate",
+      "scrollwork"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "warm gold",
+      "clear crystal"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "console_table",
+      "wall_sconce",
+      "floor_mirror"
+    ],
+    "lightCount": 6,
+    "heightProfile": "standard",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "Ideally placed in a formal living or dining room with traditional or transitional decor. The antique brass arms and hanging crystal prisms create a warm, sparkling effect \u2014 pairs beautifully with warm wood furniture and marble surfaces.",
+    "scaleReference": "Approximately 60\u201370 cm diameter, suits medium to large rooms",
+    "refImages": [
+      "01.jpg",
+      "02.jpg"
+    ],
+    "hasGenerated": false
   },
   {
-    "id": "96",
-    "name": "Prism Tier",
     "slug": "prism-tier",
+    "name": "Prism Tier",
     "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/prism-tier/studio.png",
-      "lifestyle": "/images/chandeliers/prism-tier/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/prism-tier/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/prism-tier/04-hero-70pct.png",
-      "detail": "/images/chandeliers/prism-tier/05-detail-zoomed.png"
-    }
+    "type": "chandelier",
+    "size": "grand",
+    "shape": "tiered",
+    "material": [
+      "brass",
+      "crystal",
+      "glass"
+    ],
+    "finish": "antique",
+    "vibes": [
+      "Classical / Ornate",
+      "Glamorous",
+      "Colonial / Heritage"
+    ],
+    "styleTags": [
+      "crystal-arms",
+      "etched-glass-shades",
+      "tiered",
+      "antique-brass",
+      "grand"
+    ],
+    "colorPalette": [
+      "antique brass",
+      "clear crystal",
+      "frosted white"
+    ],
+    "roomTypes": [
+      "double_height_foyer",
+      "formal_living",
+      "stairwell"
+    ],
+    "pairsWith": [
+      "floor_mirror",
+      "console_table",
+      "wall_sconce",
+      "artwork"
+    ],
+    "lightCount": 12,
+    "heightProfile": "cascading",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "12ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "A grand statement piece for double-height foyers or stairwells. The etched crystal bell shades and cascading crystal drops demand generous ceiling height and an unobstructed sightline from below.",
+    "scaleReference": "Approximately 90\u2013100 cm diameter, requires 12\u201314ft+ ceiling height",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
   },
   {
-    "id": "97",
-    "name": "Radiant Geometry",
     "slug": "radiant-geometry",
+    "name": "Radiant Geometry",
     "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/radiant-geometry/studio.png",
-      "lifestyle": "/images/chandeliers/radiant-geometry/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/radiant-geometry/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/radiant-geometry/02-lifestyle-lights-on.png",
-      "detail": "/images/chandeliers/radiant-geometry/02-lifestyle-lights-on.png"
-    }
+    "type": "chandelier",
+    "size": "large",
+    "shape": "geometric",
+    "material": [
+      "iron",
+      "fabric"
+    ],
+    "finish": "matte_black",
+    "vibes": [
+      "Contemporary Minimal",
+      "Art Deco",
+      "Warm Transitional"
+    ],
+    "styleTags": [
+      "geometric-frame",
+      "pleated-shades",
+      "two-tier",
+      "starburst",
+      "matte-black"
+    ],
+    "colorPalette": [
+      "matte black",
+      "warm gold",
+      "ivory"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "foyer"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "artwork",
+      "console_table",
+      "floor_lamp"
+    ],
+    "lightCount": 10,
+    "heightProfile": "standard",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "10ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "The angular spoke-and-hub frame makes a strong architectural statement. Works best in rooms with clean lines and minimal clutter; the warm pleated shades soften the geometric structure for transitional spaces.",
+    "scaleReference": "Approximately 80\u201390 cm diameter span across outer arms",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
   },
   {
-    "id": "98",
-    "name": "Royal Crown Pendant",
     "slug": "royal-crown-pendant",
+    "name": "Royal Crown Pendant",
     "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/royal-crown-pendant/studio.png",
-      "lifestyle": "/images/chandeliers/royal-crown-pendant/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/royal-crown-pendant/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/royal-crown-pendant/04-hero-70pct.png",
-      "detail": "/images/chandeliers/royal-crown-pendant/05-detail-zoomed.png"
-    }
+    "type": "chandelier",
+    "size": "small",
+    "shape": "cage",
+    "material": [
+      "iron"
+    ],
+    "finish": "distressed",
+    "vibes": [
+      "Rustic Farmhouse",
+      "French Provincial",
+      "Bohemian"
+    ],
+    "styleTags": [
+      "crown-shape",
+      "distressed-white",
+      "cage",
+      "candle-arms",
+      "whimsical"
+    ],
+    "colorPalette": [
+      "distressed white",
+      "chalk white",
+      "matte black"
+    ],
+    "roomTypes": [
+      "bedroom",
+      "powder_room",
+      "hallway"
+    ],
+    "pairsWith": [
+      "side_table",
+      "floor_mirror",
+      "artwork",
+      "table_lamp"
+    ],
+    "lightCount": 4,
+    "heightProfile": "standard",
+    "lightingEffect": "ambient",
+    "ceilingHeightMin": "8ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "The crown silhouette in distressed white works well in bedrooms, children's rooms, or a powder room with a farmhouse or French country aesthetic. Hang at a lower height to make the crown form legible.",
+    "scaleReference": "Approximately 35\u201340 cm diameter, 45\u201350 cm body height",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
   },
   {
-    "id": "100",
-    "name": "Suspended Foliage",
     "slug": "suspended-foliage",
+    "name": "Suspended Foliage",
     "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/suspended-foliage/studio.png",
-      "lifestyle": "/images/chandeliers/suspended-foliage/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/suspended-foliage/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/suspended-foliage/04-hero-70pct.png",
-      "detail": "/images/chandeliers/suspended-foliage/05-detail-zoomed.png"
-    }
+    "type": "cluster",
+    "size": "grand",
+    "shape": "linear",
+    "material": [
+      "glass",
+      "brass"
+    ],
+    "finish": "gilt",
+    "vibes": [
+      "Modern Indian",
+      "Bohemian",
+      "Glamorous"
+    ],
+    "styleTags": [
+      "leaf-installation",
+      "bespoke",
+      "sculptural",
+      "gold-amber",
+      "cloud-installation"
+    ],
+    "colorPalette": [
+      "amber gold",
+      "warm brass",
+      "clear glass",
+      "copper"
+    ],
+    "roomTypes": [
+      "double_height_foyer",
+      "stairwell",
+      "formal_living"
+    ],
+    "pairsWith": [
+      "floor_mirror",
+      "artwork",
+      "console_table"
+    ],
+    "lightCount": 30,
+    "heightProfile": "cascading",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "14ft",
+    "isDiningTablePiece": false,
+    "placementNotes": "A bespoke ceiling installation featuring hundreds of individually suspended amber and gold glass leaf elements. Best suited for double-height lobbies, grand foyers, or statement staircases. Requires custom structural mounting and professional installation.",
+    "scaleReference": "Large-scale installation \u2014 can span 150\u2013300 cm width depending on configuration",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
   },
   {
-    "id": "101",
-    "name": "Swag Constellation",
     "slug": "swag-constellation",
+    "name": "Swag Constellation",
     "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/swag-constellation/studio.png",
-      "lifestyle": "/images/chandeliers/swag-constellation/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/swag-constellation/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/swag-constellation/04-hero-70pct.png",
-      "detail": "/images/chandeliers/swag-constellation/05-detail-zoomed.png"
-    }
+    "type": "chandelier",
+    "size": "medium",
+    "shape": "drum",
+    "material": [
+      "brass",
+      "crystal",
+      "fabric"
+    ],
+    "finish": "polished",
+    "vibes": [
+      "Glamorous",
+      "Art Deco",
+      "Classical / Ornate"
+    ],
+    "styleTags": [
+      "crystal-bead-swags",
+      "black-shades",
+      "polished-brass-ring",
+      "swag-drape",
+      "bold-contrast"
+    ],
+    "colorPalette": [
+      "polished brass",
+      "clear crystal",
+      "matte black"
+    ],
+    "roomTypes": [
+      "dining_room",
+      "formal_living",
+      "bar_area"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "bar_cart",
+      "artwork",
+      "wall_sconce"
+    ],
+    "lightCount": 6,
+    "heightProfile": "standard",
+    "lightingEffect": "sparkling",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "The polished brass ring with crystal bead swags and contrasting black cylinder shades makes a bold glamorous statement. Best over a round dining table or in a bar area; pairs well with gold-accented interiors.",
+    "scaleReference": "Approximately 60\u201370 cm diameter ring, standard drop height",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
   },
   {
-    "id": "102",
-    "name": "Twisted Linen",
     "slug": "twisted-linen",
+    "name": "Twisted Linen",
     "collection": "Signature Collection",
-    "collectionSlug": "signature",
-    "images": {
-      "studio": "/images/chandeliers/twisted-linen/studio.png",
-      "lifestyle": "/images/chandeliers/twisted-linen/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/twisted-linen/02-lifestyle-lights-on.png",
-      "hero": "/images/chandeliers/twisted-linen/04-hero-70pct.png",
-      "detail": "/images/chandeliers/twisted-linen/04-hero-70pct.png"
-    }
+    "type": "chandelier",
+    "size": "medium",
+    "shape": "tiered",
+    "material": [
+      "iron",
+      "fabric"
+    ],
+    "finish": "patina",
+    "vibes": [
+      "Colonial / Heritage",
+      "Warm Transitional",
+      "French Provincial"
+    ],
+    "styleTags": [
+      "twisted-iron",
+      "scrollwork",
+      "bell-shades",
+      "white-fabric",
+      "ornate-arms"
+    ],
+    "colorPalette": [
+      "dark bronze",
+      "antique iron",
+      "ivory white"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "study"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "bookshelf",
+      "artwork",
+      "floor_lamp",
+      "wall_sconce"
+    ],
+    "lightCount": 8,
+    "heightProfile": "standard",
+    "lightingEffect": "warm_diffused",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "The heavily ornate twisted iron arms and white bell shades bridge traditional and transitional aesthetics. Well suited to study rooms, dining areas, or heritage-style living spaces; pairs naturally with dark wood furniture and antique accents.",
+    "scaleReference": "Approximately 70\u201380 cm diameter, suits medium to large rooms",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false
   }
 ]
