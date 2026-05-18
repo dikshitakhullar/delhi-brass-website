@@ -2036,5 +2036,55 @@
       "/images/wall-lights/brass-cylinder-picture-light/02-lifestyle-lights-on.png",
       "/images/wall-lights/brass-cylinder-picture-light/03-hero.png"
     ]
+  },
+  {
+    "id": "45",
+    "name": "Wood Cylinder Picture Light",
+    "slug": "wood-cylinder-picture-light",
+    "category": "wall_light",
+    "sku": "DB-WL-045",
+    "material": [
+      "wood",
+      "brass"
+    ],
+    "finish": "patina",
+    "size": "small",
+    "description": "Minimalist vertical picture/accent light with a dark wood cylinder body and brass bracket mount. Warm directional downlight. Companion to the brass cylinder picture light.",
+    "colorPalette": [
+      "dark wood",
+      "antique brass"
+    ],
+    "styleTags": [
+      "cylinder",
+      "picture-light",
+      "wood",
+      "minimal",
+      "adjustable"
+    ],
+    "vibes": [
+      "Contemporary Minimal",
+      "Warm Transitional",
+      "Colonial / Heritage"
+    ],
+    "roomTypes": [
+      "hallway",
+      "study",
+      "formal_living"
+    ],
+    "pairsWith": [
+      "artwork",
+      "bookshelf",
+      "floor_mirror"
+    ],
+    "placementNotes": "Mount beside artwork or above a painting for directed accent light. The wood body adds warmth compared to the all-brass version. Works in pairs flanking a painting.",
+    "refImages": [
+      "IMG_6503.HEIC"
+    ],
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/wood-cylinder-picture-light/01-white-bg-studio.png",
+      "/images/wall-lights/wood-cylinder-picture-light/02-lifestyle-lights-on.png",
+      "/images/wall-lights/wood-cylinder-picture-light/03-hero.png"
+    ]
   }
 ]
