@@ -1838,8 +1838,8 @@
     ]
   },
   {
-    "name": "Acanthus Torch Hurricane Sconce",
-    "slug": "acanthus-torch-hurricane-sconce",
+    "name": "Ornate Torch Hurricane Sconce",
+    "slug": "ornate-torch-hurricane-sconce",
     "category": "wall_light",
     "sku": "DB-WL-041",
     "material": [
@@ -1882,9 +1882,9 @@
     "sourceFolder": "new_products",
     "id": "41",
     "images": [
-      "/images/wall-lights/acanthus-torch-hurricane-sconce/01-white-bg-studio.png",
-      "/images/wall-lights/acanthus-torch-hurricane-sconce/02-lifestyle-lights-on.png",
-      "/images/wall-lights/acanthus-torch-hurricane-sconce/03-hero.png"
+      "/images/wall-lights/ornate-torch-hurricane-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/ornate-torch-hurricane-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/ornate-torch-hurricane-sconce/03-hero.png"
     ]
   },
   {
