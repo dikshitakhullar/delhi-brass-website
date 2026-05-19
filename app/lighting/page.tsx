@@ -220,11 +220,14 @@ export default function LightingPage() {
   );
 }
 
+const PLACEHOLDER = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='530' fill='%23ece6da'%3E%3Crect width='400' height='530'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%23c4a872' font-size='12' font-family='sans-serif' letter-spacing='3'%3ECOMING SOON%3C/text%3E%3C/svg%3E";
+
 /* ===== PRODUCT CARD ===== */
 function ProductCard({ product, onClick }: { product: Product; onClick: () => void }) {
   const ref = useRef<HTMLDivElement>(null);
   const inView = useInView(ref, { once: true, margin: "-40px" });
   const [hovered, setHovered] = useState(false);
+  const [imgError, setImgError] = useState(false);
   const hasSecond = product.images.length > 1;
   const isStudio = !hasSecond || product.images[0]?.includes("studio") || product.images[0]?.includes("white");
 
@@ -243,19 +246,22 @@ function ProductCard({ product, onClick }: { product: Product; onClick: () => vo
     >
       <div style={{ position: "relative", aspectRatio: "3/4", borderRadius: 6, overflow: "hidden", background: "#ece6da" }}>
         <Image
-          src={product.images[0]}
+          src={imgError ? PLACEHOLDER : product.images[0]}
           alt={product.name}
           fill
           sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
-          style={{ objectFit: isStudio ? "contain" : "cover", padding: isStudio ? 16 : 0, transition: "opacity 0.5s ease", opacity: hovered && hasSecond ? 0 : 1 }}
+          style={{ objectFit: isStudio && !imgError ? "contain" : "cover", padding: isStudio && !imgError ? 16 : 0, transition: "opacity 0.5s ease", opacity: hovered && hasSecond && !imgError ? 0 : 1 }}
+          onError={() => setImgError(true)}
+          unoptimized={imgError}
         />
-        {hasSecond && (
+        {hasSecond && !imgError && (
           <Image
             src={product.images[1]}
             alt={`${product.name} lifestyle`}
             fill
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
             style={{ objectFit: "cover", transition: "opacity 0.5s ease", opacity: hovered ? 1 : 0 }}
+            onError={() => {}}
           />
         )}
 

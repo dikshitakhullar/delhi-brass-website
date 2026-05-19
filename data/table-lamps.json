@@ -1648,5 +1648,55 @@
       "/images/table-lamps/silver-ribbed-gourd-table-lamp/02-lifestyle-lights-on.png",
       "/images/table-lamps/silver-ribbed-gourd-table-lamp/03-hero.png"
     ]
+  },
+  {
+    "id": "40",
+    "name": "Iron Scroll Table Lamp",
+    "slug": "iron-scroll-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-040",
+    "material": [
+      "iron",
+      "marble"
+    ],
+    "finish": "matte_black",
+    "size": "medium",
+    "description": "Sculptural table lamp with curling iron scroll arms in matte black, holding an exposed globe bulb. White marble disc base. Modern art meets functional lighting. Delhi Brass branded.",
+    "colorPalette": [
+      "matte black",
+      "white marble"
+    ],
+    "styleTags": [
+      "sculptural",
+      "scroll",
+      "modern",
+      "marble-base",
+      "globe-bulb"
+    ],
+    "vibes": [
+      "Contemporary Minimal",
+      "Art Deco",
+      "Bohemian"
+    ],
+    "roomTypes": [
+      "study",
+      "bedroom",
+      "bar_area"
+    ],
+    "pairsWith": [
+      "side_table",
+      "bookshelf",
+      "bar_cart"
+    ],
+    "placementNotes": "A conversation piece. Best on a side table or desk where the sculptural form can be admired. The exposed globe bulb is part of the design.",
+    "refImages": [
+      "01.jpg"
+    ],
+    "sourceFolder": "table-lamps",
+    "images": [
+      "/images/table-lamps/iron-scroll-table-lamp/01-white-bg-studio.png",
+      "/images/table-lamps/iron-scroll-table-lamp/02-lifestyle-lights-on.png",
+      "/images/table-lamps/iron-scroll-table-lamp/03-hero.png"
+    ]
   }
 ]
