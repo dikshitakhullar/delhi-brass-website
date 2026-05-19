@@ -2312,5 +2312,207 @@
       "/images/wall-lights/dragon-phoenix-single-sconce/02-lifestyle-lights-on.png",
       "/images/wall-lights/dragon-phoenix-single-sconce/04-hero-70pct.png"
     ]
+  },
+  {
+    "name": "Distressed White Crystal Candelabra Sconce",
+    "slug": "distressed-white-crystal-candelabra-sconce",
+    "sku": "DB-WL-047",
+    "material": [
+      "iron",
+      "crystal"
+    ],
+    "finish": "distressed",
+    "size": "medium",
+    "description": "Two-arm candelabra wall sconce in distressed white/brown chalk finish with S-curve scrollwork backplate and dangling crystal teardrop pendants. Exposed candle bulbs. French Provincial farmhouse character.",
+    "id": "47",
+    "category": "wall_light",
+    "colorPalette": [],
+    "styleTags": [],
+    "vibes": [],
+    "roomTypes": [],
+    "pairsWith": [],
+    "placementNotes": "",
+    "refImages": [
+      "01.jpg"
+    ],
+    "sourceFolder": "Wall-Lights",
+    "images": [
+      "/images/wall-lights/distressed-white-crystal-candelabra-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/distressed-white-crystal-candelabra-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/distressed-white-crystal-candelabra-sconce/04-hero-70pct.png"
+    ]
+  },
+  {
+    "name": "Farmhouse Baluster Double Sconce",
+    "slug": "farmhouse-baluster-double-sconce",
+    "sku": "DB-WL-048",
+    "material": [
+      "wood",
+      "iron"
+    ],
+    "finish": "distressed",
+    "size": "medium",
+    "description": "Distressed whitewashed turned wood baluster centre column with two matte black iron S-curve arms holding exposed candle bulbs. Decorative distressed metal leaf pendants. Rustic farmhouse.",
+    "id": "48",
+    "category": "wall_light",
+    "colorPalette": [],
+    "styleTags": [],
+    "vibes": [],
+    "roomTypes": [],
+    "pairsWith": [],
+    "placementNotes": "",
+    "refImages": [
+      "01.jpg"
+    ],
+    "sourceFolder": "Wall-Lights",
+    "images": [
+      "/images/wall-lights/farmhouse-baluster-double-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/farmhouse-baluster-double-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/farmhouse-baluster-double-sconce/04-hero-70pct.png"
+    ]
+  },
+  {
+    "name": "Brass Leaf Triple Cylinder Sconce",
+    "slug": "brass-leaf-triple-cylinder-sconce",
+    "sku": "DB-WL-049",
+    "material": [
+      "brass",
+      "fabric"
+    ],
+    "finish": "antique",
+    "size": "large",
+    "description": "Three-arm wall sconce with geometric antique brass frame, three cream fabric cylinder shades, and decorative brass leaf accents at each shade base. Modern transitional.",
+    "id": "49",
+    "category": "wall_light",
+    "colorPalette": [],
+    "styleTags": [],
+    "vibes": [],
+    "roomTypes": [],
+    "pairsWith": [],
+    "placementNotes": "",
+    "refImages": [
+      "01.jpg"
+    ],
+    "sourceFolder": "Wall-Lights",
+    "images": [
+      "/images/wall-lights/brass-leaf-triple-cylinder-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/brass-leaf-triple-cylinder-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/brass-leaf-triple-cylinder-sconce/04-hero-70pct.png"
+    ]
+  },
+  {
+    "name": "Brass Globe Sconce",
+    "slug": "brass-globe-sconce",
+    "sku": "DB-WL-050",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "size": "medium",
+    "description": "Single-arm wall sconce with antique brass curved arm extending from a round rosette mount, holding a large clear glass globe shade with exposed filament bulb. Clean, classic.",
+    "id": "50",
+    "category": "wall_light",
+    "colorPalette": [],
+    "styleTags": [],
+    "vibes": [],
+    "roomTypes": [],
+    "pairsWith": [],
+    "placementNotes": "",
+    "refImages": [
+      "01.jpg"
+    ],
+    "sourceFolder": "Wall-Lights",
+    "images": [
+      "/images/wall-lights/brass-globe-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/brass-globe-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/brass-globe-sconce/04-hero-70pct.png"
+    ]
+  },
+  {
+    "name": "Leaf Frosted Glass Sconce",
+    "slug": "leaf-frosted-glass-sconce",
+    "sku": "DB-WL-051",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "size": "small",
+    "description": "Compact wall sconce with square antique brass backplate featuring embossed leaf motifs, slim arm holding a frosted rectangular glass shade angled upward. Warm diffused glow.",
+    "id": "51",
+    "category": "wall_light",
+    "colorPalette": [],
+    "styleTags": [],
+    "vibes": [],
+    "roomTypes": [],
+    "pairsWith": [],
+    "placementNotes": "",
+    "refImages": [
+      "01.jpg"
+    ],
+    "sourceFolder": "Wall-Lights",
+    "images": [
+      "/images/wall-lights/leaf-frosted-glass-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/leaf-frosted-glass-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/leaf-frosted-glass-sconce/04-hero-70pct.png"
+    ]
+  },
+  {
+    "name": "Brass Tiered Slat Sconce",
+    "slug": "brass-tiered-slat-sconce",
+    "sku": "DB-WL-052",
+    "material": [
+      "brass"
+    ],
+    "finish": "antique",
+    "size": "medium",
+    "description": "Art Deco horizontal wall sconce with three stacked graduated brass slats creating a tiered louvre effect. Light glows between the slats. Minimal and architectural.",
+    "id": "52",
+    "category": "wall_light",
+    "colorPalette": [],
+    "styleTags": [],
+    "vibes": [],
+    "roomTypes": [],
+    "pairsWith": [],
+    "placementNotes": "",
+    "refImages": [
+      "01.jpg"
+    ],
+    "sourceFolder": "Wall-Lights",
+    "images": [
+      "/images/wall-lights/brass-tiered-slat-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/brass-tiered-slat-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/brass-tiered-slat-sconce/04-hero-70pct.png"
+    ]
+  },
+  {
+    "name": "Laurel Wreath Double Shade Sconce",
+    "slug": "laurel-wreath-double-shade-sconce",
+    "sku": "DB-WL-053",
+    "material": [
+      "brass",
+      "fabric"
+    ],
+    "finish": "antique",
+    "size": "large",
+    "description": "Grand two-arm wall sconce with elaborate laurel wreath and ribbon bow backplate in antique brass. Ornate floral rosette at centre, two curved arms with cream fabric drum shades. Classical French Empire.",
+    "id": "53",
+    "category": "wall_light",
+    "colorPalette": [],
+    "styleTags": [],
+    "vibes": [],
+    "roomTypes": [],
+    "pairsWith": [],
+    "placementNotes": "",
+    "refImages": [
+      "01.jpg"
+    ],
+    "sourceFolder": "Wall-Lights",
+    "images": [
+      "/images/wall-lights/laurel-wreath-double-shade-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/laurel-wreath-double-shade-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/laurel-wreath-double-shade-sconce/04-hero-70pct.png"
+    ]
   }
 ]
