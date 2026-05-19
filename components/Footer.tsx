@@ -75,7 +75,7 @@ export default function Footer() {
             <p className="text-[#f0e8dc]">4651/279, Daulatabad Road</p>
             <p className="text-[#8a8070]">Gurgaon (Near Railway Station), Haryana</p>
             <p className="text-[#8a8070] mt-2">
-              <a href="tel:+911242469788" className="hover:text-[#dcc99b] transition-colors">+91-9212787172</a>
+              <a href="tel:+919212787172" className="hover:text-[#dcc99b] transition-colors">+91-9212787172</a>
             </p>
           </div>
         </motion.div>
