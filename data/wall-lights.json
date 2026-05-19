@@ -2261,5 +2261,53 @@
       "/images/wall-lights/wood-cylinder-picture-light/02-lifestyle-lights-on.png",
       "/images/wall-lights/wood-cylinder-picture-light/03-hero.png"
     ]
+  },
+  {
+    "id": "46",
+    "name": "Industrial Mechanical Sconce",
+    "slug": "industrial-mechanical-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-046",
+    "material": [
+      "iron"
+    ],
+    "finish": "matte_black",
+    "size": "medium",
+    "description": "Industrial wall sconce with interlocking cog/gear mechanism backplate in matte black, single arm with exposed filament bulb and white bell shade.",
+    "colorPalette": [
+      "matte black",
+      "cream white"
+    ],
+    "styleTags": [
+      "industrial",
+      "gear",
+      "mechanical",
+      "steampunk"
+    ],
+    "vibes": [
+      "Industrial Chic",
+      "Contemporary Minimal",
+      "Art Deco"
+    ],
+    "roomTypes": [
+      "bar_area",
+      "study",
+      "hallway"
+    ],
+    "pairsWith": [
+      "bookshelf",
+      "bar_cart",
+      "artwork"
+    ],
+    "placementNotes": "A conversation piece for bar areas, studies, or industrial-themed spaces.",
+    "refImages": [
+      "01.jpg"
+    ],
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/industrial-mechanical-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/industrial-mechanical-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/industrial-mechanical-sconce/03-hero.png"
+    ]
   }
 ]
