@@ -259,11 +259,6 @@ function ProductCard({ product, onClick }: { product: Product; onClick: () => vo
           />
         )}
 
-        {/* Category badge */}
-        <div style={{ position: "absolute", top: 10, left: 10, background: "rgba(248,245,240,0.85)", borderRadius: 3, padding: "3px 8px", fontSize: 8, letterSpacing: 2, color: "#6a6050" }}>
-          {product.category.toUpperCase()}
-        </div>
-
         {/* Bottom bar */}
         <div style={{
           position: "absolute", bottom: 0, left: 0, right: 0,

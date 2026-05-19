@@ -604,17 +604,18 @@
     ]
   },
   {
-    "name": "Hammered Brass Sphere Table Lamp",
-    "slug": "hammered-brass-sphere-table-lamp",
+    "name": "Hammered Glass Sphere Table Lamp",
+    "slug": "hammered-glass-sphere-table-lamp",
     "category": "table_lamp",
     "sku": "DB-TL-014",
     "material": [
+      "glass",
       "brass",
       "fabric"
     ],
     "finish": "antique",
     "size": "large",
-    "description": "A bold spherical base in hand-hammered antique brass with a rich all-over pebble texture, mounted on a wide brass disc plinth. The lamp is offered with two shade options \u2014 a dark grey pleated drum shade for a moody, dramatic look, and a cream pleated empire shade for a warmer, classic feel. The substantial weight and hand-worked surface give it an heirloom quality.",
+    "description": "A bold spherical base in hand-translucent hammered glass in smoked amber/champagne tone with a rich all-over honeycomb dimpled texture, mounted on a wide brass disc plinth. The lamp is offered with two shade options \u2014 a dark grey pleated drum shade for a moody, dramatic look, and a cream pleated empire shade for a warmer, classic feel. The substantial weight and hand-worked surface give it an heirloom quality.",
     "colorPalette": [
       "hammered antique brass",
       "dark grey",
@@ -644,9 +645,9 @@
     "sourceFolder": "table-lamps",
     "id": "14",
     "images": [
-      "/images/table-lamps/hammered-brass-sphere-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/hammered-brass-sphere-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/hammered-brass-sphere-table-lamp/03-hero.png"
+      "/images/table-lamps/hammered-glass-sphere-table-lamp/01-white-bg-studio.png",
+      "/images/table-lamps/hammered-glass-sphere-table-lamp/02-lifestyle-lights-on.png",
+      "/images/table-lamps/hammered-glass-sphere-table-lamp/03-hero.png"
     ]
   },
   {
@@ -1359,6 +1360,293 @@
       "/images/table-lamps/stone-pebble-drum-table-lamp/01-white-bg-studio.png",
       "/images/table-lamps/stone-pebble-drum-table-lamp/02-lifestyle-lights-on.png",
       "/images/table-lamps/stone-pebble-drum-table-lamp/03-hero.png"
+    ]
+  },
+  {
+    "name": "Ribbed Silver Cylinder Table Lamp",
+    "slug": "ribbed-silver-cylinder-black-shade-table-lamp",
+    "material": [
+      "metal",
+      "fabric"
+    ],
+    "finish": "brushed",
+    "size": "large",
+    "description": "Tall silver cylinder base with fine horizontal ribbed/lizard-skin texture on a brushed steel disc. Dark charcoal/black drum shade. Contemporary industrial elegance.",
+    "id": "30",
+    "category": "table_lamp",
+    "sku": "DB-TL-030",
+    "colorPalette": [],
+    "styleTags": [],
+    "vibes": [],
+    "roomTypes": [],
+    "placementNotes": "",
+    "refImages": [
+      "table-lamp-1.jpg"
+    ],
+    "sourceFolder": "delhi-brass-root",
+    "images": [
+      "/images/table-lamps/ribbed-silver-cylinder-black-shade-table-lamp/01-white-bg-studio.png",
+      "/images/table-lamps/ribbed-silver-cylinder-black-shade-table-lamp/02-lifestyle-lights-on.png",
+      "/images/table-lamps/ribbed-silver-cylinder-black-shade-table-lamp/03-hero.png"
+    ]
+  },
+  {
+    "name": "Corrugated Silver Cylinder Table Lamp",
+    "slug": "corrugated-silver-cylinder-white-shade-table-lamp",
+    "material": [
+      "metal",
+      "fabric"
+    ],
+    "finish": "brushed",
+    "size": "large",
+    "description": "Wide silver cylinder base with bold vertical corrugated/pleated texture on a brushed steel disc. White linen drum shade. Modern sculptural form.",
+    "id": "31",
+    "category": "table_lamp",
+    "sku": "DB-TL-031",
+    "colorPalette": [],
+    "styleTags": [],
+    "vibes": [],
+    "roomTypes": [],
+    "placementNotes": "",
+    "refImages": [
+      "table-lamp-2.jpg"
+    ],
+    "sourceFolder": "delhi-brass-root",
+    "images": [
+      "/images/table-lamps/corrugated-silver-cylinder-white-shade-table-lamp/01-white-bg-studio.png",
+      "/images/table-lamps/corrugated-silver-cylinder-white-shade-table-lamp/02-lifestyle-lights-on.png",
+      "/images/table-lamps/corrugated-silver-cylinder-white-shade-table-lamp/03-hero.png"
+    ]
+  },
+  {
+    "name": "Clear Glass Urn Table Lamp",
+    "slug": "clear-glass-urn-table-lamp",
+    "material": [
+      "glass",
+      "brass",
+      "fabric"
+    ],
+    "finish": "polished",
+    "size": "large",
+    "description": "Large clear glass urn/globe base with a visible brass rod through the centre, on a polished brass disc foot. Dark charcoal drum shade. Transparent and airy.",
+    "id": "32",
+    "category": "table_lamp",
+    "sku": "DB-TL-032",
+    "colorPalette": [],
+    "styleTags": [],
+    "vibes": [],
+    "roomTypes": [],
+    "placementNotes": "",
+    "refImages": [
+      "table-lamp-3.jpg"
+    ],
+    "sourceFolder": "delhi-brass-root",
+    "images": [
+      "/images/table-lamps/clear-glass-urn-table-lamp/01-white-bg-studio.png",
+      "/images/table-lamps/clear-glass-urn-table-lamp/02-lifestyle-lights-on.png",
+      "/images/table-lamps/clear-glass-urn-table-lamp/03-hero.png"
+    ]
+  },
+  {
+    "name": "Hammered Glass Pot Table Lamp",
+    "slug": "hammered-glass-pot-table-lamp",
+    "material": [
+      "glass",
+      "brass",
+      "fabric"
+    ],
+    "finish": "antique",
+    "size": "medium",
+    "description": "Flattened pot-shaped hammered glass base in smoked amber/champagne tone with honeycomb dimpled texture, brass ring cradle. Cream pleated empire shade.",
+    "id": "33",
+    "category": "table_lamp",
+    "sku": "DB-TL-033",
+    "colorPalette": [],
+    "styleTags": [],
+    "vibes": [],
+    "roomTypes": [],
+    "placementNotes": "",
+    "refImages": [
+      "table-lamp-4.jpg"
+    ],
+    "sourceFolder": "delhi-brass-root",
+    "images": [
+      "/images/table-lamps/hammered-glass-pot-table-lamp/01-white-bg-studio.png",
+      "/images/table-lamps/hammered-glass-pot-table-lamp/02-lifestyle-lights-on.png",
+      "/images/table-lamps/hammered-glass-pot-table-lamp/03-hero.png"
+    ]
+  },
+  {
+    "name": "Wood Filigree Sphere Table Lamp",
+    "slug": "wood-filigree-sphere-table-lamp",
+    "material": [
+      "wood",
+      "brass",
+      "fabric"
+    ],
+    "finish": "polished",
+    "size": "medium",
+    "description": "Polished dark wood sphere base with a decorative brass filigree band around the equator, on a square wooden pedestal. Cream pleated empire shade. Delhi Brass branded.",
+    "id": "34",
+    "category": "table_lamp",
+    "sku": "DB-TL-034",
+    "colorPalette": [],
+    "styleTags": [],
+    "vibes": [],
+    "roomTypes": [],
+    "placementNotes": "",
+    "refImages": [
+      "table-lamp-5.jpg"
+    ],
+    "sourceFolder": "delhi-brass-root",
+    "images": [
+      "/images/table-lamps/wood-filigree-sphere-table-lamp/01-white-bg-studio.png",
+      "/images/table-lamps/wood-filigree-sphere-table-lamp/02-lifestyle-lights-on.png",
+      "/images/table-lamps/wood-filigree-sphere-table-lamp/03-hero.png"
+    ]
+  },
+  {
+    "name": "Wood Abacus Table Lamp",
+    "slug": "wood-abacus-table-lamp",
+    "material": [
+      "wood",
+      "metal",
+      "fabric"
+    ],
+    "finish": "matte",
+    "size": "large",
+    "description": "Geometric table lamp with two rows of wooden diamond blocks separated by chrome balls on parallel metal rods, square wooden base. Cream rectangular drum shade. Contemporary sculptural.",
+    "id": "35",
+    "category": "table_lamp",
+    "sku": "DB-TL-035",
+    "colorPalette": [],
+    "styleTags": [],
+    "vibes": [],
+    "roomTypes": [],
+    "placementNotes": "",
+    "refImages": [
+      "table-lamp-6.jpg"
+    ],
+    "sourceFolder": "delhi-brass-root",
+    "images": [
+      "/images/table-lamps/wood-abacus-table-lamp/01-white-bg-studio.png",
+      "/images/table-lamps/wood-abacus-table-lamp/02-lifestyle-lights-on.png",
+      "/images/table-lamps/wood-abacus-table-lamp/03-hero.png"
+    ]
+  },
+  {
+    "name": "Rosewood Fluted Urn Table Lamp",
+    "slug": "rosewood-fluted-urn-table-lamp",
+    "material": [
+      "wood",
+      "brass",
+      "fabric"
+    ],
+    "finish": "polished",
+    "size": "medium",
+    "description": "Dark rosewood fluted urn base with a polished brass ring at the base. Cream pleated empire shade. Classical Indian craftsmanship.",
+    "id": "36",
+    "category": "table_lamp",
+    "sku": "DB-TL-036",
+    "colorPalette": [],
+    "styleTags": [],
+    "vibes": [],
+    "roomTypes": [],
+    "placementNotes": "",
+    "refImages": [
+      "table-lamp-7.jpg"
+    ],
+    "sourceFolder": "delhi-brass-root",
+    "images": [
+      "/images/table-lamps/rosewood-fluted-urn-table-lamp/01-white-bg-studio.png",
+      "/images/table-lamps/rosewood-fluted-urn-table-lamp/02-lifestyle-lights-on.png",
+      "/images/table-lamps/rosewood-fluted-urn-table-lamp/03-hero.png"
+    ]
+  },
+  {
+    "name": "Crystal Filigree Box Table Lamp",
+    "slug": "crystal-filigree-box-table-lamp",
+    "material": [
+      "iron",
+      "crystal",
+      "fabric"
+    ],
+    "finish": "matte_black",
+    "size": "large",
+    "description": "Rectangular box-shaped base with dark iron filigree frame filled with crystal florets and beads. Cream pleated empire shade. Also available with plum/purple shade. Ornate and glamorous.",
+    "id": "37",
+    "category": "table_lamp",
+    "sku": "DB-TL-037",
+    "colorPalette": [],
+    "styleTags": [],
+    "vibes": [],
+    "roomTypes": [],
+    "placementNotes": "",
+    "refImages": [
+      "table-lamp-8.jpg"
+    ],
+    "sourceFolder": "delhi-brass-root",
+    "images": [
+      "/images/table-lamps/crystal-filigree-box-table-lamp/01-white-bg-studio.png",
+      "/images/table-lamps/crystal-filigree-box-table-lamp/02-lifestyle-lights-on.png",
+      "/images/table-lamps/crystal-filigree-box-table-lamp/03-hero.png"
+    ]
+  },
+  {
+    "name": "Black Ceramic Torpedo Table Lamp",
+    "slug": "black-ceramic-torpedo-table-lamp",
+    "material": [
+      "ceramic",
+      "brass",
+      "fabric"
+    ],
+    "finish": "polished",
+    "size": "medium",
+    "description": "Glossy black ceramic torpedo/bullet-shaped base with polished brass accents at neck and foot, on a square brass pedestal. Dark drum shade with gold trim. Sleek Art Deco.",
+    "id": "38",
+    "category": "table_lamp",
+    "sku": "DB-TL-038",
+    "colorPalette": [],
+    "styleTags": [],
+    "vibes": [],
+    "roomTypes": [],
+    "placementNotes": "",
+    "refImages": [
+      "table-lamp-9.jpg"
+    ],
+    "sourceFolder": "delhi-brass-root",
+    "images": [
+      "/images/table-lamps/black-ceramic-torpedo-table-lamp/01-white-bg-studio.png",
+      "/images/table-lamps/black-ceramic-torpedo-table-lamp/02-lifestyle-lights-on.png",
+      "/images/table-lamps/black-ceramic-torpedo-table-lamp/03-hero.png"
+    ]
+  },
+  {
+    "name": "Silver Ribbed Gourd Table Lamp",
+    "slug": "silver-ribbed-gourd-table-lamp",
+    "material": [
+      "metal",
+      "fabric"
+    ],
+    "finish": "polished",
+    "size": "large",
+    "description": "Polished silver double-gourd/pumpkin shaped base with deep vertical ribbing. Cream pleated empire shade. Bold sculptural silhouette.",
+    "id": "39",
+    "category": "table_lamp",
+    "sku": "DB-TL-039",
+    "colorPalette": [],
+    "styleTags": [],
+    "vibes": [],
+    "roomTypes": [],
+    "placementNotes": "",
+    "refImages": [
+      "table-lamp-10.jpg"
+    ],
+    "sourceFolder": "delhi-brass-root",
+    "images": [
+      "/images/table-lamps/silver-ribbed-gourd-table-lamp/01-white-bg-studio.png",
+      "/images/table-lamps/silver-ribbed-gourd-table-lamp/02-lifestyle-lights-on.png",
+      "/images/table-lamps/silver-ribbed-gourd-table-lamp/03-hero.png"
     ]
   }
 ]

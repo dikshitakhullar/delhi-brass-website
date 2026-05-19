@@ -6048,5 +6048,66 @@
     },
     "collectionSlug": "pendants",
     "collection": "Pendants"
+  },
+  {
+    "id": "100",
+    "name": "Fern Blossom",
+    "slug": "fern-blossom",
+    "collection": "Signature Collection",
+    "collectionSlug": "signature",
+    "type": "chandelier",
+    "size": "large",
+    "shape": "linear",
+    "material": [
+      "iron",
+      "glass"
+    ],
+    "finish": "patina",
+    "vibes": [
+      "Bohemian",
+      "Modern Indian",
+      "Warm Transitional"
+    ],
+    "styleTags": [
+      "botanical",
+      "tulip-petal",
+      "branch",
+      "organic",
+      "sculptural"
+    ],
+    "colorPalette": [
+      "dark bronze",
+      "aged patina",
+      "frosted white"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "dining_room",
+      "double_height_foyer"
+    ],
+    "pairsWith": [
+      "dining_table",
+      "floor_lamp",
+      "artwork",
+      "console_table"
+    ],
+    "heightProfile": "compact",
+    "lightingEffect": "diffused",
+    "ceilingHeightMin": "9ft",
+    "isDiningTablePiece": true,
+    "placementNotes": "Sister to the Fern Nocturne. The sprawling botanical branches with white tulip petal glass shades make this ideal over a long dining table or as a ceiling sculpture. Wide spread requires ample horizontal clearance.",
+    "scaleReference": "Approximately 120-140cm wide, low-profile drop",
+    "refImages": [
+      "01.jpg"
+    ],
+    "hasGenerated": false,
+    "description": "Sprawling botanical branch chandelier in dark patina iron with white tulip/lotus petal glass shades. Sister piece to Fern Nocturne \u2014 same organic branch silhouette with elongated petal shades.",
+    "images": {
+      "studio": "/images/chandeliers/fern-blossom/studio.png",
+      "lifestyle": "/images/chandeliers/fern-blossom/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/fern-blossom/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/fern-blossom/04-hero-70pct.png",
+      "detail": "/images/chandeliers/fern-blossom/05-detail-zoomed.png"
+    }
   }
 ]
