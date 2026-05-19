@@ -2261,5 +2261,56 @@
       "/images/wall-lights/wood-cylinder-picture-light/02-lifestyle-lights-on.png",
       "/images/wall-lights/wood-cylinder-picture-light/04-hero-70pct.png"
     ]
+  },
+  {
+    "id": "46",
+    "name": "Dragon Phoenix Single Sconce",
+    "slug": "dragon-phoenix-single-sconce",
+    "category": "wall_light",
+    "sku": "DB-WL-046",
+    "material": [
+      "brass",
+      "glass"
+    ],
+    "finish": "antique",
+    "size": "medium",
+    "description": "Single-arm wall sconce with a mythical dragon/phoenix figure in ornate antique brass holding a clear glass hurricane shade. Elaborate shell and acanthus backplate.",
+    "colorPalette": [
+      "antique brass",
+      "clear glass",
+      "warm gold"
+    ],
+    "styleTags": [
+      "dragon",
+      "phoenix",
+      "mythical",
+      "single-arm",
+      "hurricane"
+    ],
+    "vibes": [
+      "Classical / Ornate",
+      "Modern Indian",
+      "Colonial / Heritage"
+    ],
+    "roomTypes": [
+      "foyer",
+      "formal_living",
+      "dining_room"
+    ],
+    "pairsWith": [
+      "console_table",
+      "floor_mirror",
+      "artwork"
+    ],
+    "placementNotes": "Use in pairs flanking a mirror or painting. The mythical figure adds Indian heritage character.",
+    "refImages": [
+      "01.jpg"
+    ],
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/wall-lights/dragon-phoenix-single-sconce/01-white-bg-studio.png",
+      "/images/wall-lights/dragon-phoenix-single-sconce/02-lifestyle-lights-on.png",
+      "/images/wall-lights/dragon-phoenix-single-sconce/04-hero-70pct.png"
+    ]
   }
 ]
