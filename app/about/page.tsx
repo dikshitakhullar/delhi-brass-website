@@ -316,8 +316,7 @@ export default function AboutPage() {
                 <h3 style={{ fontFamily: "var(--font-forum), serif", fontSize: 20, letterSpacing: 4, fontWeight: 400, color: "#2a2218", marginBottom: 12 }}>FACTORY</h3>
                 <p style={{ fontSize: 13, color: "#6a6050", lineHeight: 1.6, marginBottom: 4 }}>4651/279, Daulatabad Road</p>
                 <p style={{ fontSize: 13, color: "#8a7e6e", lineHeight: 1.6, marginBottom: 12 }}>Gurgaon (Nr Railway Stn), Haryana</p>
-                <p style={{ fontSize: 13, color: "#6a6050" }}><a href="tel:+919212787172" style={{ color: "inherit" }}>+91-9212787172</a></p>
-              </div>
+                              </div>
             </div>
 
             <div style={{ textAlign: "center", marginTop: 40 }}>

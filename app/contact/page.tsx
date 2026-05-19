@@ -33,8 +33,8 @@ const locations = [
   {
     name: "FACTORY",
     lines: ["4651/279, Daulatabad Road", "Gurgaon (Nr Railway Station), Haryana"],
-    phone: "+91-9212787172",
-    phoneTel: "+919212787172",
+    phone: "",
+    phoneTel: "",
     note: "By appointment",
   },
 ];
