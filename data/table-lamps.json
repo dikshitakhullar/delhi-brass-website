@@ -1308,5 +1308,57 @@
       "/images/table-lamps/onyx-egg-table-lamp/02-lifestyle-lights-on.png",
       "/images/table-lamps/onyx-egg-table-lamp/03-hero.png"
     ]
+  },
+  {
+    "id": "29",
+    "name": "Stone Pebble Drum Table Lamp",
+    "slug": "stone-pebble-drum-table-lamp",
+    "category": "table_lamp",
+    "sku": "DB-TL-029",
+    "material": [
+      "stone",
+      "brass",
+      "fabric"
+    ],
+    "finish": "matte",
+    "size": "medium",
+    "description": "A contemporary table lamp with a smooth dark stone pebble-shaped base with natural texture, copper/brass disc mount, and a large black drum shade. Moody and sculptural.",
+    "colorPalette": [
+      "dark stone grey",
+      "copper",
+      "matte black"
+    ],
+    "styleTags": [
+      "stone",
+      "pebble",
+      "drum-shade",
+      "modern",
+      "sculptural"
+    ],
+    "vibes": [
+      "Contemporary Minimal",
+      "Art Deco",
+      "Industrial Chic"
+    ],
+    "roomTypes": [
+      "formal_living",
+      "study",
+      "bar_area"
+    ],
+    "pairsWith": [
+      "side_table",
+      "bookshelf",
+      "bar_cart"
+    ],
+    "placementNotes": "A moody accent lamp. Best on a dark wood side table or bar cabinet. The stone base and black shade suit dark, sophisticated interiors.",
+    "refImages": [
+      "03.jpg"
+    ],
+    "sourceFolder": "table-lamps",
+    "images": [
+      "/images/table-lamps/stone-pebble-drum-table-lamp/01-white-bg-studio.png",
+      "/images/table-lamps/stone-pebble-drum-table-lamp/02-lifestyle-lights-on.png",
+      "/images/table-lamps/stone-pebble-drum-table-lamp/03-hero.png"
+    ]
   }
 ]
