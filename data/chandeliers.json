@@ -5390,8 +5390,8 @@
     }
   },
   {
-    "slug": "peacock-dome",
-    "name": "Peacock Dome",
+    "slug": "dragon-phoenix-pendant",
+    "name": "Dragon Phoenix Pendant",
     "collection": "Signature Collection",
     "type": "pendant",
     "size": "small",
@@ -5444,11 +5444,11 @@
     "id": "89",
     "collectionSlug": "signature",
     "images": {
-      "studio": "/images/chandeliers/peacock-dome/studio.png",
-      "lifestyle": "/images/chandeliers/peacock-dome/02-lifestyle-lights-on.png",
-      "daylight": "/images/chandeliers/peacock-dome/03-lifestyle-lights-off.png",
-      "hero": "/images/chandeliers/peacock-dome/04-hero-70pct.png",
-      "detail": "/images/chandeliers/peacock-dome/05-detail-zoomed.png"
+      "studio": "/images/chandeliers/dragon-phoenix-pendant/studio.png",
+      "lifestyle": "/images/chandeliers/dragon-phoenix-pendant/02-lifestyle-lights-on.png",
+      "daylight": "/images/chandeliers/dragon-phoenix-pendant/03-lifestyle-lights-off.png",
+      "hero": "/images/chandeliers/dragon-phoenix-pendant/04-hero-70pct.png",
+      "detail": "/images/chandeliers/dragon-phoenix-pendant/05-detail-zoomed.png"
     }
   },
   {

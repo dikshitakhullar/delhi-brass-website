@@ -84,6 +84,12 @@ export default function LightingPage() {
     return items;
   }, [activeCategory, activeCollection]);
 
+  const PAGE_SIZE = 50;
+  const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
+
+  const visible = filtered.slice(0, visibleCount);
+  const hasMore = visibleCount < filtered.length;
+
   const selectedProduct = selectedIdx !== null ? filtered[selectedIdx] : null;
 
   const goNext = useCallback(() => {
@@ -98,11 +104,13 @@ export default function LightingPage() {
     setActiveCategory(name);
     setActiveCollection(null);
     setSelectedIdx(null);
+    setVisibleCount(PAGE_SIZE);
   };
 
   const handleCollectionClick = (name: string) => {
     setActiveCollection(activeCollection === name ? null : name);
     setSelectedIdx(null);
+    setVisibleCount(PAGE_SIZE);
   };
 
   return (
@@ -195,13 +203,39 @@ export default function LightingPage() {
       </div>
 
       {/* Product Grid */}
-      <div style={{ padding: "0 clamp(20px, 4vw, 60px) clamp(60px, 8vw, 100px)", display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(260px, 1fr))", gap: "clamp(16px, 2vw, 28px)" }}>
+      <div style={{ padding: "0 clamp(20px, 4vw, 60px) 0", display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(260px, 1fr))", gap: "clamp(16px, 2vw, 28px)" }}>
         <AnimatePresence mode="popLayout">
-          {filtered.map((p, i) => (
+          {visible.map((p, i) => (
             <ProductCard key={p.id} product={p} onClick={() => setSelectedIdx(i)} />
           ))}
         </AnimatePresence>
       </div>
+
+      {/* Load More */}
+      {hasMore && (
+        <div style={{ textAlign: "center", padding: "clamp(40px, 5vw, 60px) 0" }}>
+          <button
+            onClick={() => setVisibleCount((v) => v + PAGE_SIZE)}
+            style={{
+              padding: "14px 40px",
+              background: "none",
+              border: "1.5px solid rgba(42,34,24,0.2)",
+              color: "#2a2218",
+              fontSize: 10,
+              letterSpacing: 3,
+              cursor: "pointer",
+              fontFamily: "var(--font-tenor-sans), sans-serif",
+              transition: "all 0.2s",
+            }}
+            onMouseEnter={(e) => { e.currentTarget.style.background = "#2a2218"; e.currentTarget.style.color = "#f5f0e8"; }}
+            onMouseLeave={(e) => { e.currentTarget.style.background = "none"; e.currentTarget.style.color = "#2a2218"; }}
+          >
+            LOAD MORE ({filtered.length - visibleCount} REMAINING)
+          </button>
+        </div>
+      )}
+
+      <div style={{ height: hasMore ? 0 : "clamp(60px, 8vw, 100px)" }} />
 
       {/* Modal */}
       <AnimatePresence>
