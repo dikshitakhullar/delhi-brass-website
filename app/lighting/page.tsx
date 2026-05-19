@@ -250,11 +250,60 @@ export default function LightingPage() {
           />
         )}
       </AnimatePresence>
+
+      {/* Scroll to top */}
+      <ScrollToTop />
     </main>
   );
 }
 
 const PLACEHOLDER = "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='400' height='530' fill='%23ece6da'%3E%3Crect width='400' height='530'/%3E%3Ctext x='50%25' y='50%25' dominant-baseline='middle' text-anchor='middle' fill='%23c4a872' font-size='12' font-family='sans-serif' letter-spacing='3'%3ECOMING SOON%3C/text%3E%3C/svg%3E";
+
+/* ===== SCROLL TO TOP ===== */
+function ScrollToTop() {
+  const [show, setShow] = useState(false);
+
+  useEffect(() => {
+    const onScroll = () => setShow(window.scrollY > 800);
+    window.addEventListener("scroll", onScroll, { passive: true });
+    return () => window.removeEventListener("scroll", onScroll);
+  }, []);
+
+  return (
+    <AnimatePresence>
+      {show && (
+        <motion.button
+          initial={{ opacity: 0, scale: 0.8 }}
+          animate={{ opacity: 1, scale: 1 }}
+          exit={{ opacity: 0, scale: 0.8 }}
+          transition={{ duration: 0.2 }}
+          onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+          style={{
+            position: "fixed",
+            bottom: 32,
+            right: 32,
+            width: 44,
+            height: 44,
+            borderRadius: "50%",
+            background: "#2a2218",
+            color: "#f5f0e8",
+            border: "none",
+            cursor: "pointer",
+            display: "flex",
+            alignItems: "center",
+            justifyContent: "center",
+            boxShadow: "0 4px 16px rgba(0,0,0,0.15)",
+            zIndex: 50,
+            fontSize: 18,
+          }}
+          aria-label="Scroll to top"
+        >
+          &#8593;
+        </motion.button>
+      )}
+    </AnimatePresence>
+  );
+}
 
 /* ===== PRODUCT CARD ===== */
 function ProductCard({ product, onClick }: { product: Product; onClick: () => void }) {
