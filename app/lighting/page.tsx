@@ -84,7 +84,7 @@ export default function LightingPage() {
     return items;
   }, [activeCategory, activeCollection]);
 
-  const PAGE_SIZE = 50;
+  const PAGE_SIZE = 48;
   const [visibleCount, setVisibleCount] = useState(PAGE_SIZE);
 
   const visible = filtered.slice(0, visibleCount);
@@ -286,7 +286,7 @@ function ProductCard({ product, onClick }: { product: Product; onClick: () => vo
           sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
           style={{ objectFit: isStudio && !imgError ? "contain" : "cover", padding: isStudio && !imgError ? 16 : 0, transition: "opacity 0.5s ease", opacity: hovered && hasSecond && !imgError ? 0 : 1 }}
           onError={() => setImgError(true)}
-          unoptimized={imgError}
+          unoptimized
         />
         {hasSecond && !imgError && (
           <Image
@@ -296,6 +296,7 @@ function ProductCard({ product, onClick }: { product: Product; onClick: () => vo
             sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 25vw"
             style={{ objectFit: "cover", transition: "opacity 0.5s ease", opacity: hovered ? 1 : 0 }}
             onError={() => {}}
+            unoptimized
           />
         )}
 
