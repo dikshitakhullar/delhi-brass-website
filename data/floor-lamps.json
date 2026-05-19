@@ -43,7 +43,12 @@
     "refImages": [
       "IMG_6337.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/floor-lamps/crystal-candelabra-floor-lamp/01-white-bg-studio.png",
+      "/images/floor-lamps/crystal-candelabra-floor-lamp/02-lifestyle-lights-on.png",
+      "/images/floor-lamps/crystal-candelabra-floor-lamp/04-hero-70pct.png"
+    ]
   },
   {
     "id": "2",
@@ -88,7 +93,12 @@
     "refImages": [
       "IMG_6344.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/floor-lamps/iron-scroll-floor-lamp/01-white-bg-studio.png",
+      "/images/floor-lamps/iron-scroll-floor-lamp/02-lifestyle-lights-on.png",
+      "/images/floor-lamps/iron-scroll-floor-lamp/04-hero-70pct.png"
+    ]
   },
   {
     "id": "3",
@@ -133,7 +143,12 @@
     "refImages": [
       "IMG_6346.HEIC"
     ],
-    "sourceFolder": "new_products"
+    "sourceFolder": "new_products",
+    "images": [
+      "/images/floor-lamps/twin-rod-floor-lamp/01-white-bg-studio.png",
+      "/images/floor-lamps/twin-rod-floor-lamp/02-lifestyle-lights-on.png",
+      "/images/floor-lamps/twin-rod-floor-lamp/04-hero-70pct.png"
+    ]
   },
   {
     "id": "4",
@@ -178,7 +193,12 @@
     "refImages": [
       "floor_lamp.jpeg"
     ],
-    "sourceFolder": "loose"
+    "sourceFolder": "loose",
+    "images": [
+      "/images/floor-lamps/tripod-drum-floor-lamp/01-white-bg-studio.png",
+      "/images/floor-lamps/tripod-drum-floor-lamp/02-lifestyle-lights-on.png",
+      "/images/floor-lamps/tripod-drum-floor-lamp/04-hero-70pct.png"
+    ]
   },
   {
     "name": "Carved Wood Column Floor Lamp",
@@ -231,6 +251,65 @@
       "/images/floor-lamps/carved-wood-column-floor-lamp/01-white-bg-studio.png",
       "/images/floor-lamps/carved-wood-column-floor-lamp/02-lifestyle-lights-on.png",
       "/images/floor-lamps/carved-wood-column-floor-lamp/03-hero.png"
+    ]
+  },
+  {
+    "name": "Carved Wood Column Floor Lamp (Short)",
+    "slug": "carved-wood-column-floor-lamp-short",
+    "sku": "DB-FL-006",
+    "material": [
+      "wood",
+      "fabric",
+      "brass"
+    ],
+    "finish": "distressed",
+    "size": "large",
+    "description": "Shorter version of the carved wood column floor lamp. Dark carved wood baluster body with ornate acanthus scroll bracket, dark drum shade. Heritage character.",
+    "id": "6",
+    "category": "floor_lamp",
+    "colorPalette": [],
+    "styleTags": [],
+    "vibes": [],
+    "roomTypes": [],
+    "pairsWith": [],
+    "placementNotes": "",
+    "refImages": [
+      "01.jpg"
+    ],
+    "sourceFolder": "Floor-Lamps",
+    "images": [
+      "/images/floor-lamps/carved-wood-column-floor-lamp-short/01-white-bg-studio.png",
+      "/images/floor-lamps/carved-wood-column-floor-lamp-short/02-lifestyle-lights-on.png",
+      "/images/floor-lamps/carved-wood-column-floor-lamp-short/04-hero-70pct.png"
+    ]
+  },
+  {
+    "name": "Carved Wood Baluster Floor Lamp",
+    "slug": "carved-wood-baluster-floor-lamp",
+    "sku": "DB-FL-007",
+    "material": [
+      "wood",
+      "fabric"
+    ],
+    "finish": "distressed",
+    "size": "grand",
+    "description": "Grand floor lamp with a massive hand-carved natural wood baluster urn body in raw bleached finish. Available with dark drum shade or gold pyramid shade. Statement piece for large rooms.",
+    "id": "7",
+    "category": "floor_lamp",
+    "colorPalette": [],
+    "styleTags": [],
+    "vibes": [],
+    "roomTypes": [],
+    "pairsWith": [],
+    "placementNotes": "",
+    "refImages": [
+      "01.jpg"
+    ],
+    "sourceFolder": "Floor-Lamps",
+    "images": [
+      "/images/floor-lamps/carved-wood-baluster-floor-lamp/01-white-bg-studio.png",
+      "/images/floor-lamps/carved-wood-baluster-floor-lamp/02-lifestyle-lights-on.png",
+      "/images/floor-lamps/carved-wood-baluster-floor-lamp/04-hero-70pct.png"
     ]
   }
 ]
