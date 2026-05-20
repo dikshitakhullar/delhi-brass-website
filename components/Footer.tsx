@@ -85,7 +85,7 @@ export default function Footer() {
           <h4 className="font-heading font-normal text-[#dcc99b] mb-6" style={{ fontSize: 13, letterSpacing: 4 }}>GET IN TOUCH</h4>
           <div className="space-y-3 text-[13px]">
             <p>
-              <a href="tel:+919810088181" className="text-[#f0e8dc] hover:text-[#dcc99b] transition-colors">+91 98100 88181</a>
+              <a href="tel:+919810088181" className="text-[#8a8070] hover:text-[#dcc99b] transition-colors">+91 98100 88181</a>
             </p>
             <p>
               <a href="tel:+919810005225" className="text-[#8a8070] hover:text-[#dcc99b] transition-colors">+91 98100 05225</a>
