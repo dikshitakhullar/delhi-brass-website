@@ -28,7 +28,7 @@ const benefits = [
 const workTypes = ["Residential", "Commercial", "Hospitality", "Mixed / Other"];
 
 export default function TradePage() {
-  const [form, setForm] = useState({ name: "", company: "", phone: "", city: "", workType: "", project: "" });
+  const [form, setForm] = useState({ name: "", company: "", phone: "", city: "", instagram: "", project: "" });
   const [submitted, setSubmitted] = useState(false);
   const update = (k: string, v: string) => setForm((p) => ({ ...p, [k]: v }));
 
@@ -137,11 +137,8 @@ export default function TradePage() {
                   </div>
                 </div>
                 <div>
-                  <label style={{ display: "block", fontSize: 11, letterSpacing: 2, color: "#8a7e6e", marginBottom: 6 }}>TYPE OF WORK</label>
-                  <select value={form.workType} onChange={(e) => update("workType", e.target.value)} style={{ ...inputStyle, appearance: "auto" }}>
-                    <option value="">Select</option>
-                    {workTypes.map((w) => <option key={w} value={w}>{w}</option>)}
-                  </select>
+                  <label style={{ display: "block", fontSize: 11, letterSpacing: 2, color: "#8a7e6e", marginBottom: 6 }}>INSTAGRAM HANDLE</label>
+                  <input type="text" value={form.instagram} onChange={(e) => update("instagram", e.target.value)} placeholder="@yourstudio" style={inputStyle} />
                 </div>
                 <div>
                   <label style={{ display: "block", fontSize: 11, letterSpacing: 2, color: "#8a7e6e", marginBottom: 6 }}>ABOUT YOUR CURRENT PROJECT</label>
