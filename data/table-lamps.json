@@ -1071,51 +1071,6 @@
     ]
   },
   {
-    "name": "Bronze Dancing Figures Table Lamp",
-    "slug": "bronze-dancing-figures-table-lamp",
-    "category": "table_lamp",
-    "sku": "DB-TL-024",
-    "material": [
-      "metal",
-      "fabric"
-    ],
-    "finish": "matte_black",
-    "size": "small",
-    "description": "An artistic sculptural table lamp with a base formed from three intertwined dancing human figures cast in dark matte bronze, evoking classical Indian or Art Nouveau sculpture. The figures reach upward to support the lamp fitting. A simple cream conical fabric shade keeps focus on the sculptural base. A unique collector's piece for those who value art as much as light.",
-    "colorPalette": [
-      "matte dark bronze",
-      "cream"
-    ],
-    "styleTags": [
-      "conical-shade",
-      "figurine-base",
-      "sculptural",
-      "bronze-cast",
-      "Art-Nouveau"
-    ],
-    "vibes": [
-      "Classical / Ornate",
-      "Bohemian",
-      "Modern Indian"
-    ],
-    "roomTypes": [
-      "study",
-      "formal_living",
-      "bar_area"
-    ],
-    "placementNotes": "Best displayed as a feature piece on a writing desk, bookshelf, or bar cabinet where the sculptural base can be appreciated close-up. Not for high-traffic surfaces.",
-    "refImages": [
-      "WhatsApp Image 2026-05-14 at 15.09.54 (2).jpeg"
-    ],
-    "sourceFolder": "table-lamps",
-    "id": "24",
-    "images": [
-      "https://ik.imagekit.io/delhibrass/table-lamps/bronze-dancing-figures-table-lamp/01-white-bg-studio.png",
-      "https://ik.imagekit.io/delhibrass/table-lamps/bronze-dancing-figures-table-lamp/02-lifestyle-lights-on.png",
-      "https://ik.imagekit.io/delhibrass/table-lamps/bronze-dancing-figures-table-lamp/04-hero-70pct.png"
-    ]
-  },
-  {
     "name": "Brushed Gold Cylinder Table Lamp",
     "slug": "brushed-gold-cylinder-table-lamp",
     "category": "table_lamp",
@@ -1154,7 +1109,7 @@
       "WhatsApp Image 2026-05-14 at 15.09.54 (3).jpeg"
     ],
     "sourceFolder": "table-lamps",
-    "id": "25",
+    "id": "24",
     "images": [
       "https://ik.imagekit.io/delhibrass/table-lamps/brushed-gold-cylinder-table-lamp/01-white-bg-studio.png",
       "https://ik.imagekit.io/delhibrass/table-lamps/brushed-gold-cylinder-table-lamp/02-lifestyle-lights-on.png",
@@ -1202,7 +1157,7 @@
       "WhatsApp Image 2026-05-14 at 15.09.54.jpeg"
     ],
     "sourceFolder": "table-lamps",
-    "id": "26",
+    "id": "25",
     "images": [
       "https://ik.imagekit.io/delhibrass/table-lamps/honeycomb-ceramic-urn-table-lamp/01-white-bg-studio.png",
       "https://ik.imagekit.io/delhibrass/table-lamps/honeycomb-ceramic-urn-table-lamp/02-lifestyle-lights-on.png",
@@ -1210,8 +1165,8 @@
     ]
   },
   {
-    "name": "Dancing Figures Table Lamp (Large)",
-    "slug": "dancing-figures-table-lamp-large",
+    "name": "Dancing Figures Table Lamp",
+    "slug": "dancing-figures-table-lamp",
     "category": "table_lamp",
     "sku": "DB-TL-027",
     "material": [
@@ -1252,11 +1207,12 @@
       "IMG_6496.HEIC"
     ],
     "sourceFolder": "new_products",
-    "id": "27",
+    "id": "26",
     "images": [
-      "https://ik.imagekit.io/delhibrass/table-lamps/dancing-figures-table-lamp-large/01-white-bg-studio.png",
-      "https://ik.imagekit.io/delhibrass/table-lamps/dancing-figures-table-lamp-large/02-lifestyle-lights-on.png",
-      "https://ik.imagekit.io/delhibrass/table-lamps/dancing-figures-table-lamp-large/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/dancing-figures-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/dancing-figures-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/dancing-figures-table-lamp/02b-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/dancing-figures-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -1303,7 +1259,7 @@
       "IMG_6504.HEIC"
     ],
     "sourceFolder": "new_products",
-    "id": "28",
+    "id": "27",
     "images": [
       "https://ik.imagekit.io/delhibrass/table-lamps/onyx-egg-table-lamp/01-white-bg-studio.png",
       "https://ik.imagekit.io/delhibrass/table-lamps/onyx-egg-table-lamp/02-lifestyle-lights-on.png",
@@ -1311,7 +1267,7 @@
     ]
   },
   {
-    "id": "29",
+    "id": "28",
     "name": "Stone Pebble Drum Table Lamp",
     "slug": "stone-pebble-drum-table-lamp",
     "category": "table_lamp",
@@ -1372,7 +1328,7 @@
     "finish": "brushed",
     "size": "large",
     "description": "Tall silver metal cylinder base with fine woven mesh/chainmail-like texture, brushed steel disc base, dark charcoal/black drum shade. Contemporary industrial elegance.",
-    "id": "30",
+    "id": "29",
     "category": "table_lamp",
     "sku": "DB-TL-030",
     "colorPalette": [],
@@ -1400,7 +1356,7 @@
     "finish": "brushed",
     "size": "large",
     "description": "Wide silver cylinder base with bold vertical corrugated/pleated texture on a brushed steel disc. White linen drum shade. Modern sculptural form.",
-    "id": "31",
+    "id": "30",
     "category": "table_lamp",
     "sku": "DB-TL-031",
     "colorPalette": [],
@@ -1429,7 +1385,7 @@
     "finish": "polished",
     "size": "large",
     "description": "Large clear glass urn/globe base with a visible brass rod through the centre, on a polished brass disc foot. Dark charcoal drum shade. Transparent and airy.",
-    "id": "32",
+    "id": "31",
     "category": "table_lamp",
     "sku": "DB-TL-032",
     "colorPalette": [],
@@ -1458,7 +1414,7 @@
     "finish": "antique",
     "size": "medium",
     "description": "Flattened pot-shaped hammered glass base in smoked amber/champagne tone with honeycomb dimpled texture, brass ring cradle. Cream pleated empire shade.",
-    "id": "33",
+    "id": "32",
     "category": "table_lamp",
     "sku": "DB-TL-033",
     "colorPalette": [],
@@ -1487,7 +1443,7 @@
     "finish": "polished",
     "size": "medium",
     "description": "Polished dark wood sphere base with a decorative brass filigree band around the equator, on a square wooden pedestal. Cream pleated empire shade. Delhi Brass branded.",
-    "id": "34",
+    "id": "33",
     "category": "table_lamp",
     "sku": "DB-TL-034",
     "colorPalette": [],
@@ -1516,7 +1472,7 @@
     "finish": "matte",
     "size": "large",
     "description": "Geometric table lamp with two rows of wooden diamond blocks separated by chrome balls on parallel metal rods, square wooden base. Cream rectangular drum shade. Contemporary sculptural.",
-    "id": "35",
+    "id": "34",
     "category": "table_lamp",
     "sku": "DB-TL-035",
     "colorPalette": [],
@@ -1545,7 +1501,7 @@
     "finish": "polished",
     "size": "medium",
     "description": "Dark rosewood fluted urn base with a polished brass ring at the base. Cream pleated empire shade. Classical Indian craftsmanship.",
-    "id": "36",
+    "id": "35",
     "category": "table_lamp",
     "sku": "DB-TL-036",
     "colorPalette": [],
@@ -1574,7 +1530,7 @@
     "finish": "matte_black",
     "size": "large",
     "description": "Rectangular box-shaped base with dark iron filigree frame filled with crystal florets and beads. Cream pleated empire shade. Also available with plum/purple shade. Ornate and glamorous.",
-    "id": "37",
+    "id": "36",
     "category": "table_lamp",
     "sku": "DB-TL-037",
     "colorPalette": [],
@@ -1603,7 +1559,7 @@
     "finish": "polished",
     "size": "medium",
     "description": "Glossy black ceramic torpedo/bullet-shaped base with polished brass accents at neck and foot, on a square brass pedestal. Dark drum shade with gold trim. Sleek Art Deco.",
-    "id": "38",
+    "id": "37",
     "category": "table_lamp",
     "sku": "DB-TL-038",
     "colorPalette": [],
@@ -1631,7 +1587,7 @@
     "finish": "polished",
     "size": "large",
     "description": "Polished silver double-gourd/pumpkin shaped base with deep vertical ribbing. Cream pleated empire shade. Bold sculptural silhouette.",
-    "id": "39",
+    "id": "38",
     "category": "table_lamp",
     "sku": "DB-TL-039",
     "colorPalette": [],
@@ -1650,7 +1606,7 @@
     ]
   },
   {
-    "id": "40",
+    "id": "39",
     "name": "Iron Scroll Table Lamp",
     "slug": "iron-scroll-table-lamp",
     "category": "table_lamp",
@@ -1700,7 +1656,7 @@
     ]
   },
   {
-    "id": "41",
+    "id": "40",
     "name": "Iron Vine Burlap Table Lamp",
     "slug": "iron-vine-burlap-table-lamp",
     "category": "table_lamp",
