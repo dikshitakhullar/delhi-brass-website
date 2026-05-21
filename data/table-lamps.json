@@ -42,9 +42,9 @@
     "sourceFolder": "table-lamps",
     "id": "1",
     "images": [
-      "/images/table-lamps/cut-crystal-chandelier-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/cut-crystal-chandelier-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/cut-crystal-chandelier-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/cut-crystal-chandelier-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/cut-crystal-chandelier-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/cut-crystal-chandelier-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -88,9 +88,9 @@
     "sourceFolder": "table-lamps",
     "id": "2",
     "images": [
-      "/images/table-lamps/ceramic-sphere-floral-drum-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/ceramic-sphere-floral-drum-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/ceramic-sphere-floral-drum-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/ceramic-sphere-floral-drum-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/ceramic-sphere-floral-drum-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/ceramic-sphere-floral-drum-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -134,9 +134,9 @@
     "sourceFolder": "table-lamps",
     "id": "3",
     "images": [
-      "/images/table-lamps/purple-glass-urn-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/purple-glass-urn-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/purple-glass-urn-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/purple-glass-urn-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/purple-glass-urn-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/purple-glass-urn-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -180,9 +180,9 @@
     "sourceFolder": "table-lamps",
     "id": "4",
     "images": [
-      "/images/table-lamps/smoked-glass-disc-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/smoked-glass-disc-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/smoked-glass-disc-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/smoked-glass-disc-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/smoked-glass-disc-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/smoked-glass-disc-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -226,9 +226,9 @@
     "sourceFolder": "table-lamps",
     "id": "5",
     "images": [
-      "/images/table-lamps/moroccan-filigree-brass-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/moroccan-filigree-brass-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/moroccan-filigree-brass-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/moroccan-filigree-brass-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/moroccan-filigree-brass-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/moroccan-filigree-brass-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -270,9 +270,9 @@
     "sourceFolder": "table-lamps",
     "id": "6",
     "images": [
-      "/images/table-lamps/hammered-brass-cylinder-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/hammered-brass-cylinder-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/hammered-brass-cylinder-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/hammered-brass-cylinder-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/hammered-brass-cylinder-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/hammered-brass-cylinder-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -315,9 +315,9 @@
     "sourceFolder": "table-lamps",
     "id": "7",
     "images": [
-      "/images/table-lamps/carved-wood-urn-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/carved-wood-urn-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/carved-wood-urn-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/carved-wood-urn-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/carved-wood-urn-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/carved-wood-urn-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -360,9 +360,9 @@
     "sourceFolder": "table-lamps",
     "id": "8",
     "images": [
-      "/images/table-lamps/hammered-brass-oval-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/hammered-brass-oval-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/hammered-brass-oval-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/hammered-brass-oval-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/hammered-brass-oval-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/hammered-brass-oval-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -411,9 +411,9 @@
     "sourceFolder": "table-lamps",
     "id": "9",
     "images": [
-      "/images/table-lamps/brass-candelabra-bouillotte-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/brass-candelabra-bouillotte-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/brass-candelabra-bouillotte-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/brass-candelabra-bouillotte-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/brass-candelabra-bouillotte-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/brass-candelabra-bouillotte-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -456,9 +456,9 @@
     "sourceFolder": "table-lamps",
     "id": "10",
     "images": [
-      "/images/table-lamps/repousse-silver-surahi-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/repousse-silver-surahi-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/repousse-silver-surahi-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/repousse-silver-surahi-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/repousse-silver-surahi-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/repousse-silver-surahi-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -502,9 +502,9 @@
     "sourceFolder": "table-lamps",
     "id": "11",
     "images": [
-      "/images/table-lamps/carved-elephant-temple-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/carved-elephant-temple-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/carved-elephant-temple-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/carved-elephant-temple-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/carved-elephant-temple-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/carved-elephant-temple-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -551,9 +551,9 @@
     "sourceFolder": "table-lamps",
     "id": "12",
     "images": [
-      "/images/table-lamps/crystal-column-corinthian-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/crystal-column-corinthian-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/crystal-column-corinthian-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/crystal-column-corinthian-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/crystal-column-corinthian-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/crystal-column-corinthian-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -598,9 +598,9 @@
     "sourceFolder": "table-lamps",
     "id": "13",
     "images": [
-      "/images/table-lamps/clear-globe-glass-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/clear-globe-glass-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/clear-globe-glass-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/clear-globe-glass-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/clear-globe-glass-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/clear-globe-glass-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -645,9 +645,9 @@
     "sourceFolder": "table-lamps",
     "id": "14",
     "images": [
-      "/images/table-lamps/hammered-glass-sphere-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/hammered-glass-sphere-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/hammered-glass-sphere-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/hammered-glass-sphere-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/hammered-glass-sphere-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/hammered-glass-sphere-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -689,9 +689,9 @@
     "sourceFolder": "table-lamps",
     "id": "15",
     "images": [
-      "/images/table-lamps/hammered-brass-grand-urn-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/hammered-brass-grand-urn-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/hammered-brass-grand-urn-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/hammered-brass-grand-urn-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/hammered-brass-grand-urn-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/hammered-brass-grand-urn-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -736,9 +736,9 @@
     "sourceFolder": "table-lamps",
     "id": "16",
     "images": [
-      "/images/table-lamps/cement-texture-urn-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/cement-texture-urn-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/cement-texture-urn-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/cement-texture-urn-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/cement-texture-urn-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/cement-texture-urn-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -783,9 +783,9 @@
     "sourceFolder": "table-lamps",
     "id": "17",
     "images": [
-      "/images/table-lamps/ribbed-sand-ceramic-urn-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/ribbed-sand-ceramic-urn-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/ribbed-sand-ceramic-urn-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/ribbed-sand-ceramic-urn-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/ribbed-sand-ceramic-urn-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/ribbed-sand-ceramic-urn-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -830,9 +830,9 @@
     "sourceFolder": "table-lamps",
     "id": "18",
     "images": [
-      "/images/table-lamps/chalk-white-plaster-urn-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/chalk-white-plaster-urn-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/chalk-white-plaster-urn-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/chalk-white-plaster-urn-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/chalk-white-plaster-urn-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/chalk-white-plaster-urn-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -875,9 +875,9 @@
     "sourceFolder": "table-lamps",
     "id": "19",
     "images": [
-      "/images/table-lamps/turned-wood-sphere-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/turned-wood-sphere-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/turned-wood-sphere-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/turned-wood-sphere-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/turned-wood-sphere-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/turned-wood-sphere-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -922,9 +922,9 @@
     "sourceFolder": "table-lamps",
     "id": "20",
     "images": [
-      "/images/table-lamps/ribbed-amber-glass-urn-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/ribbed-amber-glass-urn-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/ribbed-amber-glass-urn-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/ribbed-amber-glass-urn-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/ribbed-amber-glass-urn-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/ribbed-amber-glass-urn-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -970,9 +970,9 @@
     "sourceFolder": "table-lamps",
     "id": "21",
     "images": [
-      "/images/table-lamps/brushed-silver-cylinder-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/brushed-silver-cylinder-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/brushed-silver-cylinder-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/brushed-silver-cylinder-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/brushed-silver-cylinder-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/brushed-silver-cylinder-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -1018,9 +1018,9 @@
     "sourceFolder": "table-lamps",
     "id": "22",
     "images": [
-      "/images/table-lamps/teal-pebble-texture-cylinder-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/teal-pebble-texture-cylinder-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/teal-pebble-texture-cylinder-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/teal-pebble-texture-cylinder-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/teal-pebble-texture-cylinder-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/teal-pebble-texture-cylinder-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -1065,9 +1065,9 @@
     "sourceFolder": "table-lamps",
     "id": "23",
     "images": [
-      "/images/table-lamps/fossil-texture-urn-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/fossil-texture-urn-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/fossil-texture-urn-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/fossil-texture-urn-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/fossil-texture-urn-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/fossil-texture-urn-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -1110,9 +1110,9 @@
     "sourceFolder": "table-lamps",
     "id": "24",
     "images": [
-      "/images/table-lamps/bronze-dancing-figures-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/bronze-dancing-figures-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/bronze-dancing-figures-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/bronze-dancing-figures-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/bronze-dancing-figures-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/bronze-dancing-figures-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -1156,9 +1156,9 @@
     "sourceFolder": "table-lamps",
     "id": "25",
     "images": [
-      "/images/table-lamps/brushed-gold-cylinder-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/brushed-gold-cylinder-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/brushed-gold-cylinder-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/brushed-gold-cylinder-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/brushed-gold-cylinder-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/brushed-gold-cylinder-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -1204,9 +1204,9 @@
     "sourceFolder": "table-lamps",
     "id": "26",
     "images": [
-      "/images/table-lamps/honeycomb-ceramic-urn-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/honeycomb-ceramic-urn-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/honeycomb-ceramic-urn-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/honeycomb-ceramic-urn-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/honeycomb-ceramic-urn-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/honeycomb-ceramic-urn-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -1254,9 +1254,9 @@
     "sourceFolder": "new_products",
     "id": "27",
     "images": [
-      "/images/table-lamps/dancing-figures-table-lamp-large/01-white-bg-studio.png",
-      "/images/table-lamps/dancing-figures-table-lamp-large/02-lifestyle-lights-on.png",
-      "/images/table-lamps/dancing-figures-table-lamp-large/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/dancing-figures-table-lamp-large/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/dancing-figures-table-lamp-large/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/dancing-figures-table-lamp-large/04-hero-70pct.png"
     ]
   },
   {
@@ -1305,9 +1305,9 @@
     "sourceFolder": "new_products",
     "id": "28",
     "images": [
-      "/images/table-lamps/onyx-egg-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/onyx-egg-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/onyx-egg-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/onyx-egg-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/onyx-egg-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/onyx-egg-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -1357,9 +1357,9 @@
     ],
     "sourceFolder": "table-lamps",
     "images": [
-      "/images/table-lamps/stone-pebble-drum-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/stone-pebble-drum-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/stone-pebble-drum-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/stone-pebble-drum-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/stone-pebble-drum-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/stone-pebble-drum-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -1385,9 +1385,9 @@
     ],
     "sourceFolder": "delhi-brass-root",
     "images": [
-      "/images/table-lamps/ribbed-silver-cylinder-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/ribbed-silver-cylinder-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/ribbed-silver-cylinder-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/ribbed-silver-cylinder-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/ribbed-silver-cylinder-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/ribbed-silver-cylinder-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -1413,9 +1413,9 @@
     ],
     "sourceFolder": "delhi-brass-root",
     "images": [
-      "/images/table-lamps/corrugated-silver-cylinder-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/corrugated-silver-cylinder-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/corrugated-silver-cylinder-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/corrugated-silver-cylinder-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/corrugated-silver-cylinder-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/corrugated-silver-cylinder-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -1442,9 +1442,9 @@
     ],
     "sourceFolder": "delhi-brass-root",
     "images": [
-      "/images/table-lamps/clear-glass-urn-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/clear-glass-urn-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/clear-glass-urn-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/clear-glass-urn-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/clear-glass-urn-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/clear-glass-urn-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -1471,9 +1471,9 @@
     ],
     "sourceFolder": "delhi-brass-root",
     "images": [
-      "/images/table-lamps/hammered-glass-pot-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/hammered-glass-pot-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/hammered-glass-pot-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/hammered-glass-pot-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/hammered-glass-pot-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/hammered-glass-pot-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -1500,9 +1500,9 @@
     ],
     "sourceFolder": "delhi-brass-root",
     "images": [
-      "/images/table-lamps/wood-filigree-sphere-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/wood-filigree-sphere-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/wood-filigree-sphere-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/wood-filigree-sphere-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/wood-filigree-sphere-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/wood-filigree-sphere-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -1529,9 +1529,9 @@
     ],
     "sourceFolder": "delhi-brass-root",
     "images": [
-      "/images/table-lamps/wood-abacus-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/wood-abacus-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/wood-abacus-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/wood-abacus-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/wood-abacus-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/wood-abacus-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -1558,9 +1558,9 @@
     ],
     "sourceFolder": "delhi-brass-root",
     "images": [
-      "/images/table-lamps/rosewood-fluted-urn-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/rosewood-fluted-urn-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/rosewood-fluted-urn-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/rosewood-fluted-urn-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/rosewood-fluted-urn-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/rosewood-fluted-urn-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -1587,9 +1587,9 @@
     ],
     "sourceFolder": "delhi-brass-root",
     "images": [
-      "/images/table-lamps/crystal-filigree-box-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/crystal-filigree-box-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/crystal-filigree-box-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/crystal-filigree-box-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/crystal-filigree-box-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/crystal-filigree-box-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -1616,9 +1616,9 @@
     ],
     "sourceFolder": "delhi-brass-root",
     "images": [
-      "/images/table-lamps/black-ceramic-torpedo-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/black-ceramic-torpedo-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/black-ceramic-torpedo-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/black-ceramic-torpedo-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/black-ceramic-torpedo-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/black-ceramic-torpedo-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -1644,9 +1644,9 @@
     ],
     "sourceFolder": "delhi-brass-root",
     "images": [
-      "/images/table-lamps/silver-ribbed-gourd-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/silver-ribbed-gourd-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/silver-ribbed-gourd-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/silver-ribbed-gourd-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/silver-ribbed-gourd-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/silver-ribbed-gourd-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -1694,9 +1694,9 @@
     ],
     "sourceFolder": "table-lamps",
     "images": [
-      "/images/table-lamps/iron-scroll-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/iron-scroll-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/iron-scroll-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/iron-scroll-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/iron-scroll-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/iron-scroll-table-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -1743,9 +1743,9 @@
     ],
     "sourceFolder": "new_products",
     "images": [
-      "/images/table-lamps/iron-vine-burlap-table-lamp/01-white-bg-studio.png",
-      "/images/table-lamps/iron-vine-burlap-table-lamp/02-lifestyle-lights-on.png",
-      "/images/table-lamps/iron-vine-burlap-table-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/table-lamps/iron-vine-burlap-table-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/iron-vine-burlap-table-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/table-lamps/iron-vine-burlap-table-lamp/04-hero-70pct.png"
     ]
   }
 ]

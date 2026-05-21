@@ -45,9 +45,9 @@
     ],
     "sourceFolder": "new_products",
     "images": [
-      "/images/floor-lamps/crystal-candelabra-floor-lamp/01-white-bg-studio.png",
-      "/images/floor-lamps/crystal-candelabra-floor-lamp/02-lifestyle-lights-on.png",
-      "/images/floor-lamps/crystal-candelabra-floor-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/floor-lamps/crystal-candelabra-floor-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/floor-lamps/crystal-candelabra-floor-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/floor-lamps/crystal-candelabra-floor-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -95,9 +95,9 @@
     ],
     "sourceFolder": "new_products",
     "images": [
-      "/images/floor-lamps/iron-scroll-floor-lamp/01-white-bg-studio.png",
-      "/images/floor-lamps/iron-scroll-floor-lamp/02-lifestyle-lights-on.png",
-      "/images/floor-lamps/iron-scroll-floor-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/floor-lamps/iron-scroll-floor-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/floor-lamps/iron-scroll-floor-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/floor-lamps/iron-scroll-floor-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -145,9 +145,9 @@
     ],
     "sourceFolder": "new_products",
     "images": [
-      "/images/floor-lamps/twin-rod-floor-lamp/01-white-bg-studio.png",
-      "/images/floor-lamps/twin-rod-floor-lamp/02-lifestyle-lights-on.png",
-      "/images/floor-lamps/twin-rod-floor-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/floor-lamps/twin-rod-floor-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/floor-lamps/twin-rod-floor-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/floor-lamps/twin-rod-floor-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -195,9 +195,9 @@
     ],
     "sourceFolder": "loose",
     "images": [
-      "/images/floor-lamps/tripod-drum-floor-lamp/01-white-bg-studio.png",
-      "/images/floor-lamps/tripod-drum-floor-lamp/02-lifestyle-lights-on.png",
-      "/images/floor-lamps/tripod-drum-floor-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/floor-lamps/tripod-drum-floor-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/floor-lamps/tripod-drum-floor-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/floor-lamps/tripod-drum-floor-lamp/04-hero-70pct.png"
     ]
   },
   {
@@ -248,9 +248,9 @@
     "sourceFolder": "new_products",
     "id": "5",
     "images": [
-      "/images/floor-lamps/carved-wood-column-floor-lamp/01-white-bg-studio.png",
-      "/images/floor-lamps/carved-wood-column-floor-lamp/02-lifestyle-lights-on.png",
-      "/images/floor-lamps/carved-wood-column-floor-lamp/03-hero.png"
+      "https://ik.imagekit.io/delhibrass/floor-lamps/carved-wood-column-floor-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/floor-lamps/carved-wood-column-floor-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/floor-lamps/carved-wood-column-floor-lamp/03-hero.png"
     ]
   },
   {
@@ -278,9 +278,9 @@
     ],
     "sourceFolder": "Floor-Lamps",
     "images": [
-      "/images/floor-lamps/carved-wood-column-floor-lamp-short/01-white-bg-studio.png",
-      "/images/floor-lamps/carved-wood-column-floor-lamp-short/02-lifestyle-lights-on.png",
-      "/images/floor-lamps/carved-wood-column-floor-lamp-short/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/floor-lamps/carved-wood-column-floor-lamp-short/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/floor-lamps/carved-wood-column-floor-lamp-short/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/floor-lamps/carved-wood-column-floor-lamp-short/04-hero-70pct.png"
     ]
   },
   {
@@ -307,9 +307,9 @@
     ],
     "sourceFolder": "Floor-Lamps",
     "images": [
-      "/images/floor-lamps/carved-wood-baluster-floor-lamp/01-white-bg-studio.png",
-      "/images/floor-lamps/carved-wood-baluster-floor-lamp/02-lifestyle-lights-on.png",
-      "/images/floor-lamps/carved-wood-baluster-floor-lamp/04-hero-70pct.png"
+      "https://ik.imagekit.io/delhibrass/floor-lamps/carved-wood-baluster-floor-lamp/01-white-bg-studio.png",
+      "https://ik.imagekit.io/delhibrass/floor-lamps/carved-wood-baluster-floor-lamp/02-lifestyle-lights-on.png",
+      "https://ik.imagekit.io/delhibrass/floor-lamps/carved-wood-baluster-floor-lamp/04-hero-70pct.png"
     ]
   }
 ]
